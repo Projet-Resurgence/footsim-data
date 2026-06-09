@@ -1,0 +1,725 @@
+{
+  "id": "c6cc9cc4-3cba-447d-8716-759f483aea2f",
+  "playedAt": "2026-06-09T09:45:47.263Z",
+  "speed": "5",
+  "home": {
+    "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+    "teamSlug": "empire-hussein",
+    "teamName": "Empire Hussein",
+    "formation": "4-3-3",
+    "lineup": [
+      "51cf728a-e491-43fc-bfdb-2889ba84463d",
+      "7878161f-2d11-4ca8-9371-9a383d0a69db",
+      "118f6d92-c868-4d1e-949b-1ac5a7250e59",
+      "17ddb492-fc0b-4531-b55b-948928f486d3",
+      "58965e1c-3859-44f8-a3c0-ed3dc23f8779",
+      "67098aed-5756-4d82-b351-49fc39c99fdf",
+      "bab4f71a-e2a3-46c2-aa34-ee56f3ef2f95",
+      "6a59fce6-da25-4cd8-8a7d-bbbef8c64f1f",
+      "e6a585a6-84c5-4097-9358-c0d677ddd70f",
+      "b725552f-cffe-445f-80da-7b684ca9eed9",
+      "483d4905-452e-4786-b8b9-cf3c997494e3"
+    ],
+    "score": 1,
+    "shots": 6,
+    "shotsOnTarget": 3,
+    "fouls": 5,
+    "yellows": [],
+    "reds": [],
+    "possession": 51
+  },
+  "away": {
+    "teamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+    "teamSlug": "fclc",
+    "teamName": "FCLC",
+    "formation": "4-3-2-1",
+    "lineup": [
+      "2495dbfd-b6c9-4f52-9f81-a4d0a0ae4516",
+      "515d18a4-6190-44b8-b402-9091c6fd4e7f",
+      "f7316f69-a58e-4178-94a8-4ed4f00d4757",
+      "d2fb304f-c2d2-4081-a61a-c098ba0f78d2",
+      "34913eb7-c685-47f4-9276-331f470037f2",
+      "7df52e8f-e721-4741-bab7-cb348e9dcc68",
+      "91b0167e-1771-4af2-839c-8a5f82bd1274",
+      "0cbaa27d-847a-4a18-9e4b-bf5826d12adf",
+      "1e3a0a8c-ae55-480c-a424-3d472cbdd381",
+      "07c3f9ca-f46a-4d28-a059-6dc2e307d4ea",
+      "892948fc-f22f-48f4-b6af-6ebeaa6db607"
+    ],
+    "score": 1,
+    "shots": 6,
+    "shotsOnTarget": 3,
+    "fouls": 2,
+    "yellows": [],
+    "reds": [],
+    "possession": 49
+  },
+  "events": [
+    {
+      "id": 1,
+      "minute": 1,
+      "half": 1,
+      "text": "1' — Coup d'envoi.",
+      "type": "kickoff",
+      "side": null,
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 2,
+      "minute": 2,
+      "half": 1,
+      "text": "2' — Faute de Faisal El-Amrani.",
+      "type": "foul",
+      "side": "home",
+      "playerId": "7878161f-2d11-4ca8-9371-9a383d0a69db",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 3,
+      "minute": 6,
+      "half": 1,
+      "text": "6' — Faute de Faisal El-Amrani.",
+      "type": "foul",
+      "side": "home",
+      "playerId": "7878161f-2d11-4ca8-9371-9a383d0a69db",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 4,
+      "minute": 8,
+      "half": 1,
+      "text": "8' — Passe décisive de Gabriel Ortega.",
+      "type": "keyPass",
+      "side": "away",
+      "playerId": "1e3a0a8c-ae55-480c-a424-3d472cbdd381",
+      "ballPos": {
+        "x": 60,
+        "y": 25
+      }
+    },
+    {
+      "id": 5,
+      "minute": 9,
+      "half": 1,
+      "text": "9' — Passe décisive de Iván Gil.",
+      "type": "keyPass",
+      "side": "away",
+      "playerId": "892948fc-f22f-48f4-b6af-6ebeaa6db607",
+      "ballPos": {
+        "x": 60,
+        "y": 25
+      }
+    },
+    {
+      "id": 6,
+      "minute": 12,
+      "half": 1,
+      "text": "12' — Passe décisive de Gabriel Ortega.",
+      "type": "keyPass",
+      "side": "away",
+      "playerId": "1e3a0a8c-ae55-480c-a424-3d472cbdd381",
+      "ballPos": {
+        "x": 60,
+        "y": 25
+      }
+    },
+    {
+      "id": 7,
+      "minute": 14,
+      "half": 1,
+      "text": "14' — Dribble réussi de Jihad El-Saadi !",
+      "type": "dribble",
+      "side": "home",
+      "playerId": "e6a585a6-84c5-4097-9358-c0d677ddd70f",
+      "ballPos": {
+        "x": 20,
+        "y": 25
+      }
+    },
+    {
+      "id": 8,
+      "minute": 17,
+      "half": 1,
+      "text": "17' — Tir non cadré de Iyad Hammoud.",
+      "type": "shot",
+      "side": "home",
+      "playerId": "bab4f71a-e2a3-46c2-aa34-ee56f3ef2f95",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 9,
+      "minute": 19,
+      "half": 1,
+      "text": "19' — Tir non cadré de Nicolás Díaz.",
+      "type": "shot",
+      "side": "away",
+      "playerId": "7df52e8f-e721-4741-bab7-cb348e9dcc68",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 10,
+      "minute": 21,
+      "half": 1,
+      "text": "21' — Hors-jeu signalé contre FCLC.",
+      "type": "offside",
+      "side": "away",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 11,
+      "minute": 22,
+      "half": 1,
+      "text": "22' — Passe décisive de Eduardo Calvo.",
+      "type": "keyPass",
+      "side": "away",
+      "playerId": "903ec461-2eb8-440f-bdfd-229bf9be85ed",
+      "ballPos": {
+        "x": 60,
+        "y": 25
+      }
+    },
+    {
+      "id": 12,
+      "minute": 24,
+      "half": 1,
+      "text": "24' — Dégagement in extremis de Faisal El-Amrani.",
+      "type": "clearance",
+      "side": "home",
+      "playerId": "7878161f-2d11-4ca8-9371-9a383d0a69db",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 13,
+      "minute": 27,
+      "half": 1,
+      "text": "27' — Corner pour Empire Hussein.",
+      "type": "corner",
+      "side": "home",
+      "ballPos": {
+        "x": 100,
+        "y": 50
+      }
+    },
+    {
+      "id": 14,
+      "minute": 31,
+      "half": 1,
+      "text": "31' — Corner pour FCLC.",
+      "type": "corner",
+      "side": "away",
+      "ballPos": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "id": 15,
+      "minute": 32,
+      "half": 1,
+      "text": "🧤 32' — Belle parade de Othmane Jabbari.",
+      "type": "save",
+      "side": "home",
+      "playerId": "51cf728a-e491-43fc-bfdb-2889ba84463d",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 16,
+      "minute": 35,
+      "half": 1,
+      "text": "35' — Coup franc dangereux pour FCLC (Nicolás Díaz).",
+      "type": "freeKick",
+      "side": "away",
+      "playerId": "7df52e8f-e721-4741-bab7-cb348e9dcc68",
+      "ballPos": {
+        "x": 80,
+        "y": 25
+      }
+    },
+    {
+      "id": 17,
+      "minute": 35,
+      "half": 1,
+      "text": "🧤 35' — Belle parade de Othmane Jabbari.",
+      "type": "save",
+      "side": "home",
+      "playerId": "51cf728a-e491-43fc-bfdb-2889ba84463d",
+      "ballPos": {
+        "x": 80,
+        "y": 25
+      }
+    },
+    {
+      "id": 18,
+      "minute": 38,
+      "half": 1,
+      "text": "38' — Faute de Ramón Ortiz.",
+      "type": "foul",
+      "side": "away",
+      "playerId": "2495dbfd-b6c9-4f52-9f81-a4d0a0ae4516",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 19,
+      "minute": 39,
+      "half": 1,
+      "text": "39' — Faute de Jad Khalifa.",
+      "type": "foul",
+      "side": "home",
+      "playerId": "118f6d92-c868-4d1e-949b-1ac5a7250e59",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 20,
+      "minute": 42,
+      "half": 1,
+      "text": "42' — Corner pour Empire Hussein.",
+      "type": "corner",
+      "side": "home",
+      "ballPos": {
+        "x": 100,
+        "y": 50
+      }
+    },
+    {
+      "id": 21,
+      "minute": 44,
+      "half": 1,
+      "text": "44' — Passe décisive de Walid Mehdi.",
+      "type": "keyPass",
+      "side": "home",
+      "playerId": "b725552f-cffe-445f-80da-7b684ca9eed9",
+      "ballPos": {
+        "x": 40,
+        "y": 25
+      }
+    },
+    {
+      "id": 22,
+      "minute": 45,
+      "half": 1,
+      "text": "45' — Coup franc dangereux pour FCLC (Gabriel Ortega).",
+      "type": "freeKick",
+      "side": "away",
+      "playerId": "1e3a0a8c-ae55-480c-a424-3d472cbdd381",
+      "ballPos": {
+        "x": 80,
+        "y": 25
+      }
+    },
+    {
+      "id": 23,
+      "minute": 47,
+      "half": 1,
+      "text": "47' — Corner pour FCLC.",
+      "type": "corner",
+      "side": "away",
+      "ballPos": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "id": 24,
+      "minute": 48,
+      "half": 1,
+      "text": "Mi-temps.",
+      "type": "halftime",
+      "side": null,
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 25,
+      "minute": 48,
+      "half": 1,
+      "text": "🔄 48' — Empire Hussein : Zied Mokhtari ↔ Othmane Mehdi.",
+      "type": "substitution",
+      "side": "home",
+      "playerId": "58965e1c-3859-44f8-a3c0-ed3dc23f8779",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 26,
+      "minute": 48,
+      "half": 1,
+      "text": "🔄 48' — Empire Hussein : Imad Qasim ↔ Amir Khoury.",
+      "type": "substitution",
+      "side": "home",
+      "playerId": "17ddb492-fc0b-4531-b55b-948928f486d3",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 27,
+      "minute": 48,
+      "half": 1,
+      "text": "🔄 48' — FCLC : Antonio Calvo ↔ Eduardo Calvo.",
+      "type": "substitution",
+      "side": "away",
+      "playerId": "0cbaa27d-847a-4a18-9e4b-bf5826d12adf",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 28,
+      "minute": 48,
+      "half": 1,
+      "text": "🔄 48' — FCLC : Adan Vidal ↔ Esteban Caballero.",
+      "type": "substitution",
+      "side": "away",
+      "playerId": "515d18a4-6190-44b8-b402-9091c6fd4e7f",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 29,
+      "minute": 48,
+      "half": 2,
+      "text": "48' — Tir non cadré de Ahmed Saad.",
+      "type": "shot",
+      "side": "home",
+      "playerId": "67098aed-5756-4d82-b351-49fc39c99fdf",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 30,
+      "minute": 51,
+      "half": 2,
+      "text": "51' — Faute de Ahmed Saad.",
+      "type": "foul",
+      "side": "home",
+      "playerId": "67098aed-5756-4d82-b351-49fc39c99fdf",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 31,
+      "minute": 52,
+      "half": 2,
+      "text": "52' — Tir non cadré de Iyad Hammoud.",
+      "type": "shot",
+      "side": "home",
+      "playerId": "bab4f71a-e2a3-46c2-aa34-ee56f3ef2f95",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 32,
+      "minute": 54,
+      "half": 2,
+      "text": "54' — Hors-jeu signalé contre FCLC.",
+      "type": "offside",
+      "side": "away",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 33,
+      "minute": 56,
+      "half": 2,
+      "text": "56' — Faute de Gabriel Ortega.",
+      "type": "foul",
+      "side": "away",
+      "playerId": "1e3a0a8c-ae55-480c-a424-3d472cbdd381",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 34,
+      "minute": 57,
+      "half": 2,
+      "text": "57' — Faute de Jad Khalifa.",
+      "type": "foul",
+      "side": "home",
+      "playerId": "118f6d92-c868-4d1e-949b-1ac5a7250e59",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 35,
+      "minute": 59,
+      "half": 2,
+      "text": "🧤 59' — Belle parade de Ramón Ortiz.",
+      "type": "save",
+      "side": "away",
+      "playerId": "2495dbfd-b6c9-4f52-9f81-a4d0a0ae4516",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 36,
+      "minute": 62,
+      "half": 2,
+      "text": "62' — Hors-jeu signalé contre Empire Hussein.",
+      "type": "offside",
+      "side": "home",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 37,
+      "minute": 63,
+      "half": 2,
+      "text": "63' — Coup franc dangereux pour FCLC (Gabriel Ortega).",
+      "type": "freeKick",
+      "side": "away",
+      "playerId": "1e3a0a8c-ae55-480c-a424-3d472cbdd381",
+      "ballPos": {
+        "x": 80,
+        "y": 25
+      }
+    },
+    {
+      "id": 38,
+      "minute": 63,
+      "half": 2,
+      "text": "63' — Tir non cadré de Iván Gil.",
+      "type": "shot",
+      "side": "away",
+      "playerId": "892948fc-f22f-48f4-b6af-6ebeaa6db607",
+      "ballPos": {
+        "x": 80,
+        "y": 25
+      }
+    },
+    {
+      "id": 39,
+      "minute": 67,
+      "half": 2,
+      "text": "67' — Dribble réussi de Ahmed Saad !",
+      "type": "dribble",
+      "side": "home",
+      "playerId": "67098aed-5756-4d82-b351-49fc39c99fdf",
+      "ballPos": {
+        "x": 20,
+        "y": 25
+      }
+    },
+    {
+      "id": 40,
+      "minute": 68,
+      "half": 2,
+      "text": "68' — Hors-jeu signalé contre FCLC.",
+      "type": "offside",
+      "side": "away",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 41,
+      "minute": 70,
+      "half": 2,
+      "text": "70' — Passe décisive de Walid Mehdi.",
+      "type": "keyPass",
+      "side": "home",
+      "playerId": "b725552f-cffe-445f-80da-7b684ca9eed9",
+      "ballPos": {
+        "x": 40,
+        "y": 25
+      }
+    },
+    {
+      "id": 42,
+      "minute": 80,
+      "half": 2,
+      "text": "⚽ 80' — But pour FCLC ! Gabriel Ortega marque.",
+      "type": "goal",
+      "side": "away",
+      "playerId": "1e3a0a8c-ae55-480c-a424-3d472cbdd381",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 43,
+      "minute": 82,
+      "half": 2,
+      "text": "🧤 82' — Belle parade de Ramón Ortiz.",
+      "type": "save",
+      "side": "away",
+      "playerId": "2495dbfd-b6c9-4f52-9f81-a4d0a0ae4516",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 44,
+      "minute": 83,
+      "half": 2,
+      "text": "83' — Corner pour Empire Hussein.",
+      "type": "corner",
+      "side": "home",
+      "ballPos": {
+        "x": 100,
+        "y": 50
+      }
+    },
+    {
+      "id": 45,
+      "minute": 83,
+      "half": 2,
+      "text": "83' — Coup de tête de Ahmed Saad.",
+      "type": "header",
+      "side": "home",
+      "playerId": "67098aed-5756-4d82-b351-49fc39c99fdf",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 46,
+      "minute": 85,
+      "half": 2,
+      "text": "85' — Hors-jeu signalé contre Empire Hussein.",
+      "type": "offside",
+      "side": "home",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 47,
+      "minute": 86,
+      "half": 2,
+      "text": "86' — Passe décisive de Walid Mehdi.",
+      "type": "keyPass",
+      "side": "home",
+      "playerId": "b725552f-cffe-445f-80da-7b684ca9eed9",
+      "ballPos": {
+        "x": 40,
+        "y": 25
+      }
+    },
+    {
+      "id": 48,
+      "minute": 91,
+      "half": 2,
+      "text": "⚽ 91' — But pour Empire Hussein ! Walid Mehdi marque.",
+      "type": "goal",
+      "side": "home",
+      "playerId": "b725552f-cffe-445f-80da-7b684ca9eed9",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 49,
+      "minute": 94,
+      "half": 2,
+      "text": "94' — Hors-jeu signalé contre FCLC.",
+      "type": "offside",
+      "side": "away",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 50,
+      "minute": 95,
+      "half": 2,
+      "text": "95' — Tir non cadré de Gabriel Ortega.",
+      "type": "shot",
+      "side": "away",
+      "playerId": "1e3a0a8c-ae55-480c-a424-3d472cbdd381",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 51,
+      "minute": 96,
+      "half": 2,
+      "text": "96' — Coup franc dangereux pour FCLC (Iván Gil).",
+      "type": "freeKick",
+      "side": "away",
+      "playerId": "892948fc-f22f-48f4-b6af-6ebeaa6db607",
+      "ballPos": {
+        "x": 80,
+        "y": 25
+      }
+    },
+    {
+      "id": 52,
+      "minute": 97,
+      "half": 2,
+      "text": "Fin du match.",
+      "type": "fulltime",
+      "side": null,
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    }
+  ],
+  "finalScore": {
+    "home": 1,
+    "away": 1
+  }
+}
