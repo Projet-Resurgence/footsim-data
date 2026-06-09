@@ -11,6 +11,15 @@
   "formation": "4-3-3",
   "recentMatches": [
     {
+      "matchId": "b547fe1e-8201-4c61-ac1d-12e5f554dec8",
+      "playedAt": "2026-06-09T09:42:14.143Z",
+      "opponentSlug": "empire-hussein",
+      "opponentName": "Empire Hussein",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 0
+    },
+    {
       "matchId": "comp-98jupyd4kermomzg5cy-w5f1fi2tmomzg5cz",
       "playedAt": "2026-05-01T14:03:36.048Z",
       "opponentSlug": "yamatai",
