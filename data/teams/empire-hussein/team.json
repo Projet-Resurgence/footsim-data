@@ -11,6 +11,15 @@
   "formation": "4-3-3",
   "recentMatches": [
     {
+      "matchId": "c6cc9cc4-3cba-447d-8716-759f483aea2f",
+      "playedAt": "2026-06-09T09:45:47.263Z",
+      "opponentSlug": "fclc",
+      "opponentName": "FCLC",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 1
+    },
+    {
       "matchId": "b547fe1e-8201-4c61-ac1d-12e5f554dec8",
       "playedAt": "2026-06-09T09:42:14.143Z",
       "opponentSlug": "fclc",
