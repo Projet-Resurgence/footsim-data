@@ -1,8 +1,8 @@
 [
   {
     "id": "f155a9ac-20cc-4fd4-b424-72a4b192899f",
-    "firstName": "Ahmed",
-    "lastName": "Soufi",
+    "firstName": "Emad",
+    "lastName": "Nasr",
     "age": 24,
     "position": "LB",
     "altPositions": [],
@@ -43,8 +43,8 @@
   },
   {
     "id": "807efe24-e950-481a-80b2-44113ee5dd8a",
-    "firstName": "Adel",
-    "lastName": "Rachidi",
+    "firstName": "Hassan",
+    "lastName": "Nasri",
     "age": 23,
     "position": "CB",
     "altPositions": [
@@ -87,8 +87,8 @@
   },
   {
     "id": "bdd8880f-206c-4d2e-a036-23c9b26e5b7f",
-    "firstName": "Zakaria",
-    "lastName": "Idrissi",
+    "firstName": "Mustafa",
+    "lastName": "El-Masri",
     "age": 21,
     "position": "ST",
     "altPositions": [],
@@ -129,8 +129,8 @@
   },
   {
     "id": "8e6cd63b-e7a6-4d85-b9e8-9a0f8da28c69",
-    "firstName": "Iyad",
-    "lastName": "Mostafa",
+    "firstName": "Tamer",
+    "lastName": "Kadry",
     "age": 30,
     "position": "ST",
     "altPositions": [],
@@ -171,8 +171,8 @@
   },
   {
     "id": "9989aa98-852e-4808-a0e5-ab56e46f3b69",
-    "firstName": "Chakib",
-    "lastName": "Nasri",
+    "firstName": "Alaa",
+    "lastName": "El-Khouly",
     "age": 35,
     "position": "AM",
     "altPositions": [
@@ -215,8 +215,8 @@
   },
   {
     "id": "3729a34b-5c04-45fc-8321-6ac49f32f1fd",
-    "firstName": "Ali",
-    "lastName": "Ali",
+    "firstName": "Mehdi",
+    "lastName": "Aboud",
     "age": 30,
     "position": "DM",
     "altPositions": [],
@@ -257,8 +257,8 @@
   },
   {
     "id": "e9a1ca24-e7ca-4d8f-934c-525e7d1fff33",
-    "firstName": "Mostafa",
-    "lastName": "Shukri",
+    "firstName": "Adnan",
+    "lastName": "Chahin",
     "age": 26,
     "position": "RM",
     "altPositions": [],
@@ -299,8 +299,8 @@
   },
   {
     "id": "7d34578f-1a87-4bc2-a73e-0ab5fcd64a5d",
-    "firstName": "Idris",
-    "lastName": "El-Hadj",
+    "firstName": "Zaki",
+    "lastName": "Ibrahim",
     "age": 20,
     "position": "RW",
     "altPositions": [
@@ -343,8 +343,8 @@
   },
   {
     "id": "c40c73c2-4a26-4fd1-a380-754e190a71b0",
-    "firstName": "Tamer",
-    "lastName": "Ibrahim",
+    "firstName": "Karrar",
+    "lastName": "Mohamed",
     "age": 36,
     "position": "ST",
     "altPositions": [
@@ -388,8 +388,8 @@
   },
   {
     "id": "47ea70d9-72d8-4cfc-875e-e9b9a9a4323a",
-    "firstName": "Chakib",
-    "lastName": "Salhi",
+    "firstName": "Omar",
+    "lastName": "Karimi",
     "age": 23,
     "position": "ST",
     "altPositions": [],
@@ -430,8 +430,8 @@
   },
   {
     "id": "ba7d2ca3-868e-480f-9b97-d3f44d550c33",
-    "firstName": "Ghassan",
-    "lastName": "Bouazizi",
+    "firstName": "Farouk",
+    "lastName": "Ghanem",
     "age": 28,
     "position": "GK",
     "altPositions": [],
@@ -479,8 +479,8 @@
   },
   {
     "id": "13b1de14-11fc-4554-af5d-6f4d4fcdde9c",
-    "firstName": "Hussein",
-    "lastName": "Nasser",
+    "firstName": "Amr",
+    "lastName": "Khalil",
     "age": 28,
     "position": "ST",
     "altPositions": [
@@ -524,8 +524,8 @@
   },
   {
     "id": "aac03e3d-48a7-4f0b-a6c3-8c418cf4262b",
-    "firstName": "Ahmed",
-    "lastName": "Idrissi",
+    "firstName": "Faisal",
+    "lastName": "Sanhouri",
     "age": 24,
     "position": "LW",
     "altPositions": [],
@@ -566,8 +566,8 @@
   },
   {
     "id": "d9130f3c-0815-447d-a2c7-f0f49c0d5b56",
-    "firstName": "Zakaria",
-    "lastName": "Khalifa",
+    "firstName": "Badr",
+    "lastName": "Saad",
     "age": 25,
     "position": "GK",
     "altPositions": [],
@@ -615,8 +615,8 @@
   },
   {
     "id": "ed7ba2f6-1ce7-4401-84f2-9a10773766df",
-    "firstName": "Reda",
-    "lastName": "Nasri",
+    "firstName": "Adil",
+    "lastName": "Hassani",
     "age": 31,
     "position": "RM",
     "altPositions": [],
@@ -657,8 +657,8 @@
   },
   {
     "id": "c7ee88c3-56d0-47d2-bb2a-8c4cff714cfd",
-    "firstName": "Ahmed",
-    "lastName": "Khalil",
+    "firstName": "Samir",
+    "lastName": "El-Shafei",
     "age": 21,
     "position": "RW",
     "altPositions": [
@@ -701,8 +701,8 @@
   },
   {
     "id": "3af34210-9492-47e6-9e4c-7c946a134f5b",
-    "firstName": "Marwan",
-    "lastName": "Rahmani",
+    "firstName": "Zahran",
+    "lastName": "El-Shafei",
     "age": 33,
     "position": "DM",
     "altPositions": [],
@@ -743,8 +743,8 @@
   },
   {
     "id": "bfa6b1b9-79c5-49ab-9d12-d89ff21998d9",
-    "firstName": "Zied",
-    "lastName": "Sleiman",
+    "firstName": "Nassim",
+    "lastName": "Zidane",
     "age": 19,
     "position": "DM",
     "altPositions": [],
@@ -785,8 +785,8 @@
   },
   {
     "id": "07b56ca0-548c-4914-b4b6-c2396d31e7d8",
-    "firstName": "Hatem",
-    "lastName": "El-Masri",
+    "firstName": "Karim",
+    "lastName": "Abdel-Aziz",
     "age": 31,
     "position": "CB",
     "altPositions": [],
@@ -827,8 +827,8 @@
   },
   {
     "id": "8d53a04e-68dc-4449-9088-9c2779b0ab55",
-    "firstName": "Othmane",
-    "lastName": "Mehdi",
+    "firstName": "Yasser",
+    "lastName": "Tawfik",
     "age": 20,
     "position": "CM",
     "altPositions": [
@@ -872,7 +872,7 @@
   {
     "id": "00976807-4209-42d4-8a7d-b30c730fd235",
     "firstName": "Kacem",
-    "lastName": "Saad",
+    "lastName": "Al-Ahmad",
     "age": 20,
     "position": "CB",
     "altPositions": [],
@@ -913,8 +913,8 @@
   },
   {
     "id": "d46b40b7-2d2b-45d6-82c8-92d309678450",
-    "firstName": "Mehdi",
-    "lastName": "Rachidi",
+    "firstName": "Abdelrahman",
+    "lastName": "Salama",
     "age": 30,
     "position": "GK",
     "altPositions": [],
@@ -962,8 +962,8 @@
   },
   {
     "id": "9f59c484-b157-48a2-aa8b-8013d2e7994b",
-    "firstName": "Lounes",
-    "lastName": "Hussein",
+    "firstName": "Oussama",
+    "lastName": "Mokhtari",
     "age": 21,
     "position": "RW",
     "altPositions": [],
@@ -1004,8 +1004,8 @@
   },
   {
     "id": "3e4b097f-5511-4bfc-a318-d40b01a8113d",
-    "firstName": "Marwan",
-    "lastName": "Mansour",
+    "firstName": "Nour",
+    "lastName": "Abaza",
     "age": 30,
     "position": "CB",
     "altPositions": [],
@@ -1046,8 +1046,8 @@
   },
   {
     "id": "7f6136f7-cfc9-406b-b5c7-5af79cc74bdc",
-    "firstName": "Reda",
-    "lastName": "Karimi",
+    "firstName": "Marwan",
+    "lastName": "El-Khoury",
     "age": 24,
     "position": "CB",
     "altPositions": [],
@@ -1088,8 +1088,8 @@
   },
   {
     "id": "dc90057b-82df-4168-8204-a6e87d643d0a",
-    "firstName": "Mohammed",
-    "lastName": "Hassan",
+    "firstName": "Noureldeen",
+    "lastName": "Bilal",
     "age": 24,
     "position": "CM",
     "altPositions": [
@@ -1133,8 +1133,8 @@
   },
   {
     "id": "5932abbc-142f-47fb-8de5-71e37c4ace1e",
-    "firstName": "Omar",
-    "lastName": "Khoury",
+    "firstName": "Amr",
+    "lastName": "Darwish",
     "age": 24,
     "position": "ST",
     "altPositions": [
@@ -1177,8 +1177,8 @@
   },
   {
     "id": "e27935aa-75aa-43bd-b924-ff2f17802b92",
-    "firstName": "Mahmoud",
-    "lastName": "Ibrahim",
+    "firstName": "Ramadan",
+    "lastName": "Hamdan",
     "age": 36,
     "position": "ST",
     "altPositions": [],
@@ -1219,8 +1219,8 @@
   },
   {
     "id": "188ceb3f-5375-464e-9270-a862e40aae6b",
-    "firstName": "Youssef",
-    "lastName": "Yacoubi",
+    "firstName": "Mehdi",
+    "lastName": "Mostafa",
     "age": 21,
     "position": "RB",
     "altPositions": [
@@ -1263,8 +1263,8 @@
   },
   {
     "id": "29bbc6be-5ead-4dc6-a4ce-0bc08d730468",
-    "firstName": "Bachir",
-    "lastName": "Soufi",
+    "firstName": "Fatah",
+    "lastName": "Wahby",
     "age": 23,
     "position": "CM",
     "altPositions": [],
@@ -1305,8 +1305,8 @@
   },
   {
     "id": "246ee1cd-9caf-4f52-9a87-ae3bee5c30c8",
-    "firstName": "Omar",
-    "lastName": "Khalifa",
+    "firstName": "Amr",
+    "lastName": "Darwish",
     "age": 25,
     "position": "ST",
     "altPositions": [],
@@ -1347,8 +1347,8 @@
   },
   {
     "id": "f2ee7319-0d94-4ade-8d4d-6fa201a2a442",
-    "firstName": "Rami",
-    "lastName": "Al-Ahmad",
+    "firstName": "Gamal",
+    "lastName": "Gomaa",
     "age": 32,
     "position": "CB",
     "altPositions": [],
@@ -1389,8 +1389,8 @@
   },
   {
     "id": "1c999b90-da69-4d38-a0c2-b11dcd550957",
-    "firstName": "Chakib",
-    "lastName": "Khalifa",
+    "firstName": "Tarek",
+    "lastName": "Hafez",
     "age": 31,
     "position": "LW",
     "altPositions": [],
@@ -1431,8 +1431,8 @@
   },
   {
     "id": "2ccb38ed-687a-4386-b4a1-581bbd4fdc61",
-    "firstName": "Jihad",
-    "lastName": "Najjar",
+    "firstName": "Zakariya",
+    "lastName": "Yazid",
     "age": 23,
     "position": "RW",
     "altPositions": [],
@@ -1473,8 +1473,8 @@
   },
   {
     "id": "127de176-d0ed-4c31-9347-2b389e24f10c",
-    "firstName": "Khalid",
-    "lastName": "Shukri",
+    "firstName": "Omar",
+    "lastName": "Hamdi",
     "age": 22,
     "position": "RM",
     "altPositions": [],
@@ -1515,8 +1515,8 @@
   },
   {
     "id": "b3e545a3-e311-4572-a2ce-366425eef174",
-    "firstName": "Sami",
-    "lastName": "El-Amrani",
+    "firstName": "Zied",
+    "lastName": "Mohamed",
     "age": 30,
     "position": "CB",
     "altPositions": [],
@@ -1557,8 +1557,8 @@
   },
   {
     "id": "6cdf0822-fb51-417c-8eb7-64a7599e0d92",
-    "firstName": "Youssef",
-    "lastName": "Mahmoud",
+    "firstName": "Lakhdar",
+    "lastName": "Guerraoui",
     "age": 24,
     "position": "CB",
     "altPositions": [],
@@ -1599,8 +1599,8 @@
   },
   {
     "id": "762e0d61-56e7-4a82-9f09-a156c1a37e0a",
-    "firstName": "Yassine",
-    "lastName": "Sleiman",
+    "firstName": "Fares",
+    "lastName": "Mansour",
     "age": 25,
     "position": "CB",
     "altPositions": [],
@@ -1641,8 +1641,8 @@
   },
   {
     "id": "89a0086b-0ff0-489e-a845-ca7b750f7403",
-    "firstName": "Adel",
-    "lastName": "Aboud",
+    "firstName": "Hussein",
+    "lastName": "El-Amrani",
     "age": 24,
     "position": "ST",
     "altPositions": [],
@@ -1683,8 +1683,8 @@
   },
   {
     "id": "19dcba74-42c8-4e6d-af65-818a891c6d27",
-    "firstName": "Rami",
-    "lastName": "Sabbah",
+    "firstName": "Kacem",
+    "lastName": "El-Masri",
     "age": 30,
     "position": "RW",
     "altPositions": [],
@@ -1725,8 +1725,8 @@
   },
   {
     "id": "1cecee9a-c7da-4654-8c44-1d09871caa00",
-    "firstName": "Salim",
-    "lastName": "Ali",
+    "firstName": "Iyad",
+    "lastName": "Ibrahim",
     "age": 26,
     "position": "ST",
     "altPositions": [],
@@ -1767,8 +1767,8 @@
   },
   {
     "id": "4b44c50e-99d7-4d93-a2c7-8eeaebea4c75",
-    "firstName": "Badr",
-    "lastName": "Mahmoud",
+    "firstName": "Omar",
+    "lastName": "Abaza",
     "age": 22,
     "position": "RB",
     "altPositions": [
@@ -1811,8 +1811,8 @@
   },
   {
     "id": "465e542e-21bb-4de9-b76f-dfa2d17faf41",
-    "firstName": "Jad",
-    "lastName": "Jabbari",
+    "firstName": "Ayman",
+    "lastName": "Salem",
     "age": 26,
     "position": "CM",
     "altPositions": [],
@@ -1853,8 +1853,8 @@
   },
   {
     "id": "7d7c873f-b943-433b-9071-19f794739d0a",
-    "firstName": "Fouad",
-    "lastName": "Hammoud",
+    "firstName": "Mido",
+    "lastName": "Kadry",
     "age": 32,
     "position": "CB",
     "altPositions": [],
@@ -1895,8 +1895,8 @@
   },
   {
     "id": "cc452840-a42f-49aa-ab8d-6881bc685c43",
-    "firstName": "Oussama",
-    "lastName": "Aboud",
+    "firstName": "Idris",
+    "lastName": "Farouk",
     "age": 29,
     "position": "AM",
     "altPositions": [],
@@ -1937,8 +1937,8 @@
   },
   {
     "id": "f49864df-980d-46c6-8be5-e5365d26ea53",
-    "firstName": "Adil",
-    "lastName": "Tabet",
+    "firstName": "Fares",
+    "lastName": "Al-Sharif",
     "age": 34,
     "position": "LW",
     "altPositions": [],
@@ -1979,8 +1979,8 @@
   },
   {
     "id": "c50a9d2d-9b92-4754-9856-846dde706803",
-    "firstName": "Karim",
-    "lastName": "El-Amrani",
+    "firstName": "Adam",
+    "lastName": "Lado",
     "age": 31,
     "position": "CB",
     "altPositions": [
@@ -2023,8 +2023,8 @@
   },
   {
     "id": "8dd2c222-79ca-4682-a145-2236c1f6fb29",
-    "firstName": "Hatem",
-    "lastName": "Moussaoui",
+    "firstName": "Brahim",
+    "lastName": "Mokhtari",
     "age": 20,
     "position": "AM",
     "altPositions": [
@@ -2067,8 +2067,8 @@
   },
   {
     "id": "69d328ec-9f71-4365-abf5-03e66602f763",
-    "firstName": "Achraf",
-    "lastName": "Ali",
+    "firstName": "Khaled",
+    "lastName": "El-Khouly",
     "age": 18,
     "position": "LW",
     "altPositions": [
@@ -2111,8 +2111,8 @@
   },
   {
     "id": "522546bb-fc82-4ff4-8c92-86e4f4de381d",
-    "firstName": "Mounir",
-    "lastName": "Hassani",
+    "firstName": "Hossam",
+    "lastName": "El-Nagar",
     "age": 35,
     "position": "CB",
     "altPositions": [],
@@ -2153,8 +2153,8 @@
   },
   {
     "id": "45fbc582-798f-4b73-be62-98a32e0bd250",
-    "firstName": "Reda",
-    "lastName": "Farouk",
+    "firstName": "Noureldeen",
+    "lastName": "Deng",
     "age": 18,
     "position": "RB",
     "altPositions": [],
@@ -2195,8 +2195,8 @@
   },
   {
     "id": "bad99f96-dc37-4b4f-a5ad-b2bfeee21f60",
-    "firstName": "Ahmed",
-    "lastName": "Ibrahim",
+    "firstName": "Khaled",
+    "lastName": "Jaber",
     "age": 36,
     "position": "RM",
     "altPositions": [],
@@ -2237,8 +2237,8 @@
   },
   {
     "id": "b7c54a75-c19a-49a0-84dc-770bdc731f85",
-    "firstName": "Kacem",
-    "lastName": "Sharif",
+    "firstName": "Diaa",
+    "lastName": "Abdel-Aziz",
     "age": 29,
     "position": "CB",
     "altPositions": [],
@@ -2279,8 +2279,8 @@
   },
   {
     "id": "58965e1c-3859-44f8-a3c0-ed3dc23f8779",
-    "firstName": "Zied",
-    "lastName": "Mokhtari",
+    "firstName": "Anas",
+    "lastName": "Jaber",
     "age": 32,
     "position": "CM",
     "altPositions": [],
@@ -2321,8 +2321,8 @@
   },
   {
     "id": "9f6dc817-9583-4e93-8fb8-8f7c7766297e",
-    "firstName": "Lounes",
-    "lastName": "El-Maghrebi",
+    "firstName": "Amir",
+    "lastName": "Zaghloul",
     "age": 24,
     "position": "CB",
     "altPositions": [
@@ -2365,8 +2365,8 @@
   },
   {
     "id": "2e774cec-b640-4516-ba6e-a6102448da4b",
-    "firstName": "Sami",
-    "lastName": "Maraghi",
+    "firstName": "Abdelrahman",
+    "lastName": "Youssef",
     "age": 31,
     "position": "LW",
     "altPositions": [],
@@ -2407,8 +2407,8 @@
   },
   {
     "id": "f87ab3e6-b1f8-4dec-a9c8-21038320c01f",
-    "firstName": "Adel",
-    "lastName": "Hussein",
+    "firstName": "Walid",
+    "lastName": "Lamlom",
     "age": 22,
     "position": "ST",
     "altPositions": [],
@@ -2449,8 +2449,8 @@
   },
   {
     "id": "13f41c80-c575-4020-99a5-724252a1d500",
-    "firstName": "Kacem",
-    "lastName": "Lakhdar",
+    "firstName": "Abdelrahman",
+    "lastName": "Youssef",
     "age": 32,
     "position": "ST",
     "altPositions": [],
@@ -2491,8 +2491,8 @@
   },
   {
     "id": "5bd184b2-4ad2-4171-afd2-37aea74d1802",
-    "firstName": "Othmane",
-    "lastName": "Hassani",
+    "firstName": "Tamer",
+    "lastName": "Hamdi",
     "age": 27,
     "position": "CB",
     "altPositions": [],
@@ -2533,8 +2533,8 @@
   },
   {
     "id": "38ee16f2-660b-45a6-8b3f-b08d3f6cf093",
-    "firstName": "Ahmed",
-    "lastName": "Bouazizi",
+    "firstName": "Walid",
+    "lastName": "Al-Sayed",
     "age": 22,
     "position": "CB",
     "altPositions": [],
@@ -2575,8 +2575,8 @@
   },
   {
     "id": "ff5e5864-ca46-42a6-b130-82a9068a4cbb",
-    "firstName": "Brahim",
-    "lastName": "Hussein",
+    "firstName": "Bassem",
+    "lastName": "Okasha",
     "age": 23,
     "position": "LB",
     "altPositions": [],
@@ -2617,8 +2617,8 @@
   },
   {
     "id": "e221bba1-28d4-4615-8362-732da0d7d912",
-    "firstName": "Rachid",
-    "lastName": "El-Maghrebi",
+    "firstName": "Chakib",
+    "lastName": "Hassan",
     "age": 29,
     "position": "RW",
     "altPositions": [],
@@ -2659,8 +2659,8 @@
   },
   {
     "id": "235a908b-765d-4f6b-8d22-9bac5aae1521",
-    "firstName": "Mostafa",
-    "lastName": "Yacoubi",
+    "firstName": "Abdallah",
+    "lastName": "Bilal",
     "age": 24,
     "position": "LB",
     "altPositions": [],
@@ -2701,8 +2701,8 @@
   },
   {
     "id": "d375c287-6709-44d0-9801-5add74193c90",
-    "firstName": "Saad",
-    "lastName": "Zahra",
+    "firstName": "Wad",
+    "lastName": "Ghandour",
     "age": 24,
     "position": "CB",
     "altPositions": [],
@@ -2743,8 +2743,8 @@
   },
   {
     "id": "e532a4eb-6ae5-45a2-b292-489b76138cc0",
-    "firstName": "Hamza",
-    "lastName": "Bouazizi",
+    "firstName": "Hani",
+    "lastName": "Wahby",
     "age": 24,
     "position": "LM",
     "altPositions": [],
@@ -2785,8 +2785,8 @@
   },
   {
     "id": "4d7a5735-a429-48b9-a1f3-800f7905c795",
-    "firstName": "Badr",
-    "lastName": "El-Maghrebi",
+    "firstName": "Youssef",
+    "lastName": "Ali",
     "age": 29,
     "position": "CB",
     "altPositions": [],
@@ -2827,8 +2827,8 @@
   },
   {
     "id": "21a117d4-2f52-42a9-b059-345478cf65dc",
-    "firstName": "Hassan",
-    "lastName": "Tabet",
+    "firstName": "Fouad",
+    "lastName": "Nasser",
     "age": 19,
     "position": "RW",
     "altPositions": [],
@@ -2869,8 +2869,8 @@
   },
   {
     "id": "4b34a4d1-bcfe-413d-9583-2da7613d7f89",
-    "firstName": "Rachid",
-    "lastName": "Haddad",
+    "firstName": "Essam",
+    "lastName": "Khalil",
     "age": 21,
     "position": "AM",
     "altPositions": [],
@@ -2911,8 +2911,8 @@
   },
   {
     "id": "0a3cb473-26da-4a98-8665-656655bbaa48",
-    "firstName": "Nabil",
-    "lastName": "Salah",
+    "firstName": "Ramadan",
+    "lastName": "El-Khouly",
     "age": 21,
     "position": "CM",
     "altPositions": [],
@@ -2953,8 +2953,8 @@
   },
   {
     "id": "e4ccb7b5-15dc-4b74-b89f-cea1e8b9f3d8",
-    "firstName": "Saad",
-    "lastName": "El-Saadi",
+    "firstName": "Hamada",
+    "lastName": "Ismail",
     "age": 23,
     "position": "CB",
     "altPositions": [],
@@ -2995,8 +2995,8 @@
   },
   {
     "id": "ef2dee7a-3d42-49fb-a6f1-48aa71d22764",
-    "firstName": "Aziz",
-    "lastName": "Jabbari",
+    "firstName": "Rami",
+    "lastName": "Mansour",
     "age": 25,
     "position": "CM",
     "altPositions": [],
@@ -3037,8 +3037,8 @@
   },
   {
     "id": "fc265c58-5fca-404e-9490-c43cc465c69a",
-    "firstName": "Iyad",
-    "lastName": "Haddad",
+    "firstName": "Ayman",
+    "lastName": "Marzouq",
     "age": 28,
     "position": "DM",
     "altPositions": [
@@ -3081,8 +3081,8 @@
   },
   {
     "id": "0d5c3e8a-c166-4488-9dcb-6a68324135af",
-    "firstName": "Yacine",
-    "lastName": "Salem",
+    "firstName": "Laith",
+    "lastName": "Pharaon",
     "age": 21,
     "position": "CM",
     "altPositions": [],
@@ -3123,8 +3123,8 @@
   },
   {
     "id": "df1b7799-1126-469b-98dc-71ee4eb3a17b",
-    "firstName": "Badr",
-    "lastName": "El-Saadi",
+    "firstName": "Mostafa",
+    "lastName": "Hariri",
     "age": 25,
     "position": "DM",
     "altPositions": [],
@@ -3165,8 +3165,8 @@
   },
   {
     "id": "9a5a6436-0313-426a-98b9-7d2b89468817",
-    "firstName": "Saad",
-    "lastName": "Halabi",
+    "firstName": "Karim",
+    "lastName": "El-Desoky",
     "age": 26,
     "position": "RB",
     "altPositions": [],
@@ -3207,8 +3207,8 @@
   },
   {
     "id": "15412223-455d-42bc-9bd7-99dca105e74d",
-    "firstName": "Iyad",
-    "lastName": "Haddad",
+    "firstName": "Nasr",
+    "lastName": "Lino",
     "age": 28,
     "position": "CB",
     "altPositions": [],
@@ -3249,8 +3249,8 @@
   },
   {
     "id": "5eacc2a0-ac5f-4ed9-9156-f88073356045",
-    "firstName": "Tamer",
-    "lastName": "Al-Sayed",
+    "firstName": "Wael",
+    "lastName": "Ismail",
     "age": 24,
     "position": "CM",
     "altPositions": [],
@@ -3291,8 +3291,8 @@
   },
   {
     "id": "57044fa5-a28a-488a-909d-7fc386bebc0f",
-    "firstName": "Achraf",
-    "lastName": "Shukri",
+    "firstName": "Ali",
+    "lastName": "Bouazizi",
     "age": 24,
     "position": "RB",
     "altPositions": [],
@@ -3333,8 +3333,8 @@
   },
   {
     "id": "67098aed-5756-4d82-b351-49fc39c99fdf",
-    "firstName": "Ahmed",
-    "lastName": "Saad",
+    "firstName": "Hossam",
+    "lastName": "Kadry",
     "age": 22,
     "position": "LB",
     "altPositions": [],
@@ -3375,8 +3375,8 @@
   },
   {
     "id": "1ba9a407-6a36-4f1b-a348-9273285cb944",
-    "firstName": "Karim",
-    "lastName": "Moussaoui",
+    "firstName": "Youssef",
+    "lastName": "Najjar",
     "age": 22,
     "position": "CM",
     "altPositions": [],
@@ -3417,8 +3417,8 @@
   },
   {
     "id": "ab14bfea-5c18-4416-a498-54f00e929ec9",
-    "firstName": "Kamal",
-    "lastName": "Hassani",
+    "firstName": "Ahmed",
+    "lastName": "Deng",
     "age": 27,
     "position": "CB",
     "altPositions": [],
@@ -3459,8 +3459,8 @@
   },
   {
     "id": "d144a70a-8042-4db2-af29-50dac602ce77",
-    "firstName": "Ahmed",
-    "lastName": "Nasri",
+    "firstName": "Mido",
+    "lastName": "Gaber",
     "age": 36,
     "position": "ST",
     "altPositions": [],
@@ -3501,8 +3501,8 @@
   },
   {
     "id": "85e03735-a002-47a5-afcd-9a953979d8b9",
-    "firstName": "Sadek",
-    "lastName": "Al-Sayed",
+    "firstName": "Mohamed",
+    "lastName": "Shazali",
     "age": 29,
     "position": "ST",
     "altPositions": [],
@@ -3543,8 +3543,8 @@
   },
   {
     "id": "f179cdfa-93fd-468c-b07a-f38a855b89f2",
-    "firstName": "Achraf",
-    "lastName": "Farouk",
+    "firstName": "Kamel",
+    "lastName": "Kaci",
     "age": 29,
     "position": "CB",
     "altPositions": [],
@@ -3585,8 +3585,8 @@
   },
   {
     "id": "b238569f-557f-4303-93d3-f3aa085f6c46",
-    "firstName": "Bachir",
-    "lastName": "Hammoud",
+    "firstName": "Ashraf",
+    "lastName": "Hassan",
     "age": 22,
     "position": "CM",
     "altPositions": [],
@@ -3627,8 +3627,8 @@
   },
   {
     "id": "7c2a06de-9812-434f-a56e-61e47c0c6571",
-    "firstName": "Anas",
-    "lastName": "Hamdi",
+    "firstName": "Abdelrahman",
+    "lastName": "Hafez",
     "age": 20,
     "position": "DM",
     "altPositions": [],
@@ -3669,8 +3669,8 @@
   },
   {
     "id": "e2ab312c-727f-4bf4-addf-45700a228283",
-    "firstName": "Faisal",
-    "lastName": "Sharif",
+    "firstName": "Iyad",
+    "lastName": "Hussein",
     "age": 25,
     "position": "ST",
     "altPositions": [],
@@ -3711,8 +3711,8 @@
   },
   {
     "id": "fac7cfaa-c8a7-4952-9059-de79f6ab7b22",
-    "firstName": "Ali",
-    "lastName": "Tlemcani",
+    "firstName": "Ayman",
+    "lastName": "El-Maghrebi",
     "age": 28,
     "position": "DM",
     "altPositions": [],
@@ -3753,8 +3753,8 @@
   },
   {
     "id": "0f1c307f-5927-4460-b9e6-3e9ed78b0897",
-    "firstName": "Chakib",
-    "lastName": "Halabi",
+    "firstName": "Ramadan",
+    "lastName": "Hafez",
     "age": 24,
     "position": "LB",
     "altPositions": [],
@@ -3795,8 +3795,8 @@
   },
   {
     "id": "5cd76c22-0b02-4c3c-816b-afd537a520bf",
-    "firstName": "Rami",
-    "lastName": "El-Amrani",
+    "firstName": "Omar",
+    "lastName": "Mostafa",
     "age": 33,
     "position": "RB",
     "altPositions": [],
@@ -3837,8 +3837,8 @@
   },
   {
     "id": "1bdc5d76-47b9-4afa-9600-a14e122290bb",
-    "firstName": "Rami",
-    "lastName": "Mohamed",
+    "firstName": "Abdelrahim",
+    "lastName": "Salih",
     "age": 34,
     "position": "RM",
     "altPositions": [
@@ -3881,8 +3881,8 @@
   },
   {
     "id": "8e714faf-8e88-4ecf-b3c2-d467cbc3eda7",
-    "firstName": "Chadi",
-    "lastName": "Salem",
+    "firstName": "Nabil",
+    "lastName": "Sabbagh",
     "age": 33,
     "position": "AM",
     "altPositions": [
@@ -3925,8 +3925,8 @@
   },
   {
     "id": "f58306e2-944b-4ce1-87e3-da2250796675",
-    "firstName": "Hatem",
-    "lastName": "Lakhdar",
+    "firstName": "Khalid",
+    "lastName": "Nasri",
     "age": 27,
     "position": "GK",
     "altPositions": [],
@@ -3974,8 +3974,8 @@
   },
   {
     "id": "1e0bb603-6049-4d9c-a396-70555d9e9487",
-    "firstName": "Tarek",
-    "lastName": "Soufi",
+    "firstName": "Younes",
+    "lastName": "Haddad",
     "age": 18,
     "position": "RB",
     "altPositions": [
@@ -4018,8 +4018,8 @@
   },
   {
     "id": "c0d58546-ead4-40aa-a023-e1119ebe1feb",
-    "firstName": "Mostafa",
-    "lastName": "Yacoubi",
+    "firstName": "Ashraf",
+    "lastName": "El-Desoky",
     "age": 30,
     "position": "RB",
     "altPositions": [],
@@ -4060,8 +4060,8 @@
   },
   {
     "id": "6d912387-3b62-4d7d-bbc9-15c0caf6c03e",
-    "firstName": "Mehdi",
-    "lastName": "Khalifa",
+    "firstName": "Reda",
+    "lastName": "Hassan",
     "age": 22,
     "position": "CB",
     "altPositions": [],
@@ -4102,8 +4102,8 @@
   },
   {
     "id": "8aaae09b-2587-445d-9be2-04cb7b4ddf94",
-    "firstName": "Tamer",
-    "lastName": "Tabet",
+    "firstName": "Othmane",
+    "lastName": "Tahiri",
     "age": 23,
     "position": "AM",
     "altPositions": [
@@ -4146,8 +4146,8 @@
   },
   {
     "id": "5080dc49-1bd4-49dc-bc86-7003e4d1e911",
-    "firstName": "Khaled",
-    "lastName": "El-Amrani",
+    "firstName": "Saad",
+    "lastName": "Hammoud",
     "age": 33,
     "position": "DM",
     "altPositions": [],
@@ -4188,8 +4188,8 @@
   },
   {
     "id": "d64558c3-8433-4001-a794-7bb6d8c2fb33",
-    "firstName": "Zied",
-    "lastName": "Tahiri",
+    "firstName": "Mustafa",
+    "lastName": "Nabil",
     "age": 19,
     "position": "CB",
     "altPositions": [
@@ -4233,8 +4233,8 @@
   },
   {
     "id": "e6ecb030-1ab0-4b19-8ece-dfa08e068518",
-    "firstName": "Tarek",
-    "lastName": "Jabbari",
+    "firstName": "Tamer",
+    "lastName": "Ismail",
     "age": 22,
     "position": "CM",
     "altPositions": [
@@ -4277,8 +4277,8 @@
   },
   {
     "id": "a51f2c8e-7d5d-496c-ae42-6cf1e7deb536",
-    "firstName": "Kamal",
-    "lastName": "Rahmani",
+    "firstName": "Tarek",
+    "lastName": "Azar",
     "age": 30,
     "position": "LB",
     "altPositions": [
@@ -4321,8 +4321,8 @@
   },
   {
     "id": "db470901-b6d4-4b38-bbcb-41107407b2eb",
-    "firstName": "Aziz",
-    "lastName": "Mostafa",
+    "firstName": "Fouad",
+    "lastName": "Najjar",
     "age": 21,
     "position": "CB",
     "altPositions": [
@@ -4365,8 +4365,8 @@
   },
   {
     "id": "fc027e8d-4951-4d73-9017-8b4492418d45",
-    "firstName": "Jihad",
-    "lastName": "Khoury",
+    "firstName": "Ibrahim",
+    "lastName": "Qorany",
     "age": 29,
     "position": "RM",
     "altPositions": [],
@@ -4407,8 +4407,8 @@
   },
   {
     "id": "73d71c92-5457-4487-8852-e0d2792badb5",
-    "firstName": "Mehdi",
-    "lastName": "Farouk",
+    "firstName": "Hossam",
+    "lastName": "Youssef",
     "age": 25,
     "position": "LM",
     "altPositions": [
@@ -4451,8 +4451,8 @@
   },
   {
     "id": "1bcffe9b-5ee4-4cda-8e4e-90e3f5612c48",
-    "firstName": "Hamza",
-    "lastName": "Hassani",
+    "firstName": "Ibrahim",
+    "lastName": "Ibrahim",
     "age": 20,
     "position": "GK",
     "altPositions": [],
@@ -4500,8 +4500,8 @@
   },
   {
     "id": "59c8b481-0296-4aae-9fb1-4e55e9639c5d",
-    "firstName": "Tarek",
-    "lastName": "Tahiri",
+    "firstName": "Mohamed",
+    "lastName": "El-Masri",
     "age": 28,
     "position": "CM",
     "altPositions": [],
@@ -4542,8 +4542,8 @@
   },
   {
     "id": "3d8e2686-3e15-41ba-b788-67b1db21bea7",
-    "firstName": "Fares",
-    "lastName": "Sharif",
+    "firstName": "Samir",
+    "lastName": "El-Sayed",
     "age": 33,
     "position": "CM",
     "altPositions": [
@@ -4586,8 +4586,8 @@
   },
   {
     "id": "57b7ed53-1fb0-4a74-8068-5ebac8500d49",
-    "firstName": "Mehdi",
-    "lastName": "Hassani",
+    "firstName": "Abdelrahman",
+    "lastName": "Zaki",
     "age": 30,
     "position": "RM",
     "altPositions": [],
@@ -4628,8 +4628,8 @@
   },
   {
     "id": "5d67be27-7ee9-4e60-a1f6-d77a983a39b4",
-    "firstName": "Sadek",
-    "lastName": "Al-Sharif",
+    "firstName": "Samir",
+    "lastName": "El-Masri",
     "age": 20,
     "position": "DM",
     "altPositions": [],
@@ -4670,8 +4670,8 @@
   },
   {
     "id": "3a9520f0-214a-4dca-975b-ed042e818e26",
-    "firstName": "Mehdi",
-    "lastName": "Othman",
+    "firstName": "Idris",
+    "lastName": "Ali",
     "age": 23,
     "position": "LM",
     "altPositions": [],
@@ -4712,8 +4712,8 @@
   },
   {
     "id": "bd29b7e0-f463-4486-820b-f115783a8fa4",
-    "firstName": "Idris",
-    "lastName": "El-Saadi",
+    "firstName": "Medhat",
+    "lastName": "El-Khouly",
     "age": 31,
     "position": "CB",
     "altPositions": [],
@@ -4754,8 +4754,8 @@
   },
   {
     "id": "b845159e-1546-472c-9bc0-d231f22546e5",
-    "firstName": "Imad",
-    "lastName": "Jabbari",
+    "firstName": "Ahmed",
+    "lastName": "Haroun",
     "age": 31,
     "position": "LW",
     "altPositions": [
@@ -4799,8 +4799,8 @@
   },
   {
     "id": "48d002c0-f0f8-44a2-88c9-ee560413c010",
-    "firstName": "Marwan",
-    "lastName": "Nasser",
+    "firstName": "Younes",
+    "lastName": "Lakhdar",
     "age": 26,
     "position": "GK",
     "altPositions": [],
@@ -4848,8 +4848,8 @@
   },
   {
     "id": "6583c364-d3b9-4a91-872b-6c7b4482fb94",
-    "firstName": "Youssef",
-    "lastName": "Hakim",
+    "firstName": "Nabil",
+    "lastName": "Jaber",
     "age": 21,
     "position": "AM",
     "altPositions": [],
@@ -4890,8 +4890,8 @@
   },
   {
     "id": "e2a247a4-34f6-4b98-85a2-e526619cf9d8",
-    "firstName": "Ali",
-    "lastName": "Yacoubi",
+    "firstName": "Hassen",
+    "lastName": "Yazid",
     "age": 24,
     "position": "LB",
     "altPositions": [],
@@ -4932,8 +4932,8 @@
   },
   {
     "id": "144efa0e-9c0b-43cf-9498-708e883230ca",
-    "firstName": "Faisal",
-    "lastName": "Al-Ahmad",
+    "firstName": "Ramy",
+    "lastName": "Othman",
     "age": 24,
     "position": "CM",
     "altPositions": [],
@@ -4974,8 +4974,8 @@
   },
   {
     "id": "eb9f960b-bce4-4c00-87d9-006e2b74a412",
-    "firstName": "Jad",
-    "lastName": "Al-Sharif",
+    "firstName": "Tamer",
+    "lastName": "Hariri",
     "age": 25,
     "position": "ST",
     "altPositions": [
@@ -5018,8 +5018,8 @@
   },
   {
     "id": "3e0d0cc9-8252-430d-ab33-8efac83ea04e",
-    "firstName": "Imad",
-    "lastName": "El-Maghrebi",
+    "firstName": "Nizar",
+    "lastName": "Hakim",
     "age": 28,
     "position": "CM",
     "altPositions": [],
@@ -5060,8 +5060,8 @@
   },
   {
     "id": "17ddb492-fc0b-4531-b55b-948928f486d3",
-    "firstName": "Imad",
-    "lastName": "Qasim",
+    "firstName": "Amir",
+    "lastName": "Hassan",
     "age": 26,
     "position": "LB",
     "altPositions": [
@@ -5104,8 +5104,8 @@
   },
   {
     "id": "794dddb0-4ff4-4a36-923c-4ba4c52b9948",
-    "firstName": "Fouad",
-    "lastName": "Mostafa",
+    "firstName": "Mohamed",
+    "lastName": "Youssef",
     "age": 35,
     "position": "DM",
     "altPositions": [
@@ -5148,8 +5148,8 @@
   },
   {
     "id": "d4245616-bcd9-4d9b-b513-009d01de9413",
-    "firstName": "Tarek",
-    "lastName": "Lakhdar",
+    "firstName": "Bilal",
+    "lastName": "Mostafa",
     "age": 20,
     "position": "RW",
     "altPositions": [],
@@ -5190,8 +5190,8 @@
   },
   {
     "id": "a5fb8601-8bb9-4b17-b3d3-1940d43043ed",
-    "firstName": "Badr",
-    "lastName": "Al-Sharif",
+    "firstName": "Khaled",
+    "lastName": "Hamdi",
     "age": 25,
     "position": "ST",
     "altPositions": [],
@@ -5232,8 +5232,8 @@
   },
   {
     "id": "36af9117-04fd-476f-86e0-c61242b513ca",
-    "firstName": "Jihad",
-    "lastName": "Haddad",
+    "firstName": "Younes",
+    "lastName": "Moussaoui",
     "age": 34,
     "position": "ST",
     "altPositions": [],
@@ -5274,8 +5274,8 @@
   },
   {
     "id": "368c1704-a884-4e79-af90-06e751ad1301",
-    "firstName": "Marwan",
-    "lastName": "Hariri",
+    "firstName": "Mahmoud",
+    "lastName": "El-Shafei",
     "age": 32,
     "position": "CB",
     "altPositions": [],
@@ -5316,8 +5316,8 @@
   },
   {
     "id": "b5b8d6f9-afe0-4241-90a3-8124ff863f64",
-    "firstName": "Jihad",
-    "lastName": "El-Masri",
+    "firstName": "Fares",
+    "lastName": "Sabbah",
     "age": 25,
     "position": "LW",
     "altPositions": [],
@@ -5358,8 +5358,8 @@
   },
   {
     "id": "4ebb7730-35b9-4c54-833d-f7149136fbd2",
-    "firstName": "Reda",
-    "lastName": "Moussaoui",
+    "firstName": "Ahmed",
+    "lastName": "Lamlom",
     "age": 23,
     "position": "GK",
     "altPositions": [],
@@ -5407,8 +5407,8 @@
   },
   {
     "id": "1ef26e73-8657-4297-9dbf-c07b9f603b14",
-    "firstName": "Ahmed",
-    "lastName": "Bouazizi",
+    "firstName": "Fouad",
+    "lastName": "El-Amrani",
     "age": 27,
     "position": "CB",
     "altPositions": [],
@@ -5449,8 +5449,8 @@
   },
   {
     "id": "07107e12-6b5f-48a9-8985-e3b5a9855889",
-    "firstName": "Achraf",
-    "lastName": "El-Hadj",
+    "firstName": "Adel",
+    "lastName": "Shaker",
     "age": 25,
     "position": "ST",
     "altPositions": [],
@@ -5491,8 +5491,8 @@
   },
   {
     "id": "f38cd939-e9b6-497a-beb0-b362cdc70160",
-    "firstName": "Yacine",
-    "lastName": "Najjar",
+    "firstName": "Darfur",
+    "lastName": "Hilu",
     "age": 30,
     "position": "CM",
     "altPositions": [],
@@ -5533,8 +5533,8 @@
   },
   {
     "id": "49ce3414-ef0d-451c-8d3e-51f1afef58f3",
-    "firstName": "Brahim",
-    "lastName": "El-Saadi",
+    "firstName": "Ramadan",
+    "lastName": "Hamdi",
     "age": 21,
     "position": "RW",
     "altPositions": [],
@@ -5575,8 +5575,8 @@
   },
   {
     "id": "a4cfdd79-7852-41b4-82a6-b631a5763784",
-    "firstName": "Youssef",
-    "lastName": "El-Saadi",
+    "firstName": "Jamal",
+    "lastName": "Mehdi",
     "age": 21,
     "position": "RM",
     "altPositions": [
@@ -5619,8 +5619,8 @@
   },
   {
     "id": "16f8645a-2a66-4763-8e71-ca6e9832d693",
-    "firstName": "Mohammed",
-    "lastName": "El-Amrani",
+    "firstName": "Oussama",
+    "lastName": "Nasri",
     "age": 21,
     "position": "RW",
     "altPositions": [],
@@ -5661,8 +5661,8 @@
   },
   {
     "id": "b0b8b8c3-6321-4d6f-a622-123c8bff7152",
-    "firstName": "Hussein",
-    "lastName": "El-Khoury",
+    "firstName": "Zaki",
+    "lastName": "El-Din",
     "age": 28,
     "position": "CB",
     "altPositions": [
@@ -5705,8 +5705,8 @@
   },
   {
     "id": "51b6c381-4555-41e7-8837-3ea506d5b504",
-    "firstName": "Idris",
-    "lastName": "Mohamed",
+    "firstName": "Magdy",
+    "lastName": "Nabil",
     "age": 26,
     "position": "RM",
     "altPositions": [],
@@ -5747,8 +5747,8 @@
   },
   {
     "id": "09091b8b-8c3b-4b3c-bf61-e953bea1fea2",
-    "firstName": "Faisal",
-    "lastName": "Al-Sharif",
+    "firstName": "Fathy",
+    "lastName": "Farag",
     "age": 29,
     "position": "CM",
     "altPositions": [
@@ -5791,8 +5791,8 @@
   },
   {
     "id": "03fa9da7-a4e0-497d-8b63-794fbeea777d",
-    "firstName": "Chadi",
-    "lastName": "Moussaoui",
+    "firstName": "Amr",
+    "lastName": "Qorany",
     "age": 32,
     "position": "CB",
     "altPositions": [
@@ -5835,8 +5835,8 @@
   },
   {
     "id": "319b5f2f-3cbd-4ada-ac60-65676e387dbd",
-    "firstName": "Jamal",
-    "lastName": "Sabbagh",
+    "firstName": "Hassan",
+    "lastName": "Bouazizi",
     "age": 25,
     "position": "CB",
     "altPositions": [],
@@ -5877,8 +5877,8 @@
   },
   {
     "id": "11971b63-b9a3-4e33-ae17-aede24d2aa60",
-    "firstName": "Khalid",
-    "lastName": "Salah",
+    "firstName": "Sherif",
+    "lastName": "Diab",
     "age": 36,
     "position": "ST",
     "altPositions": [],
@@ -5919,8 +5919,8 @@
   },
   {
     "id": "caa93633-4415-4f21-9be9-4d6a0409ff72",
-    "firstName": "Anas",
-    "lastName": "Mahmoud",
+    "firstName": "Diaa",
+    "lastName": "Ismail",
     "age": 25,
     "position": "LW",
     "altPositions": [],
@@ -5961,8 +5961,8 @@
   },
   {
     "id": "8a0d395d-71a1-408c-b8ed-2ea4597c752d",
-    "firstName": "Marwan",
-    "lastName": "Ali",
+    "firstName": "Jawad",
+    "lastName": "Khelil",
     "age": 31,
     "position": "RW",
     "altPositions": [],
@@ -6004,7 +6004,7 @@
   {
     "id": "289ff1dd-139b-428c-bfd7-5cf7a7da630b",
     "firstName": "Ahmed",
-    "lastName": "Salhi",
+    "lastName": "Hamdi",
     "age": 26,
     "position": "LW",
     "altPositions": [],
@@ -6045,8 +6045,8 @@
   },
   {
     "id": "e0e11636-05f9-4a9d-8f88-c5ad991ac4ae",
-    "firstName": "Driss",
-    "lastName": "El-Khoury",
+    "firstName": "Younes",
+    "lastName": "El-Hadj",
     "age": 31,
     "position": "LW",
     "altPositions": [],
@@ -6087,8 +6087,8 @@
   },
   {
     "id": "807ed13c-d6e5-4be4-876d-635de57e1a41",
-    "firstName": "Iyad",
-    "lastName": "Qasim",
+    "firstName": "Shawky",
+    "lastName": "El-Nagar",
     "age": 32,
     "position": "ST",
     "altPositions": [
@@ -6132,8 +6132,8 @@
   },
   {
     "id": "b492f938-9c26-4bce-b354-9b27c9d7a162",
-    "firstName": "Faisal",
-    "lastName": "El-Saadi",
+    "firstName": "Walid",
+    "lastName": "Ghanem",
     "age": 36,
     "position": "LB",
     "altPositions": [
@@ -6176,8 +6176,8 @@
   },
   {
     "id": "64a86806-37cc-4f66-9a3c-8359832d09f5",
-    "firstName": "Sami",
-    "lastName": "Al-Sayed",
+    "firstName": "Oussama",
+    "lastName": "Tahiri",
     "age": 33,
     "position": "RW",
     "altPositions": [
@@ -6220,8 +6220,8 @@
   },
   {
     "id": "2f13674a-aee2-4333-b7de-903e4d80b20c",
-    "firstName": "Mohammed",
-    "lastName": "Salem",
+    "firstName": "Rami",
+    "lastName": "Salhi",
     "age": 28,
     "position": "CM",
     "altPositions": [
@@ -6264,8 +6264,8 @@
   },
   {
     "id": "07d13df4-0840-4dce-ad92-5088998bd886",
-    "firstName": "Amir",
-    "lastName": "Al-Sharif",
+    "firstName": "Hassen",
+    "lastName": "Amrani",
     "age": 28,
     "position": "ST",
     "altPositions": [],
@@ -6306,8 +6306,8 @@
   },
   {
     "id": "5792167c-1367-4bae-81a6-ef38d775e4d8",
-    "firstName": "Zied",
-    "lastName": "Tlemcani",
+    "firstName": "Abdallah",
+    "lastName": "Ismail",
     "age": 23,
     "position": "GK",
     "altPositions": [],
@@ -6355,8 +6355,8 @@
   },
   {
     "id": "736e2589-5ebc-4769-beeb-c1af448e26cd",
-    "firstName": "Anas",
-    "lastName": "Othman",
+    "firstName": "Lounes",
+    "lastName": "Aboud",
     "age": 23,
     "position": "DM",
     "altPositions": [],
@@ -6397,8 +6397,8 @@
   },
   {
     "id": "c6281e7e-e8ac-42b7-906c-4f4cf6b6e8c5",
-    "firstName": "Idris",
-    "lastName": "Hammoud",
+    "firstName": "Medhat",
+    "lastName": "Darwish",
     "age": 23,
     "position": "ST",
     "altPositions": [],
@@ -6439,8 +6439,8 @@
   },
   {
     "id": "30fa0b80-0abd-41cc-9922-4046d1c8f637",
-    "firstName": "Chadi",
-    "lastName": "El-Khoury",
+    "firstName": "Omar",
+    "lastName": "Lotfy",
     "age": 18,
     "position": "CB",
     "altPositions": [],
@@ -6481,8 +6481,8 @@
   },
   {
     "id": "c01c6245-c3f4-48e7-bc66-5e476e2167b4",
-    "firstName": "Achraf",
-    "lastName": "Nasser",
+    "firstName": "Abdallah",
+    "lastName": "Bilal",
     "age": 25,
     "position": "CB",
     "altPositions": [
@@ -6526,8 +6526,8 @@
   },
   {
     "id": "01f2906a-f7b6-4514-aca5-1a9f6526936f",
-    "firstName": "Fouad",
-    "lastName": "Salem",
+    "firstName": "Jad",
+    "lastName": "Ghanem",
     "age": 32,
     "position": "CM",
     "altPositions": [
@@ -6570,8 +6570,8 @@
   },
   {
     "id": "655651cb-6072-4550-8567-af7e137f1e0b",
-    "firstName": "Brahim",
-    "lastName": "Hammoud",
+    "firstName": "Medhat",
+    "lastName": "Gomaa",
     "age": 28,
     "position": "CM",
     "altPositions": [],
@@ -6612,8 +6612,8 @@
   },
   {
     "id": "92e81c75-97d1-4ce4-9d29-5aab87f11ec5",
-    "firstName": "Mehdi",
-    "lastName": "Khalifa",
+    "firstName": "Othmane",
+    "lastName": "Khoury",
     "age": 32,
     "position": "ST",
     "altPositions": [],
@@ -6654,8 +6654,8 @@
   },
   {
     "id": "50adbb3d-c038-4c64-b8f2-d8842002e838",
-    "firstName": "Yassine",
-    "lastName": "Al-Sayed",
+    "firstName": "Mahmoud",
+    "lastName": "Farouk",
     "age": 19,
     "position": "LW",
     "altPositions": [
@@ -6699,8 +6699,8 @@
   },
   {
     "id": "fe438520-bd03-4ca0-9b13-e9976d99325c",
-    "firstName": "Brahim",
-    "lastName": "Sleiman",
+    "firstName": "Ibrahim",
+    "lastName": "Darwish",
     "age": 30,
     "position": "CM",
     "altPositions": [],
@@ -6741,8 +6741,8 @@
   },
   {
     "id": "88df04a3-3f25-4c9f-824e-de1e607de2c4",
-    "firstName": "Zakaria",
-    "lastName": "Aboud",
+    "firstName": "Soufiane",
+    "lastName": "El-Sayed",
     "age": 18,
     "position": "CB",
     "altPositions": [
@@ -6785,8 +6785,8 @@
   },
   {
     "id": "dfa4f9ea-3265-4198-88bd-e251d28628a8",
-    "firstName": "Kacem",
-    "lastName": "Sabbagh",
+    "firstName": "Driss",
+    "lastName": "Mostafa",
     "age": 24,
     "position": "CM",
     "altPositions": [],
@@ -6827,8 +6827,8 @@
   },
   {
     "id": "8b8ed49f-fe7a-4d81-aa3e-aef8d5181330",
-    "firstName": "Rachid",
-    "lastName": "Othman",
+    "firstName": "Mahjoub",
+    "lastName": "Gizouli",
     "age": 21,
     "position": "LW",
     "altPositions": [
@@ -6871,8 +6871,8 @@
   },
   {
     "id": "44f0eaaf-3422-4169-9060-6fa12d0644f1",
-    "firstName": "Fares",
-    "lastName": "El-Amrani",
+    "firstName": "Zied",
+    "lastName": "Yacoubi",
     "age": 25,
     "position": "GK",
     "altPositions": [],
@@ -6920,8 +6920,8 @@
   },
   {
     "id": "a2a145f0-7214-4e8a-877d-c68d14228464",
-    "firstName": "Saad",
-    "lastName": "Tabet",
+    "firstName": "Khaled",
+    "lastName": "Qorany",
     "age": 24,
     "position": "RW",
     "altPositions": [],
@@ -6962,8 +6962,8 @@
   },
   {
     "id": "bc3794e9-7139-4cc3-93f9-51419cac9a37",
-    "firstName": "Khaled",
-    "lastName": "Idrissi",
+    "firstName": "Samir",
+    "lastName": "El-Meniawy",
     "age": 26,
     "position": "GK",
     "altPositions": [],
@@ -7011,8 +7011,8 @@
   },
   {
     "id": "9f247c21-ed06-41b4-887b-ad805407664d",
-    "firstName": "Chadi",
-    "lastName": "Ibrahim",
+    "firstName": "Bilal",
+    "lastName": "Bouazizi",
     "age": 22,
     "position": "CB",
     "altPositions": [],
@@ -7053,8 +7053,8 @@
   },
   {
     "id": "70b62076-fae5-4db6-912d-693e77392c2f",
-    "firstName": "Imad",
-    "lastName": "Ali",
+    "firstName": "Yasser",
+    "lastName": "Farouk",
     "age": 24,
     "position": "ST",
     "altPositions": [],
@@ -7095,8 +7095,8 @@
   },
   {
     "id": "aafb9e1f-08a4-40c2-9e46-28eca207d4d5",
-    "firstName": "Fouad",
-    "lastName": "Salhi",
+    "firstName": "Gamal",
+    "lastName": "El-Sayed",
     "age": 26,
     "position": "LB",
     "altPositions": [
@@ -7139,8 +7139,8 @@
   },
   {
     "id": "f7ac934c-f25c-409a-9c26-26cc82d538dc",
-    "firstName": "Khalid",
-    "lastName": "Lakhdar",
+    "firstName": "Kacem",
+    "lastName": "Zerouali",
     "age": 35,
     "position": "RB",
     "altPositions": [],
@@ -7181,8 +7181,8 @@
   },
   {
     "id": "135539ef-e467-42a7-a04a-74e2f3528d9d",
-    "firstName": "Tarek",
-    "lastName": "Salem",
+    "firstName": "Shawky",
+    "lastName": "Morsy",
     "age": 27,
     "position": "LM",
     "altPositions": [],
@@ -7224,7 +7224,7 @@
   {
     "id": "9840353a-9142-4dae-8e93-71b7c6ebe905",
     "firstName": "Walid",
-    "lastName": "El-Bakri",
+    "lastName": "Hafez",
     "age": 31,
     "position": "DM",
     "altPositions": [
@@ -7267,8 +7267,8 @@
   },
   {
     "id": "065c94e9-137b-49da-8333-1418888674bf",
-    "firstName": "Hatem",
-    "lastName": "Saad",
+    "firstName": "Omar",
+    "lastName": "El-Din",
     "age": 23,
     "position": "AM",
     "altPositions": [
@@ -7311,8 +7311,8 @@
   },
   {
     "id": "64e012f4-6a18-4b3e-9f9d-933de65b9456",
-    "firstName": "Rachid",
-    "lastName": "Khalifa",
+    "firstName": "Mounir",
+    "lastName": "Sleiman",
     "age": 25,
     "position": "RB",
     "altPositions": [],
@@ -7353,8 +7353,8 @@
   },
   {
     "id": "1e231924-ec70-4b5a-90ae-d1f62a2ecd8d",
-    "firstName": "Imad",
-    "lastName": "Hariri",
+    "firstName": "Khaled",
+    "lastName": "Naguib",
     "age": 18,
     "position": "RB",
     "altPositions": [],
@@ -7395,8 +7395,8 @@
   },
   {
     "id": "49034b51-1fc4-4ba2-b88d-94d039a207ac",
-    "firstName": "Sami",
-    "lastName": "El-Hadj",
+    "firstName": "Umar",
+    "lastName": "Faroug",
     "age": 24,
     "position": "DM",
     "altPositions": [],
@@ -7437,8 +7437,8 @@
   },
   {
     "id": "bb4a7e3b-816b-48a3-9011-38e4ca809710",
-    "firstName": "Adel",
-    "lastName": "Jabbari",
+    "firstName": "Noureldeen",
+    "lastName": "Ibrahim",
     "age": 31,
     "position": "LM",
     "altPositions": [],
@@ -7479,8 +7479,8 @@
   },
   {
     "id": "0fe538ef-1aa6-4f95-941e-a0225ca30748",
-    "firstName": "Sadek",
-    "lastName": "Sleiman",
+    "firstName": "Ramadan",
+    "lastName": "Ezzat",
     "age": 33,
     "position": "CM",
     "altPositions": [],
@@ -7521,8 +7521,8 @@
   },
   {
     "id": "fbb86a52-759c-4702-b520-2a51a04c1793",
-    "firstName": "Mehdi",
-    "lastName": "Mehdi",
+    "firstName": "Omar",
+    "lastName": "Naguib",
     "age": 20,
     "position": "RW",
     "altPositions": [],
@@ -7563,8 +7563,8 @@
   },
   {
     "id": "a1c1233e-2e13-441a-82b9-f93c0146d56a",
-    "firstName": "Fares",
-    "lastName": "Ali",
+    "firstName": "Alaa",
+    "lastName": "Raouf",
     "age": 23,
     "position": "CB",
     "altPositions": [],
@@ -7605,8 +7605,8 @@
   },
   {
     "id": "87aeb357-f12f-4f80-b3e8-12ac1c43f6d2",
-    "firstName": "Fares",
-    "lastName": "Qasim",
+    "firstName": "Khaled",
+    "lastName": "Tawfik",
     "age": 25,
     "position": "AM",
     "altPositions": [
@@ -7649,8 +7649,8 @@
   },
   {
     "id": "8b9dcb4d-6769-4278-959c-25231519b502",
-    "firstName": "Ghassan",
-    "lastName": "Khalifa",
+    "firstName": "Khaled",
+    "lastName": "Nasr",
     "age": 25,
     "position": "CB",
     "altPositions": [],
@@ -7691,8 +7691,8 @@
   },
   {
     "id": "206cfa2c-e837-4612-835f-191a7a9a41b0",
-    "firstName": "Kacem",
-    "lastName": "Khalil",
+    "firstName": "Ashraf",
+    "lastName": "Ezzat",
     "age": 22,
     "position": "CM",
     "altPositions": [],
@@ -7733,8 +7733,8 @@
   },
   {
     "id": "4e682d05-e73b-41ed-b056-f94a9e8baf99",
-    "firstName": "Mehdi",
-    "lastName": "Khalifa",
+    "firstName": "Raouf",
+    "lastName": "Diab",
     "age": 31,
     "position": "RW",
     "altPositions": [],
@@ -7775,8 +7775,8 @@
   },
   {
     "id": "d15ce59c-3ab1-42b1-b9eb-254f4af694c5",
-    "firstName": "Younes",
-    "lastName": "El-Khoury",
+    "firstName": "Mahmoud",
+    "lastName": "Qorany",
     "age": 33,
     "position": "AM",
     "altPositions": [],
@@ -7817,8 +7817,8 @@
   },
   {
     "id": "0366aca1-f139-44e3-a7ee-b34a2c2048bf",
-    "firstName": "Mehdi",
-    "lastName": "Saad",
+    "firstName": "Medhat",
+    "lastName": "Othman",
     "age": 24,
     "position": "ST",
     "altPositions": [
@@ -7861,8 +7861,8 @@
   },
   {
     "id": "219a9b82-d87a-4bc9-b094-b404d72b8a96",
-    "firstName": "Adil",
-    "lastName": "Al-Ahmad",
+    "firstName": "Hossam",
+    "lastName": "Gaber",
     "age": 18,
     "position": "AM",
     "altPositions": [],
@@ -7903,8 +7903,8 @@
   },
   {
     "id": "8841ebc9-be76-4874-a799-da390a53ae83",
-    "firstName": "Rami",
-    "lastName": "Hassani",
+    "firstName": "Fatah",
+    "lastName": "Farouk",
     "age": 28,
     "position": "AM",
     "altPositions": [],
@@ -7945,8 +7945,8 @@
   },
   {
     "id": "d066d08c-60f4-4306-9f95-1565c9071d38",
-    "firstName": "Ali",
-    "lastName": "El-Khoury",
+    "firstName": "Hassan",
+    "lastName": "Zaghloul",
     "age": 30,
     "position": "ST",
     "altPositions": [],
@@ -7987,8 +7987,8 @@
   },
   {
     "id": "ff05485f-6420-4b80-86dc-99528a9872ed",
-    "firstName": "Bachir",
-    "lastName": "El-Sayed",
+    "firstName": "Sherif",
+    "lastName": "El-Desoky",
     "age": 28,
     "position": "ST",
     "altPositions": [
@@ -8031,8 +8031,8 @@
   },
   {
     "id": "c3b5a892-d26e-41a0-96aa-942a005d3138",
-    "firstName": "Lounes",
-    "lastName": "Khalifa",
+    "firstName": "Ahmed",
+    "lastName": "El-Din",
     "age": 26,
     "position": "RB",
     "altPositions": [],
@@ -8073,8 +8073,8 @@
   },
   {
     "id": "8e1ae803-1ad2-4eea-a6b3-81d9f66ad9d2",
-    "firstName": "Chakib",
-    "lastName": "Salem",
+    "firstName": "Tamer",
+    "lastName": "El-Nagar",
     "age": 32,
     "position": "ST",
     "altPositions": [],
@@ -8115,8 +8115,8 @@
   },
   {
     "id": "c19c27e4-12c3-442a-961b-4941b0bf3847",
-    "firstName": "Ali",
-    "lastName": "Hakim",
+    "firstName": "Kamal",
+    "lastName": "Halabi",
     "age": 30,
     "position": "CB",
     "altPositions": [
@@ -8159,8 +8159,8 @@
   },
   {
     "id": "5a7d5c74-71d2-495d-bea5-9d2a48acecca",
-    "firstName": "Zakaria",
-    "lastName": "Khalifa",
+    "firstName": "Samir",
+    "lastName": "Chehata",
     "age": 25,
     "position": "LB",
     "altPositions": [],
@@ -8201,8 +8201,8 @@
   },
   {
     "id": "57c83ab9-ee6c-4a96-9a2f-7808bbf6f242",
-    "firstName": "Jihad",
-    "lastName": "El-Maghrebi",
+    "firstName": "Ismail",
+    "lastName": "Mahdi",
     "age": 29,
     "position": "CB",
     "altPositions": [],
@@ -8243,8 +8243,8 @@
   },
   {
     "id": "a65ac069-c0bc-4fed-b923-64b91a65664c",
-    "firstName": "Salim",
-    "lastName": "Mostafa",
+    "firstName": "Lual",
+    "lastName": "Wawa",
     "age": 21,
     "position": "RB",
     "altPositions": [],
@@ -8285,8 +8285,8 @@
   },
   {
     "id": "58f154ef-4f97-4961-9ba9-8df28bfaa0d4",
-    "firstName": "Wassim",
-    "lastName": "Khalil",
+    "firstName": "Omar",
+    "lastName": "El-Khouly",
     "age": 24,
     "position": "RB",
     "altPositions": [],
@@ -8327,8 +8327,8 @@
   },
   {
     "id": "a4b8cc8a-7e2c-4230-8ecc-b9fb70dd2440",
-    "firstName": "Jad",
-    "lastName": "Farouk",
+    "firstName": "Mostafa",
+    "lastName": "Yacoubi",
     "age": 29,
     "position": "DM",
     "altPositions": [],
@@ -8369,8 +8369,8 @@
   },
   {
     "id": "2dbba1eb-d4d2-4efa-995a-29734486a8c9",
-    "firstName": "Zied",
-    "lastName": "Zerouali",
+    "firstName": "Mounir",
+    "lastName": "Othman",
     "age": 25,
     "position": "ST",
     "altPositions": [],
@@ -8412,7 +8412,7 @@
   {
     "id": "61fda714-7710-4744-8892-0cb96d7ceb43",
     "firstName": "Lounes",
-    "lastName": "Al-Sayed",
+    "lastName": "Al-Ahmad",
     "age": 30,
     "position": "GK",
     "altPositions": [],
@@ -8460,8 +8460,8 @@
   },
   {
     "id": "18b831a3-a221-4b15-b4f2-322c29aec8a5",
-    "firstName": "Mehdi",
-    "lastName": "Shukri",
+    "firstName": "Bilal",
+    "lastName": "Khaldi",
     "age": 21,
     "position": "CM",
     "altPositions": [],
@@ -8502,8 +8502,8 @@
   },
   {
     "id": "698a3b66-bffb-494b-822d-68025a22deac",
-    "firstName": "Ahmed",
-    "lastName": "Ghanem",
+    "firstName": "Jad",
+    "lastName": "Zakhour",
     "age": 21,
     "position": "CM",
     "altPositions": [
@@ -8546,8 +8546,8 @@
   },
   {
     "id": "a5cc72c4-d165-454c-ae25-741c3b154c5b",
-    "firstName": "Kamal",
-    "lastName": "Najjar",
+    "firstName": "Hamada",
+    "lastName": "El-Desoky",
     "age": 24,
     "position": "ST",
     "altPositions": [
@@ -8590,8 +8590,8 @@
   },
   {
     "id": "7e19f41e-e5ff-4e7a-b992-010e255cebf2",
-    "firstName": "Iyad",
-    "lastName": "Al-Sharif",
+    "firstName": "Rachid",
+    "lastName": "Rachidi",
     "age": 28,
     "position": "CB",
     "altPositions": [],
@@ -8632,8 +8632,8 @@
   },
   {
     "id": "a28a3e27-bd12-4a2e-8025-67b39c89d185",
-    "firstName": "Zakaria",
-    "lastName": "Jaber",
+    "firstName": "Chadi",
+    "lastName": "Shukri",
     "age": 34,
     "position": "LW",
     "altPositions": [],
@@ -8674,8 +8674,8 @@
   },
   {
     "id": "3627307e-a3b3-4ba4-926e-032e1121fd4f",
-    "firstName": "Oussama",
-    "lastName": "Ali",
+    "firstName": "Hamada",
+    "lastName": "Marzouq",
     "age": 29,
     "position": "ST",
     "altPositions": [
@@ -8718,8 +8718,8 @@
   },
   {
     "id": "b74b18f0-ffb6-4134-a34e-e162558d2b54",
-    "firstName": "Adel",
-    "lastName": "Othman",
+    "firstName": "Jihad",
+    "lastName": "Idrissi",
     "age": 25,
     "position": "CB",
     "altPositions": [],
@@ -8760,8 +8760,8 @@
   },
   {
     "id": "b3b09f4f-b0e7-4ed7-8ec6-a769951f64ff",
-    "firstName": "Mounir",
-    "lastName": "Sabbah",
+    "firstName": "Ramadan",
+    "lastName": "El-Baz",
     "age": 22,
     "position": "CB",
     "altPositions": [
@@ -8804,8 +8804,8 @@
   },
   {
     "id": "6cf30472-e773-45d9-a2c6-f4aeec810d8c",
-    "firstName": "Brahim",
-    "lastName": "Hammoud",
+    "firstName": "Lotfi",
+    "lastName": "Nafi",
     "age": 20,
     "position": "CM",
     "altPositions": [],
@@ -8846,8 +8846,8 @@
   },
   {
     "id": "d3a6cccb-15c0-441c-bf76-431b34ceaed6",
-    "firstName": "Faisal",
-    "lastName": "Hassani",
+    "firstName": "Ousama",
+    "lastName": "Wehbe",
     "age": 27,
     "position": "CB",
     "altPositions": [],
@@ -8888,8 +8888,8 @@
   },
   {
     "id": "a79f63c0-5600-4497-b583-af60fee79364",
-    "firstName": "Badr",
-    "lastName": "Jaber",
+    "firstName": "Aziz",
+    "lastName": "El-Maghrebi",
     "age": 30,
     "position": "DM",
     "altPositions": [],
@@ -8930,8 +8930,8 @@
   },
   {
     "id": "d82edb09-16a8-4ae4-94b5-0e0a30a271d6",
-    "firstName": "Mehdi",
-    "lastName": "Mostafa",
+    "firstName": "Ibrahim",
+    "lastName": "Qorany",
     "age": 26,
     "position": "ST",
     "altPositions": [],
@@ -8972,8 +8972,8 @@
   },
   {
     "id": "3da55449-c440-4dcb-a189-1db2f7a17ccb",
-    "firstName": "Hatem",
-    "lastName": "Hammoud",
+    "firstName": "Jaafar",
+    "lastName": "Pagan",
     "age": 21,
     "position": "CB",
     "altPositions": [
@@ -9016,8 +9016,8 @@
   },
   {
     "id": "4abfea24-db81-4eeb-b67a-93ceecc774a2",
-    "firstName": "Othmane",
-    "lastName": "Salem",
+    "firstName": "Abdelrahman",
+    "lastName": "Othman",
     "age": 24,
     "position": "CB",
     "altPositions": [],
@@ -9058,8 +9058,8 @@
   },
   {
     "id": "6d07ffdf-f9ed-49ae-8e1f-c90629b6ce58",
-    "firstName": "Imad",
-    "lastName": "El-Amrani",
+    "firstName": "Zied",
+    "lastName": "Moussaoui",
     "age": 21,
     "position": "AM",
     "altPositions": [],
@@ -9100,8 +9100,8 @@
   },
   {
     "id": "efc0c785-7b49-4b72-ba10-6f2424745dfa",
-    "firstName": "Younes",
-    "lastName": "Ibrahim",
+    "firstName": "Dani",
+    "lastName": "Nasr",
     "age": 21,
     "position": "LB",
     "altPositions": [],
@@ -9142,8 +9142,8 @@
   },
   {
     "id": "a4707c05-c887-4b1a-b3bf-eb1a403cf8e7",
-    "firstName": "Tarek",
-    "lastName": "Haddad",
+    "firstName": "Islam",
+    "lastName": "El-Baz",
     "age": 23,
     "position": "CB",
     "altPositions": [],
@@ -9184,8 +9184,8 @@
   },
   {
     "id": "c44a282f-fcad-4f87-a993-cbb2dad2e7f6",
-    "firstName": "Walid",
-    "lastName": "Najjar",
+    "firstName": "Ibrahim",
+    "lastName": "Lamlom",
     "age": 16,
     "position": "RB",
     "altPositions": [],
@@ -9226,8 +9226,8 @@
   },
   {
     "id": "8745a1a2-e456-4d0e-8ddd-610658c8a559",
-    "firstName": "Chakib",
-    "lastName": "Sharif",
+    "firstName": "Magdy",
+    "lastName": "El-Baz",
     "age": 25,
     "position": "CM",
     "altPositions": [],
@@ -9268,8 +9268,8 @@
   },
   {
     "id": "c56e4e50-da39-4239-a561-130d7d6e402b",
-    "firstName": "Ayman",
-    "lastName": "Maraghi",
+    "firstName": "Tamer",
+    "lastName": "Salama",
     "age": 24,
     "position": "CM",
     "altPositions": [
@@ -9312,8 +9312,8 @@
   },
   {
     "id": "a1a169e1-b69b-4a8b-8e17-36d4315223f8",
-    "firstName": "Achraf",
-    "lastName": "El-Maghrebi",
+    "firstName": "Ramadan",
+    "lastName": "Zaghloul",
     "age": 28,
     "position": "ST",
     "altPositions": [],
@@ -9354,8 +9354,8 @@
   },
   {
     "id": "86026c3d-cbb2-4465-b38d-ff3aa0beeccf",
-    "firstName": "Reda",
-    "lastName": "El-Sayed",
+    "firstName": "Idris",
+    "lastName": "Najjar",
     "age": 23,
     "position": "CB",
     "altPositions": [],
@@ -9396,8 +9396,8 @@
   },
   {
     "id": "c35edf01-1494-4b36-8346-c34b94702e04",
-    "firstName": "Fares",
-    "lastName": "Sleiman",
+    "firstName": "Habib",
+    "lastName": "Younes",
     "age": 24,
     "position": "LB",
     "altPositions": [],
@@ -9438,8 +9438,8 @@
   },
   {
     "id": "e3571e6e-3b8e-4472-9a38-ea4c81fa2e6d",
-    "firstName": "Achraf",
-    "lastName": "Lakhdar",
+    "firstName": "Walid",
+    "lastName": "El-Shafei",
     "age": 27,
     "position": "RB",
     "altPositions": [],
@@ -9480,8 +9480,8 @@
   },
   {
     "id": "923f23b7-0d19-4193-b521-612fa6f81674",
-    "firstName": "Mohammed",
-    "lastName": "Rahmani",
+    "firstName": "Zakaria",
+    "lastName": "Khalil",
     "age": 26,
     "position": "ST",
     "altPositions": [],
@@ -9522,8 +9522,8 @@
   },
   {
     "id": "e950d4b8-80db-4f4b-bbf6-338cb35554a6",
-    "firstName": "Ahmed",
-    "lastName": "Farouk",
+    "firstName": "Mido",
+    "lastName": "Mahmoud",
     "age": 33,
     "position": "CB",
     "altPositions": [
@@ -9566,8 +9566,8 @@
   },
   {
     "id": "2e1640af-3cd7-44e9-84cf-6f158496a6ae",
-    "firstName": "Ghassan",
-    "lastName": "Nasri",
+    "firstName": "Driss",
+    "lastName": "Hamdi",
     "age": 35,
     "position": "CM",
     "altPositions": [],
@@ -9608,8 +9608,8 @@
   },
   {
     "id": "5fdabf81-f4d2-4fcb-8d98-7701c5eaf65b",
-    "firstName": "Hamza",
-    "lastName": "El-Bakri",
+    "firstName": "Walid",
+    "lastName": "Salem",
     "age": 29,
     "position": "GK",
     "altPositions": [],
@@ -9657,8 +9657,8 @@
   },
   {
     "id": "2cdf7482-e2ea-4970-839b-51b5b1d65867",
-    "firstName": "Lounes",
-    "lastName": "Al-Sharif",
+    "firstName": "Ahmed",
+    "lastName": "Farouk",
     "age": 25,
     "position": "CB",
     "altPositions": [
@@ -9702,8 +9702,8 @@
   },
   {
     "id": "160ba26d-8dd4-4653-87d8-0676c09da6bb",
-    "firstName": "Faisal",
-    "lastName": "Hassan",
+    "firstName": "Mohammed",
+    "lastName": "Al-Ahmad",
     "age": 23,
     "position": "CM",
     "altPositions": [],
@@ -9744,8 +9744,8 @@
   },
   {
     "id": "331607f1-03a4-47f0-956f-5a4d4b008f1c",
-    "firstName": "Jad",
-    "lastName": "Rachidi",
+    "firstName": "Alaa",
+    "lastName": "El-Khouly",
     "age": 33,
     "position": "CM",
     "altPositions": [
@@ -9789,8 +9789,8 @@
   },
   {
     "id": "47b045f1-b647-46ea-86ea-a5883bb36e5c",
-    "firstName": "Mahmoud",
-    "lastName": "El-Amrani",
+    "firstName": "Hani",
+    "lastName": "Shaker",
     "age": 24,
     "position": "CM",
     "altPositions": [],
@@ -9831,8 +9831,8 @@
   },
   {
     "id": "740efd65-f6c9-4543-81d1-739e33d99fa2",
-    "firstName": "Nizar",
-    "lastName": "Rachidi",
+    "firstName": "Abdelrahman",
+    "lastName": "Salem",
     "age": 22,
     "position": "LB",
     "altPositions": [
@@ -9876,8 +9876,8 @@
   },
   {
     "id": "8e1f4961-2425-49ec-ba8a-ad32ac7e425f",
-    "firstName": "Ahmed",
-    "lastName": "Maraghi",
+    "firstName": "Alaa",
+    "lastName": "Zaki",
     "age": 27,
     "position": "RB",
     "altPositions": [
@@ -9920,8 +9920,8 @@
   },
   {
     "id": "9be35686-e918-4653-9c72-64a3d7ad10bf",
-    "firstName": "Nizar",
-    "lastName": "Najjar",
+    "firstName": "Nasser",
+    "lastName": "Marzouq",
     "age": 20,
     "position": "LM",
     "altPositions": [],
@@ -9962,8 +9962,8 @@
   },
   {
     "id": "0328cd64-bc77-40c6-8520-5c4875af297a",
-    "firstName": "Khalid",
-    "lastName": "Sabbagh",
+    "firstName": "Adam",
+    "lastName": "Hassan",
     "age": 23,
     "position": "GK",
     "altPositions": [],
@@ -10011,8 +10011,8 @@
   },
   {
     "id": "e536af97-a1cb-4de6-8c12-e26784c35c31",
-    "firstName": "Saad",
-    "lastName": "Khoury",
+    "firstName": "Chakib",
+    "lastName": "Bouazizi",
     "age": 25,
     "position": "CB",
     "altPositions": [
@@ -10055,8 +10055,8 @@
   },
   {
     "id": "32ec1b09-f2b0-4b58-b32d-0a91f60176dc",
-    "firstName": "Ghassan",
-    "lastName": "Hakim",
+    "firstName": "Hussein",
+    "lastName": "El-Bakri",
     "age": 28,
     "position": "RB",
     "altPositions": [],
@@ -10097,8 +10097,8 @@
   },
   {
     "id": "e03cc240-c282-4682-9031-f71c2c1ef2a9",
-    "firstName": "Saad",
-    "lastName": "Ghanem",
+    "firstName": "Mounir",
+    "lastName": "Khalifa",
     "age": 28,
     "position": "CB",
     "altPositions": [],
@@ -10139,8 +10139,8 @@
   },
   {
     "id": "ba1404b5-b18a-4fc0-8f0c-4442a32f0960",
-    "firstName": "Idris",
-    "lastName": "Idrissi",
+    "firstName": "Dawit",
+    "lastName": "Bilal",
     "age": 24,
     "position": "RW",
     "altPositions": [],
@@ -10181,8 +10181,8 @@
   },
   {
     "id": "8f6d78b9-f4d5-429f-a6c6-30df8e8f7840",
-    "firstName": "Marwan",
-    "lastName": "Mehdi",
+    "firstName": "Hamza",
+    "lastName": "Khalil",
     "age": 22,
     "position": "GK",
     "altPositions": [],
@@ -10230,8 +10230,8 @@
   },
   {
     "id": "dd42f303-2eaf-4e5e-8e20-2db04539456f",
-    "firstName": "Kacem",
-    "lastName": "Bouazizi",
+    "firstName": "Alaa",
+    "lastName": "Darwish",
     "age": 28,
     "position": "CB",
     "altPositions": [],
@@ -10272,8 +10272,8 @@
   },
   {
     "id": "7c6c2490-873e-494a-b4e4-3aa0a95ac741",
-    "firstName": "Kacem",
-    "lastName": "Bouazizi",
+    "firstName": "Mustapha",
+    "lastName": "Zidane",
     "age": 28,
     "position": "GK",
     "altPositions": [],
@@ -10321,8 +10321,8 @@
   },
   {
     "id": "3fd64111-08bd-4aa1-b9dd-fdc415c587b1",
-    "firstName": "Fouad",
-    "lastName": "El-Amrani",
+    "firstName": "Wael",
+    "lastName": "Youssef",
     "age": 24,
     "position": "CM",
     "altPositions": [],
@@ -10363,8 +10363,8 @@
   },
   {
     "id": "dc8aae26-4bb7-4e99-b19c-9662ac8af126",
-    "firstName": "Tarek",
-    "lastName": "Hammoud",
+    "firstName": "Ramy",
+    "lastName": "Tawfik",
     "age": 27,
     "position": "LB",
     "altPositions": [],
@@ -10405,8 +10405,8 @@
   },
   {
     "id": "71155c4b-4905-4a36-b928-4bfdf978ac05",
-    "firstName": "Jamal",
-    "lastName": "El-Bakri",
+    "firstName": "Lakhdar",
+    "lastName": "Berber",
     "age": 26,
     "position": "LW",
     "altPositions": [],
@@ -10447,8 +10447,8 @@
   },
   {
     "id": "04e7c741-9023-4865-8943-1d8132d6ba96",
-    "firstName": "Chakib",
-    "lastName": "Najjar",
+    "firstName": "Amir",
+    "lastName": "Darwish",
     "age": 26,
     "position": "CB",
     "altPositions": [],
@@ -10489,8 +10489,8 @@
   },
   {
     "id": "edb036ee-bc5b-4549-9abd-54235e8459a0",
-    "firstName": "Yassine",
-    "lastName": "Tahiri",
+    "firstName": "Mahmoud",
+    "lastName": "Naguib",
     "age": 33,
     "position": "CM",
     "altPositions": [
@@ -10533,8 +10533,8 @@
   },
   {
     "id": "c36985dc-e884-4f6d-a1aa-7c0717f44ecd",
-    "firstName": "Ghassan",
-    "lastName": "Hariri",
+    "firstName": "Hossam",
+    "lastName": "El-Sayed",
     "age": 31,
     "position": "CB",
     "altPositions": [
@@ -10577,8 +10577,8 @@
   },
   {
     "id": "c84eec0d-8272-472f-89f8-07a71ef1864e",
-    "firstName": "Soufiane",
-    "lastName": "Karimi",
+    "firstName": "Rayan",
+    "lastName": "Khelil",
     "age": 21,
     "position": "CB",
     "altPositions": [],
@@ -10619,8 +10619,8 @@
   },
   {
     "id": "ab853d1b-c56d-40d3-b6b4-0497c21b1fe9",
-    "firstName": "Tarek",
-    "lastName": "Sabbagh",
+    "firstName": "Hussein",
+    "lastName": "Zaki",
     "age": 27,
     "position": "LW",
     "altPositions": [],
@@ -10661,8 +10661,8 @@
   },
   {
     "id": "24cdd106-96ca-4a0c-b8b8-3c98733cd381",
-    "firstName": "Iyad",
-    "lastName": "Al-Rashid",
+    "firstName": "Jamal",
+    "lastName": "Al-Sharif",
     "age": 24,
     "position": "RM",
     "altPositions": [
@@ -10705,8 +10705,8 @@
   },
   {
     "id": "aab218af-9434-4ada-a384-68b4140237a4",
-    "firstName": "Chakib",
-    "lastName": "Salah",
+    "firstName": "Yasser",
+    "lastName": "Gomaa",
     "age": 32,
     "position": "DM",
     "altPositions": [],
@@ -10747,8 +10747,8 @@
   },
   {
     "id": "ab1c1d9b-111c-4868-a45b-ecb022f29be1",
-    "firstName": "Yacine",
-    "lastName": "El-Maghrebi",
+    "firstName": "Khaled",
+    "lastName": "Sharif",
     "age": 24,
     "position": "GK",
     "altPositions": [],
@@ -10796,8 +10796,8 @@
   },
   {
     "id": "935e4e9a-b8e6-4409-99ad-7f224f7b4593",
-    "firstName": "Mahmoud",
-    "lastName": "Halabi",
+    "firstName": "Nordine",
+    "lastName": "Lounès",
     "age": 19,
     "position": "RW",
     "altPositions": [
@@ -10841,8 +10841,8 @@
   },
   {
     "id": "6063525b-4fb1-42d9-a78f-da40597b1a9a",
-    "firstName": "Driss",
-    "lastName": "Othman",
+    "firstName": "Amr",
+    "lastName": "El-Sayed",
     "age": 23,
     "position": "AM",
     "altPositions": [
@@ -10885,8 +10885,8 @@
   },
   {
     "id": "3d43e4bc-c697-475c-9fae-2028a77b1496",
-    "firstName": "Habib",
-    "lastName": "Saad",
+    "firstName": "Abdelrahman",
+    "lastName": "Salem",
     "age": 31,
     "position": "CM",
     "altPositions": [],
@@ -10927,8 +10927,8 @@
   },
   {
     "id": "e1629c81-2ae9-41b8-9f1e-05aa7ce1edfc",
-    "firstName": "Brahim",
-    "lastName": "Zerouali",
+    "firstName": "Mohamed",
+    "lastName": "Lamlom",
     "age": 23,
     "position": "CM",
     "altPositions": [],
@@ -10969,8 +10969,8 @@
   },
   {
     "id": "42c732b0-99b1-4fc6-b441-7f1649b7f174",
-    "firstName": "Saad",
-    "lastName": "El-Masri",
+    "firstName": "Rachid",
+    "lastName": "El-Amrani",
     "age": 28,
     "position": "LW",
     "altPositions": [
@@ -11013,8 +11013,8 @@
   },
   {
     "id": "1599e6a2-c19d-4085-9097-6b89e10174af",
-    "firstName": "Ali",
-    "lastName": "El-Masri",
+    "firstName": "Bassem",
+    "lastName": "Ibrahim",
     "age": 28,
     "position": "RB",
     "altPositions": [],
@@ -11055,8 +11055,8 @@
   },
   {
     "id": "96f46d61-c135-45d3-9b2b-f9fdfa52a5ce",
-    "firstName": "Wassim",
-    "lastName": "Salhi",
+    "firstName": "Omar",
+    "lastName": "Lotfy",
     "age": 18,
     "position": "LM",
     "altPositions": [],
@@ -11097,8 +11097,8 @@
   },
   {
     "id": "d6fb7cb0-3c07-4900-9f62-826a52ba705d",
-    "firstName": "Ali",
-    "lastName": "Al-Ahmad",
+    "firstName": "Omar",
+    "lastName": "Naguib",
     "age": 20,
     "position": "CM",
     "altPositions": [],
@@ -11139,8 +11139,8 @@
   },
   {
     "id": "b69ad98f-b037-423c-a96b-e66607f2b6f1",
-    "firstName": "Hassan",
-    "lastName": "Nasri",
+    "firstName": "Imad",
+    "lastName": "Fadlallah",
     "age": 29,
     "position": "DM",
     "altPositions": [],
@@ -11181,8 +11181,8 @@
   },
   {
     "id": "311eee77-d9dd-4795-9ad8-6c2f80990ed2",
-    "firstName": "Kacem",
-    "lastName": "El-Masri",
+    "firstName": "Khalid",
+    "lastName": "Salah",
     "age": 26,
     "position": "CB",
     "altPositions": [
@@ -11225,8 +11225,8 @@
   },
   {
     "id": "55385867-2c2f-43f4-9d80-5f91828fc811",
-    "firstName": "Nabil",
-    "lastName": "El-Sayed",
+    "firstName": "Adel",
+    "lastName": "Ezzat",
     "age": 20,
     "position": "ST",
     "altPositions": [],
@@ -11267,8 +11267,8 @@
   },
   {
     "id": "158d8c28-5b9f-4e5b-817f-32ec086be107",
-    "firstName": "Hatem",
-    "lastName": "Bouazizi",
+    "firstName": "Mahmoud",
+    "lastName": "Othman",
     "age": 30,
     "position": "RB",
     "altPositions": [],
@@ -11309,8 +11309,8 @@
   },
   {
     "id": "c712cf6a-8136-4c91-a78b-27ae791fec4d",
-    "firstName": "Zakaria",
-    "lastName": "Hassan",
+    "firstName": "Dima",
+    "lastName": "Lahoud",
     "age": 26,
     "position": "CB",
     "altPositions": [],
@@ -11351,8 +11351,8 @@
   },
   {
     "id": "8328640a-2e6e-49c6-9460-f5e2ff73d402",
-    "firstName": "Chadi",
-    "lastName": "Zerouali",
+    "firstName": "Hossam",
+    "lastName": "Gaber",
     "age": 23,
     "position": "ST",
     "altPositions": [],
@@ -11393,8 +11393,8 @@
   },
   {
     "id": "a093f48f-183c-4920-b9f9-14a25345837a",
-    "firstName": "Karim",
-    "lastName": "Lakhdar",
+    "firstName": "Zaki",
+    "lastName": "Nabil",
     "age": 28,
     "position": "CM",
     "altPositions": [],
@@ -11435,8 +11435,8 @@
   },
   {
     "id": "98d7bbab-42c4-419d-941e-1ef97446ea1f",
-    "firstName": "Marwan",
-    "lastName": "El-Saadi",
+    "firstName": "Islam",
+    "lastName": "Ezzat",
     "age": 25,
     "position": "CB",
     "altPositions": [],
@@ -11477,8 +11477,8 @@
   },
   {
     "id": "4571b027-de41-4422-adc6-e39d0149fa8c",
-    "firstName": "Anas",
-    "lastName": "Farouk",
+    "firstName": "Gamal",
+    "lastName": "Zaghloul",
     "age": 26,
     "position": "CM",
     "altPositions": [],
@@ -11519,8 +11519,8 @@
   },
   {
     "id": "05ff6bdb-75b5-4630-ba04-097fd1620b51",
-    "firstName": "Hatem",
-    "lastName": "Salem",
+    "firstName": "Alaa",
+    "lastName": "El-Din",
     "age": 32,
     "position": "CB",
     "altPositions": [],
@@ -11561,8 +11561,8 @@
   },
   {
     "id": "d987d6b3-897a-4aa5-9e67-be79eeec6dd4",
-    "firstName": "Zakaria",
-    "lastName": "Hariri",
+    "firstName": "Amr",
+    "lastName": "Nasr",
     "age": 18,
     "position": "CB",
     "altPositions": [],
@@ -11603,8 +11603,8 @@
   },
   {
     "id": "214111ac-6c5b-47b2-b757-c2422d34a4ac",
-    "firstName": "Marwan",
-    "lastName": "El-Amrani",
+    "firstName": "Ahmed",
+    "lastName": "Ezzat",
     "age": 30,
     "position": "CM",
     "altPositions": [
@@ -11647,8 +11647,8 @@
   },
   {
     "id": "89f3ff0c-dca7-4701-a295-552b9a8fcfc3",
-    "firstName": "Sami",
-    "lastName": "Othman",
+    "firstName": "Sadek",
+    "lastName": "Hariri",
     "age": 28,
     "position": "ST",
     "altPositions": [],
@@ -11689,8 +11689,8 @@
   },
   {
     "id": "87a28819-83b4-43c7-90db-52648971d028",
-    "firstName": "Chadi",
-    "lastName": "Al-Rashid",
+    "firstName": "Hassan",
+    "lastName": "El-Shafei",
     "age": 23,
     "position": "CB",
     "altPositions": [],
@@ -11731,8 +11731,8 @@
   },
   {
     "id": "7b44d0f0-8311-4238-8bc9-0614173229ce",
-    "firstName": "Ali",
-    "lastName": "Farouk",
+    "firstName": "Fethi",
+    "lastName": "Rahmani",
     "age": 21,
     "position": "CM",
     "altPositions": [],
@@ -11773,8 +11773,8 @@
   },
   {
     "id": "52a454a3-b7b5-4396-b444-334daf5ad37e",
-    "firstName": "Marwan",
-    "lastName": "Tabet",
+    "firstName": "Magdy",
+    "lastName": "Nasr",
     "age": 26,
     "position": "LM",
     "altPositions": [],
@@ -11815,8 +11815,8 @@
   },
   {
     "id": "495177f5-221c-4c1f-b24a-bea1d6422ac3",
-    "firstName": "Mahmoud",
-    "lastName": "Hamdi",
+    "firstName": "Hussein",
+    "lastName": "Marzouq",
     "age": 24,
     "position": "LB",
     "altPositions": [],
@@ -11857,8 +11857,8 @@
   },
   {
     "id": "af07fcc3-a0e5-42ea-8c7f-78c8ff61e902",
-    "firstName": "Zied",
-    "lastName": "Sleiman",
+    "firstName": "Karim",
+    "lastName": "El-Baz",
     "age": 32,
     "position": "DM",
     "altPositions": [],
@@ -11899,8 +11899,8 @@
   },
   {
     "id": "45c54192-9691-4007-b681-befb290dcc93",
-    "firstName": "Adil",
-    "lastName": "Ali",
+    "firstName": "Ramadan",
+    "lastName": "Youssef",
     "age": 29,
     "position": "RB",
     "altPositions": [
@@ -11943,8 +11943,8 @@
   },
   {
     "id": "bf4c087e-2427-4128-a23c-032b8f9a38cc",
-    "firstName": "Amir",
-    "lastName": "El-Amrani",
+    "firstName": "Rachid",
+    "lastName": "Hassani",
     "age": 25,
     "position": "RM",
     "altPositions": [],
@@ -11985,8 +11985,8 @@
   },
   {
     "id": "2c3dc9ec-8765-49c7-932e-ff22066bd620",
-    "firstName": "Ali",
-    "lastName": "Karimi",
+    "firstName": "Rachid",
+    "lastName": "Ghanem",
     "age": 26,
     "position": "CB",
     "altPositions": [],
@@ -12027,8 +12027,8 @@
   },
   {
     "id": "bd325537-22ed-4703-ae25-67424396c727",
-    "firstName": "Khalid",
-    "lastName": "Yacoubi",
+    "firstName": "Ayman",
+    "lastName": "Ragab",
     "age": 24,
     "position": "CM",
     "altPositions": [
@@ -12072,8 +12072,8 @@
   },
   {
     "id": "5106a461-aa5b-4eee-b393-216e444a2899",
-    "firstName": "Saad",
-    "lastName": "Mohamed",
+    "firstName": "Abdelrahman",
+    "lastName": "Naguib",
     "age": 26,
     "position": "ST",
     "altPositions": [
@@ -12116,8 +12116,8 @@
   },
   {
     "id": "be12bf5f-8801-45c6-be73-980c4b24f0d1",
-    "firstName": "Hussein",
-    "lastName": "El-Sayed",
+    "firstName": "Nasr",
+    "lastName": "Deng",
     "age": 31,
     "position": "AM",
     "altPositions": [],
@@ -12158,8 +12158,8 @@
   },
   {
     "id": "c848c504-ee4d-49b0-a6e1-58b4af0f6db8",
-    "firstName": "Khaled",
-    "lastName": "Al-Ahmad",
+    "firstName": "Abdelhak",
+    "lastName": "Lounès",
     "age": 30,
     "position": "CM",
     "altPositions": [],
@@ -12200,8 +12200,8 @@
   },
   {
     "id": "07aeab5b-061d-4600-8666-34b83f575da1",
-    "firstName": "Reda",
-    "lastName": "Mahmoud",
+    "firstName": "Mounir",
+    "lastName": "Salah",
     "age": 31,
     "position": "GK",
     "altPositions": [],
@@ -12249,8 +12249,8 @@
   },
   {
     "id": "0e59a6eb-b052-4fa8-a8a9-c7bbc1f0b178",
-    "firstName": "Khalid",
-    "lastName": "Khoury",
+    "firstName": "Raouf",
+    "lastName": "Zaghloul",
     "age": 34,
     "position": "CM",
     "altPositions": [
@@ -12293,8 +12293,8 @@
   },
   {
     "id": "b3d0e336-6731-4f65-aea3-0073c12b67e4",
-    "firstName": "Reda",
-    "lastName": "Rachidi",
+    "firstName": "Chadi",
+    "lastName": "Soufi",
     "age": 22,
     "position": "CB",
     "altPositions": [
@@ -12337,8 +12337,8 @@
   },
   {
     "id": "b630f961-cda2-401c-afb0-5073fd2e11dd",
-    "firstName": "Mahmoud",
-    "lastName": "Aboud",
+    "firstName": "Tarek",
+    "lastName": "Ezzat",
     "age": 20,
     "position": "GK",
     "altPositions": [],
@@ -12386,8 +12386,8 @@
   },
   {
     "id": "fa242ee5-2542-46e3-81d8-4f47d49a805c",
-    "firstName": "Reda",
-    "lastName": "El-Masri",
+    "firstName": "Lakhdar",
+    "lastName": "Sahraoui",
     "age": 29,
     "position": "RB",
     "altPositions": [],
@@ -12428,8 +12428,8 @@
   },
   {
     "id": "a9faf08b-d219-4095-a2b3-b07acf69cdf2",
-    "firstName": "Bilal",
-    "lastName": "Mokhtari",
+    "firstName": "Oussama",
+    "lastName": "Zitoun",
     "age": 27,
     "position": "RW",
     "altPositions": [],
@@ -12470,8 +12470,8 @@
   },
   {
     "id": "070e616e-28a8-4d9b-a49e-a89919a8cfa2",
-    "firstName": "Salim",
-    "lastName": "Mohamed",
+    "firstName": "Hani",
+    "lastName": "Tantawi",
     "age": 31,
     "position": "DM",
     "altPositions": [],
@@ -12512,8 +12512,8 @@
   },
   {
     "id": "c43eee9c-a27e-41b0-b4d8-b6edb35b295b",
-    "firstName": "Anas",
-    "lastName": "Sabbagh",
+    "firstName": "Walid",
+    "lastName": "Haddad",
     "age": 24,
     "position": "DM",
     "altPositions": [
@@ -12556,8 +12556,8 @@
   },
   {
     "id": "02a4c155-5bef-4862-ab5b-8767f6c817fb",
-    "firstName": "Imad",
-    "lastName": "Mokhtari",
+    "firstName": "Abdelrahman",
+    "lastName": "El-Sayed",
     "age": 25,
     "position": "GK",
     "altPositions": [],
@@ -12605,8 +12605,8 @@
   },
   {
     "id": "1ccda95b-b59c-4a39-9312-46891e2640c7",
-    "firstName": "Ghassan",
-    "lastName": "Khoury",
+    "firstName": "Imad",
+    "lastName": "Qasim",
     "age": 23,
     "position": "LB",
     "altPositions": [],
@@ -12647,8 +12647,8 @@
   },
   {
     "id": "d7071496-439c-4fa5-acfe-7b2231e2cc8c",
-    "firstName": "Khaled",
-    "lastName": "Idrissi",
+    "firstName": "Idris",
+    "lastName": "Mehdi",
     "age": 25,
     "position": "ST",
     "altPositions": [],
@@ -12689,8 +12689,8 @@
   },
   {
     "id": "1314d620-8ec0-46ff-a640-4f53f7224440",
-    "firstName": "Sami",
-    "lastName": "Hassan",
+    "firstName": "Lounes",
+    "lastName": "Mehdi",
     "age": 33,
     "position": "CB",
     "altPositions": [],
@@ -12731,8 +12731,8 @@
   },
   {
     "id": "36c1ff1d-9dfc-4ab5-ad0b-2ec56f73de71",
-    "firstName": "Ghassan",
-    "lastName": "Ibrahim",
+    "firstName": "Tarek",
+    "lastName": "Badawi",
     "age": 18,
     "position": "RB",
     "altPositions": [],
@@ -12773,8 +12773,8 @@
   },
   {
     "id": "0844ce1f-ea1f-4a95-901e-05e2fa8336d1",
-    "firstName": "Tarek",
-    "lastName": "Saad",
+    "firstName": "Zahran",
+    "lastName": "Tantawi",
     "age": 31,
     "position": "GK",
     "altPositions": [],
@@ -12822,8 +12822,8 @@
   },
   {
     "id": "38e52dc0-4392-417c-80d3-4d11a3be6869",
-    "firstName": "Zakaria",
-    "lastName": "Tlemcani",
+    "firstName": "Iyad",
+    "lastName": "Sabbah",
     "age": 27,
     "position": "CM",
     "altPositions": [],
@@ -12864,8 +12864,8 @@
   },
   {
     "id": "e6f4124f-feb4-4123-af86-eaa67af98faf",
-    "firstName": "Chakib",
-    "lastName": "Aboud",
+    "firstName": "Cherif",
+    "lastName": "Mansouri",
     "age": 24,
     "position": "RB",
     "altPositions": [],
@@ -12906,8 +12906,8 @@
   },
   {
     "id": "c5eecee1-af35-4a03-aa4f-5120ced09d16",
-    "firstName": "Fouad",
-    "lastName": "Nasser",
+    "firstName": "Mostafa",
+    "lastName": "Najjar",
     "age": 24,
     "position": "RB",
     "altPositions": [],
@@ -12948,8 +12948,8 @@
   },
   {
     "id": "eb8cf677-e27e-4a9a-836d-f08bb97dcb38",
-    "firstName": "Ghassan",
-    "lastName": "Qasim",
+    "firstName": "Emad",
+    "lastName": "Mahmoud",
     "age": 22,
     "position": "CB",
     "altPositions": [],
@@ -12990,8 +12990,8 @@
   },
   {
     "id": "d8a2dfee-9d64-493a-abbc-df222ec57a0a",
-    "firstName": "Karim",
-    "lastName": "Ali",
+    "firstName": "Wassim",
+    "lastName": "Hakim",
     "age": 21,
     "position": "CM",
     "altPositions": [
@@ -13034,8 +13034,8 @@
   },
   {
     "id": "1c0cba1d-a49c-4398-8b34-c6522555a85d",
-    "firstName": "Driss",
-    "lastName": "Salhi",
+    "firstName": "Idris",
+    "lastName": "Soufi",
     "age": 28,
     "position": "GK",
     "altPositions": [],
@@ -13083,8 +13083,8 @@
   },
   {
     "id": "fd7de3ce-25ad-4830-aa8d-8b5a3bfc90d1",
-    "firstName": "Hatem",
-    "lastName": "Tahiri",
+    "firstName": "Achraf",
+    "lastName": "Mostafa",
     "age": 23,
     "position": "CM",
     "altPositions": [],
@@ -13125,8 +13125,8 @@
   },
   {
     "id": "23da4e6a-07a4-408f-8b35-28703947ec78",
-    "firstName": "Zakaria",
-    "lastName": "Al-Ahmad",
+    "firstName": "Sadek",
+    "lastName": "Rachidi",
     "age": 24,
     "position": "LB",
     "altPositions": [
@@ -13169,8 +13169,8 @@
   },
   {
     "id": "965c1e5e-983e-4fc3-b9b4-5256d4d0af61",
-    "firstName": "Salim",
-    "lastName": "Mehdi",
+    "firstName": "Zied",
+    "lastName": "El-Masri",
     "age": 18,
     "position": "DM",
     "altPositions": [],
@@ -13211,8 +13211,8 @@
   },
   {
     "id": "2d2e90b5-5f2e-4bfe-af89-f8b62db8d622",
-    "firstName": "Rami",
-    "lastName": "Mokhtari",
+    "firstName": "Habib",
+    "lastName": "Tabet",
     "age": 24,
     "position": "RB",
     "altPositions": [],
@@ -13253,8 +13253,8 @@
   },
   {
     "id": "f3539511-c6ff-42bc-a687-6b9f578f52d2",
-    "firstName": "Hussein",
-    "lastName": "Al-Rashid",
+    "firstName": "Zaki",
+    "lastName": "Ismail",
     "age": 27,
     "position": "RM",
     "altPositions": [],
@@ -13295,8 +13295,8 @@
   },
   {
     "id": "d7ab4b69-d79e-42de-8779-e6b08f742277",
-    "firstName": "Badr",
-    "lastName": "El-Khoury",
+    "firstName": "Amr",
+    "lastName": "Ismail",
     "age": 28,
     "position": "CB",
     "altPositions": [
@@ -13339,8 +13339,8 @@
   },
   {
     "id": "114d0587-1da9-40d3-8fbd-02f48ebad6ce",
-    "firstName": "Salim",
-    "lastName": "El-Khoury",
+    "firstName": "Raouf",
+    "lastName": "Lamlom",
     "age": 27,
     "position": "ST",
     "altPositions": [],
@@ -13381,8 +13381,8 @@
   },
   {
     "id": "fe95688e-1187-4a27-9422-1bdb2c48e568",
-    "firstName": "Rami",
-    "lastName": "Hussein",
+    "firstName": "Salah",
+    "lastName": "Hamdan",
     "age": 25,
     "position": "CB",
     "altPositions": [],
@@ -13423,8 +13423,8 @@
   },
   {
     "id": "58fddebb-0b4c-44fa-9c26-9659995e2182",
-    "firstName": "Jad",
-    "lastName": "Sleiman",
+    "firstName": "Walid",
+    "lastName": "Slimani",
     "age": 30,
     "position": "CB",
     "altPositions": [],
@@ -13465,8 +13465,8 @@
   },
   {
     "id": "16c65b71-fb58-4e95-a4ba-2c1ee6079633",
-    "firstName": "Nizar",
-    "lastName": "Mansour",
+    "firstName": "Bassem",
+    "lastName": "Salem",
     "age": 30,
     "position": "LW",
     "altPositions": [],
@@ -13507,8 +13507,8 @@
   },
   {
     "id": "51cf728a-e491-43fc-bfdb-2889ba84463d",
-    "firstName": "Othmane",
-    "lastName": "Jabbari",
+    "firstName": "Raouf",
+    "lastName": "Tawfik",
     "age": 35,
     "position": "RW",
     "altPositions": [],
@@ -13549,8 +13549,8 @@
   },
   {
     "id": "ed16332a-25e3-4919-b479-a6810362efb9",
-    "firstName": "Faisal",
-    "lastName": "Rahmani",
+    "firstName": "Essam",
+    "lastName": "Lamlom",
     "age": 25,
     "position": "LW",
     "altPositions": [],
@@ -13591,8 +13591,8 @@
   },
   {
     "id": "a3032480-eb83-4458-a706-2cbc2f4e51a3",
-    "firstName": "Adil",
-    "lastName": "Khoury",
+    "firstName": "Badr",
+    "lastName": "Hussein",
     "age": 34,
     "position": "CM",
     "altPositions": [
@@ -13635,8 +13635,8 @@
   },
   {
     "id": "b3a2620c-a849-4292-90ea-f332d0bfbe67",
-    "firstName": "Sadek",
-    "lastName": "Mehdi",
+    "firstName": "Hassan",
+    "lastName": "Morsy",
     "age": 31,
     "position": "CB",
     "altPositions": [],
@@ -13677,8 +13677,8 @@
   },
   {
     "id": "b725552f-cffe-445f-80da-7b684ca9eed9",
-    "firstName": "Walid",
-    "lastName": "Mehdi",
+    "firstName": "Khaled",
+    "lastName": "Raouf",
     "age": 25,
     "position": "DM",
     "altPositions": [
@@ -13722,8 +13722,8 @@
   },
   {
     "id": "f4af7dd6-98f1-430c-982e-09fc6c62a57e",
-    "firstName": "Marwan",
-    "lastName": "Shukri",
+    "firstName": "Saad",
+    "lastName": "Nasri",
     "age": 28,
     "position": "GK",
     "altPositions": [],
@@ -13771,8 +13771,8 @@
   },
   {
     "id": "3c23c21b-0a44-41bc-ace0-f40960116a4b",
-    "firstName": "Hatem",
-    "lastName": "Maraghi",
+    "firstName": "Ayoub",
+    "lastName": "Zidane",
     "age": 34,
     "position": "CB",
     "altPositions": [
@@ -13815,8 +13815,8 @@
   },
   {
     "id": "ddd66635-5ad0-4e8d-805f-bf50ef50087f",
-    "firstName": "Sadek",
-    "lastName": "Hassan",
+    "firstName": "Bachir",
+    "lastName": "Jabbari",
     "age": 27,
     "position": "LM",
     "altPositions": [],
@@ -13857,8 +13857,8 @@
   },
   {
     "id": "c5e08deb-cf33-4558-86cb-0f5a4e26f5a3",
-    "firstName": "Chakib",
-    "lastName": "Othman",
+    "firstName": "Fouad",
+    "lastName": "Rachidi",
     "age": 23,
     "position": "LW",
     "altPositions": [],
@@ -13899,8 +13899,8 @@
   },
   {
     "id": "6551c032-fe3f-4a70-85d6-03ba9db54b5e",
-    "firstName": "Amir",
-    "lastName": "Shukri",
+    "firstName": "Elias",
+    "lastName": "Bou-Saab",
     "age": 32,
     "position": "ST",
     "altPositions": [],
@@ -13941,8 +13941,8 @@
   },
   {
     "id": "4668f829-8d76-419a-bf1f-d6e54e986bf6",
-    "firstName": "Sadek",
-    "lastName": "Ghanem",
+    "firstName": "Hussein",
+    "lastName": "Hassani",
     "age": 25,
     "position": "LM",
     "altPositions": [],
@@ -13984,7 +13984,7 @@
   {
     "id": "da2d833c-bcb5-4469-bdc6-b326145dccec",
     "firstName": "Mostafa",
-    "lastName": "Othman",
+    "lastName": "Darwish",
     "age": 21,
     "position": "LW",
     "altPositions": [
@@ -14027,8 +14027,8 @@
   },
   {
     "id": "14552f61-c905-403b-955f-f40bf103e3f3",
-    "firstName": "Amir",
-    "lastName": "Khoury",
+    "firstName": "Pierre",
+    "lastName": "Itani",
     "age": 27,
     "position": "AM",
     "altPositions": [],
@@ -14069,8 +14069,8 @@
   },
   {
     "id": "6a59fce6-da25-4cd8-8a7d-bbbef8c64f1f",
-    "firstName": "Chadi",
-    "lastName": "Othman",
+    "firstName": "Bilal",
+    "lastName": "Aboud",
     "age": 25,
     "position": "CB",
     "altPositions": [],
@@ -14111,8 +14111,8 @@
   },
   {
     "id": "3e95035a-e5dc-4121-870a-bf17abcdb3b0",
-    "firstName": "Bachir",
-    "lastName": "Zahra",
+    "firstName": "Amir",
+    "lastName": "Gomaa",
     "age": 23,
     "position": "CB",
     "altPositions": [],
@@ -14153,8 +14153,8 @@
   },
   {
     "id": "3d3b077c-201d-4fad-b182-50f00796d27c",
-    "firstName": "Jihad",
-    "lastName": "Zerouali",
+    "firstName": "Gamal",
+    "lastName": "Bilal",
     "age": 27,
     "position": "LB",
     "altPositions": [],
@@ -14195,8 +14195,8 @@
   },
   {
     "id": "a2ee88c1-2e0f-44d5-b01c-2237b7997478",
-    "firstName": "Adel",
-    "lastName": "Bouazizi",
+    "firstName": "Ibrahim",
+    "lastName": "Mahmoud",
     "age": 33,
     "position": "GK",
     "altPositions": [],
@@ -14244,8 +14244,8 @@
   },
   {
     "id": "5d8c01d8-3a24-4d77-a399-9abac47ff4e0",
-    "firstName": "Hatem",
-    "lastName": "Tahiri",
+    "firstName": "Hani",
+    "lastName": "El-Masri",
     "age": 31,
     "position": "ST",
     "altPositions": [],
@@ -14286,8 +14286,8 @@
   },
   {
     "id": "fcd10c2a-7f81-4545-a4bb-361d4c8df3c1",
-    "firstName": "Mostafa",
-    "lastName": "Saad",
+    "firstName": "Mohamed",
+    "lastName": "El-Masri",
     "age": 30,
     "position": "LW",
     "altPositions": [],
@@ -14328,8 +14328,8 @@
   },
   {
     "id": "377f9ba9-23d6-4728-8b5c-e53d6693e23d",
-    "firstName": "Mostafa",
-    "lastName": "Mansour",
+    "firstName": "Saad",
+    "lastName": "Hakim",
     "age": 26,
     "position": "ST",
     "altPositions": [],
@@ -14370,8 +14370,8 @@
   },
   {
     "id": "4b68d67d-214b-4be4-8a7a-cf8854d6334c",
-    "firstName": "Salim",
-    "lastName": "Mehdi",
+    "firstName": "Faisal",
+    "lastName": "Jaber",
     "age": 21,
     "position": "DM",
     "altPositions": [],
@@ -14412,8 +14412,8 @@
   },
   {
     "id": "fe77627e-d463-40ed-b26c-50b3e2916898",
-    "firstName": "Tarek",
-    "lastName": "Idrissi",
+    "firstName": "Nabil",
+    "lastName": "Zitoun",
     "age": 24,
     "position": "LB",
     "altPositions": [],
@@ -14454,8 +14454,8 @@
   },
   {
     "id": "b2f6d103-63fd-4e5d-bf71-c074df941dbc",
-    "firstName": "Zakaria",
-    "lastName": "Hariri",
+    "firstName": "Ramadan",
+    "lastName": "Wahby",
     "age": 24,
     "position": "ST",
     "altPositions": [],
@@ -14496,8 +14496,8 @@
   },
   {
     "id": "aff7b68e-f32e-47eb-ab8e-96007c9b2a38",
-    "firstName": "Saad",
-    "lastName": "Tahiri",
+    "firstName": "Rabah",
+    "lastName": "Lado",
     "age": 31,
     "position": "GK",
     "altPositions": [],
@@ -14545,8 +14545,8 @@
   },
   {
     "id": "2fbf3afb-fcf6-49b1-a4f2-15cb038acc45",
-    "firstName": "Youssef",
-    "lastName": "Moussaoui",
+    "firstName": "Ayman",
+    "lastName": "El-Baz",
     "age": 23,
     "position": "CM",
     "altPositions": [],
@@ -14587,8 +14587,8 @@
   },
   {
     "id": "5dcda3d8-c0cd-4b65-92ac-b8512373cedb",
-    "firstName": "Fares",
-    "lastName": "Moussaoui",
+    "firstName": "Osama",
+    "lastName": "Kamal",
     "age": 20,
     "position": "DM",
     "altPositions": [
@@ -14631,8 +14631,8 @@
   },
   {
     "id": "73c5cdc1-4e27-466d-b97a-71c101b9b7be",
-    "firstName": "Fares",
-    "lastName": "Hassani",
+    "firstName": "Slimane",
+    "lastName": "Mebarek",
     "age": 31,
     "position": "LW",
     "altPositions": [],
@@ -14673,8 +14673,8 @@
   },
   {
     "id": "2bbafecf-5ddb-4151-a161-f163631cd7bb",
-    "firstName": "Khalid",
-    "lastName": "Mostafa",
+    "firstName": "Magdy",
+    "lastName": "Okasha",
     "age": 27,
     "position": "CM",
     "altPositions": [
@@ -14717,8 +14717,8 @@
   },
   {
     "id": "e869ee46-cb33-4794-b0bc-09940350a58f",
-    "firstName": "Tamer",
-    "lastName": "El-Amrani",
+    "firstName": "Abdallah",
+    "lastName": "Okasha",
     "age": 20,
     "position": "RM",
     "altPositions": [
@@ -14761,8 +14761,8 @@
   },
   {
     "id": "bf7ac140-e3d3-4886-bb11-5633d70c1136",
-    "firstName": "Tarek",
-    "lastName": "Othman",
+    "firstName": "Hassan",
+    "lastName": "El-Masri",
     "age": 29,
     "position": "AM",
     "altPositions": [
@@ -14805,8 +14805,8 @@
   },
   {
     "id": "8ad8f2c6-3986-4a2b-8885-a2e3fddc029c",
-    "firstName": "Brahim",
-    "lastName": "Aboud",
+    "firstName": "Amr",
+    "lastName": "Darwish",
     "age": 26,
     "position": "RB",
     "altPositions": [],
@@ -14847,8 +14847,8 @@
   },
   {
     "id": "7c375501-f612-4678-ae25-02680077c0f0",
-    "firstName": "Fares",
-    "lastName": "Najjar",
+    "firstName": "Mohamed",
+    "lastName": "Mohamed",
     "age": 33,
     "position": "ST",
     "altPositions": [],
@@ -14889,8 +14889,8 @@
   },
   {
     "id": "3e5dd26e-3d36-475f-bd4b-4c735e50157e",
-    "firstName": "Karim",
-    "lastName": "Al-Rashid",
+    "firstName": "Tamer",
+    "lastName": "El-Sayed",
     "age": 26,
     "position": "ST",
     "altPositions": [],
@@ -14931,8 +14931,8 @@
   },
   {
     "id": "5a465714-a45b-4697-9e3b-58e962298d03",
-    "firstName": "Zakaria",
-    "lastName": "Najjar",
+    "firstName": "Raouf",
+    "lastName": "Youssef",
     "age": 33,
     "position": "RM",
     "altPositions": [
@@ -14976,8 +14976,8 @@
   },
   {
     "id": "57b30995-4120-476b-8cf0-dcdcc772aabc",
-    "firstName": "Wassim",
-    "lastName": "Tahiri",
+    "firstName": "Hossam",
+    "lastName": "Youssef",
     "age": 21,
     "position": "LB",
     "altPositions": [],
@@ -15018,8 +15018,8 @@
   },
   {
     "id": "73bde3a1-6572-4445-a179-dc1d9a2117f6",
-    "firstName": "Aziz",
-    "lastName": "Mahmoud",
+    "firstName": "Bassem",
+    "lastName": "Shaker",
     "age": 25,
     "position": "ST",
     "altPositions": [],
@@ -15060,8 +15060,8 @@
   },
   {
     "id": "9e60b79a-5919-4803-b47d-d4d50b733d7a",
-    "firstName": "Nizar",
-    "lastName": "El-Hadj",
+    "firstName": "Nasr",
+    "lastName": "Rizeigat",
     "age": 35,
     "position": "GK",
     "altPositions": [],
@@ -15109,8 +15109,8 @@
   },
   {
     "id": "d58d678c-09a1-4228-923f-7ebfc1a2411c",
-    "firstName": "Mostafa",
-    "lastName": "Nasser",
+    "firstName": "Abdallah",
+    "lastName": "El-Meniawy",
     "age": 26,
     "position": "LW",
     "altPositions": [
@@ -15154,8 +15154,8 @@
   },
   {
     "id": "6fa45528-a84a-4ad1-b288-95b375b2d139",
-    "firstName": "Zakaria",
-    "lastName": "Hamdi",
+    "firstName": "Shawky",
+    "lastName": "Farouk",
     "age": 29,
     "position": "CM",
     "altPositions": [],
@@ -15196,8 +15196,8 @@
   },
   {
     "id": "39c4edd9-eab7-49cd-afdb-1ecf845f7893",
-    "firstName": "Oussama",
-    "lastName": "Sharif",
+    "firstName": "Mohammed",
+    "lastName": "Ghanem",
     "age": 30,
     "position": "CB",
     "altPositions": [],
@@ -15238,8 +15238,8 @@
   },
   {
     "id": "bd49da4a-6038-4642-848b-5c8ba1b402df",
-    "firstName": "Chadi",
-    "lastName": "Yacoubi",
+    "firstName": "Diaa",
+    "lastName": "El-Shafei",
     "age": 28,
     "position": "ST",
     "altPositions": [
@@ -15283,8 +15283,8 @@
   },
   {
     "id": "8cc35e22-428c-4f16-b922-3dcc27c1f584",
-    "firstName": "Nabil",
-    "lastName": "Tabet",
+    "firstName": "Fares",
+    "lastName": "Othman",
     "age": 29,
     "position": "CM",
     "altPositions": [],
@@ -15325,8 +15325,8 @@
   },
   {
     "id": "118f6d92-c868-4d1e-949b-1ac5a7250e59",
-    "firstName": "Jad",
-    "lastName": "Khalifa",
+    "firstName": "Majdi",
+    "lastName": "El-Nour",
     "age": 25,
     "position": "RW",
     "altPositions": [],
@@ -15367,8 +15367,8 @@
   },
   {
     "id": "1fe2ac16-ed19-4a78-b54c-dc83d2b23032",
-    "firstName": "Faisal",
-    "lastName": "Hariri",
+    "firstName": "Zaki",
+    "lastName": "Zaki",
     "age": 28,
     "position": "GK",
     "altPositions": [],
@@ -15416,8 +15416,8 @@
   },
   {
     "id": "37bbbeb9-a61d-434a-a55f-557c117fc1cb",
-    "firstName": "Mehdi",
-    "lastName": "Shukri",
+    "firstName": "Amir",
+    "lastName": "Salem",
     "age": 30,
     "position": "LM",
     "altPositions": [
@@ -15461,8 +15461,8 @@
   },
   {
     "id": "87a3d930-9ef4-44df-8e69-213fc8402fcd",
-    "firstName": "Mohammed",
-    "lastName": "Nasser",
+    "firstName": "Magdy",
+    "lastName": "Marzouq",
     "age": 22,
     "position": "CM",
     "altPositions": [],
@@ -15503,8 +15503,8 @@
   },
   {
     "id": "7c5243b1-20f9-45f3-bfd7-7ddbae792758",
-    "firstName": "Mehdi",
-    "lastName": "Hassani",
+    "firstName": "Karim",
+    "lastName": "Tahiri",
     "age": 22,
     "position": "ST",
     "altPositions": [],
@@ -15545,8 +15545,8 @@
   },
   {
     "id": "6e6d0294-72ce-4a5f-b190-10baea9b843c",
-    "firstName": "Rami",
-    "lastName": "Hamdi",
+    "firstName": "Ahmed",
+    "lastName": "Khalifa",
     "age": 29,
     "position": "ST",
     "altPositions": [],
@@ -15587,8 +15587,8 @@
   },
   {
     "id": "c60e6b6f-6392-498c-9faa-260aec258f8f",
-    "firstName": "Brahim",
-    "lastName": "Ibrahim",
+    "firstName": "Omar",
+    "lastName": "Mohamed",
     "age": 34,
     "position": "DM",
     "altPositions": [],
@@ -15629,8 +15629,8 @@
   },
   {
     "id": "4683ff8e-598f-401a-aa1b-7bf54b80f32d",
-    "firstName": "Hatem",
-    "lastName": "Zerouali",
+    "firstName": "Mostafa",
+    "lastName": "El-Desoky",
     "age": 30,
     "position": "DM",
     "altPositions": [],
@@ -15671,8 +15671,8 @@
   },
   {
     "id": "5e782f12-18e0-4b1f-bf51-a55d16cbc8b1",
-    "firstName": "Wassim",
-    "lastName": "Salem",
+    "firstName": "Ayman",
+    "lastName": "Othman",
     "age": 20,
     "position": "CM",
     "altPositions": [],
@@ -15713,8 +15713,8 @@
   },
   {
     "id": "9e7245a9-b3ce-476c-a30b-e771ab050d71",
-    "firstName": "Oussama",
-    "lastName": "Salhi",
+    "firstName": "Adel",
+    "lastName": "Gaber",
     "age": 29,
     "position": "AM",
     "altPositions": [
@@ -15757,8 +15757,8 @@
   },
   {
     "id": "de65bd7f-655f-47b2-be73-d1e7c6b334c2",
-    "firstName": "Tarek",
-    "lastName": "Mokhtari",
+    "firstName": "Raouf",
+    "lastName": "Hassan",
     "age": 28,
     "position": "DM",
     "altPositions": [],
@@ -15799,8 +15799,8 @@
   },
   {
     "id": "e303e9f5-6f51-4757-87cb-ddde11d8b606",
-    "firstName": "Chadi",
-    "lastName": "Idrissi",
+    "firstName": "Hossam",
+    "lastName": "Shaker",
     "age": 19,
     "position": "ST",
     "altPositions": [],
@@ -15841,8 +15841,8 @@
   },
   {
     "id": "31a662d2-757d-4518-a8e7-5669dd7815bd",
-    "firstName": "Yacine",
-    "lastName": "Shukri",
+    "firstName": "Hassan",
+    "lastName": "Qorany",
     "age": 24,
     "position": "RB",
     "altPositions": [],
@@ -15883,8 +15883,8 @@
   },
   {
     "id": "c02dd4cf-46cc-4c83-b824-63ac64dff7e9",
-    "firstName": "Zakaria",
-    "lastName": "El-Maghrebi",
+    "firstName": "Idris",
+    "lastName": "Soufi",
     "age": 26,
     "position": "CM",
     "altPositions": [],
@@ -15925,8 +15925,8 @@
   },
   {
     "id": "f664c79e-37f9-495a-a975-017c9866b8d4",
-    "firstName": "Ali",
-    "lastName": "Salem",
+    "firstName": "Bassem",
+    "lastName": "Othman",
     "age": 26,
     "position": "GK",
     "altPositions": [],
@@ -15974,8 +15974,8 @@
   },
   {
     "id": "09d58dce-e565-4b8b-b0fa-6f22bbe740e7",
-    "firstName": "Iyad",
-    "lastName": "Salem",
+    "firstName": "Nour",
+    "lastName": "Darwish",
     "age": 26,
     "position": "LB",
     "altPositions": [],
@@ -16016,8 +16016,8 @@
   },
   {
     "id": "52ffe6b3-27e6-4e22-986e-ce70debef41f",
-    "firstName": "Sami",
-    "lastName": "Tlemcani",
+    "firstName": "Raouf",
+    "lastName": "Wahby",
     "age": 27,
     "position": "DM",
     "altPositions": [
@@ -16060,8 +16060,8 @@
   },
   {
     "id": "95e8d707-9875-4d4e-a087-eefbbecb3e22",
-    "firstName": "Habib",
-    "lastName": "Tahiri",
+    "firstName": "Alaa",
+    "lastName": "Ibrahim",
     "age": 34,
     "position": "CM",
     "altPositions": [],
@@ -16102,8 +16102,8 @@
   },
   {
     "id": "3e441b8c-a9c0-40e6-b5cb-17d2135daafb",
-    "firstName": "Soufiane",
-    "lastName": "Al-Ahmad",
+    "firstName": "Hamid",
+    "lastName": "Lino",
     "age": 29,
     "position": "LB",
     "altPositions": [],
@@ -16144,8 +16144,8 @@
   },
   {
     "id": "55c9726b-483b-46f5-9518-9ec6dfad03db",
-    "firstName": "Badr",
-    "lastName": "Karimi",
+    "firstName": "Diaa",
+    "lastName": "Zaki",
     "age": 21,
     "position": "GK",
     "altPositions": [],
@@ -16193,8 +16193,8 @@
   },
   {
     "id": "110e6256-cfdd-4090-b84f-528c628d2bf3",
-    "firstName": "Hussein",
-    "lastName": "Khoury",
+    "firstName": "Kacem",
+    "lastName": "Sabbagh",
     "age": 31,
     "position": "RM",
     "altPositions": [
@@ -16237,8 +16237,8 @@
   },
   {
     "id": "f04a75bb-ddcf-4c7c-a7f2-c5fbd302e1c4",
-    "firstName": "Younes",
-    "lastName": "Zahra",
+    "firstName": "Zied",
+    "lastName": "Hamdi",
     "age": 30,
     "position": "RW",
     "altPositions": [],
@@ -16279,8 +16279,8 @@
   },
   {
     "id": "8aa91918-c0da-41ed-a956-4f781ef56693",
-    "firstName": "Jad",
-    "lastName": "Hassani",
+    "firstName": "Yasser",
+    "lastName": "Marzouq",
     "age": 23,
     "position": "DM",
     "altPositions": [],
@@ -16321,8 +16321,8 @@
   },
   {
     "id": "e71159de-902e-4ae2-b194-b95d61976a5b",
-    "firstName": "Hussein",
-    "lastName": "Ali",
+    "firstName": "Omar",
+    "lastName": "El-Sayed",
     "age": 28,
     "position": "GK",
     "altPositions": [],
@@ -16370,8 +16370,8 @@
   },
   {
     "id": "269230a1-6f1c-4f36-8b45-f17e6ebc9ff8",
-    "firstName": "Sami",
-    "lastName": "Rachidi",
+    "firstName": "Omar",
+    "lastName": "Okasha",
     "age": 23,
     "position": "RW",
     "altPositions": [],
@@ -16412,8 +16412,8 @@
   },
   {
     "id": "3fc990f1-e471-4050-820a-3eec3e87e4dc",
-    "firstName": "Mohammed",
-    "lastName": "El-Hadj",
+    "firstName": "Achraf",
+    "lastName": "Mansour",
     "age": 24,
     "position": "CM",
     "altPositions": [],
@@ -16454,8 +16454,8 @@
   },
   {
     "id": "27a0908c-aee0-4658-85ad-f80565350f6f",
-    "firstName": "Nabil",
-    "lastName": "Idrissi",
+    "firstName": "Fathy",
+    "lastName": "Farouk",
     "age": 27,
     "position": "ST",
     "altPositions": [
@@ -16498,8 +16498,8 @@
   },
   {
     "id": "817e1736-43e9-4cea-9127-6f457595740b",
-    "firstName": "Jad",
-    "lastName": "Soufi",
+    "firstName": "Zakaria",
+    "lastName": "Sleiman",
     "age": 34,
     "position": "GK",
     "altPositions": [],
@@ -16547,8 +16547,8 @@
   },
   {
     "id": "8886967b-896a-430a-9e07-70ddb5106203",
-    "firstName": "Amir",
-    "lastName": "Yacoubi",
+    "firstName": "Adel",
+    "lastName": "Mahrez",
     "age": 27,
     "position": "ST",
     "altPositions": [],
@@ -16589,8 +16589,8 @@
   },
   {
     "id": "4d028b43-564b-4af4-907c-453df953c3c4",
-    "firstName": "Tarek",
-    "lastName": "Khalil",
+    "firstName": "Zakaria",
+    "lastName": "Mokhtari",
     "age": 23,
     "position": "RW",
     "altPositions": [],
@@ -16631,8 +16631,8 @@
   },
   {
     "id": "3ea03465-e06f-49d3-b18e-6ef0361423a9",
-    "firstName": "Ayman",
-    "lastName": "El-Hadj",
+    "firstName": "Juma",
+    "lastName": "Undurman",
     "age": 31,
     "position": "AM",
     "altPositions": [],
@@ -16673,8 +16673,8 @@
   },
   {
     "id": "a34ae993-4a52-4504-941b-0462e1c81b30",
-    "firstName": "Ali",
-    "lastName": "Nasser",
+    "firstName": "Mostafa",
+    "lastName": "Zahra",
     "age": 24,
     "position": "LM",
     "altPositions": [],
@@ -16715,8 +16715,8 @@
   },
   {
     "id": "74afd259-ec74-4989-b166-762891702cbe",
-    "firstName": "Driss",
-    "lastName": "Khalil",
+    "firstName": "Djaafar",
+    "lastName": "Kaci",
     "age": 20,
     "position": "CM",
     "altPositions": [],
@@ -16757,8 +16757,8 @@
   },
   {
     "id": "ef19c0fd-172f-47a8-8b04-7767237e73c2",
-    "firstName": "Amir",
-    "lastName": "Mostafa",
+    "firstName": "Adam",
+    "lastName": "Mohamed",
     "age": 24,
     "position": "CB",
     "altPositions": [],
@@ -16799,8 +16799,8 @@
   },
   {
     "id": "8b772e3c-9ef7-4d4a-9d48-d2b7b0780ea2",
-    "firstName": "Zied",
-    "lastName": "Soufi",
+    "firstName": "Ramy",
+    "lastName": "El-Sayed",
     "age": 22,
     "position": "CB",
     "altPositions": [],
@@ -16841,8 +16841,8 @@
   },
   {
     "id": "d5b68063-dd51-4ad3-9682-37b3faf3a3c2",
-    "firstName": "Younes",
-    "lastName": "Shukri",
+    "firstName": "Ibrahim",
+    "lastName": "Faroug",
     "age": 22,
     "position": "LW",
     "altPositions": [
@@ -16885,8 +16885,8 @@
   },
   {
     "id": "7777e707-f23d-411e-8e72-4ec6f1d113d5",
-    "firstName": "Brahim",
-    "lastName": "Saad",
+    "firstName": "Abdelmalek",
+    "lastName": "Hamitouche",
     "age": 31,
     "position": "GK",
     "altPositions": [],
@@ -16934,8 +16934,8 @@
   },
   {
     "id": "ed7eb980-155d-4aee-9cbf-092a44bfc8c1",
-    "firstName": "Oussama",
-    "lastName": "Othman",
+    "firstName": "Nabil",
+    "lastName": "Hariri",
     "age": 26,
     "position": "ST",
     "altPositions": [],
@@ -16976,8 +16976,8 @@
   },
   {
     "id": "52e94872-2d2c-483f-94c8-7f3ea8df3c1a",
-    "firstName": "Salim",
-    "lastName": "Al-Ahmad",
+    "firstName": "Fathy",
+    "lastName": "Wahby",
     "age": 28,
     "position": "GK",
     "altPositions": [],
@@ -17025,8 +17025,8 @@
   },
   {
     "id": "0869c6ce-e6ff-4243-98c9-8c42f58c979a",
-    "firstName": "Younes",
-    "lastName": "Othman",
+    "firstName": "Abdelhak",
+    "lastName": "Zidane",
     "age": 23,
     "position": "CM",
     "altPositions": [],
@@ -17067,8 +17067,8 @@
   },
   {
     "id": "61dbe548-e786-4e30-8826-a308542c571b",
-    "firstName": "Kacem",
-    "lastName": "Mehdi",
+    "firstName": "Diaa",
+    "lastName": "Okasha",
     "age": 19,
     "position": "RW",
     "altPositions": [
@@ -17112,8 +17112,8 @@
   },
   {
     "id": "84be867b-9707-4f25-8638-ff55823cc5f6",
-    "firstName": "Salim",
-    "lastName": "Khoury",
+    "firstName": "Medhat",
+    "lastName": "Badawi",
     "age": 23,
     "position": "RM",
     "altPositions": [],
@@ -17154,8 +17154,8 @@
   },
   {
     "id": "54c45b2a-5333-4d5d-85e5-964cdaf538c1",
-    "firstName": "Salim",
-    "lastName": "Najjar",
+    "firstName": "Fathy",
+    "lastName": "Qorany",
     "age": 25,
     "position": "CB",
     "altPositions": [],
@@ -17196,8 +17196,8 @@
   },
   {
     "id": "fa598f93-edb2-4b82-8da1-4a1e19b57548",
-    "firstName": "Zakaria",
-    "lastName": "Hammoud",
+    "firstName": "Mohamed-Salah",
+    "lastName": "Hamdi",
     "age": 24,
     "position": "LB",
     "altPositions": [
@@ -17240,8 +17240,8 @@
   },
   {
     "id": "4814b10f-67bb-4772-b905-02c0781a8f66",
-    "firstName": "Mahmoud",
-    "lastName": "Hamdi",
+    "firstName": "Khaled",
+    "lastName": "Sabbah",
     "age": 34,
     "position": "CB",
     "altPositions": [],
@@ -17282,8 +17282,8 @@
   },
   {
     "id": "6b59cf58-1bdc-473d-8b48-e2d8a045bd96",
-    "firstName": "Saad",
-    "lastName": "Hassani",
+    "firstName": "Sofiane",
+    "lastName": "Ghilas",
     "age": 26,
     "position": "DM",
     "altPositions": [
@@ -17326,8 +17326,8 @@
   },
   {
     "id": "2ba6b616-5268-4981-b495-654eab190d97",
-    "firstName": "Tamer",
-    "lastName": "Tabet",
+    "firstName": "Hussein",
+    "lastName": "Sabbah",
     "age": 31,
     "position": "RW",
     "altPositions": [],
@@ -17368,8 +17368,8 @@
   },
   {
     "id": "1c96a93e-8a4f-40ca-b1fd-004f7fe7e787",
-    "firstName": "Ghassan",
-    "lastName": "Hamdi",
+    "firstName": "Omar",
+    "lastName": "Qorany",
     "age": 22,
     "position": "RM",
     "altPositions": [
@@ -17412,8 +17412,8 @@
   },
   {
     "id": "2462dc96-9745-4a34-8609-b106926b1b54",
-    "firstName": "Bachir",
-    "lastName": "Khalil",
+    "firstName": "Zubair",
+    "lastName": "Hassan",
     "age": 35,
     "position": "RB",
     "altPositions": [],
@@ -17454,8 +17454,8 @@
   },
   {
     "id": "0cf7b00a-fa3d-4eae-9aa4-e09c7ad743d7",
-    "firstName": "Omar",
-    "lastName": "Maraghi",
+    "firstName": "Yasser",
+    "lastName": "Marzouq",
     "age": 26,
     "position": "CM",
     "altPositions": [
@@ -17498,8 +17498,8 @@
   },
   {
     "id": "7c9eff9e-0543-44e9-bfe5-6ba05f9e5112",
-    "firstName": "Ali",
-    "lastName": "Mohamed",
+    "firstName": "Reda",
+    "lastName": "Rachidi",
     "age": 25,
     "position": "CB",
     "altPositions": [],
@@ -17540,8 +17540,8 @@
   },
   {
     "id": "2a43190d-31b0-4094-aa07-c15c1cbf0435",
-    "firstName": "Hamza",
-    "lastName": "Sharif",
+    "firstName": "Fouad",
+    "lastName": "Nasri",
     "age": 24,
     "position": "ST",
     "altPositions": [],
@@ -17582,8 +17582,8 @@
   },
   {
     "id": "5b9b7d15-abe3-40b3-bf2a-7547e24b5cf8",
-    "firstName": "Yacine",
-    "lastName": "Sleiman",
+    "firstName": "Magdy",
+    "lastName": "Nasr",
     "age": 23,
     "position": "ST",
     "altPositions": [],
@@ -17624,8 +17624,8 @@
   },
   {
     "id": "7d0d7911-0923-4604-8e03-1ce589f07f0f",
-    "firstName": "Walid",
-    "lastName": "El-Saadi",
+    "firstName": "Ashraf",
+    "lastName": "El-Nagar",
     "age": 20,
     "position": "RW",
     "altPositions": [],
@@ -17666,8 +17666,8 @@
   },
   {
     "id": "259eec7d-dee9-4b08-a8cc-00de55d2ff87",
-    "firstName": "Tamer",
-    "lastName": "Qasim",
+    "firstName": "Bassem",
+    "lastName": "El-Khouly",
     "age": 23,
     "position": "CM",
     "altPositions": [],
@@ -17708,8 +17708,8 @@
   },
   {
     "id": "4a94b4f2-3980-40f0-81d8-18c3783efe30",
-    "firstName": "Karim",
-    "lastName": "Tlemcani",
+    "firstName": "Bilal",
+    "lastName": "Aboud",
     "age": 27,
     "position": "RB",
     "altPositions": [],
@@ -17750,8 +17750,8 @@
   },
   {
     "id": "37d4ff60-ee26-4219-88a7-52815dc33872",
-    "firstName": "Tamer",
-    "lastName": "Nasri",
+    "firstName": "Ayman",
+    "lastName": "Salhi",
     "age": 22,
     "position": "GK",
     "altPositions": [],
@@ -17799,8 +17799,8 @@
   },
   {
     "id": "73ab829c-1810-4f15-953f-7b930043c9cf",
-    "firstName": "Chakib",
-    "lastName": "Haddad",
+    "firstName": "Amir",
+    "lastName": "Khoury",
     "age": 29,
     "position": "CB",
     "altPositions": [
@@ -17843,8 +17843,8 @@
   },
   {
     "id": "d3fce8e9-95f5-44b7-bb73-15a5a8fd5588",
-    "firstName": "Jihad",
-    "lastName": "Sabbagh",
+    "firstName": "Medhat",
+    "lastName": "Naguib",
     "age": 25,
     "position": "AM",
     "altPositions": [],
@@ -17885,8 +17885,8 @@
   },
   {
     "id": "9aa14119-de36-4824-8df1-80a14539fd98",
-    "firstName": "Mostafa",
-    "lastName": "Najjar",
+    "firstName": "Lual",
+    "lastName": "Salih",
     "age": 33,
     "position": "AM",
     "altPositions": [
@@ -17929,8 +17929,8 @@
   },
   {
     "id": "7f934f0b-59c2-4748-906e-1ddaf7f4344f",
-    "firstName": "Oussama",
-    "lastName": "Najjar",
+    "firstName": "Ghiles",
+    "lastName": "Aït-Idir",
     "age": 27,
     "position": "DM",
     "altPositions": [],
@@ -17971,8 +17971,8 @@
   },
   {
     "id": "4da3fb23-004e-4bc2-b23d-54eb6e91ca6e",
-    "firstName": "Bilal",
-    "lastName": "Idrissi",
+    "firstName": "Hamada",
+    "lastName": "Ezzat",
     "age": 23,
     "position": "CB",
     "altPositions": [
@@ -18016,8 +18016,8 @@
   },
   {
     "id": "01a436dd-f4da-4339-8cf8-23d3fd69e9b8",
-    "firstName": "Soufiane",
-    "lastName": "Haddad",
+    "firstName": "Essam",
+    "lastName": "Marzouq",
     "age": 26,
     "position": "AM",
     "altPositions": [
@@ -18060,8 +18060,8 @@
   },
   {
     "id": "bab4f71a-e2a3-46c2-aa34-ee56f3ef2f95",
-    "firstName": "Iyad",
-    "lastName": "Hammoud",
+    "firstName": "Yasser",
+    "lastName": "Hamdi",
     "age": 17,
     "position": "CB",
     "altPositions": [],
@@ -18102,8 +18102,8 @@
   },
   {
     "id": "2a3424e7-729d-491b-9793-a07d1cf68b35",
-    "firstName": "Achraf",
-    "lastName": "Zerouali",
+    "firstName": "Mostafa",
+    "lastName": "Lamlom",
     "age": 26,
     "position": "CM",
     "altPositions": [
@@ -18146,8 +18146,8 @@
   },
   {
     "id": "66988794-97f0-4940-afe5-ec2fd89b20bc",
-    "firstName": "Jihad",
-    "lastName": "Haddad",
+    "firstName": "Youssef",
+    "lastName": "Jaber",
     "age": 24,
     "position": "AM",
     "altPositions": [
@@ -18190,8 +18190,8 @@
   },
   {
     "id": "59bc3ce7-a8d6-45b5-aa8d-e93bb1f6d629",
-    "firstName": "Badr",
-    "lastName": "Salah",
+    "firstName": "Zaki",
+    "lastName": "Chehata",
     "age": 34,
     "position": "DM",
     "altPositions": [],
@@ -18232,8 +18232,8 @@
   },
   {
     "id": "1d21c485-e669-4e8b-a2be-c75fd39417a7",
-    "firstName": "Chakib",
-    "lastName": "El-Masri",
+    "firstName": "Mohamed",
+    "lastName": "Badawi",
     "age": 26,
     "position": "DM",
     "altPositions": [],
@@ -18274,8 +18274,8 @@
   },
   {
     "id": "6a5319cf-ec1c-49db-adad-8d1443b9c638",
-    "firstName": "Bachir",
-    "lastName": "Ibrahim",
+    "firstName": "Karim",
+    "lastName": "El-Nagar",
     "age": 27,
     "position": "RM",
     "altPositions": [],
@@ -18316,8 +18316,8 @@
   },
   {
     "id": "be99ffa2-3164-4efd-80ba-28e2a9267796",
-    "firstName": "Salim",
-    "lastName": "Maraghi",
+    "firstName": "Magdy",
+    "lastName": "Bilal",
     "age": 30,
     "position": "RW",
     "altPositions": [],
@@ -18358,8 +18358,8 @@
   },
   {
     "id": "35de11d9-d2e0-40f3-97d9-ccca9a4ef5a2",
-    "firstName": "Idris",
-    "lastName": "El-Amrani",
+    "firstName": "Karim",
+    "lastName": "Saad",
     "age": 20,
     "position": "CB",
     "altPositions": [
@@ -18402,8 +18402,8 @@
   },
   {
     "id": "d45039be-313c-4fd9-8f9d-fe7992af8c6d",
-    "firstName": "Ayman",
-    "lastName": "Shukri",
+    "firstName": "Anis",
+    "lastName": "Nouri",
     "age": 36,
     "position": "LW",
     "altPositions": [],
@@ -18444,8 +18444,8 @@
   },
   {
     "id": "53bbebbb-1af8-4752-8214-0a52f314f36f",
-    "firstName": "Khalid",
-    "lastName": "Hussein",
+    "firstName": "Amr",
+    "lastName": "Ezzat",
     "age": 27,
     "position": "ST",
     "altPositions": [
@@ -18488,8 +18488,8 @@
   },
   {
     "id": "8b5a0cc5-b82b-45b6-b68b-117afdfa756c",
-    "firstName": "Soufiane",
-    "lastName": "Hassani",
+    "firstName": "Yassine",
+    "lastName": "El-Masri",
     "age": 26,
     "position": "RB",
     "altPositions": [],
@@ -18530,8 +18530,8 @@
   },
   {
     "id": "590c44c5-e8dd-4ddd-908b-acaee1778aae",
-    "firstName": "Imad",
-    "lastName": "Hakim",
+    "firstName": "Diaa",
+    "lastName": "El-Masri",
     "age": 23,
     "position": "CB",
     "altPositions": [],
@@ -18572,8 +18572,8 @@
   },
   {
     "id": "0b2b203d-a815-46b2-930a-6e6dde2a5247",
-    "firstName": "Adil",
-    "lastName": "Sleiman",
+    "firstName": "Zakaria",
+    "lastName": "Othman",
     "age": 28,
     "position": "AM",
     "altPositions": [
@@ -18617,8 +18617,8 @@
   },
   {
     "id": "4cbc54a3-02f0-4fe5-aa05-0fc9d2784fa0",
-    "firstName": "Hatem",
-    "lastName": "El-Bakri",
+    "firstName": "Karim",
+    "lastName": "Tantawi",
     "age": 26,
     "position": "GK",
     "altPositions": [],
@@ -18666,8 +18666,8 @@
   },
   {
     "id": "ca119c88-772b-45f6-b737-4ba0ee759a24",
-    "firstName": "Driss",
-    "lastName": "Qasim",
+    "firstName": "Tarek",
+    "lastName": "El-Desoky",
     "age": 34,
     "position": "GK",
     "altPositions": [],
@@ -18715,8 +18715,8 @@
   },
   {
     "id": "17f6f2f7-ebfc-4b54-b603-55b3d3a3d584",
-    "firstName": "Bachir",
-    "lastName": "Nasser",
+    "firstName": "Hussein",
+    "lastName": "Naguib",
     "age": 30,
     "position": "RW",
     "altPositions": [],
@@ -18757,8 +18757,8 @@
   },
   {
     "id": "4c3bf0a3-d8bf-4088-9f3d-f8d992239034",
-    "firstName": "Kamal",
-    "lastName": "Mehdi",
+    "firstName": "Khaled",
+    "lastName": "Naguib",
     "age": 18,
     "position": "LB",
     "altPositions": [
@@ -18801,8 +18801,8 @@
   },
   {
     "id": "8e77d103-3cdd-4c1a-902f-6b6c7be3f2bb",
-    "firstName": "Mehdi",
-    "lastName": "Hammoud",
+    "firstName": "Wad",
+    "lastName": "Hilu",
     "age": 23,
     "position": "DM",
     "altPositions": [],
@@ -18843,8 +18843,8 @@
   },
   {
     "id": "d714644f-7953-4497-ace9-27f6635cb98e",
-    "firstName": "Adel",
-    "lastName": "Al-Ahmad",
+    "firstName": "Darfur",
+    "lastName": "Ongwen",
     "age": 26,
     "position": "RB",
     "altPositions": [],
@@ -18885,8 +18885,8 @@
   },
   {
     "id": "408ffe60-4bad-461b-adf3-43ac1ed96add",
-    "firstName": "Marwan",
-    "lastName": "Mohamed",
+    "firstName": "Mahmoud",
+    "lastName": "Ibrahim",
     "age": 30,
     "position": "CB",
     "altPositions": [],
@@ -18927,8 +18927,8 @@
   },
   {
     "id": "4cff1308-bc9e-4ed2-a1f3-4e523f3df4d3",
-    "firstName": "Soufiane",
-    "lastName": "Khalifa",
+    "firstName": "Bakri",
+    "lastName": "Khair",
     "age": 22,
     "position": "ST",
     "altPositions": [
@@ -18972,8 +18972,8 @@
   },
   {
     "id": "9ce7ea05-b284-4f48-ac3b-340f5a8991fd",
-    "firstName": "Walid",
-    "lastName": "Zahra",
+    "firstName": "Magdy",
+    "lastName": "El-Nagar",
     "age": 30,
     "position": "LM",
     "altPositions": [],
@@ -19014,8 +19014,8 @@
   },
   {
     "id": "03e8f2db-d4e1-4101-b987-5e2769fd1bfd",
-    "firstName": "Lounes",
-    "lastName": "Hamdi",
+    "firstName": "Zakaria",
+    "lastName": "Hassani",
     "age": 23,
     "position": "AM",
     "altPositions": [],
@@ -19056,8 +19056,8 @@
   },
   {
     "id": "fdea1fac-9975-4ffe-b010-dfe633019135",
-    "firstName": "Anas",
-    "lastName": "Hussein",
+    "firstName": "Mohamed-Salah",
+    "lastName": "Lamlom",
     "age": 22,
     "position": "CB",
     "altPositions": [
@@ -19100,8 +19100,8 @@
   },
   {
     "id": "92dae86e-e889-4ff0-aa23-f1540f694132",
-    "firstName": "Khalid",
-    "lastName": "Khalil",
+    "firstName": "Amir",
+    "lastName": "Ibrahim",
     "age": 26,
     "position": "LB",
     "altPositions": [],
@@ -19142,8 +19142,8 @@
   },
   {
     "id": "7878161f-2d11-4ca8-9371-9a383d0a69db",
-    "firstName": "Faisal",
-    "lastName": "El-Amrani",
+    "firstName": "Nabil",
+    "lastName": "El-Khoury",
     "age": 34,
     "position": "AM",
     "altPositions": [],
@@ -19184,8 +19184,8 @@
   },
   {
     "id": "9e768c21-0af2-4d6f-80a6-3004135347ba",
-    "firstName": "Habib",
-    "lastName": "Nasser",
+    "firstName": "Hossam",
+    "lastName": "El-Khouly",
     "age": 26,
     "position": "CM",
     "altPositions": [
@@ -19229,7 +19229,7 @@
   {
     "id": "3d6200c8-93cb-4a4a-9c6d-ea4c94fc7e7e",
     "firstName": "Brahim",
-    "lastName": "Sabbah",
+    "lastName": "Sleiman",
     "age": 30,
     "position": "LB",
     "altPositions": [],
@@ -19270,8 +19270,8 @@
   },
   {
     "id": "d9ca6efc-7a79-4337-bcd4-7c22373a1802",
-    "firstName": "Wassim",
-    "lastName": "Farouk",
+    "firstName": "Tijani",
+    "lastName": "Khair",
     "age": 22,
     "position": "LB",
     "altPositions": [],
@@ -19312,8 +19312,8 @@
   },
   {
     "id": "a356f83a-7a1c-4391-8176-4f2ae45deebb",
-    "firstName": "Aziz",
-    "lastName": "Al-Ahmad",
+    "firstName": "Diaa",
+    "lastName": "Ezzat",
     "age": 25,
     "position": "CB",
     "altPositions": [
@@ -19356,8 +19356,8 @@
   },
   {
     "id": "bd2dadea-80a5-4b7b-a996-069e0c3db978",
-    "firstName": "Imad",
-    "lastName": "Mostafa",
+    "firstName": "Zaki",
+    "lastName": "El-Masri",
     "age": 22,
     "position": "LB",
     "altPositions": [
@@ -19400,8 +19400,8 @@
   },
   {
     "id": "0bb1618e-02be-4d9b-8644-76bdc2609239",
-    "firstName": "Rachid",
-    "lastName": "Soufi",
+    "firstName": "Nasser",
+    "lastName": "El-Khouly",
     "age": 21,
     "position": "RB",
     "altPositions": [],
@@ -19442,8 +19442,8 @@
   },
   {
     "id": "c3a308b4-9121-47d2-9452-72e4d2ee499e",
-    "firstName": "Mostafa",
-    "lastName": "Mansour",
+    "firstName": "Faisal",
+    "lastName": "Jabbari",
     "age": 22,
     "position": "CM",
     "altPositions": [],
@@ -19484,8 +19484,8 @@
   },
   {
     "id": "1395a1de-6ead-4ee9-b719-4766799f0217",
-    "firstName": "Mohammed",
-    "lastName": "Haddad",
+    "firstName": "Juma",
+    "lastName": "Fadlallah",
     "age": 21,
     "position": "ST",
     "altPositions": [
@@ -19528,8 +19528,8 @@
   },
   {
     "id": "ea8e0ec5-29b7-420b-99d8-83e4351e3919",
-    "firstName": "Iyad",
-    "lastName": "El-Khoury",
+    "firstName": "Hyder",
+    "lastName": "Abdallah",
     "age": 20,
     "position": "CM",
     "altPositions": [],
@@ -19570,8 +19570,8 @@
   },
   {
     "id": "e0dc11a7-d05b-49f2-a473-c8e624d5a1e8",
-    "firstName": "Lounes",
-    "lastName": "Khoury",
+    "firstName": "Fares",
+    "lastName": "El-Maghrebi",
     "age": 32,
     "position": "LW",
     "altPositions": [],
@@ -19612,8 +19612,8 @@
   },
   {
     "id": "459b52a7-bcc5-4a91-80f4-5a7d831f184b",
-    "firstName": "Chakib",
-    "lastName": "El-Sayed",
+    "firstName": "Amir",
+    "lastName": "Othman",
     "age": 24,
     "position": "AM",
     "altPositions": [
@@ -19656,8 +19656,8 @@
   },
   {
     "id": "81fb32c5-5767-4fe8-a456-7cc091efa0b1",
-    "firstName": "Nizar",
-    "lastName": "Hariri",
+    "firstName": "Sherif",
+    "lastName": "Marzouq",
     "age": 24,
     "position": "CM",
     "altPositions": [],
@@ -19698,8 +19698,8 @@
   },
   {
     "id": "11399409-4f43-4bde-8b99-48617ca96527",
-    "firstName": "Wassim",
-    "lastName": "Moussaoui",
+    "firstName": "Amr",
+    "lastName": "Youssef",
     "age": 31,
     "position": "GK",
     "altPositions": [],
@@ -19747,8 +19747,8 @@
   },
   {
     "id": "f3984f47-81a2-41bd-9286-fa59c6ef12d1",
-    "firstName": "Ahmed",
-    "lastName": "Salah",
+    "firstName": "Bachir",
+    "lastName": "Moussaoui",
     "age": 22,
     "position": "LB",
     "altPositions": [
@@ -19791,8 +19791,8 @@
   },
   {
     "id": "309dfa76-f247-4aff-a1e7-6cf31bbb9acc",
-    "firstName": "Adel",
-    "lastName": "Sleiman",
+    "firstName": "Karim",
+    "lastName": "Tawfik",
     "age": 30,
     "position": "LM",
     "altPositions": [],
@@ -19833,8 +19833,8 @@
   },
   {
     "id": "db2ceb24-1d6b-4a53-8460-2fc4a60e7dd3",
-    "firstName": "Kacem",
-    "lastName": "Al-Sharif",
+    "firstName": "Rachid",
+    "lastName": "Nasser",
     "age": 21,
     "position": "LW",
     "altPositions": [],
@@ -19875,8 +19875,8 @@
   },
   {
     "id": "ee907ed4-f73d-4a92-a996-1e9203aeca66",
-    "firstName": "Badr",
-    "lastName": "Maraghi",
+    "firstName": "Mustafa",
+    "lastName": "Nasr",
     "age": 27,
     "position": "DM",
     "altPositions": [],
@@ -19917,8 +19917,8 @@
   },
   {
     "id": "763fc63f-e5df-4b18-a418-a3af08e93ec4",
-    "firstName": "Walid",
-    "lastName": "Sabbah",
+    "firstName": "Tamer",
+    "lastName": "Salem",
     "age": 30,
     "position": "LM",
     "altPositions": [],
@@ -19959,8 +19959,8 @@
   },
   {
     "id": "3c34136c-3f91-4802-a448-c0d3ca4a765a",
-    "firstName": "Imad",
-    "lastName": "Hassani",
+    "firstName": "Hani",
+    "lastName": "El-Khouly",
     "age": 30,
     "position": "CM",
     "altPositions": [],
@@ -20001,8 +20001,8 @@
   },
   {
     "id": "ea485842-2e6a-40ac-bb32-0df4fcedd761",
-    "firstName": "Salim",
-    "lastName": "Salah",
+    "firstName": "Samir",
+    "lastName": "Othman",
     "age": 23,
     "position": "LB",
     "altPositions": [],
@@ -20043,8 +20043,8 @@
   },
   {
     "id": "e693ace2-88d2-4769-89a9-fcbb7476e0e4",
-    "firstName": "Mohammed",
-    "lastName": "Rachidi",
+    "firstName": "Hossam",
+    "lastName": "Bilal",
     "age": 24,
     "position": "AM",
     "altPositions": [],
@@ -20085,8 +20085,8 @@
   },
   {
     "id": "4cc5683b-978a-449b-ab17-9899dc806191",
-    "firstName": "Fouad",
-    "lastName": "Aboud",
+    "firstName": "Sherif",
+    "lastName": "Tawfik",
     "age": 22,
     "position": "RB",
     "altPositions": [],
@@ -20127,8 +20127,8 @@
   },
   {
     "id": "5d70bb6c-b226-4d33-a73e-63f1a4eb8208",
-    "firstName": "Yassine",
-    "lastName": "Karimi",
+    "firstName": "Imad",
+    "lastName": "Al-Ahmad",
     "age": 21,
     "position": "RM",
     "altPositions": [],
@@ -20169,8 +20169,8 @@
   },
   {
     "id": "67417f66-6c4b-47d5-a781-4d2448c61354",
-    "firstName": "Walid",
-    "lastName": "El-Maghrebi",
+    "firstName": "Lounes",
+    "lastName": "Moussaoui",
     "age": 22,
     "position": "RW",
     "altPositions": [],
@@ -20211,8 +20211,8 @@
   },
   {
     "id": "7b19b67e-c651-4290-86dc-65a0b182c617",
-    "firstName": "Driss",
-    "lastName": "Jabbari",
+    "firstName": "Mohamed",
+    "lastName": "Tawfik",
     "age": 24,
     "position": "RM",
     "altPositions": [],
@@ -20253,8 +20253,8 @@
   },
   {
     "id": "ab65412d-e38f-44d7-a945-d872cec0599f",
-    "firstName": "Ayman",
-    "lastName": "Hassani",
+    "firstName": "Mostafa",
+    "lastName": "Mohamed",
     "age": 35,
     "position": "LB",
     "altPositions": [],
@@ -20295,8 +20295,8 @@
   },
   {
     "id": "0c1635f3-bb05-49f6-9875-2e9749288927",
-    "firstName": "Adil",
-    "lastName": "Mansour",
+    "firstName": "Islam",
+    "lastName": "Gaber",
     "age": 30,
     "position": "LB",
     "altPositions": [],
@@ -20337,8 +20337,8 @@
   },
   {
     "id": "5edcdf75-cb1a-4a5a-8741-4a22ef05175b",
-    "firstName": "Oussama",
-    "lastName": "Zerouali",
+    "firstName": "Djaafar",
+    "lastName": "Sahraoui",
     "age": 24,
     "position": "ST",
     "altPositions": [],
@@ -20379,8 +20379,8 @@
   },
   {
     "id": "853352ce-5a9e-47c8-be11-49c528d96607",
-    "firstName": "Mounir",
-    "lastName": "Lakhdar",
+    "firstName": "Mostafa",
+    "lastName": "Al-Sharif",
     "age": 28,
     "position": "LB",
     "altPositions": [
@@ -20423,8 +20423,8 @@
   },
   {
     "id": "d2b744ea-4dc8-49db-97e3-cb8ef21b32d2",
-    "firstName": "Salim",
-    "lastName": "Mansour",
+    "firstName": "Ibrahim",
+    "lastName": "Nasr",
     "age": 20,
     "position": "CB",
     "altPositions": [
@@ -20467,8 +20467,8 @@
   },
   {
     "id": "d195d618-c334-4ca7-8105-500366a8ecb6",
-    "firstName": "Chadi",
-    "lastName": "Moussaoui",
+    "firstName": "Mehdi",
+    "lastName": "El-Hadj",
     "age": 26,
     "position": "AM",
     "altPositions": [],
@@ -20509,8 +20509,8 @@
   },
   {
     "id": "78b8fb93-169a-48d5-97bb-28fa85227a1b",
-    "firstName": "Wassim",
-    "lastName": "Al-Ahmad",
+    "firstName": "Habib",
+    "lastName": "El-Sayed",
     "age": 24,
     "position": "DM",
     "altPositions": [],
@@ -20551,8 +20551,8 @@
   },
   {
     "id": "754be09a-c158-403a-b826-25cdbe31f2fd",
-    "firstName": "Nizar",
-    "lastName": "Zerouali",
+    "firstName": "Kamal",
+    "lastName": "Hassan",
     "age": 25,
     "position": "CB",
     "altPositions": [],
@@ -20593,8 +20593,8 @@
   },
   {
     "id": "e91f3571-da54-4aaa-9fa7-b0b39f834f78",
-    "firstName": "Badr",
-    "lastName": "Jabbari",
+    "firstName": "Nabil",
+    "lastName": "Nasser",
     "age": 30,
     "position": "AM",
     "altPositions": [
@@ -20638,8 +20638,8 @@
   },
   {
     "id": "4589192c-dced-46c0-9551-d91b4628624b",
-    "firstName": "Sami",
-    "lastName": "Mohamed",
+    "firstName": "Noureldeen",
+    "lastName": "Wawa",
     "age": 22,
     "position": "CB",
     "altPositions": [],
@@ -20680,8 +20680,8 @@
   },
   {
     "id": "2f6bc091-b676-47c7-a097-5ae028cbd3cb",
-    "firstName": "Adil",
-    "lastName": "El-Saadi",
+    "firstName": "Sofiane",
+    "lastName": "Chaoui",
     "age": 33,
     "position": "DM",
     "altPositions": [],
@@ -20722,8 +20722,8 @@
   },
   {
     "id": "e8e387b0-168a-444a-925f-c46b44987da7",
-    "firstName": "Omar",
-    "lastName": "Zahra",
+    "firstName": "Magdy",
+    "lastName": "El-Khouly",
     "age": 31,
     "position": "LW",
     "altPositions": [],
@@ -20764,8 +20764,8 @@
   },
   {
     "id": "5088ff9a-90ff-499f-bacd-0d6d38669bd0",
-    "firstName": "Imad",
-    "lastName": "Najjar",
+    "firstName": "Ghassan",
+    "lastName": "Tahiri",
     "age": 22,
     "position": "LW",
     "altPositions": [],
@@ -20806,8 +20806,8 @@
   },
   {
     "id": "da9ab123-e1c6-4b4b-85b3-05d418e3cfb2",
-    "firstName": "Ayman",
-    "lastName": "Soufi",
+    "firstName": "Mido",
+    "lastName": "Abaza",
     "age": 19,
     "position": "ST",
     "altPositions": [
@@ -20851,8 +20851,8 @@
   },
   {
     "id": "8f0ed266-6022-419a-a873-c8a0559635aa",
-    "firstName": "Amir",
-    "lastName": "Rachidi",
+    "firstName": "Ayman",
+    "lastName": "Lotfy",
     "age": 28,
     "position": "GK",
     "altPositions": [],
@@ -20900,8 +20900,8 @@
   },
   {
     "id": "dd331616-e6de-44fe-a9d1-e00b76b54559",
-    "firstName": "Ahmed",
-    "lastName": "Haddad",
+    "firstName": "Brahim",
+    "lastName": "Yacoubi",
     "age": 24,
     "position": "ST",
     "altPositions": [
@@ -20945,8 +20945,8 @@
   },
   {
     "id": "bbc327d4-6d95-47a2-a7b8-3e915193f1a2",
-    "firstName": "Khalid",
-    "lastName": "Salah",
+    "firstName": "Omar",
+    "lastName": "Zerouali",
     "age": 20,
     "position": "GK",
     "altPositions": [],
@@ -20994,8 +20994,8 @@
   },
   {
     "id": "013eb3a2-bedd-4026-8896-9a124a67b8e4",
-    "firstName": "Zied",
-    "lastName": "Idrissi",
+    "firstName": "Hassan",
+    "lastName": "El-Sayed",
     "age": 32,
     "position": "CB",
     "altPositions": [
@@ -21039,8 +21039,8 @@
   },
   {
     "id": "ce735006-8a2f-4332-9e4c-053f17ae2c60",
-    "firstName": "Zied",
-    "lastName": "Mansour",
+    "firstName": "Aziz",
+    "lastName": "Lakhdar",
     "age": 21,
     "position": "ST",
     "altPositions": [],
@@ -21081,8 +21081,8 @@
   },
   {
     "id": "e6a585a6-84c5-4097-9358-c0d677ddd70f",
-    "firstName": "Jihad",
-    "lastName": "El-Saadi",
+    "firstName": "Nour",
+    "lastName": "El-Nagar",
     "age": 31,
     "position": "RB",
     "altPositions": [],
@@ -21123,8 +21123,8 @@
   },
   {
     "id": "483d4905-452e-4786-b8b9-cf3c997494e3",
-    "firstName": "Sami",
-    "lastName": "Hassan",
+    "firstName": "Bilal",
+    "lastName": "Tahiri",
     "age": 25,
     "position": "ST",
     "altPositions": [],
@@ -21165,8 +21165,8 @@
   },
   {
     "id": "53b68f50-5645-4f08-b634-00770f25463e",
-    "firstName": "Karim",
-    "lastName": "Othman",
+    "firstName": "Hatem",
+    "lastName": "Yacoubi",
     "age": 19,
     "position": "DM",
     "altPositions": [],
@@ -21207,8 +21207,8 @@
   },
   {
     "id": "b35efc5c-efcf-4cc6-9a05-78eaae629583",
-    "firstName": "Rachid",
-    "lastName": "Khalifa",
+    "firstName": "Oussama",
+    "lastName": "El-Bakri",
     "age": 21,
     "position": "GK",
     "altPositions": [],
@@ -21256,8 +21256,8 @@
   },
   {
     "id": "1ba2e3d8-fe93-4905-b1e5-fa5451482b90",
-    "firstName": "Youssef",
-    "lastName": "Hassani",
+    "firstName": "Hussein",
+    "lastName": "Mokhtari",
     "age": 25,
     "position": "LW",
     "altPositions": [],
@@ -21298,8 +21298,8 @@
   },
   {
     "id": "5b39696c-6932-45cb-a966-33f9092e5313",
-    "firstName": "Mostafa",
-    "lastName": "Moussaoui",
+    "firstName": "Iyad",
+    "lastName": "Hassan",
     "age": 33,
     "position": "GK",
     "altPositions": [],
@@ -21347,8 +21347,8 @@
   },
   {
     "id": "6ebeaf3a-004d-4fba-9b62-3e5bd5e97648",
-    "firstName": "Omar",
-    "lastName": "El-Bakri",
+    "firstName": "Faisal",
+    "lastName": "El-Maghrebi",
     "age": 32,
     "position": "LB",
     "altPositions": [],
@@ -21389,8 +21389,8 @@
   },
   {
     "id": "06e1ea15-6a87-4a9d-88a9-be978dd54806",
-    "firstName": "Ali",
-    "lastName": "Al-Rashid",
+    "firstName": "Alaa",
+    "lastName": "Gaber",
     "age": 30,
     "position": "CM",
     "altPositions": [],
@@ -21431,8 +21431,8 @@
   },
   {
     "id": "64a16d0f-6381-444f-9d8c-d9c9a556f051",
-    "firstName": "Imad",
-    "lastName": "Khalil",
+    "firstName": "Zaki",
+    "lastName": "Tantawi",
     "age": 25,
     "position": "DM",
     "altPositions": [
@@ -21475,8 +21475,8 @@
   },
   {
     "id": "a76f6840-32f5-460a-b7a2-35ef2f537d5b",
-    "firstName": "Karim",
-    "lastName": "Mehdi",
+    "firstName": "Tarek",
+    "lastName": "El-Masri",
     "age": 33,
     "position": "RW",
     "altPositions": [],
@@ -21517,8 +21517,8 @@
   },
   {
     "id": "f17d8bba-54da-4cbd-8c26-d23d38848f28",
-    "firstName": "Anas",
-    "lastName": "Sharif",
+    "firstName": "Rami",
+    "lastName": "Mokhtari",
     "age": 18,
     "position": "DM",
     "altPositions": [],
