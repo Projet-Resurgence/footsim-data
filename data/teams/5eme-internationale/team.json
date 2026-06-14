@@ -9,5 +9,13 @@
   "createdBy": "772821169664426025",
   "ownerId": "772821169664426025",
   "playerCount": 500,
-  "formation": "4-3-3"
+  "formation": "4-3-3",
+  "cultures": [
+    {
+      "culture": "francais",
+      "weight": 50
+    }
+  ],
+  "continent": "europe",
+  "publishedAt": "2026-06-14T12:43:15.735Z"
 }
