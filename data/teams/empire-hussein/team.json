@@ -11,6 +11,15 @@
   "formation": "4-3-3",
   "recentMatches": [
     {
+      "matchId": "e8795368-d6cc-4705-8c81-e2549776f82a",
+      "playedAt": "2026-06-14T10:07:13.857Z",
+      "opponentSlug": "foi-primaris",
+      "opponentName": "Foi Primaris",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 2
+    },
+    {
       "matchId": "c6cc9cc4-3cba-447d-8716-759f483aea2f",
       "playedAt": "2026-06-09T09:45:47.263Z",
       "opponentSlug": "fclc",
