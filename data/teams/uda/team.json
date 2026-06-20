@@ -7,11 +7,11 @@
   "cultures": [
     {
       "culture": "chinois",
-      "weight": 197
+      "weight": 95
     },
     {
       "culture": "indonesien",
-      "weight": 11
+      "weight": 5
     }
   ],
   "continent": "asie",
@@ -25,5 +25,6 @@
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-20T19:32:54.442Z"
+  "publishedAt": "2026-06-20T19:58:34.823Z",
+  "managerDiscordId": "1477619366890573926"
 }
