@@ -28,6 +28,15 @@
   },
   "recentMatches": [
     {
+      "matchId": "b661c740-ece2-4e79-9a9c-837dac4091d3",
+      "playedAt": "2026-06-20T13:45:50.463Z",
+      "opponentSlug": "ccb",
+      "opponentName": "CCB",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 0
+    },
+    {
       "matchId": "b0ee98fe-82e0-4d7a-8217-5b05e7237a2d",
       "playedAt": "2026-06-20T13:42:45.933Z",
       "opponentSlug": "ccb",
