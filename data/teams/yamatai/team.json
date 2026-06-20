@@ -10,20 +10,20 @@
   "playerCount": 500,
   "formation": "4-3-3",
   "tactics": {
-    "style": "possession",
-    "formation": "4-3-3",
+    "style": "ultra-defensif",
+    "formation": "5-4-1",
     "lineup": [
-      "deffd2bf-44cd-4c95-9d8c-330a9405a44a",
-      "43257494-208f-45f3-9263-e2b37c6fc31d",
-      "79a6857d-206e-47a7-b2b8-f340281db7e9",
-      "c2e1e251-cb4f-4a05-b569-bb4ceec14d5e",
-      "840bf073-eb4c-4beb-9c19-3287eb051b33",
-      "8284b12e-7050-4a6c-96a0-bfe9673b4c90",
-      "b09915d9-d6ba-4c56-b19f-209664881e19",
-      "3b230c23-4bfb-4160-a1f3-ca51a6b0e1a0",
-      "55bc0602-f90d-4cb9-9410-4cee98bb35ab",
-      "1cc5d791-1cbe-4f95-bbae-1663383f2dbf",
-      "3d2b0daa-4b76-4e96-82b7-05f680b31db5"
+      "b3c886a5-f6d8-4cc1-af87-67e7874c0560",
+      "0791ea8d-0339-4b1a-8419-b9786e51daf1",
+      "4d9d8343-9de6-4c51-8a34-9ebe6d04f5f5",
+      "6c6476dd-5f03-4895-9352-34c51b380b94",
+      "03e2a802-190c-40e2-affe-80ca71c24012",
+      "39c4102f-1ce0-4188-bf6f-6e063c39faf2",
+      "670fc577-fdc6-4084-8673-05422213059c",
+      "c61749e6-b4d4-41c6-93c4-4a48ea6d2c18",
+      "e43f8cb6-5b88-4154-ac5b-d1285f15d8f1",
+      "a9ceb601-a7a5-4f70-ae19-ca68f99e0168",
+      "2b79fca0-732f-4457-8e3c-3b91222949bd"
     ]
   },
   "recentMatches": [
@@ -126,5 +126,6 @@
       "scoreFor": 0,
       "scoreAgainst": 1
     }
-  ]
+  ],
+  "publishedAt": "2026-06-20T13:25:55.654Z"
 }
