@@ -27,5 +27,16 @@
   "playerCount": 500,
   "formation": "4-3-3",
   "publishedAt": "2026-06-20T16:53:12.475Z",
-  "managerDiscordId": "1473103141728944171"
+  "managerDiscordId": "1473103141728944171",
+  "recentMatches": [
+    {
+      "matchId": "f4ba5acc-38f9-434d-a204-e68f1d9c7124",
+      "playedAt": "2026-06-20T18:48:01.068Z",
+      "opponentSlug": "ugp",
+      "opponentName": "UGP",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 0
+    }
+  ]
 }
