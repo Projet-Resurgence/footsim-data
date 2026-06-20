@@ -12,7 +12,8 @@
   ],
   "continent": "europe",
   "continents": [
-    "europe"
+    "europe",
+    "moyenorient"
   ],
   "kind": "national",
   "globalStrength": 60,
@@ -21,5 +22,5 @@
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-20T20:46:27.765Z"
+  "publishedAt": "2026-06-20T20:49:43.028Z"
 }
