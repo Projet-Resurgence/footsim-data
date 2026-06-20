@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": "7y4hjdw5r1pmqmyxjjy",
+    "name": "Coupe du Monde (de Test calmez vous)",
+    "format": "groups_knockout",
+    "status": "ongoing",
+    "teamCount": 16,
+    "createdAt": "2026-06-20T23:07:58.654Z"
+  }
+]
