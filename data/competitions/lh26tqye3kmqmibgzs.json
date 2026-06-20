@@ -1,0 +1,323 @@
+{
+  "id": "lh26tqye3kmqmibgzs",
+  "name": "Coupe des Nations",
+  "format": "groups_knockout",
+  "teamIds": [
+    "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+    "4050e7b8-0b32-4225-b936-2947890e501c",
+    "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+    "110159bd-411c-409a-ba07-95216b092ba4",
+    "45002df1-cafe-4c04-814c-660868b56d95",
+    "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+    "7db62a2a-b398-4a35-9c11-4d5b4bf4570c",
+    "c1a00454-3cc7-46dd-8ec3-a2abb527eba9"
+  ],
+  "matches": [
+    {
+      "id": "35d6o6oumqmibgzs",
+      "homeTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "awayTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "round": 1,
+      "phase": "group",
+      "groupId": "group_0",
+      "leg": 1,
+      "status": "pending"
+    },
+    {
+      "id": "nfc1s6k2mqmibgzs",
+      "homeTeamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "awayTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "round": 1,
+      "phase": "group",
+      "groupId": "group_0",
+      "leg": 1,
+      "status": "pending"
+    },
+    {
+      "id": "vnycyt8tmqmibgzs",
+      "homeTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "awayTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "round": 2,
+      "phase": "group",
+      "groupId": "group_0",
+      "leg": 1,
+      "status": "pending"
+    },
+    {
+      "id": "1y4xpfhbmqmibgzs",
+      "homeTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "awayTeamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "round": 2,
+      "phase": "group",
+      "groupId": "group_0",
+      "leg": 1,
+      "status": "pending"
+    },
+    {
+      "id": "r99g0tirmqmibgzs",
+      "homeTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "awayTeamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "round": 3,
+      "phase": "group",
+      "groupId": "group_0",
+      "leg": 1,
+      "status": "pending"
+    },
+    {
+      "id": "39qobwfdmqmibgzs",
+      "homeTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "awayTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "round": 3,
+      "phase": "group",
+      "groupId": "group_0",
+      "leg": 1,
+      "status": "pending"
+    },
+    {
+      "id": "5s94dqknmqmibgzs",
+      "homeTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "awayTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "round": 1,
+      "phase": "group",
+      "groupId": "group_1",
+      "leg": 1,
+      "status": "pending"
+    },
+    {
+      "id": "0504njcmmqmibgzs",
+      "homeTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "awayTeamId": "7db62a2a-b398-4a35-9c11-4d5b4bf4570c",
+      "round": 1,
+      "phase": "group",
+      "groupId": "group_1",
+      "leg": 1,
+      "status": "pending"
+    },
+    {
+      "id": "trpdceh0mqmibgzs",
+      "homeTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "awayTeamId": "7db62a2a-b398-4a35-9c11-4d5b4bf4570c",
+      "round": 2,
+      "phase": "group",
+      "groupId": "group_1",
+      "leg": 1,
+      "status": "pending"
+    },
+    {
+      "id": "f3nluviymqmibgzs",
+      "homeTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "awayTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "round": 2,
+      "phase": "group",
+      "groupId": "group_1",
+      "leg": 1,
+      "status": "pending"
+    },
+    {
+      "id": "c51ghgjcmqmibgzs",
+      "homeTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "awayTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "round": 3,
+      "phase": "group",
+      "groupId": "group_1",
+      "leg": 1,
+      "status": "pending"
+    },
+    {
+      "id": "cs67pjy0mqmibgzs",
+      "homeTeamId": "7db62a2a-b398-4a35-9c11-4d5b4bf4570c",
+      "awayTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "round": 3,
+      "phase": "group",
+      "groupId": "group_1",
+      "leg": 1,
+      "status": "pending"
+    },
+    {
+      "id": "68n83w52mqmibgzs",
+      "homeTeamId": null,
+      "awayTeamId": null,
+      "round": 4,
+      "phase": "SF",
+      "leg": 1,
+      "status": "pending"
+    },
+    {
+      "id": "awjq3y3bmqmibgzs",
+      "homeTeamId": null,
+      "awayTeamId": null,
+      "round": 4,
+      "phase": "SF",
+      "leg": 2,
+      "status": "pending"
+    },
+    {
+      "id": "ujgydtxzmqmibgzs",
+      "homeTeamId": null,
+      "awayTeamId": null,
+      "round": 4,
+      "phase": "SF",
+      "leg": 1,
+      "status": "pending"
+    },
+    {
+      "id": "a8z5snfumqmibgzs",
+      "homeTeamId": null,
+      "awayTeamId": null,
+      "round": 4,
+      "phase": "SF",
+      "leg": 2,
+      "status": "pending"
+    },
+    {
+      "id": "lnd7gqqhmqmibgzs",
+      "homeTeamId": null,
+      "awayTeamId": null,
+      "homeFromMatch": "68n83w52mqmibgzs",
+      "awayFromMatch": "ujgydtxzmqmibgzs",
+      "round": 5,
+      "phase": "F",
+      "leg": 1,
+      "status": "pending"
+    },
+    {
+      "id": "4hi0imvimqmibgzs",
+      "homeTeamId": null,
+      "awayTeamId": null,
+      "homeFromMatch": "68n83w52mqmibgzs",
+      "awayFromMatch": "ujgydtxzmqmibgzs",
+      "round": 5,
+      "phase": "3rd",
+      "leg": 1,
+      "status": "pending"
+    }
+  ],
+  "groups": [
+    {
+      "id": "group_0",
+      "name": "Groupe A",
+      "teamIds": [
+        "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+        "4050e7b8-0b32-4225-b936-2947890e501c",
+        "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+        "110159bd-411c-409a-ba07-95216b092ba4"
+      ]
+    },
+    {
+      "id": "group_1",
+      "name": "Groupe B",
+      "teamIds": [
+        "45002df1-cafe-4c04-814c-660868b56d95",
+        "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+        "7db62a2a-b398-4a35-9c11-4d5b4bf4570c",
+        "c1a00454-3cc7-46dd-8ec3-a2abb527eba9"
+      ]
+    }
+  ],
+  "standings": {
+    "da633c6d-88ad-40f5-9ab5-6437d77c3797": {
+      "teamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0
+    },
+    "4050e7b8-0b32-4225-b936-2947890e501c": {
+      "teamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0
+    },
+    "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a": {
+      "teamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0
+    },
+    "110159bd-411c-409a-ba07-95216b092ba4": {
+      "teamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0
+    },
+    "45002df1-cafe-4c04-814c-660868b56d95": {
+      "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0
+    },
+    "ca9439ef-f9f3-4ec5-8073-0f62660aa497": {
+      "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0
+    },
+    "7db62a2a-b398-4a35-9c11-4d5b4bf4570c": {
+      "teamId": "7db62a2a-b398-4a35-9c11-4d5b4bf4570c",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0
+    },
+    "c1a00454-3cc7-46dd-8ec3-a2abb527eba9": {
+      "teamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0
+    }
+  },
+  "playerStats": {},
+  "config": {
+    "legsPerMatch": 2,
+    "thirdPlaceMatch": true,
+    "groupsCount": 2,
+    "qualifyPerGroup": 2,
+    "matchRules": {
+      "noOffside": false,
+      "maxSubs": 5,
+      "goldenGoal": false,
+      "extraTime": false,
+      "penalties": false
+    },
+    "knockoutRules": {
+      "noOffside": false,
+      "maxSubs": 5,
+      "goldenGoal": false,
+      "extraTime": true,
+      "penalties": true
+    }
+  },
+  "currentRound": 1,
+  "status": "ongoing",
+  "createdAt": "2026-06-20T15:22:55.048Z"
+}
