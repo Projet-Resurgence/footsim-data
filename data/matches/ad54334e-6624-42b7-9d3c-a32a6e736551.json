@@ -1,0 +1,957 @@
+{
+  "id": "ad54334e-6624-42b7-9d3c-a32a6e736551",
+  "playedAt": "2026-06-20T13:34:27.270Z",
+  "speed": "2",
+  "home": {
+    "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+    "teamSlug": "empire-hussein",
+    "teamName": "Empire Hussein",
+    "formation": "4-2-3-1",
+    "lineup": [
+      "07aeab5b-061d-4600-8666-34b83f575da1",
+      "17ddb492-fc0b-4531-b55b-948928f486d3",
+      "408ffe60-4bad-461b-adf3-43ac1ed96add",
+      "d64558c3-8433-4001-a794-7bb6d8c2fb33",
+      "45c54192-9691-4007-b681-befb290dcc93",
+      "fc265c58-5fca-404e-9490-c43cc465c69a",
+      "7b19b67e-c651-4290-86dc-65a0b182c617",
+      "1c999b90-da69-4d38-a0c2-b11dcd550957",
+      "dc90057b-82df-4168-8204-a6e87d643d0a",
+      "935e4e9a-b8e6-4409-99ad-7f224f7b4593",
+      "89a0086b-0ff0-489e-a845-ca7b750f7403"
+    ],
+    "score": 3,
+    "shots": 7,
+    "shotsOnTarget": 4,
+    "fouls": 7,
+    "yellows": [
+      "fc265c58-5fca-404e-9490-c43cc465c69a",
+      "1c999b90-da69-4d38-a0c2-b11dcd550957"
+    ],
+    "reds": [],
+    "possession": 47
+  },
+  "away": {
+    "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
+    "teamSlug": "ccb",
+    "teamName": "CCB",
+    "formation": "3-4-1-2",
+    "lineup": [
+      "44e712fb-26e6-4278-9d9f-0de27edfe5d5",
+      "c0f12e8b-929e-4763-af2c-947b54ec973d",
+      "2bb42de2-8ff9-4e03-9a38-7b6e004ba097",
+      "4c1df5ee-4c61-454b-a817-1c24699e8f99",
+      "7c2053ae-79ce-4101-950e-ddb262ad7601",
+      "3485a9f3-c86e-4378-a689-d66274d56746",
+      "afb3247a-c91a-4352-9008-b30a1fb17733",
+      "abd4ab2b-9753-484d-aaf6-c0fa7a77ec2a",
+      "67059fa1-f80e-4ba9-818e-cd713dd00299",
+      "7c185c3b-b756-4e27-a573-b4ff397a3821",
+      "0b81ab16-beb5-4b65-bd06-525976aa8160"
+    ],
+    "score": 2,
+    "shots": 10,
+    "shotsOnTarget": 6,
+    "fouls": 6,
+    "yellows": [
+      "67059fa1-f80e-4ba9-818e-cd713dd00299",
+      "abd4ab2b-9753-484d-aaf6-c0fa7a77ec2a"
+    ],
+    "reds": [],
+    "possession": 53
+  },
+  "events": [
+    {
+      "id": 1,
+      "minute": 1,
+      "half": 1,
+      "text": "1' — Coup d'envoi.",
+      "type": "kickoff",
+      "side": null,
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 2,
+      "minute": 2,
+      "half": 1,
+      "text": "2' — Passe décisive de Tarek Hafez.",
+      "type": "keyPass",
+      "side": "home",
+      "playerId": "1c999b90-da69-4d38-a0c2-b11dcd550957",
+      "ballPos": {
+        "x": 40,
+        "y": 25
+      }
+    },
+    {
+      "id": 3,
+      "minute": 6,
+      "half": 1,
+      "text": "6' — Coup franc dangereux pour Empire Hussein (Hussein El-Amrani).",
+      "type": "freeKick",
+      "side": "home",
+      "playerId": "89a0086b-0ff0-489e-a845-ca7b750f7403",
+      "ballPos": {
+        "x": 20,
+        "y": 25
+      }
+    },
+    {
+      "id": 4,
+      "minute": 12,
+      "half": 1,
+      "text": "12' — Faute de Nash Wright.",
+      "type": "foul",
+      "side": "away",
+      "playerId": "67059fa1-f80e-4ba9-818e-cd713dd00299",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 5,
+      "minute": 12,
+      "half": 1,
+      "text": "🟨 12' — Carton jaune pour Nash Wright (CCB).",
+      "type": "yellow",
+      "side": "away",
+      "playerId": "67059fa1-f80e-4ba9-818e-cd713dd00299",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 6,
+      "minute": 13,
+      "half": 1,
+      "text": "13' — Coup franc dangereux pour CCB (Nash Wright).",
+      "type": "freeKick",
+      "side": "away",
+      "playerId": "67059fa1-f80e-4ba9-818e-cd713dd00299",
+      "ballPos": {
+        "x": 80,
+        "y": 25
+      }
+    },
+    {
+      "id": 7,
+      "minute": 14,
+      "half": 1,
+      "text": "14' — Tir non cadré de Jean-Luc Garneau.",
+      "type": "shot",
+      "side": "away",
+      "playerId": "7c185c3b-b756-4e27-a573-b4ff397a3821",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 8,
+      "minute": 15,
+      "half": 1,
+      "text": "15' — Dégagement in extremis de Aaron Hill.",
+      "type": "clearance",
+      "side": "away",
+      "playerId": "c0f12e8b-929e-4763-af2c-947b54ec973d",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 9,
+      "minute": 16,
+      "half": 1,
+      "text": "16' — Passe décisive de Cédric Lévesque.",
+      "type": "keyPass",
+      "side": "away",
+      "playerId": "0b81ab16-beb5-4b65-bd06-525976aa8160",
+      "ballPos": {
+        "x": 60,
+        "y": 25
+      }
+    },
+    {
+      "id": 10,
+      "minute": 18,
+      "half": 1,
+      "text": "🧤 18' — Belle parade de Nathan Morin.",
+      "type": "save",
+      "side": "away",
+      "playerId": "44e712fb-26e6-4278-9d9f-0de27edfe5d5",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 11,
+      "minute": 20,
+      "half": 1,
+      "text": "20' — Hors-jeu signalé contre Empire Hussein.",
+      "type": "offside",
+      "side": "home",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 12,
+      "minute": 21,
+      "half": 1,
+      "text": "21' — Passe décisive de Jean-Luc Garneau.",
+      "type": "keyPass",
+      "side": "away",
+      "playerId": "7c185c3b-b756-4e27-a573-b4ff397a3821",
+      "ballPos": {
+        "x": 60,
+        "y": 25
+      }
+    },
+    {
+      "id": 13,
+      "minute": 22,
+      "half": 1,
+      "text": "🔴 22' — Penalty pour Empire Hussein ! Tarek Hafez s'élance.",
+      "type": "penalty",
+      "side": "home",
+      "playerId": "1c999b90-da69-4d38-a0c2-b11dcd550957",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 14,
+      "minute": 22,
+      "half": 1,
+      "text": "22' — Tir non cadré de Nordine Lounès.",
+      "type": "shot",
+      "side": "home",
+      "playerId": "935e4e9a-b8e6-4409-99ad-7f224f7b4593",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 15,
+      "minute": 25,
+      "half": 1,
+      "text": "🧤 25' — Belle parade de Mounir Salah.",
+      "type": "save",
+      "side": "home",
+      "playerId": "07aeab5b-061d-4600-8666-34b83f575da1",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 16,
+      "minute": 30,
+      "half": 1,
+      "text": "30' — Dribble réussi de Jean-Luc Garneau !",
+      "type": "dribble",
+      "side": "away",
+      "playerId": "7c185c3b-b756-4e27-a573-b4ff397a3821",
+      "ballPos": {
+        "x": 80,
+        "y": 25
+      }
+    },
+    {
+      "id": 17,
+      "minute": 33,
+      "half": 1,
+      "text": "33' — Coup franc dangereux pour Empire Hussein (Hussein El-Amrani).",
+      "type": "freeKick",
+      "side": "home",
+      "playerId": "89a0086b-0ff0-489e-a845-ca7b750f7403",
+      "ballPos": {
+        "x": 20,
+        "y": 25
+      }
+    },
+    {
+      "id": 18,
+      "minute": 34,
+      "half": 1,
+      "text": "⚽ 34' — But pour CCB ! Cédric Lévesque marque.",
+      "type": "goal",
+      "side": "away",
+      "playerId": "0b81ab16-beb5-4b65-bd06-525976aa8160",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 19,
+      "minute": 36,
+      "half": 1,
+      "text": "36' — Coup franc dangereux pour Empire Hussein (Tarek Hafez).",
+      "type": "freeKick",
+      "side": "home",
+      "playerId": "1c999b90-da69-4d38-a0c2-b11dcd550957",
+      "ballPos": {
+        "x": 20,
+        "y": 25
+      }
+    },
+    {
+      "id": 20,
+      "minute": 37,
+      "half": 1,
+      "text": "37' — Passe décisive de Jean-Luc Garneau.",
+      "type": "keyPass",
+      "side": "away",
+      "playerId": "7c185c3b-b756-4e27-a573-b4ff397a3821",
+      "ballPos": {
+        "x": 60,
+        "y": 25
+      }
+    },
+    {
+      "id": 21,
+      "minute": 38,
+      "half": 1,
+      "text": "38' — Faute de Cédric Lévesque.",
+      "type": "foul",
+      "side": "away",
+      "playerId": "0b81ab16-beb5-4b65-bd06-525976aa8160",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 22,
+      "minute": 39,
+      "half": 1,
+      "text": "39' — Tir non cadré de Adel Gaber.",
+      "type": "shot",
+      "side": "home",
+      "playerId": "9e7245a9-b3ce-476c-a30b-e771ab050d71",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 23,
+      "minute": 43,
+      "half": 1,
+      "text": "43' — Faute de Chase Clark.",
+      "type": "foul",
+      "side": "away",
+      "playerId": "12e33eae-cfd1-4431-91e6-73b0ac72e99d",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 24,
+      "minute": 44,
+      "half": 1,
+      "text": "44' — Corner pour Empire Hussein.",
+      "type": "corner",
+      "side": "home",
+      "ballPos": {
+        "x": 100,
+        "y": 50
+      }
+    },
+    {
+      "id": 25,
+      "minute": 45,
+      "half": 1,
+      "text": "45' — Passe décisive de Jean-Luc Garneau.",
+      "type": "keyPass",
+      "side": "away",
+      "playerId": "7c185c3b-b756-4e27-a573-b4ff397a3821",
+      "ballPos": {
+        "x": 60,
+        "y": 25
+      }
+    },
+    {
+      "id": 26,
+      "minute": 47,
+      "half": 1,
+      "text": "47' — Passe décisive de Adel Gaber.",
+      "type": "keyPass",
+      "side": "home",
+      "playerId": "9e7245a9-b3ce-476c-a30b-e771ab050d71",
+      "ballPos": {
+        "x": 40,
+        "y": 25
+      }
+    },
+    {
+      "id": 27,
+      "minute": 49,
+      "half": 1,
+      "text": "49' — Coup franc dangereux pour CCB (Nash Wright).",
+      "type": "freeKick",
+      "side": "away",
+      "playerId": "67059fa1-f80e-4ba9-818e-cd713dd00299",
+      "ballPos": {
+        "x": 80,
+        "y": 25
+      }
+    },
+    {
+      "id": 28,
+      "minute": 49,
+      "half": 1,
+      "text": "🧤 49' — Belle parade de Mounir Salah.",
+      "type": "save",
+      "side": "home",
+      "playerId": "07aeab5b-061d-4600-8666-34b83f575da1",
+      "ballPos": {
+        "x": 80,
+        "y": 25
+      }
+    },
+    {
+      "id": 29,
+      "minute": 50,
+      "half": 1,
+      "text": "Mi-temps.",
+      "type": "halftime",
+      "side": null,
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 30,
+      "minute": 50,
+      "half": 1,
+      "text": "🔄 50' — Empire Hussein : Mohamed Tawfik ↔ Umar Faroug.",
+      "type": "substitution",
+      "side": "home",
+      "playerId": "7b19b67e-c651-4290-86dc-65a0b182c617",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 31,
+      "minute": 50,
+      "half": 1,
+      "text": "🔄 50' — Empire Hussein : Noureldeen Bilal ↔ Adel Gaber.",
+      "type": "substitution",
+      "side": "home",
+      "playerId": "dc90057b-82df-4168-8204-a6e87d643d0a",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 32,
+      "minute": 50,
+      "half": 1,
+      "text": "🔄 50' — CCB : Sean Mitchell ↔ Chase Martinez.",
+      "type": "substitution",
+      "side": "away",
+      "playerId": "abd4ab2b-9753-484d-aaf6-c0fa7a77ec2a",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 33,
+      "minute": 50,
+      "half": 1,
+      "text": "🔄 50' — CCB : Jordan Mitchell ↔ Chase Clark.",
+      "type": "substitution",
+      "side": "away",
+      "playerId": "4c1df5ee-4c61-454b-a817-1c24699e8f99",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 34,
+      "minute": 49,
+      "half": 2,
+      "text": "49' — Tir non cadré de Sean Mitchell.",
+      "type": "shot",
+      "side": "away",
+      "playerId": "abd4ab2b-9753-484d-aaf6-c0fa7a77ec2a",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 35,
+      "minute": 51,
+      "half": 2,
+      "text": "⚽ 51' — But pour Empire Hussein ! Noureldeen Bilal marque.",
+      "type": "goal",
+      "side": "home",
+      "playerId": "dc90057b-82df-4168-8204-a6e87d643d0a",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 36,
+      "minute": 52,
+      "half": 2,
+      "text": "52' — Passe décisive de Cédric Lévesque.",
+      "type": "keyPass",
+      "side": "away",
+      "playerId": "0b81ab16-beb5-4b65-bd06-525976aa8160",
+      "ballPos": {
+        "x": 60,
+        "y": 25
+      }
+    },
+    {
+      "id": 37,
+      "minute": 54,
+      "half": 2,
+      "text": "54' — Corner pour CCB.",
+      "type": "corner",
+      "side": "away",
+      "ballPos": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "id": 38,
+      "minute": 54,
+      "half": 2,
+      "text": "54' — Coup de tête de Cédric Lévesque.",
+      "type": "header",
+      "side": "away",
+      "playerId": "0b81ab16-beb5-4b65-bd06-525976aa8160",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 39,
+      "minute": 55,
+      "half": 2,
+      "text": "55' — Faute de Ayman Marzouq.",
+      "type": "foul",
+      "side": "home",
+      "playerId": "fc265c58-5fca-404e-9490-c43cc465c69a",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 40,
+      "minute": 55,
+      "half": 2,
+      "text": "🟨 55' — Carton jaune pour Ayman Marzouq (Empire Hussein).",
+      "type": "yellow",
+      "side": "home",
+      "playerId": "fc265c58-5fca-404e-9490-c43cc465c69a",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 41,
+      "minute": 56,
+      "half": 2,
+      "text": "⚽ 56' — But pour CCB ! Jordan Mitchell marque.",
+      "type": "goal",
+      "side": "away",
+      "playerId": "4c1df5ee-4c61-454b-a817-1c24699e8f99",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 42,
+      "minute": 57,
+      "half": 2,
+      "text": "57' — Dégagement in extremis de Aaron Hill.",
+      "type": "clearance",
+      "side": "away",
+      "playerId": "c0f12e8b-929e-4763-af2c-947b54ec973d",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 43,
+      "minute": 58,
+      "half": 2,
+      "text": "58' — Corner pour Empire Hussein.",
+      "type": "corner",
+      "side": "home",
+      "ballPos": {
+        "x": 100,
+        "y": 50
+      }
+    },
+    {
+      "id": 44,
+      "minute": 59,
+      "half": 2,
+      "text": "59' — Faute de Ayman Marzouq.",
+      "type": "foul",
+      "side": "home",
+      "playerId": "fc265c58-5fca-404e-9490-c43cc465c69a",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 45,
+      "minute": 61,
+      "half": 2,
+      "text": "61' — Tir non cadré de Nordine Lounès.",
+      "type": "shot",
+      "side": "home",
+      "playerId": "935e4e9a-b8e6-4409-99ad-7f224f7b4593",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 46,
+      "minute": 62,
+      "half": 2,
+      "text": "62' — Corner pour CCB.",
+      "type": "corner",
+      "side": "away",
+      "ballPos": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "id": 47,
+      "minute": 75,
+      "half": 2,
+      "text": "🧤 75' — Belle parade de Mounir Salah.",
+      "type": "save",
+      "side": "home",
+      "playerId": "07aeab5b-061d-4600-8666-34b83f575da1",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 48,
+      "minute": 77,
+      "half": 2,
+      "text": "77' — Passe décisive de Noureldeen Bilal.",
+      "type": "keyPass",
+      "side": "home",
+      "playerId": "dc90057b-82df-4168-8204-a6e87d643d0a",
+      "ballPos": {
+        "x": 40,
+        "y": 25
+      }
+    },
+    {
+      "id": 49,
+      "minute": 79,
+      "half": 2,
+      "text": "79' — Faute de Mustafa Nabil.",
+      "type": "foul",
+      "side": "home",
+      "playerId": "d64558c3-8433-4001-a794-7bb6d8c2fb33",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 50,
+      "minute": 86,
+      "half": 2,
+      "text": "86' — Faute de Sean Mitchell.",
+      "type": "foul",
+      "side": "away",
+      "playerId": "abd4ab2b-9753-484d-aaf6-c0fa7a77ec2a",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 51,
+      "minute": 86,
+      "half": 2,
+      "text": "🟨 86' — Carton jaune pour Sean Mitchell (CCB).",
+      "type": "yellow",
+      "side": "away",
+      "playerId": "abd4ab2b-9753-484d-aaf6-c0fa7a77ec2a",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 52,
+      "minute": 87,
+      "half": 2,
+      "text": "87' — Passe décisive de Cédric Lévesque.",
+      "type": "keyPass",
+      "side": "away",
+      "playerId": "0b81ab16-beb5-4b65-bd06-525976aa8160",
+      "ballPos": {
+        "x": 60,
+        "y": 25
+      }
+    },
+    {
+      "id": 53,
+      "minute": 88,
+      "half": 2,
+      "text": "⚽ 88' — But pour Empire Hussein ! Hussein El-Amrani marque.",
+      "type": "goal",
+      "side": "home",
+      "playerId": "89a0086b-0ff0-489e-a845-ca7b750f7403",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 54,
+      "minute": 89,
+      "half": 2,
+      "text": "89' — Dégagement in extremis de André Côté.",
+      "type": "clearance",
+      "side": "away",
+      "playerId": "2bb42de2-8ff9-4e03-9a38-7b6e004ba097",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 55,
+      "minute": 90,
+      "half": 2,
+      "text": "90' — Passe décisive de Nordine Lounès.",
+      "type": "keyPass",
+      "side": "home",
+      "playerId": "935e4e9a-b8e6-4409-99ad-7f224f7b4593",
+      "ballPos": {
+        "x": 40,
+        "y": 25
+      }
+    },
+    {
+      "id": 56,
+      "minute": 91,
+      "half": 2,
+      "text": "91' — Faute de Tarek Hafez.",
+      "type": "foul",
+      "side": "home",
+      "playerId": "1c999b90-da69-4d38-a0c2-b11dcd550957",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 57,
+      "minute": 91,
+      "half": 2,
+      "text": "🟨 91' — Carton jaune pour Tarek Hafez (Empire Hussein).",
+      "type": "yellow",
+      "side": "home",
+      "playerId": "1c999b90-da69-4d38-a0c2-b11dcd550957",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 58,
+      "minute": 93,
+      "half": 2,
+      "text": "93' — Faute de Mustafa Nabil.",
+      "type": "foul",
+      "side": "home",
+      "playerId": "d64558c3-8433-4001-a794-7bb6d8c2fb33",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 59,
+      "minute": 90,
+      "half": 2,
+      "text": "⏱ Prolongations !",
+      "type": "extraTime",
+      "side": null,
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 60,
+      "minute": 92,
+      "half": 2,
+      "text": "92' — Coup franc dangereux pour Empire Hussein (Noureldeen Bilal).",
+      "type": "freeKick",
+      "side": "home",
+      "playerId": "dc90057b-82df-4168-8204-a6e87d643d0a",
+      "ballPos": {
+        "x": 20,
+        "y": 25
+      }
+    },
+    {
+      "id": 61,
+      "minute": 94,
+      "half": 2,
+      "text": "94' — Coup franc dangereux pour Empire Hussein (Tarek Hafez).",
+      "type": "freeKick",
+      "side": "home",
+      "playerId": "1c999b90-da69-4d38-a0c2-b11dcd550957",
+      "ballPos": {
+        "x": 20,
+        "y": 25
+      }
+    },
+    {
+      "id": 62,
+      "minute": 95,
+      "half": 2,
+      "text": "🧤 95' — Belle parade de Mounir Salah.",
+      "type": "save",
+      "side": "home",
+      "playerId": "07aeab5b-061d-4600-8666-34b83f575da1",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 63,
+      "minute": 96,
+      "half": 2,
+      "text": "96' — Faute de Tarek Hafez.",
+      "type": "foul",
+      "side": "home",
+      "playerId": "1c999b90-da69-4d38-a0c2-b11dcd550957",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 64,
+      "minute": 97,
+      "half": 2,
+      "text": "97' — Faute de Amir Hassan.",
+      "type": "foul",
+      "side": "home",
+      "playerId": "17ddb492-fc0b-4531-b55b-948928f486d3",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 65,
+      "minute": 98,
+      "half": 2,
+      "text": "98' — Tir non cadré de Cédric Lévesque.",
+      "type": "shot",
+      "side": "away",
+      "playerId": "0b81ab16-beb5-4b65-bd06-525976aa8160",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 66,
+      "minute": 101,
+      "half": 2,
+      "text": "101' — Tir non cadré de Sean Mitchell.",
+      "type": "shot",
+      "side": "away",
+      "playerId": "abd4ab2b-9753-484d-aaf6-c0fa7a77ec2a",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 67,
+      "minute": 103,
+      "half": 2,
+      "text": "🔴 103' — Penalty pour Empire Hussein ! Nordine Lounès s'élance.",
+      "type": "penalty",
+      "side": "home",
+      "playerId": "935e4e9a-b8e6-4409-99ad-7f224f7b4593",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 68,
+      "minute": 103,
+      "half": 2,
+      "text": "⚽ 103' — But pour Empire Hussein ! Nordine Lounès marque.",
+      "type": "goal",
+      "side": "home",
+      "playerId": "935e4e9a-b8e6-4409-99ad-7f224f7b4593",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 69,
+      "minute": 103,
+      "half": 2,
+      "text": "Fin du match.",
+      "type": "fulltime",
+      "side": null,
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    }
+  ],
+  "finalScore": {
+    "home": 3,
+    "away": 2
+  }
+}
