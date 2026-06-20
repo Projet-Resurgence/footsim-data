@@ -11,7 +11,31 @@
     },
     {
       "culture": "allemand",
-      "weight": 90
+      "weight": 34
+    },
+    {
+      "culture": "tcheque",
+      "weight": 10
+    },
+    {
+      "culture": "polonais",
+      "weight": 14
+    },
+    {
+      "culture": "luxembourgeois",
+      "weight": 2
+    },
+    {
+      "culture": "autrichien",
+      "weight": 10
+    },
+    {
+      "culture": "belge",
+      "weight": 10
+    },
+    {
+      "culture": "neerlandais",
+      "weight": 10
     }
   ],
   "continent": "europe",
@@ -26,5 +50,5 @@
   "playerCount": 500,
   "formation": "4-3-3",
   "managerDiscordId": "723669328267968582",
-  "publishedAt": "2026-06-20T21:48:40.446Z"
+  "publishedAt": "2026-06-20T21:50:52.187Z"
 }
