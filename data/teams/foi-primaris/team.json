@@ -29,6 +29,15 @@
   },
   "recentMatches": [
     {
+      "matchId": "281ac094-5c0b-4913-9b80-dceac2726f37",
+      "playedAt": "2026-06-20T18:44:37.616Z",
+      "opponentSlug": "ugp",
+      "opponentName": "UGP",
+      "homeAway": "away",
+      "scoreFor": 3,
+      "scoreAgainst": 0
+    },
+    {
       "matchId": "e8795368-d6cc-4705-8c81-e2549776f82a",
       "playedAt": "2026-06-14T10:07:13.857Z",
       "opponentSlug": "empire-hussein",
