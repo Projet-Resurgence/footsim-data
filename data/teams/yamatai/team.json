@@ -28,6 +28,15 @@
   },
   "recentMatches": [
     {
+      "matchId": "82b97dce-7c7e-4d50-9cf4-1b10500494a5",
+      "playedAt": "2026-06-20T15:19:06.992Z",
+      "opponentSlug": "5eme-internationale",
+      "opponentName": "5ème Internationale",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 1
+    },
+    {
       "matchId": "f251a9c7-b202-414b-b960-03d770cafc7c",
       "playedAt": "2026-06-20T14:07:31.738Z",
       "opponentSlug": "ccb",
