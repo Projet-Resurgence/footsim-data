@@ -1,0 +1,23 @@
+{
+  "id": "b6s674oxdnmqmh8689",
+  "name": "Championnat des Nations",
+  "format": "league",
+  "teamIds": [],
+  "matches": [],
+  "standings": {},
+  "playerStats": {},
+  "config": {
+    "legsPerMatch": 2,
+    "thirdPlaceMatch": false,
+    "matchRules": {
+      "noOffside": false,
+      "maxSubs": 5,
+      "goldenGoal": false,
+      "extraTime": false,
+      "penalties": false
+    }
+  },
+  "currentRound": 1,
+  "status": "ongoing",
+  "createdAt": "2026-06-20T14:52:21.514Z"
+}
