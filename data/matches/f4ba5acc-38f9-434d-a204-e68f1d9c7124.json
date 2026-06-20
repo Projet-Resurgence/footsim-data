@@ -1,0 +1,1054 @@
+{
+  "id": "f4ba5acc-38f9-434d-a204-e68f1d9c7124",
+  "playedAt": "2026-06-20T18:48:01.068Z",
+  "speed": "5",
+  "home": {
+    "teamId": "110159bd-411c-409a-ba07-95216b092ba4",
+    "teamSlug": "ugp",
+    "teamName": "UGP",
+    "formation": "4-3-3",
+    "lineup": [
+      "88d6cf70-fc34-479f-8572-d789499e1984",
+      "46274d60-60cb-4d62-b5ba-063a08adda21",
+      "edd4bb45-d83c-4421-8f10-63bba4605082",
+      "88a0a7bc-90fd-407d-adc0-7c8d3a2e837d",
+      "63cba1c6-27e5-4311-91d8-92b5f3fde740",
+      "c0b175e4-3ae0-4184-9118-b1c25aef5498",
+      "442b01e6-c161-4845-8c2b-3261255abcdb",
+      "28caef8a-9b7f-4bae-a15b-b534c7bb14af",
+      "720e2681-c6f2-46e5-b610-9604d3a9e92c",
+      "c6663d52-24a7-4d5a-aaea-b02fd24652d6",
+      "4afb61be-9f6f-4aba-80c9-ef35bf54158f"
+    ],
+    "score": 0,
+    "shots": 7,
+    "shotsOnTarget": 4,
+    "fouls": 10,
+    "yellows": [
+      "88d6cf70-fc34-479f-8572-d789499e1984",
+      "c0b175e4-3ae0-4184-9118-b1c25aef5498",
+      "88a0a7bc-90fd-407d-adc0-7c8d3a2e837d"
+    ],
+    "reds": [],
+    "possession": 45
+  },
+  "away": {
+    "teamId": "8451e643-10d4-48bc-a4e6-4c12255695f4",
+    "teamSlug": "antioche",
+    "teamName": "Antioche",
+    "formation": "4-1-4-1",
+    "lineup": [
+      "873922d5-9cb4-4a7e-9385-6cee1cccb1d0",
+      "b1ed3126-87c3-4a52-b046-ea96f129efc6",
+      "e6d878ba-8d77-4fb1-a0cb-b0fbc4c15dcb",
+      "cd7b6b4b-540d-4749-9f91-e9723d3048b8",
+      "f9e60e6a-0703-4810-9238-253fa3eb04a8",
+      "88f29f4d-3a3c-4fae-8a07-30276733ccf1",
+      "b0a7ac2c-483d-4dc6-8a71-63aa3a42d47d",
+      "5061bf51-aaf6-4bed-8cac-a37afbc16344",
+      "878bd360-c46e-492a-9214-de5da09ea87a",
+      "c830358d-2dd0-4d72-a4ff-547b77d0cdc8",
+      "2d105f15-6085-4c10-a990-0a81180604de"
+    ],
+    "score": 0,
+    "shots": 5,
+    "shotsOnTarget": 3,
+    "fouls": 0,
+    "yellows": [],
+    "reds": [],
+    "possession": 55
+  },
+  "events": [
+    {
+      "id": 1,
+      "minute": 1,
+      "half": 1,
+      "text": "1' — Coup d'envoi.",
+      "type": "kickoff",
+      "side": null,
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 2,
+      "minute": 2,
+      "half": 1,
+      "text": "2' — Tir non cadré de Burak Çakmak.",
+      "type": "shot",
+      "side": "away",
+      "playerId": "5061bf51-aaf6-4bed-8cac-a37afbc16344",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 3,
+      "minute": 7,
+      "half": 1,
+      "text": "7' — Corner pour Antioche.",
+      "type": "corner",
+      "side": "away",
+      "ballPos": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "id": 4,
+      "minute": 8,
+      "half": 1,
+      "text": "8' — Dégagement in extremis de Alper Şahin.",
+      "type": "clearance",
+      "side": "away",
+      "playerId": "e6d878ba-8d77-4fb1-a0cb-b0fbc4c15dcb",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 5,
+      "minute": 13,
+      "half": 1,
+      "text": "13' — Dribble réussi de Samuele De Angelis !",
+      "type": "dribble",
+      "side": "home",
+      "playerId": "c6663d52-24a7-4d5a-aaea-b02fd24652d6",
+      "ballPos": {
+        "x": 20,
+        "y": 25
+      }
+    },
+    {
+      "id": 6,
+      "minute": 14,
+      "half": 1,
+      "text": "🧤 14' — Belle parade de Italo Rizzi.",
+      "type": "save",
+      "side": "home",
+      "playerId": "88d6cf70-fc34-479f-8572-d789499e1984",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 7,
+      "minute": 15,
+      "half": 1,
+      "text": "15' — Dégagement in extremis de Furkan Bayram.",
+      "type": "clearance",
+      "side": "away",
+      "playerId": "b73b8a3b-bc0f-461a-9f42-7a7d5c115a94",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 8,
+      "minute": 17,
+      "half": 1,
+      "text": "17' — Passe clé de Harun Aydoğan.",
+      "type": "keyPass",
+      "side": "away",
+      "playerId": "878bd360-c46e-492a-9214-de5da09ea87a",
+      "ballPos": {
+        "x": 60,
+        "y": 25
+      }
+    },
+    {
+      "id": 9,
+      "minute": 23,
+      "half": 1,
+      "text": "23' — Tir non cadré de Marcello Bruno.",
+      "type": "shot",
+      "side": "home",
+      "playerId": "c0b175e4-3ae0-4184-9118-b1c25aef5498",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 10,
+      "minute": 24,
+      "half": 1,
+      "text": "24' — Passe clé de Samuele De Angelis.",
+      "type": "keyPass",
+      "side": "home",
+      "playerId": "c6663d52-24a7-4d5a-aaea-b02fd24652d6",
+      "ballPos": {
+        "x": 40,
+        "y": 25
+      }
+    },
+    {
+      "id": 11,
+      "minute": 25,
+      "half": 1,
+      "text": "25' — Dégagement in extremis de Leonardo Grasso.",
+      "type": "clearance",
+      "side": "home",
+      "playerId": "88a0a7bc-90fd-407d-adc0-7c8d3a2e837d",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 12,
+      "minute": 26,
+      "half": 1,
+      "text": "26' — Hors-jeu signalé contre Antioche.",
+      "type": "offside",
+      "side": "away",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 13,
+      "minute": 28,
+      "half": 1,
+      "text": "28' — Corner pour Antioche.",
+      "type": "corner",
+      "side": "away",
+      "ballPos": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "id": 14,
+      "minute": 28,
+      "half": 1,
+      "text": "28' — Coup de tête de Harun Aydoğan.",
+      "type": "header",
+      "side": "away",
+      "playerId": "878bd360-c46e-492a-9214-de5da09ea87a",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 15,
+      "minute": 29,
+      "half": 1,
+      "text": "29' — Faute de Leonardo Grasso.",
+      "type": "foul",
+      "side": "home",
+      "playerId": "88a0a7bc-90fd-407d-adc0-7c8d3a2e837d",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 16,
+      "minute": 33,
+      "half": 1,
+      "text": "33' — Corner pour Antioche.",
+      "type": "corner",
+      "side": "away",
+      "ballPos": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "id": 17,
+      "minute": 38,
+      "half": 1,
+      "text": "🔴 38' — Penalty pour UGP ! Samuele De Angelis s'élance.",
+      "type": "penalty",
+      "side": "home",
+      "playerId": "c6663d52-24a7-4d5a-aaea-b02fd24652d6",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 18,
+      "minute": 38,
+      "half": 1,
+      "text": "🧤 38' — Belle parade de Gabriel Blanc.",
+      "type": "save",
+      "side": "away",
+      "playerId": "873922d5-9cb4-4a7e-9385-6cee1cccb1d0",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 19,
+      "minute": 39,
+      "half": 1,
+      "text": "39' — Faute de Italo Rizzi.",
+      "type": "foul",
+      "side": "home",
+      "playerId": "88d6cf70-fc34-479f-8572-d789499e1984",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 20,
+      "minute": 39,
+      "half": 1,
+      "text": "🟨 39' — Carton jaune pour Italo Rizzi (UGP).",
+      "type": "yellow",
+      "side": "home",
+      "playerId": "88d6cf70-fc34-479f-8572-d789499e1984",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 21,
+      "minute": 40,
+      "half": 1,
+      "text": "40' — Passe clé de Gennaro Bruno.",
+      "type": "keyPass",
+      "side": "home",
+      "playerId": "564a4ebb-d2a7-4bd7-aa86-1f52b9d7e446",
+      "ballPos": {
+        "x": 40,
+        "y": 25
+      }
+    },
+    {
+      "id": 22,
+      "minute": 43,
+      "half": 1,
+      "text": "43' — Hors-jeu signalé contre Antioche.",
+      "type": "offside",
+      "side": "away",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 23,
+      "minute": 49,
+      "half": 1,
+      "text": "Mi-temps.",
+      "type": "halftime",
+      "side": null,
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 24,
+      "minute": 49,
+      "half": 1,
+      "text": "🔄 49' — UGP : Cristian Lombardo ↔ Pietro Greco.",
+      "type": "substitution",
+      "side": "home",
+      "playerId": "63cba1c6-27e5-4311-91d8-92b5f3fde740",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 25,
+      "minute": 49,
+      "half": 1,
+      "text": "🔄 49' — UGP : Filippo Grasso ↔ Gennaro Bruno.",
+      "type": "substitution",
+      "side": "home",
+      "playerId": "28caef8a-9b7f-4bae-a15b-b534c7bb14af",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 26,
+      "minute": 49,
+      "half": 1,
+      "text": "🔄 49' — Antioche : Habib Nassar ↔ Furkan Bayram.",
+      "type": "substitution",
+      "side": "away",
+      "playerId": "f9e60e6a-0703-4810-9238-253fa3eb04a8",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 27,
+      "minute": 49,
+      "half": 1,
+      "text": "🔄 49' — Antioche : Mert Bulut ↔ Mustafa Kılıç.",
+      "type": "substitution",
+      "side": "away",
+      "playerId": "b1ed3126-87c3-4a52-b046-ea96f129efc6",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 28,
+      "minute": 48,
+      "half": 2,
+      "text": "48' — Tir non cadré de Davide Mancini.",
+      "type": "shot",
+      "side": "home",
+      "playerId": "720e2681-c6f2-46e5-b610-9604d3a9e92c",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 29,
+      "minute": 52,
+      "half": 2,
+      "text": "52' — Passe clé de Harun Aydoğan.",
+      "type": "keyPass",
+      "side": "away",
+      "playerId": "878bd360-c46e-492a-9214-de5da09ea87a",
+      "ballPos": {
+        "x": 60,
+        "y": 25
+      }
+    },
+    {
+      "id": 30,
+      "minute": 53,
+      "half": 2,
+      "text": "53' — Faute de Pietro Romano.",
+      "type": "foul",
+      "side": "home",
+      "playerId": "edd4bb45-d83c-4421-8f10-63bba4605082",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 31,
+      "minute": 54,
+      "half": 2,
+      "text": "54' — Dribble réussi de Habib Nassar !",
+      "type": "dribble",
+      "side": "away",
+      "playerId": "f9e60e6a-0703-4810-9238-253fa3eb04a8",
+      "ballPos": {
+        "x": 80,
+        "y": 25
+      }
+    },
+    {
+      "id": 32,
+      "minute": 56,
+      "half": 2,
+      "text": "56' — Passe clé de Harun Aydoğan.",
+      "type": "keyPass",
+      "side": "away",
+      "playerId": "878bd360-c46e-492a-9214-de5da09ea87a",
+      "ballPos": {
+        "x": 60,
+        "y": 25
+      }
+    },
+    {
+      "id": 33,
+      "minute": 58,
+      "half": 2,
+      "text": "58' — Passe clé de Habib Nassar.",
+      "type": "keyPass",
+      "side": "away",
+      "playerId": "f9e60e6a-0703-4810-9238-253fa3eb04a8",
+      "ballPos": {
+        "x": 60,
+        "y": 25
+      }
+    },
+    {
+      "id": 34,
+      "minute": 60,
+      "half": 2,
+      "text": "60' — Coup franc dangereux pour Antioche (Alper Karakaya).",
+      "type": "freeKick",
+      "side": "away",
+      "playerId": "2d105f15-6085-4c10-a990-0a81180604de",
+      "ballPos": {
+        "x": 80,
+        "y": 25
+      }
+    },
+    {
+      "id": 35,
+      "minute": 66,
+      "half": 2,
+      "text": "🧤 66' — Belle parade de Gabriel Blanc.",
+      "type": "save",
+      "side": "away",
+      "playerId": "873922d5-9cb4-4a7e-9385-6cee1cccb1d0",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 36,
+      "minute": 75,
+      "half": 2,
+      "text": "🔴 75' — Penalty pour Antioche ! Habib Nassar s'élance.",
+      "type": "penalty",
+      "side": "away",
+      "playerId": "f9e60e6a-0703-4810-9238-253fa3eb04a8",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 37,
+      "minute": 75,
+      "half": 2,
+      "text": "🧤 75' — Belle parade de Italo Rizzi.",
+      "type": "save",
+      "side": "home",
+      "playerId": "88d6cf70-fc34-479f-8572-d789499e1984",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 38,
+      "minute": 77,
+      "half": 2,
+      "text": "77' — Dribble réussi de Samuele De Angelis !",
+      "type": "dribble",
+      "side": "home",
+      "playerId": "c6663d52-24a7-4d5a-aaea-b02fd24652d6",
+      "ballPos": {
+        "x": 20,
+        "y": 25
+      }
+    },
+    {
+      "id": 39,
+      "minute": 77,
+      "half": 2,
+      "text": "77' — Tir non cadré de Cristian Lombardo.",
+      "type": "shot",
+      "side": "home",
+      "playerId": "63cba1c6-27e5-4311-91d8-92b5f3fde740",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 40,
+      "minute": 79,
+      "half": 2,
+      "text": "79' — Dégagement in extremis de Alper Şahin.",
+      "type": "clearance",
+      "side": "away",
+      "playerId": "e6d878ba-8d77-4fb1-a0cb-b0fbc4c15dcb",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 41,
+      "minute": 80,
+      "half": 2,
+      "text": "80' — Dribble réussi de Burak Çakmak !",
+      "type": "dribble",
+      "side": "away",
+      "playerId": "5061bf51-aaf6-4bed-8cac-a37afbc16344",
+      "ballPos": {
+        "x": 80,
+        "y": 25
+      }
+    },
+    {
+      "id": 42,
+      "minute": 81,
+      "half": 2,
+      "text": "81' — Passe clé de Filippo Grasso.",
+      "type": "keyPass",
+      "side": "home",
+      "playerId": "28caef8a-9b7f-4bae-a15b-b534c7bb14af",
+      "ballPos": {
+        "x": 40,
+        "y": 25
+      }
+    },
+    {
+      "id": 43,
+      "minute": 82,
+      "half": 2,
+      "text": "82' — Hors-jeu signalé contre Antioche.",
+      "type": "offside",
+      "side": "away",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 44,
+      "minute": 83,
+      "half": 2,
+      "text": "83' — Corner pour Antioche.",
+      "type": "corner",
+      "side": "away",
+      "ballPos": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "id": 45,
+      "minute": 83,
+      "half": 2,
+      "text": "83' — Coup de tête de Habib Nassar.",
+      "type": "header",
+      "side": "away",
+      "playerId": "f9e60e6a-0703-4810-9238-253fa3eb04a8",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 46,
+      "minute": 84,
+      "half": 2,
+      "text": "84' — Dribble réussi de Habib Nassar !",
+      "type": "dribble",
+      "side": "away",
+      "playerId": "f9e60e6a-0703-4810-9238-253fa3eb04a8",
+      "ballPos": {
+        "x": 80,
+        "y": 25
+      }
+    },
+    {
+      "id": 47,
+      "minute": 84,
+      "half": 2,
+      "text": "84' — Tir non cadré de Alper Karakaya.",
+      "type": "shot",
+      "side": "away",
+      "playerId": "2d105f15-6085-4c10-a990-0a81180604de",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 48,
+      "minute": 85,
+      "half": 2,
+      "text": "85' — Passe clé de Filippo Grasso.",
+      "type": "keyPass",
+      "side": "home",
+      "playerId": "28caef8a-9b7f-4bae-a15b-b534c7bb14af",
+      "ballPos": {
+        "x": 40,
+        "y": 25
+      }
+    },
+    {
+      "id": 49,
+      "minute": 86,
+      "half": 2,
+      "text": "86' — Passe clé de Harun Aydoğan.",
+      "type": "keyPass",
+      "side": "away",
+      "playerId": "878bd360-c46e-492a-9214-de5da09ea87a",
+      "ballPos": {
+        "x": 60,
+        "y": 25
+      }
+    },
+    {
+      "id": 50,
+      "minute": 90,
+      "half": 2,
+      "text": "⏱ Prolongations !",
+      "type": "extraTime",
+      "side": null,
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 51,
+      "minute": 92,
+      "half": 2,
+      "text": "92' — Faute de Marcello Bruno.",
+      "type": "foul",
+      "side": "home",
+      "playerId": "c0b175e4-3ae0-4184-9118-b1c25aef5498",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 52,
+      "minute": 93,
+      "half": 2,
+      "text": "93' — Corner pour UGP.",
+      "type": "corner",
+      "side": "home",
+      "ballPos": {
+        "x": 100,
+        "y": 50
+      }
+    },
+    {
+      "id": 53,
+      "minute": 93,
+      "half": 2,
+      "text": "93' — Coup de tête de Davide Mancini.",
+      "type": "header",
+      "side": "home",
+      "playerId": "720e2681-c6f2-46e5-b610-9604d3a9e92c",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 54,
+      "minute": 93,
+      "half": 2,
+      "text": "🧤 93' — Belle parade de Gabriel Blanc.",
+      "type": "save",
+      "side": "away",
+      "playerId": "873922d5-9cb4-4a7e-9385-6cee1cccb1d0",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 55,
+      "minute": 99,
+      "half": 2,
+      "text": "99' — Faute de Marcello Bruno.",
+      "type": "foul",
+      "side": "home",
+      "playerId": "c0b175e4-3ae0-4184-9118-b1c25aef5498",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 56,
+      "minute": 99,
+      "half": 2,
+      "text": "🟨 99' — Carton jaune pour Marcello Bruno (UGP).",
+      "type": "yellow",
+      "side": "home",
+      "playerId": "c0b175e4-3ae0-4184-9118-b1c25aef5498",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 57,
+      "minute": 100,
+      "half": 2,
+      "text": "100' — Passe clé de Habib Nassar.",
+      "type": "keyPass",
+      "side": "away",
+      "playerId": "f9e60e6a-0703-4810-9238-253fa3eb04a8",
+      "ballPos": {
+        "x": 60,
+        "y": 25
+      }
+    },
+    {
+      "id": 58,
+      "minute": 101,
+      "half": 2,
+      "text": "101' — Faute de Filippo Grasso.",
+      "type": "foul",
+      "side": "home",
+      "playerId": "28caef8a-9b7f-4bae-a15b-b534c7bb14af",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 59,
+      "minute": 104,
+      "half": 2,
+      "text": "🧤 104' — Belle parade de Italo Rizzi.",
+      "type": "save",
+      "side": "home",
+      "playerId": "88d6cf70-fc34-479f-8572-d789499e1984",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 60,
+      "minute": 106,
+      "half": 2,
+      "text": "Mi-temps.",
+      "type": "halftime",
+      "side": null,
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 61,
+      "minute": 113,
+      "half": 2,
+      "text": "113' — Corner pour UGP.",
+      "type": "corner",
+      "side": "home",
+      "ballPos": {
+        "x": 100,
+        "y": 50
+      }
+    },
+    {
+      "id": 62,
+      "minute": 114,
+      "half": 2,
+      "text": "114' — Passe clé de Burak Çakmak.",
+      "type": "keyPass",
+      "side": "away",
+      "playerId": "5061bf51-aaf6-4bed-8cac-a37afbc16344",
+      "ballPos": {
+        "x": 60,
+        "y": 25
+      }
+    },
+    {
+      "id": 63,
+      "minute": 118,
+      "half": 2,
+      "text": "118' — Faute de Alberto Sala.",
+      "type": "foul",
+      "side": "home",
+      "playerId": "4afb61be-9f6f-4aba-80c9-ef35bf54158f",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 64,
+      "minute": 120,
+      "half": 2,
+      "text": "🧤 120' — Belle parade de Gabriel Blanc.",
+      "type": "save",
+      "side": "away",
+      "playerId": "873922d5-9cb4-4a7e-9385-6cee1cccb1d0",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 65,
+      "minute": 121,
+      "half": 2,
+      "text": "121' — Faute de Leonardo Grasso.",
+      "type": "foul",
+      "side": "home",
+      "playerId": "88a0a7bc-90fd-407d-adc0-7c8d3a2e837d",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 66,
+      "minute": 121,
+      "half": 2,
+      "text": "🟨 121' — Carton jaune pour Leonardo Grasso (UGP).",
+      "type": "yellow",
+      "side": "home",
+      "playerId": "88a0a7bc-90fd-407d-adc0-7c8d3a2e837d",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 67,
+      "minute": 124,
+      "half": 2,
+      "type": "penalty",
+      "side": "home",
+      "playerId": "720e2681-c6f2-46e5-b610-9604d3a9e92c",
+      "text": "🧤 TAB — Arrêté ! (0-0)",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 68,
+      "minute": 124,
+      "half": 2,
+      "type": "penalty",
+      "side": "away",
+      "playerId": "878bd360-c46e-492a-9214-de5da09ea87a",
+      "text": "⚽ TAB — Antioche marque ! (0-1)",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 69,
+      "minute": 124,
+      "half": 2,
+      "type": "penalty",
+      "side": "home",
+      "playerId": "c6663d52-24a7-4d5a-aaea-b02fd24652d6",
+      "text": "⚽ TAB — UGP marque ! (1-1)",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 70,
+      "minute": 124,
+      "half": 2,
+      "type": "penalty",
+      "side": "away",
+      "playerId": "5061bf51-aaf6-4bed-8cac-a37afbc16344",
+      "text": "⚽ TAB — Antioche marque ! (1-2)",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 71,
+      "minute": 124,
+      "half": 2,
+      "type": "penalty",
+      "side": "home",
+      "playerId": "720e2681-c6f2-46e5-b610-9604d3a9e92c",
+      "text": "🧤 TAB — Arrêté ! (1-2)",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 72,
+      "minute": 124,
+      "half": 2,
+      "type": "penalty",
+      "side": "away",
+      "playerId": "2d105f15-6085-4c10-a990-0a81180604de",
+      "text": "⚽ TAB — Antioche marque ! (1-3)",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 73,
+      "minute": 124,
+      "half": 2,
+      "type": "penalty",
+      "side": "home",
+      "playerId": "720e2681-c6f2-46e5-b610-9604d3a9e92c",
+      "text": "🧤 TAB — Arrêté ! (1-3)",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 74,
+      "minute": 124,
+      "half": 2,
+      "type": "penalty",
+      "side": "away",
+      "playerId": "2d105f15-6085-4c10-a990-0a81180604de",
+      "text": "🧤 TAB — Arrêté ! (1-3)",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 75,
+      "minute": 124,
+      "half": 2,
+      "type": "penalty",
+      "side": "home",
+      "playerId": "c6663d52-24a7-4d5a-aaea-b02fd24652d6",
+      "text": "⚽ TAB — UGP marque ! (2-3)",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 76,
+      "minute": 124,
+      "half": 2,
+      "type": "penalty",
+      "side": "away",
+      "playerId": "5061bf51-aaf6-4bed-8cac-a37afbc16344",
+      "text": "⚽ TAB — Antioche marque ! (2-4)",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 77,
+      "minute": 124,
+      "half": 2,
+      "text": "Fin du match.",
+      "type": "fulltime",
+      "side": null,
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    }
+  ],
+  "finalScore": {
+    "home": 0,
+    "away": 0
+  }
+}
