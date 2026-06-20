@@ -181,5 +181,29 @@
       "89a0086b-0ff0-489e-a845-ca7b750f7403"
     ]
   },
-  "publishedAt": "2026-06-20T13:32:26.749Z"
+  "publishedAt": "2026-06-20T16:03:54.902Z",
+  "cultures": [
+    {
+      "culture": "arabe",
+      "weight": 17
+    },
+    {
+      "culture": "egyptien",
+      "weight": 50
+    },
+    {
+      "culture": "maghrebin",
+      "weight": 4
+    },
+    {
+      "culture": "soudanais",
+      "weight": 13
+    }
+  ],
+  "continent": "afriquenord",
+  "continents": [
+    "afriquenord",
+    "moyenorient"
+  ],
+  "managerDiscordId": "772821169664426025"
 }
