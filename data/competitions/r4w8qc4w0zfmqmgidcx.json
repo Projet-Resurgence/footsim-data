@@ -81,7 +81,12 @@
       "phase": "group",
       "groupId": "group_0",
       "leg": 1,
-      "status": "pending"
+      "status": "completed",
+      "result": {
+        "home": 5,
+        "away": 2
+      },
+      "simulatedAt": "2026-06-20T14:36:24.003Z"
     },
     {
       "id": "xdn0yos1mqmgidcy",
@@ -91,7 +96,12 @@
       "phase": "group",
       "groupId": "group_0",
       "leg": 1,
-      "status": "pending"
+      "status": "completed",
+      "result": {
+        "home": 1,
+        "away": 1
+      },
+      "simulatedAt": "2026-06-20T14:36:24.004Z"
     },
     {
       "id": "2x1b1by2mqmgidcy",
@@ -161,7 +171,12 @@
       "phase": "group",
       "groupId": "group_1",
       "leg": 1,
-      "status": "pending"
+      "status": "completed",
+      "result": {
+        "home": 0,
+        "away": 0
+      },
+      "simulatedAt": "2026-06-20T14:36:24.005Z"
     },
     {
       "id": "nzpojuy1mqmgidcy",
@@ -171,7 +186,12 @@
       "phase": "group",
       "groupId": "group_1",
       "leg": 1,
-      "status": "pending"
+      "status": "completed",
+      "result": {
+        "home": 0,
+        "away": 0
+      },
+      "simulatedAt": "2026-06-20T14:36:24.005Z"
     },
     {
       "id": "gnwpzwk2mqmgidcy",
@@ -228,83 +248,83 @@
   "standings": {
     "4050e7b8-0b32-4225-b936-2947890e501c": {
       "teamId": "4050e7b8-0b32-4225-b936-2947890e501c",
-      "played": 2,
-      "won": 2,
+      "played": 3,
+      "won": 3,
       "drawn": 0,
       "lost": 0,
-      "goalsFor": 4,
-      "goalsAgainst": 1,
-      "points": 6
+      "goalsFor": 9,
+      "goalsAgainst": 3,
+      "points": 9
     },
     "55c94018-aa17-477e-86d3-722caf57df20": {
       "teamId": "55c94018-aa17-477e-86d3-722caf57df20",
-      "played": 2,
+      "played": 3,
       "won": 0,
       "drawn": 0,
-      "lost": 2,
-      "goalsFor": 1,
-      "goalsAgainst": 3,
+      "lost": 3,
+      "goalsFor": 3,
+      "goalsAgainst": 8,
       "points": 0
     },
     "ca9439ef-f9f3-4ec5-8073-0f62660aa497": {
       "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
-      "played": 2,
+      "played": 3,
       "won": 1,
-      "drawn": 0,
+      "drawn": 1,
       "lost": 1,
-      "goalsFor": 2,
-      "goalsAgainst": 2,
-      "points": 3
+      "goalsFor": 3,
+      "goalsAgainst": 3,
+      "points": 4
     },
     "110159bd-411c-409a-ba07-95216b092ba4": {
       "teamId": "110159bd-411c-409a-ba07-95216b092ba4",
-      "played": 2,
+      "played": 3,
       "won": 1,
-      "drawn": 0,
+      "drawn": 1,
       "lost": 1,
-      "goalsFor": 2,
-      "goalsAgainst": 3,
-      "points": 3
+      "goalsFor": 3,
+      "goalsAgainst": 4,
+      "points": 4
     },
     "da633c6d-88ad-40f5-9ab5-6437d77c3797": {
       "teamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
-      "played": 2,
+      "played": 3,
       "won": 1,
-      "drawn": 0,
+      "drawn": 1,
       "lost": 1,
       "goalsFor": 2,
       "goalsAgainst": 3,
-      "points": 3
+      "points": 4
     },
     "45002df1-cafe-4c04-814c-660868b56d95": {
       "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
-      "played": 2,
+      "played": 3,
       "won": 0,
-      "drawn": 2,
+      "drawn": 3,
       "lost": 0,
       "goalsFor": 1,
       "goalsAgainst": 1,
-      "points": 2
+      "points": 3
     },
     "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a": {
       "teamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
-      "played": 2,
+      "played": 3,
       "won": 0,
-      "drawn": 1,
+      "drawn": 2,
       "lost": 1,
       "goalsFor": 2,
       "goalsAgainst": 3,
-      "points": 1
+      "points": 2
     },
     "c1a00454-3cc7-46dd-8ec3-a2abb527eba9": {
       "teamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
-      "played": 2,
+      "played": 3,
       "won": 1,
-      "drawn": 1,
+      "drawn": 2,
       "lost": 0,
       "goalsFor": 2,
       "goalsAgainst": 0,
-      "points": 4
+      "points": 5
     }
   },
   "playerStats": {
@@ -320,41 +340,44 @@
       "redCards": 0,
       "matchRatings": [
         7.5,
+        6,
         6
       ],
-      "avgRating": 6.8
+      "avgRating": 6.5
     },
     "333b22f4-cb43-4ea4-9e75-46c8cd2b2b30": {
       "playerId": "333b22f4-cb43-4ea4-9e75-46c8cd2b2b30",
       "playerName": "Daniel Ortega",
       "teamId": "4050e7b8-0b32-4225-b936-2947890e501c",
       "teamName": "FCLC",
-      "goals": 1,
+      "goals": 3,
       "assists": 1,
       "cleanSheets": 0,
       "yellowCards": 0,
       "redCards": 0,
       "matchRatings": [
         8.5,
-        6
+        6,
+        9
       ],
-      "avgRating": 7.3
+      "avgRating": 7.8
     },
     "51964164-e7df-4598-a1ad-4086c38a7a61": {
       "playerId": "51964164-e7df-4598-a1ad-4086c38a7a61",
       "playerName": "Álvaro Sánchez",
       "teamId": "4050e7b8-0b32-4225-b936-2947890e501c",
       "teamName": "FCLC",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
       "cleanSheets": 0,
       "yellowCards": 1,
       "redCards": 0,
       "matchRatings": [
         5.5,
-        6
+        6,
+        7.5
       ],
-      "avgRating": 5.8
+      "avgRating": 6.3
     },
     "8b794504-1868-467a-be94-17f974dee1fb": {
       "playerId": "8b794504-1868-467a-be94-17f974dee1fb",
@@ -368,9 +391,10 @@
       "redCards": 0,
       "matchRatings": [
         7.3,
-        6.8
+        6.8,
+        6.3
       ],
-      "avgRating": 7.1
+      "avgRating": 6.8
     },
     "a1cca358-b23e-430e-8634-2706a71c10ee": {
       "playerId": "a1cca358-b23e-430e-8634-2706a71c10ee",
@@ -384,9 +408,10 @@
       "redCards": 0,
       "matchRatings": [
         6.4,
+        6,
         6
       ],
-      "avgRating": 6.2
+      "avgRating": 6.1
     },
     "53bf9428-0fa6-437a-a95a-c2d9572933ed": {
       "playerId": "53bf9428-0fa6-437a-a95a-c2d9572933ed",
@@ -396,13 +421,14 @@
       "goals": 0,
       "assists": 0,
       "cleanSheets": 0,
-      "yellowCards": 0,
+      "yellowCards": 1,
       "redCards": 0,
       "matchRatings": [
         6.4,
-        6
+        6,
+        5.5
       ],
-      "avgRating": 6.2
+      "avgRating": 6
     },
     "18fa2203-cf2d-4638-ad42-0e12e142ffb5": {
       "playerId": "18fa2203-cf2d-4638-ad42-0e12e142ffb5",
@@ -416,9 +442,10 @@
       "redCards": 0,
       "matchRatings": [
         6.4,
+        6,
         6
       ],
-      "avgRating": 6.2
+      "avgRating": 6.1
     },
     "c0931e70-563d-4f7a-9a41-48e371afeed3": {
       "playerId": "c0931e70-563d-4f7a-9a41-48e371afeed3",
@@ -426,15 +453,16 @@
       "teamId": "4050e7b8-0b32-4225-b936-2947890e501c",
       "teamName": "FCLC",
       "goals": 0,
-      "assists": 0,
+      "assists": 1,
       "cleanSheets": 0,
       "yellowCards": 0,
       "redCards": 0,
       "matchRatings": [
         5.7,
-        5.7
+        5.7,
+        6.7
       ],
-      "avgRating": 5.7
+      "avgRating": 6
     },
     "63e26cad-65b9-4c58-81b2-060246c101f5": {
       "playerId": "63e26cad-65b9-4c58-81b2-060246c101f5",
@@ -448,9 +476,10 @@
       "redCards": 0,
       "matchRatings": [
         5.7,
-        7.2
+        7.2,
+        5.7
       ],
-      "avgRating": 6.5
+      "avgRating": 6.2
     },
     "88126f88-0083-410d-8a18-45d68715bc13": {
       "playerId": "88126f88-0083-410d-8a18-45d68715bc13",
@@ -464,6 +493,7 @@
       "redCards": 0,
       "matchRatings": [
         6,
+        6,
         6
       ],
       "avgRating": 6
@@ -473,16 +503,17 @@
       "playerName": "Manuel Peña",
       "teamId": "4050e7b8-0b32-4225-b936-2947890e501c",
       "teamName": "FCLC",
-      "goals": 1,
+      "goals": 3,
       "assists": 0,
       "cleanSheets": 0,
       "yellowCards": 0,
       "redCards": 0,
       "matchRatings": [
         6,
-        7.5
+        7.5,
+        9
       ],
-      "avgRating": 6.8
+      "avgRating": 7.5
     },
     "88d6cf70-fc34-479f-8572-d789499e1984": {
       "playerId": "88d6cf70-fc34-479f-8572-d789499e1984",
@@ -496,9 +527,10 @@
       "redCards": 0,
       "matchRatings": [
         6.8,
-        7
+        7,
+        6.3
       ],
-      "avgRating": 6.9
+      "avgRating": 6.7
     },
     "46274d60-60cb-4d62-b5ba-063a08adda21": {
       "playerId": "46274d60-60cb-4d62-b5ba-063a08adda21",
@@ -511,6 +543,7 @@
       "yellowCards": 0,
       "redCards": 0,
       "matchRatings": [
+        6,
         6,
         6
       ],
@@ -528,6 +561,7 @@
       "redCards": 0,
       "matchRatings": [
         6,
+        6,
         6
       ],
       "avgRating": 6
@@ -543,6 +577,7 @@
       "yellowCards": 0,
       "redCards": 0,
       "matchRatings": [
+        6,
         6,
         6
       ],
@@ -560,6 +595,7 @@
       "redCards": 0,
       "matchRatings": [
         5.7,
+        5.7,
         5.7
       ],
       "avgRating": 5.7
@@ -575,6 +611,7 @@
       "yellowCards": 0,
       "redCards": 0,
       "matchRatings": [
+        6,
         6,
         6
       ],
@@ -592,6 +629,7 @@
       "redCards": 0,
       "matchRatings": [
         6,
+        6,
         6
       ],
       "avgRating": 6
@@ -607,6 +645,7 @@
       "yellowCards": 0,
       "redCards": 0,
       "matchRatings": [
+        5.7,
         5.7,
         5.7
       ],
@@ -624,23 +663,25 @@
       "redCards": 0,
       "matchRatings": [
         6,
-        7.5
+        7.5,
+        6
       ],
-      "avgRating": 6.8
+      "avgRating": 6.5
     },
     "c6663d52-24a7-4d5a-aaea-b02fd24652d6": {
       "playerId": "c6663d52-24a7-4d5a-aaea-b02fd24652d6",
       "playerName": "Samuele De Angelis",
       "teamId": "110159bd-411c-409a-ba07-95216b092ba4",
       "teamName": "UGP",
-      "goals": 1,
+      "goals": 2,
       "assists": 1,
       "cleanSheets": 0,
       "yellowCards": 0,
       "redCards": 0,
       "matchRatings": [
         6,
-        8.5
+        8.5,
+        7.5
       ],
       "avgRating": 7.3
     },
@@ -655,6 +696,7 @@
       "yellowCards": 0,
       "redCards": 0,
       "matchRatings": [
+        6,
         6,
         6
       ],
@@ -672,9 +714,10 @@
       "redCards": 0,
       "matchRatings": [
         5.5,
-        6
+        6,
+        5.7
       ],
-      "avgRating": 5.8
+      "avgRating": 5.7
     },
     "dc90057b-82df-4168-8204-a6e87d643d0a": {
       "playerId": "dc90057b-82df-4168-8204-a6e87d643d0a",
@@ -688,16 +731,17 @@
       "redCards": 0,
       "matchRatings": [
         7.5,
+        6,
         6
       ],
-      "avgRating": 6.8
+      "avgRating": 6.5
     },
     "29bbc6be-5ead-4dc6-a4ce-0bc08d730468": {
       "playerId": "29bbc6be-5ead-4dc6-a4ce-0bc08d730468",
       "playerName": "Fatah Wahby",
       "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
       "teamName": "Empire Hussein",
-      "goals": 0,
+      "goals": 1,
       "assists": 1,
       "cleanSheets": 0,
       "yellowCards": 0,
@@ -717,9 +761,10 @@
       "redCards": 0,
       "matchRatings": [
         5.5,
-        7
+        7,
+        6
       ],
-      "avgRating": 6.3
+      "avgRating": 6.2
     },
     "07aeab5b-061d-4600-8666-34b83f575da1": {
       "playerId": "07aeab5b-061d-4600-8666-34b83f575da1",
@@ -733,9 +778,10 @@
       "redCards": 0,
       "matchRatings": [
         7.8,
-        6.3
+        6.3,
+        7
       ],
-      "avgRating": 7.1
+      "avgRating": 7
     },
     "83aa9570-1f8a-4927-9205-10adaeb5012e": {
       "playerId": "83aa9570-1f8a-4927-9205-10adaeb5012e",
@@ -749,9 +795,10 @@
       "redCards": 0,
       "matchRatings": [
         6.3,
-        6.3
+        6.3,
+        5.9
       ],
-      "avgRating": 6.3
+      "avgRating": 6.2
     },
     "a058740a-a19b-4ec5-8245-d00f6d110c52": {
       "playerId": "a058740a-a19b-4ec5-8245-d00f6d110c52",
@@ -765,9 +812,10 @@
       "redCards": 0,
       "matchRatings": [
         6,
-        6
+        6,
+        5.7
       ],
-      "avgRating": 6
+      "avgRating": 5.9
     },
     "fdc14393-1f4e-4ce4-a705-d56019c36ad3": {
       "playerId": "fdc14393-1f4e-4ce4-a705-d56019c36ad3",
@@ -781,9 +829,10 @@
       "redCards": 0,
       "matchRatings": [
         6,
-        6
+        6,
+        5.7
       ],
-      "avgRating": 6
+      "avgRating": 5.9
     },
     "f7b96c62-3e2b-4bad-a76c-e349c7494b68": {
       "playerId": "f7b96c62-3e2b-4bad-a76c-e349c7494b68",
@@ -797,9 +846,10 @@
       "redCards": 0,
       "matchRatings": [
         6,
-        6
+        6,
+        5.7
       ],
-      "avgRating": 6
+      "avgRating": 5.9
     },
     "201e2880-3d06-44ef-bed5-811150a0b73f": {
       "playerId": "201e2880-3d06-44ef-bed5-811150a0b73f",
@@ -812,6 +862,7 @@
       "yellowCards": 0,
       "redCards": 0,
       "matchRatings": [
+        6,
         6,
         6
       ],
@@ -829,6 +880,7 @@
       "redCards": 0,
       "matchRatings": [
         5.7,
+        5.7,
         5.7
       ],
       "avgRating": 5.7
@@ -844,6 +896,7 @@
       "yellowCards": 0,
       "redCards": 0,
       "matchRatings": [
+        5.7,
         5.7,
         5.7
       ],
@@ -861,6 +914,7 @@
       "redCards": 0,
       "matchRatings": [
         6,
+        6,
         6
       ],
       "avgRating": 6
@@ -870,16 +924,17 @@
       "playerName": "Gonzalo Sanz",
       "teamId": "55c94018-aa17-477e-86d3-722caf57df20",
       "teamName": "Castille",
-      "goals": 0,
+      "goals": 2,
       "assists": 0,
       "cleanSheets": 0,
       "yellowCards": 0,
       "redCards": 0,
       "matchRatings": [
         6,
-        6
+        6,
+        9
       ],
-      "avgRating": 6
+      "avgRating": 7
     },
     "ee6ed1a4-5d2e-4b22-b508-4af846e588ad": {
       "playerId": "ee6ed1a4-5d2e-4b22-b508-4af846e588ad",
@@ -893,9 +948,10 @@
       "redCards": 0,
       "matchRatings": [
         6,
-        7.5
+        7.5,
+        6
       ],
-      "avgRating": 6.8
+      "avgRating": 6.5
     },
     "17ddb492-fc0b-4531-b55b-948928f486d3": {
       "playerId": "17ddb492-fc0b-4531-b55b-948928f486d3",
@@ -909,9 +965,10 @@
       "redCards": 0,
       "matchRatings": [
         6.4,
+        6,
         6
       ],
-      "avgRating": 6.2
+      "avgRating": 6.1
     },
     "408ffe60-4bad-461b-adf3-43ac1ed96add": {
       "playerId": "408ffe60-4bad-461b-adf3-43ac1ed96add",
@@ -925,9 +982,10 @@
       "redCards": 0,
       "matchRatings": [
         6.4,
+        6,
         6
       ],
-      "avgRating": 6.2
+      "avgRating": 6.1
     },
     "d64558c3-8433-4001-a794-7bb6d8c2fb33": {
       "playerId": "d64558c3-8433-4001-a794-7bb6d8c2fb33",
@@ -941,9 +999,10 @@
       "redCards": 0,
       "matchRatings": [
         6.4,
+        6,
         6
       ],
-      "avgRating": 6.2
+      "avgRating": 6.1
     },
     "45c54192-9691-4007-b681-befb290dcc93": {
       "playerId": "45c54192-9691-4007-b681-befb290dcc93",
@@ -957,9 +1016,10 @@
       "redCards": 0,
       "matchRatings": [
         6.4,
+        6,
         6
       ],
-      "avgRating": 6.2
+      "avgRating": 6.1
     },
     "7b19b67e-c651-4290-86dc-65a0b182c617": {
       "playerId": "7b19b67e-c651-4290-86dc-65a0b182c617",
@@ -972,6 +1032,7 @@
       "yellowCards": 0,
       "redCards": 0,
       "matchRatings": [
+        5.7,
         5.7,
         5.7
       ],
@@ -989,6 +1050,7 @@
       "redCards": 0,
       "matchRatings": [
         5.7,
+        5.7,
         5.7
       ],
       "avgRating": 5.7
@@ -1004,6 +1066,7 @@
       "yellowCards": 0,
       "redCards": 0,
       "matchRatings": [
+        6,
         6,
         6
       ],
@@ -1021,7 +1084,8 @@
       "redCards": 0,
       "matchRatings": [
         6,
-        5.5
+        5.5,
+        6
       ],
       "avgRating": 5.8
     },
@@ -1037,9 +1101,10 @@
       "redCards": 0,
       "matchRatings": [
         5.5,
-        5.5
+        5.5,
+        6
       ],
-      "avgRating": 5.5
+      "avgRating": 5.7
     },
     "c23f3eb9-049b-4834-b371-619985d3ef86": {
       "playerId": "c23f3eb9-049b-4834-b371-619985d3ef86",
@@ -1053,9 +1118,10 @@
       "redCards": 0,
       "matchRatings": [
         5.5,
-        6
+        6,
+        6.4
       ],
-      "avgRating": 5.8
+      "avgRating": 6
     },
     "8dfe3c1b-ad91-4c62-a9c6-5ae0265bcc34": {
       "playerId": "8dfe3c1b-ad91-4c62-a9c6-5ae0265bcc34",
@@ -1064,14 +1130,15 @@
       "teamName": "5ème Internationale",
       "goals": 0,
       "assists": 0,
-      "cleanSheets": 0,
+      "cleanSheets": 1,
       "yellowCards": 1,
       "redCards": 0,
       "matchRatings": [
         5.8,
+        7.3,
         7.3
       ],
-      "avgRating": 6.6
+      "avgRating": 6.8
     },
     "10873fba-5562-48ad-bddd-03c692f6be55": {
       "playerId": "10873fba-5562-48ad-bddd-03c692f6be55",
@@ -1085,9 +1152,10 @@
       "redCards": 0,
       "matchRatings": [
         7.5,
+        6,
         6
       ],
-      "avgRating": 6.8
+      "avgRating": 6.5
     },
     "ff47a2e6-7d48-4409-83a8-99972bf718a7": {
       "playerId": "ff47a2e6-7d48-4409-83a8-99972bf718a7",
@@ -1101,9 +1169,10 @@
       "redCards": 0,
       "matchRatings": [
         7,
-        8.3
+        8.3,
+        6.5
       ],
-      "avgRating": 7.7
+      "avgRating": 7.3
     },
     "c61749e6-b4d4-41c6-93c4-4a48ea6d2c18": {
       "playerId": "c61749e6-b4d4-41c6-93c4-4a48ea6d2c18",
@@ -1117,9 +1186,10 @@
       "redCards": 0,
       "matchRatings": [
         7.5,
+        6,
         6
       ],
-      "avgRating": 6.8
+      "avgRating": 6.5
     },
     "b3c886a5-f6d8-4cc1-af87-67e7874c0560": {
       "playerId": "b3c886a5-f6d8-4cc1-af87-67e7874c0560",
@@ -1128,14 +1198,15 @@
       "teamName": "Yamatai",
       "goals": 0,
       "assists": 0,
-      "cleanSheets": 2,
+      "cleanSheets": 3,
       "yellowCards": 0,
       "redCards": 0,
       "matchRatings": [
         7.8,
-        8.6
+        8.6,
+        6.8
       ],
-      "avgRating": 8.2
+      "avgRating": 7.7
     },
     "609de258-0ecd-46cb-aa38-645b1e005f4d": {
       "playerId": "609de258-0ecd-46cb-aa38-645b1e005f4d",
@@ -1149,9 +1220,10 @@
       "redCards": 0,
       "matchRatings": [
         6,
-        6
+        6,
+        6.4
       ],
-      "avgRating": 6
+      "avgRating": 6.1
     },
     "54b229fc-a2a8-4458-9b88-ff8cbccf565d": {
       "playerId": "54b229fc-a2a8-4458-9b88-ff8cbccf565d",
@@ -1165,9 +1237,10 @@
       "redCards": 0,
       "matchRatings": [
         6,
-        6
+        6,
+        6.4
       ],
-      "avgRating": 6
+      "avgRating": 6.1
     },
     "1d7892d9-f47f-47a3-b41e-8622049075b2": {
       "playerId": "1d7892d9-f47f-47a3-b41e-8622049075b2",
@@ -1181,9 +1254,10 @@
       "redCards": 0,
       "matchRatings": [
         5.7,
-        5.7
+        5.7,
+        6.1
       ],
-      "avgRating": 5.7
+      "avgRating": 5.8
     },
     "b2d3034a-7398-4715-88ad-1943b28927eb": {
       "playerId": "b2d3034a-7398-4715-88ad-1943b28927eb",
@@ -1197,9 +1271,10 @@
       "redCards": 0,
       "matchRatings": [
         6,
-        7.5
+        7.5,
+        6
       ],
-      "avgRating": 6.8
+      "avgRating": 6.5
     },
     "30f29f34-1db2-4515-90d0-a533ad38fa0e": {
       "playerId": "30f29f34-1db2-4515-90d0-a533ad38fa0e",
@@ -1212,6 +1287,7 @@
       "yellowCards": 0,
       "redCards": 0,
       "matchRatings": [
+        6,
         6,
         6
       ],
@@ -1229,9 +1305,10 @@
       "redCards": 0,
       "matchRatings": [
         5.7,
-        5.7
+        5.7,
+        6.1
       ],
-      "avgRating": 5.7
+      "avgRating": 5.8
     },
     "0f37e5f2-34b6-42eb-a40d-a1cbed31548a": {
       "playerId": "0f37e5f2-34b6-42eb-a40d-a1cbed31548a",
@@ -1245,6 +1322,7 @@
       "redCards": 0,
       "matchRatings": [
         6,
+        6,
         6
       ],
       "avgRating": 6
@@ -1257,13 +1335,14 @@
       "goals": 1,
       "assists": 0,
       "cleanSheets": 0,
-      "yellowCards": 1,
+      "yellowCards": 2,
       "redCards": 0,
       "matchRatings": [
         6,
-        7
+        7,
+        5.5
       ],
-      "avgRating": 6.5
+      "avgRating": 6.2
     },
     "f75dc5fe-ff5c-474d-92dc-2ec670d9a600": {
       "playerId": "f75dc5fe-ff5c-474d-92dc-2ec670d9a600",
@@ -1276,6 +1355,7 @@
       "yellowCards": 0,
       "redCards": 0,
       "matchRatings": [
+        6,
         6,
         6
       ],
@@ -1293,6 +1373,7 @@
       "redCards": 0,
       "matchRatings": [
         6.4,
+        6.4,
         6.4
       ],
       "avgRating": 6.4
@@ -1305,13 +1386,14 @@
       "goals": 0,
       "assists": 0,
       "cleanSheets": 0,
-      "yellowCards": 0,
+      "yellowCards": 1,
       "redCards": 0,
       "matchRatings": [
         6.4,
-        6.4
+        6.4,
+        5.9
       ],
-      "avgRating": 6.4
+      "avgRating": 6.2
     },
     "6c6476dd-5f03-4895-9352-34c51b380b94": {
       "playerId": "6c6476dd-5f03-4895-9352-34c51b380b94",
@@ -1321,13 +1403,14 @@
       "goals": 0,
       "assists": 0,
       "cleanSheets": 0,
-      "yellowCards": 0,
+      "yellowCards": 1,
       "redCards": 0,
       "matchRatings": [
         6.4,
-        6.4
+        6.4,
+        5.9
       ],
-      "avgRating": 6.4
+      "avgRating": 6.2
     },
     "e43f8cb6-5b88-4154-ac5b-d1285f15d8f1": {
       "playerId": "e43f8cb6-5b88-4154-ac5b-d1285f15d8f1",
@@ -1340,6 +1423,7 @@
       "yellowCards": 0,
       "redCards": 0,
       "matchRatings": [
+        6,
         6,
         6
       ],
@@ -1357,6 +1441,7 @@
       "redCards": 0,
       "matchRatings": [
         6.1,
+        6.1,
         6.1
       ],
       "avgRating": 6.1
@@ -1372,6 +1457,7 @@
       "yellowCards": 0,
       "redCards": 0,
       "matchRatings": [
+        6,
         6,
         6
       ],
@@ -1389,9 +1475,10 @@
       "redCards": 0,
       "matchRatings": [
         7.5,
+        6,
         6
       ],
-      "avgRating": 6.8
+      "avgRating": 6.5
     },
     "4c1df5ee-4c61-454b-a817-1c24699e8f99": {
       "playerId": "4c1df5ee-4c61-454b-a817-1c24699e8f99",
@@ -1405,9 +1492,10 @@
       "redCards": 0,
       "matchRatings": [
         7,
+        6,
         6
       ],
-      "avgRating": 6.5
+      "avgRating": 6.3
     },
     "44e712fb-26e6-4278-9d9f-0de27edfe5d5": {
       "playerId": "44e712fb-26e6-4278-9d9f-0de27edfe5d5",
@@ -1416,14 +1504,15 @@
       "teamName": "CCB",
       "goals": 0,
       "assists": 0,
-      "cleanSheets": 1,
+      "cleanSheets": 2,
       "yellowCards": 0,
       "redCards": 0,
       "matchRatings": [
         6.5,
-        7.1
+        7.1,
+        7.3
       ],
-      "avgRating": 6.8
+      "avgRating": 7
     },
     "8a0c7655-a4b7-4d57-9a19-7a6f37ad6931": {
       "playerId": "8a0c7655-a4b7-4d57-9a19-7a6f37ad6931",
@@ -1436,6 +1525,7 @@
       "yellowCards": 0,
       "redCards": 0,
       "matchRatings": [
+        5.7,
         5.7,
         5.7
       ],
@@ -1453,9 +1543,10 @@
       "redCards": 0,
       "matchRatings": [
         6,
+        6.4,
         6.4
       ],
-      "avgRating": 6.2
+      "avgRating": 6.3
     },
     "2bb42de2-8ff9-4e03-9a38-7b6e004ba097": {
       "playerId": "2bb42de2-8ff9-4e03-9a38-7b6e004ba097",
@@ -1469,9 +1560,10 @@
       "redCards": 0,
       "matchRatings": [
         6,
+        6.4,
         6.4
       ],
-      "avgRating": 6.2
+      "avgRating": 6.3
     },
     "5d165f97-694f-4e10-ad43-7e01e408729a": {
       "playerId": "5d165f97-694f-4e10-ad43-7e01e408729a",
@@ -1484,6 +1576,7 @@
       "yellowCards": 0,
       "redCards": 0,
       "matchRatings": [
+        5.7,
         5.7,
         5.7
       ],
@@ -1501,6 +1594,7 @@
       "redCards": 0,
       "matchRatings": [
         6,
+        6,
         6
       ],
       "avgRating": 6
@@ -1517,6 +1611,7 @@
       "redCards": 0,
       "matchRatings": [
         6,
+        6,
         6
       ],
       "avgRating": 6
@@ -1529,13 +1624,14 @@
       "goals": 0,
       "assists": 0,
       "cleanSheets": 0,
-      "yellowCards": 1,
+      "yellowCards": 2,
       "redCards": 0,
       "matchRatings": [
         6,
+        5.5,
         5.5
       ],
-      "avgRating": 5.8
+      "avgRating": 5.7
     },
     "c8c2dbe4-df80-489b-a6b9-bba593860c98": {
       "playerId": "c8c2dbe4-df80-489b-a6b9-bba593860c98",
@@ -1548,6 +1644,7 @@
       "yellowCards": 0,
       "redCards": 0,
       "matchRatings": [
+        6,
         6,
         6
       ],
@@ -1565,6 +1662,7 @@
       "redCards": 0,
       "matchRatings": [
         6,
+        6,
         6
       ],
       "avgRating": 6
@@ -1576,14 +1674,15 @@
       "teamName": "SPC",
       "goals": 0,
       "assists": 0,
-      "cleanSheets": 0,
+      "cleanSheets": 1,
       "yellowCards": 0,
       "redCards": 0,
       "matchRatings": [
         7,
-        6.8
+        6.8,
+        7.3
       ],
-      "avgRating": 6.9
+      "avgRating": 7
     },
     "4ef345a9-c2fd-4920-ab92-5124797d4e7d": {
       "playerId": "4ef345a9-c2fd-4920-ab92-5124797d4e7d",
@@ -1596,6 +1695,7 @@
       "yellowCards": 0,
       "redCards": 0,
       "matchRatings": [
+        5.7,
         5.7,
         5.7
       ],
@@ -1613,9 +1713,10 @@
       "redCards": 0,
       "matchRatings": [
         6,
-        5.5
+        5.5,
+        6.4
       ],
-      "avgRating": 5.8
+      "avgRating": 6
     },
     "2a40f2a8-21e7-4d78-a889-fce6f644ca00": {
       "playerId": "2a40f2a8-21e7-4d78-a889-fce6f644ca00",
@@ -1628,6 +1729,7 @@
       "yellowCards": 0,
       "redCards": 0,
       "matchRatings": [
+        5.7,
         5.7,
         5.7
       ],
@@ -1645,9 +1747,10 @@
       "redCards": 0,
       "matchRatings": [
         6,
-        6
+        6,
+        6.4
       ],
-      "avgRating": 6
+      "avgRating": 6.1
     },
     "2caa7860-2d4a-42f0-a5cf-7763cd065ab7": {
       "playerId": "2caa7860-2d4a-42f0-a5cf-7763cd065ab7",
@@ -1660,6 +1763,7 @@
       "yellowCards": 0,
       "redCards": 0,
       "matchRatings": [
+        6,
         6,
         6
       ],
@@ -1677,6 +1781,7 @@
       "redCards": 0,
       "matchRatings": [
         6,
+        6,
         6
       ],
       "avgRating": 6
@@ -1692,6 +1797,7 @@
       "yellowCards": 0,
       "redCards": 0,
       "matchRatings": [
+        6,
         6,
         6
       ],
@@ -1709,9 +1815,10 @@
       "redCards": 0,
       "matchRatings": [
         6,
-        7.5
+        7.5,
+        6
       ],
-      "avgRating": 6.8
+      "avgRating": 6.5
     },
     "1eb6cdb3-28c8-4792-8b45-f820be065dd9": {
       "playerId": "1eb6cdb3-28c8-4792-8b45-f820be065dd9",
@@ -1724,6 +1831,7 @@
       "yellowCards": 0,
       "redCards": 0,
       "matchRatings": [
+        6,
         6,
         6
       ],
@@ -1743,7 +1851,7 @@
       "penalties": false
     }
   },
-  "currentRound": 3,
+  "currentRound": 4,
   "status": "ongoing",
   "createdAt": "2026-06-20T14:32:17.698Z"
 }
