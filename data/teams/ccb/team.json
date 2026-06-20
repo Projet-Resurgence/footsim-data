@@ -22,7 +22,7 @@
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-20T13:33:03.103Z",
+  "publishedAt": "2026-06-20T16:01:15.058Z",
   "tactics": {
     "style": "chaos",
     "formation": "3-4-1-2",
@@ -104,5 +104,9 @@
       "scoreFor": 2,
       "scoreAgainst": 3
     }
-  ]
+  ],
+  "continents": [
+    "amerique"
+  ],
+  "managerDiscordId": "662269266824790047"
 }
