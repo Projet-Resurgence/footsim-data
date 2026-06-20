@@ -12,16 +12,12 @@
     {
       "culture": "turc",
       "weight": 117
-    },
-    {
-      "culture": "levantin",
-      "weight": 19
     }
   ],
   "continent": "europe",
   "continents": [
     "europe",
-    "moyenorient"
+    "afrique"
   ],
   "kind": "national",
   "globalStrength": 60,
@@ -30,5 +26,6 @@
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-20T16:38:00.112Z"
+  "publishedAt": "2026-06-20T16:53:12.475Z",
+  "managerDiscordId": "1473103141728944171"
 }
