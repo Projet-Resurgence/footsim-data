@@ -172,5 +172,16 @@
       "892948fc-f22f-48f4-b6af-6ebeaa6db607"
     ]
   },
-  "publishedAt": "2026-06-20T14:50:41.846Z"
+  "publishedAt": "2026-06-20T19:14:01.472Z",
+  "cultures": [
+    {
+      "culture": "espagnol",
+      "weight": 50
+    }
+  ],
+  "continent": "amerique",
+  "continents": [
+    "amerique"
+  ],
+  "managerDiscordId": "928291843958014014"
 }
