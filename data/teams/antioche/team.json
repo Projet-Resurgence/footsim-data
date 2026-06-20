@@ -25,7 +25,7 @@
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-20T22:41:23.470Z",
+  "publishedAt": "2026-06-20T23:54:01.492Z",
   "managerDiscordId": "1473103141728944171",
   "recentMatches": [
     {
@@ -37,5 +37,27 @@
       "scoreFor": 0,
       "scoreAgainst": 0
     }
-  ]
+  ],
+  "coach": {
+    "id": "73090943-a35d-4ab2-9713-8986eb27fef7",
+    "firstName": "Frédéric",
+    "lastName": "Roux",
+    "culture": "turc",
+    "stats": {
+      "motivation": 11,
+      "tactique": 16,
+      "offensive": 14,
+      "defensif": 15,
+      "mentalite": 12,
+      "gestion": 18
+    },
+    "positiveTraits": [
+      "disciplinaire",
+      "tacticien"
+    ],
+    "negativeTraits": [
+      "conflictuel"
+    ],
+    "overall": 76
+  }
 }
