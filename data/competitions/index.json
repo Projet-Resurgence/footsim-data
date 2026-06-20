@@ -3,9 +3,10 @@
     "id": "vluwe65r0aomqmx0ue3",
     "name": "Coupe du Monde (de test2)",
     "format": "groups_knockout",
-    "status": "ongoing",
+    "status": "completed",
     "teamCount": 16,
-    "createdAt": "2026-06-20T22:14:33.435Z"
+    "createdAt": "2026-06-20T22:14:33.435Z",
+    "winner": "ca9439ef-f9f3-4ec5-8073-0f62660aa497"
   },
   {
     "id": "ffyhfjf43fmmqmwu3ix",
