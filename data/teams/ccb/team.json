@@ -7,11 +7,23 @@
   "cultures": [
     {
       "culture": "quebecois",
-      "weight": 21
+      "weight": 25
     },
     {
       "culture": "anglo-americain",
-      "weight": 50
+      "weight": 30
+    },
+    {
+      "culture": "islandais",
+      "weight": 30
+    },
+    {
+      "culture": "inuit",
+      "weight": 5
+    },
+    {
+      "culture": "groenlandais",
+      "weight": 10
     }
   ],
   "continent": "amerique",
@@ -22,7 +34,7 @@
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-20T16:01:15.058Z",
+  "publishedAt": "2026-06-20T20:44:33.256Z",
   "tactics": {
     "style": "chaos",
     "formation": "3-4-1-2",
