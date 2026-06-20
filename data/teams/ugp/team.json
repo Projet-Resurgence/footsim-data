@@ -10,15 +10,22 @@
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "recentMatches": [
-    {
-      "matchId": "13401210-2e09-4dd4-85e7-4a1510b954f3",
-      "playedAt": "2026-06-20T18:39:47.880Z",
-      "opponentSlug": "empire-hussein",
-      "opponentName": "Empire Hussein",
-      "homeAway": "home",
-      "scoreFor": 1,
-      "scoreAgainst": 0
-    }
-  ]
+  "tactics": {
+    "style": "pressing",
+    "formation": "3-4-1-2",
+    "lineup": [
+      "88d6cf70-fc34-479f-8572-d789499e1984",
+      "edd4bb45-d83c-4421-8f10-63bba4605082",
+      "88a0a7bc-90fd-407d-adc0-7c8d3a2e837d",
+      "37180e90-3f26-4a1d-8ad5-0ae24037266f",
+      "09e3768b-d2b4-4ad9-8a05-a00a01d954e2",
+      "c0b175e4-3ae0-4184-9118-b1c25aef5498",
+      "442b01e6-c161-4845-8c2b-3261255abcdb",
+      "e8cb564f-f280-44e9-aaa1-7515af4c2b9a",
+      "b7b01260-368c-4f4e-9640-837c0bc13d27",
+      "c6663d52-24a7-4d5a-aaea-b02fd24652d6",
+      "63cba1c6-27e5-4311-91d8-92b5f3fde740"
+    ]
+  },
+  "publishedAt": "2026-06-20T18:42:31.033Z"
 }
