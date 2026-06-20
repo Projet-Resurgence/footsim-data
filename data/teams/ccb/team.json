@@ -34,7 +34,7 @@
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-20T20:44:33.256Z",
+  "publishedAt": "2026-06-20T23:47:38.922Z",
   "tactics": {
     "style": "chaos",
     "formation": "3-4-1-2",
@@ -129,5 +129,26 @@
   "continents": [
     "amerique"
   ],
-  "managerDiscordId": "662269266824790047"
+  "managerDiscordId": "662269266824790047",
+  "coach": {
+    "id": "2ea166f3-ad7f-4073-ae9e-7f40ff2ab423",
+    "firstName": "Þóra",
+    "lastName": "Þórsson",
+    "culture": "anglo-americain",
+    "stats": {
+      "motivation": 19,
+      "tactique": 16,
+      "offensive": 17,
+      "defensif": 18,
+      "mentalite": 12,
+      "gestion": 13
+    },
+    "positiveTraits": [],
+    "negativeTraits": [
+      "impulsif",
+      "conflictuel",
+      "desorganise"
+    ],
+    "overall": 73
+  }
 }
