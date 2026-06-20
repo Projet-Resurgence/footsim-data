@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": "ffyhfjf43fmmqmwu3ix",
+    "name": "Coupe du Monde (de Test)",
+    "format": "groups_knockout",
+    "status": "ongoing",
+    "teamCount": 16,
+    "createdAt": "2026-06-20T22:09:18.681Z"
+  }
+]
