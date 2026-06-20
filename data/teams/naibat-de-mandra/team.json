@@ -25,6 +25,23 @@
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-20T16:05:00.385Z",
-  "managerDiscordId": "950389750739664896"
+  "publishedAt": "2026-06-20T16:36:14.518Z",
+  "managerDiscordId": "950389750739664896",
+  "tactics": {
+    "formation": "4-3-3",
+    "style": "possession",
+    "lineup": [
+      "d35b62a5-cf10-44d0-9c74-e7b2675aee89",
+      "57d94cca-c28e-40c1-aad2-9713d726007a",
+      "a061fc80-c7c6-488c-9c56-50b2e9a51758",
+      "4af39999-9d62-4a53-9595-ec4140645af9",
+      "da74e9da-b349-4b56-98c6-aa391995ccf9",
+      "0cc252be-56fa-44af-aeec-873e92364a44",
+      "ddcf4415-aac3-4f61-a721-4354fbda0d30",
+      "ff7609e4-cc88-4f6b-9329-b44cc7d53ac0",
+      "6e98729a-9b3b-4454-a58b-35595dab5a72",
+      "917d1a12-cb85-4195-9195-d3b5c809b3ce",
+      "6922161b-41d1-4dc0-9ee2-6d48486869a3"
+    ]
+  }
 }
