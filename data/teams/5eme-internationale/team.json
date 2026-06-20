@@ -17,7 +17,7 @@
     }
   ],
   "continent": "europe",
-  "publishedAt": "2026-06-14T12:43:15.735Z",
+  "publishedAt": "2026-06-20T23:59:59.167Z",
   "recentMatches": [
     {
       "matchId": "82b97dce-7c7e-4d50-9cf4-1b10500494a5",
@@ -37,5 +37,28 @@
       "scoreFor": 1,
       "scoreAgainst": 3
     }
-  ]
+  ],
+  "coach": {
+    "id": "11b86ff6-73b9-41c6-906a-07a93deea30a",
+    "firstName": "Charles",
+    "lastName": "André",
+    "culture": "francais",
+    "stats": {
+      "motivation": 13,
+      "tactique": 11,
+      "offensive": 17,
+      "defensif": 14,
+      "mentalite": 9,
+      "gestion": 18
+    },
+    "positiveTraits": [
+      "disciplinaire",
+      "motivateur"
+    ],
+    "negativeTraits": [
+      "imprevoyant",
+      "alcoolique"
+    ],
+    "overall": 70
+  }
 }
