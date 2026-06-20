@@ -190,7 +190,7 @@
       "89a0086b-0ff0-489e-a845-ca7b750f7403"
     ]
   },
-  "publishedAt": "2026-06-20T16:03:54.902Z",
+  "publishedAt": "2026-06-20T23:52:22.490Z",
   "cultures": [
     {
       "culture": "arabe",
@@ -214,5 +214,27 @@
     "afriquenord",
     "moyenorient"
   ],
-  "managerDiscordId": "772821169664426025"
+  "managerDiscordId": "772821169664426025",
+  "coach": {
+    "id": "728b585d-6121-469c-829a-9b82ebd0e354",
+    "firstName": "Adel",
+    "lastName": "Zerouali",
+    "culture": "egyptien",
+    "stats": {
+      "motivation": 16,
+      "tactique": 11,
+      "offensive": 11,
+      "defensif": 17,
+      "mentalite": 17,
+      "gestion": 8
+    },
+    "positiveTraits": [
+      "tacticien",
+      "meneur"
+    ],
+    "negativeTraits": [
+      "desorganise"
+    ],
+    "overall": 71
+  }
 }
