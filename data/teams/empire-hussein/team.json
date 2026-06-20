@@ -147,20 +147,21 @@
     }
   ],
   "tactics": {
-    "style": "pressing",
-    "formation": "4-3-3",
+    "style": "ultra-defensif",
+    "formation": "5-4-1",
     "lineup": [
-      "51cf728a-e491-43fc-bfdb-2889ba84463d",
-      "7878161f-2d11-4ca8-9371-9a383d0a69db",
-      "118f6d92-c868-4d1e-949b-1ac5a7250e59",
-      "14552f61-c905-403b-955f-f40bf103e3f3",
-      "8d53a04e-68dc-4449-9088-9c2779b0ab55",
-      "67098aed-5756-4d82-b351-49fc39c99fdf",
-      "bab4f71a-e2a3-46c2-aa34-ee56f3ef2f95",
-      "6a59fce6-da25-4cd8-8a7d-bbbef8c64f1f",
-      "e6a585a6-84c5-4097-9358-c0d677ddd70f",
-      "b725552f-cffe-445f-80da-7b684ca9eed9",
-      "483d4905-452e-4786-b8b9-cf3c997494e3"
+      "07aeab5b-061d-4600-8666-34b83f575da1",
+      "17ddb492-fc0b-4531-b55b-948928f486d3",
+      "408ffe60-4bad-461b-adf3-43ac1ed96add",
+      "d64558c3-8433-4001-a794-7bb6d8c2fb33",
+      "522546bb-fc82-4ff4-8c92-86e4f4de381d",
+      "45c54192-9691-4007-b681-befb290dcc93",
+      "52a454a3-b7b5-4396-b444-334daf5ad37e",
+      "dc90057b-82df-4168-8204-a6e87d643d0a",
+      "29bbc6be-5ead-4dc6-a4ce-0bc08d730468",
+      "7b19b67e-c651-4290-86dc-65a0b182c617",
+      "89a0086b-0ff0-489e-a845-ca7b750f7403"
     ]
-  }
+  },
+  "publishedAt": "2026-06-20T13:12:37.724Z"
 }
