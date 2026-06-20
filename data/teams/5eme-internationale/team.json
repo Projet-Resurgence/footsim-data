@@ -20,6 +20,15 @@
   "publishedAt": "2026-06-14T12:43:15.735Z",
   "recentMatches": [
     {
+      "matchId": "82b97dce-7c7e-4d50-9cf4-1b10500494a5",
+      "playedAt": "2026-06-20T15:19:06.992Z",
+      "opponentSlug": "yamatai",
+      "opponentName": "Yamatai",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 0
+    },
+    {
       "matchId": "90affd96-10ea-40d0-890a-0f9680e670a0",
       "playedAt": "2026-06-20T15:17:29.079Z",
       "opponentSlug": "ccb",
