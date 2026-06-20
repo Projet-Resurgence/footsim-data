@@ -27,5 +27,16 @@
       "63cba1c6-27e5-4311-91d8-92b5f3fde740"
     ]
   },
-  "publishedAt": "2026-06-20T18:42:31.033Z"
+  "publishedAt": "2026-06-20T18:42:31.033Z",
+  "recentMatches": [
+    {
+      "matchId": "281ac094-5c0b-4913-9b80-dceac2726f37",
+      "playedAt": "2026-06-20T18:44:37.616Z",
+      "opponentSlug": "foi-primaris",
+      "opponentName": "Foi Primaris",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 3
+    }
+  ]
 }
