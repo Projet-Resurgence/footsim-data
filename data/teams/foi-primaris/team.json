@@ -46,5 +46,17 @@
       "scoreFor": 2,
       "scoreAgainst": 0
     }
-  ]
+  ],
+  "cultures": [
+    {
+      "culture": "tanzanien",
+      "weight": 50
+    }
+  ],
+  "continent": "afrique",
+  "continents": [
+    "afrique"
+  ],
+  "managerDiscordId": "327726564748034050",
+  "publishedAt": "2026-06-20T21:58:04.269Z"
 }
