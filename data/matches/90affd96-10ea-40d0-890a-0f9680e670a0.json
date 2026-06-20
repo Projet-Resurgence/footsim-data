@@ -1,0 +1,836 @@
+{
+  "id": "90affd96-10ea-40d0-890a-0f9680e670a0",
+  "playedAt": "2026-06-20T15:17:29.079Z",
+  "speed": "5",
+  "home": {
+    "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
+    "teamSlug": "ccb",
+    "teamName": "CCB",
+    "formation": "3-4-1-2",
+    "lineup": [
+      "44e712fb-26e6-4278-9d9f-0de27edfe5d5",
+      "c0f12e8b-929e-4763-af2c-947b54ec973d",
+      "2bb42de2-8ff9-4e03-9a38-7b6e004ba097",
+      "4c1df5ee-4c61-454b-a817-1c24699e8f99",
+      "7c2053ae-79ce-4101-950e-ddb262ad7601",
+      "3485a9f3-c86e-4378-a689-d66274d56746",
+      "afb3247a-c91a-4352-9008-b30a1fb17733",
+      "abd4ab2b-9753-484d-aaf6-c0fa7a77ec2a",
+      "67059fa1-f80e-4ba9-818e-cd713dd00299",
+      "7c185c3b-b756-4e27-a573-b4ff397a3821",
+      "0b81ab16-beb5-4b65-bd06-525976aa8160"
+    ],
+    "score": 3,
+    "shots": 8,
+    "shotsOnTarget": 6,
+    "fouls": 0,
+    "yellows": [],
+    "reds": [],
+    "possession": 51
+  },
+  "away": {
+    "teamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+    "teamSlug": "5eme-internationale",
+    "teamName": "5ème Internationale",
+    "formation": "4-3-3",
+    "lineup": [
+      "8dfe3c1b-ad91-4c62-a9c6-5ae0265bcc34",
+      "609de258-0ecd-46cb-aa38-645b1e005f4d",
+      "54b229fc-a2a8-4458-9b88-ff8cbccf565d",
+      "c23f3eb9-049b-4834-b371-619985d3ef86",
+      "1d7892d9-f47f-47a3-b41e-8622049075b2",
+      "b2d3034a-7398-4715-88ad-1943b28927eb",
+      "30f29f34-1db2-4515-90d0-a533ad38fa0e",
+      "6ef59b0c-96ac-459b-8c5a-2080e923ce78",
+      "0f37e5f2-34b6-42eb-a40d-a1cbed31548a",
+      "30c48de3-bd45-4195-a6d3-e7f59257bc2d",
+      "f75dc5fe-ff5c-474d-92dc-2ec670d9a600"
+    ],
+    "score": 1,
+    "shots": 7,
+    "shotsOnTarget": 3,
+    "fouls": 8,
+    "yellows": [
+      "c23f3eb9-049b-4834-b371-619985d3ef86"
+    ],
+    "reds": [],
+    "possession": 49
+  },
+  "events": [
+    {
+      "id": 1,
+      "minute": 1,
+      "half": 1,
+      "text": "1' — Coup d'envoi.",
+      "type": "kickoff",
+      "side": null,
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 2,
+      "minute": 5,
+      "half": 1,
+      "text": "5' — Passe décisive de Mathis Dubois.",
+      "type": "keyPass",
+      "side": "away",
+      "playerId": "30f29f34-1db2-4515-90d0-a533ad38fa0e",
+      "ballPos": {
+        "x": 60,
+        "y": 25
+      }
+    },
+    {
+      "id": 3,
+      "minute": 7,
+      "half": 1,
+      "text": "7' — Faute de Louis Fournier.",
+      "type": "foul",
+      "side": "away",
+      "playerId": "30c48de3-bd45-4195-a6d3-e7f59257bc2d",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 4,
+      "minute": 8,
+      "half": 1,
+      "text": "8' — Coup franc dangereux pour CCB (Cédric Lévesque).",
+      "type": "freeKick",
+      "side": "home",
+      "playerId": "0b81ab16-beb5-4b65-bd06-525976aa8160",
+      "ballPos": {
+        "x": 20,
+        "y": 25
+      }
+    },
+    {
+      "id": 5,
+      "minute": 8,
+      "half": 1,
+      "text": "⚽ 8' — But pour CCB ! Jean-Luc Garneau marque.",
+      "type": "goal",
+      "side": "home",
+      "playerId": "7c185c3b-b756-4e27-a573-b4ff397a3821",
+      "ballPos": {
+        "x": 20,
+        "y": 25
+      }
+    },
+    {
+      "id": 6,
+      "minute": 12,
+      "half": 1,
+      "text": "12' — Dribble réussi de Kevin Thompson !",
+      "type": "dribble",
+      "side": "home",
+      "playerId": "3485a9f3-c86e-4378-a689-d66274d56746",
+      "ballPos": {
+        "x": 20,
+        "y": 25
+      }
+    },
+    {
+      "id": 7,
+      "minute": 15,
+      "half": 1,
+      "text": "15' — Hors-jeu signalé contre 5ème Internationale.",
+      "type": "offside",
+      "side": "away",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 8,
+      "minute": 17,
+      "half": 1,
+      "text": "17' — Passe décisive de Kevin Thompson.",
+      "type": "keyPass",
+      "side": "home",
+      "playerId": "3485a9f3-c86e-4378-a689-d66274d56746",
+      "ballPos": {
+        "x": 40,
+        "y": 25
+      }
+    },
+    {
+      "id": 9,
+      "minute": 19,
+      "half": 1,
+      "text": "🧤 19' — Belle parade de Nathan Morin.",
+      "type": "save",
+      "side": "home",
+      "playerId": "44e712fb-26e6-4278-9d9f-0de27edfe5d5",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 10,
+      "minute": 20,
+      "half": 1,
+      "text": "20' — Dribble réussi de Cédric Lévesque !",
+      "type": "dribble",
+      "side": "home",
+      "playerId": "0b81ab16-beb5-4b65-bd06-525976aa8160",
+      "ballPos": {
+        "x": 20,
+        "y": 25
+      }
+    },
+    {
+      "id": 11,
+      "minute": 24,
+      "half": 1,
+      "text": "24' — Passe décisive de Jean-Luc Garneau.",
+      "type": "keyPass",
+      "side": "home",
+      "playerId": "7c185c3b-b756-4e27-a573-b4ff397a3821",
+      "ballPos": {
+        "x": 40,
+        "y": 25
+      }
+    },
+    {
+      "id": 12,
+      "minute": 27,
+      "half": 1,
+      "text": "27' — Corner pour 5ème Internationale.",
+      "type": "corner",
+      "side": "away",
+      "ballPos": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "id": 13,
+      "minute": 29,
+      "half": 1,
+      "text": "29' — Passe décisive de Florian Lopez.",
+      "type": "keyPass",
+      "side": "away",
+      "playerId": "b2d3034a-7398-4715-88ad-1943b28927eb",
+      "ballPos": {
+        "x": 60,
+        "y": 25
+      }
+    },
+    {
+      "id": 14,
+      "minute": 30,
+      "half": 1,
+      "text": "🧤 30' — Belle parade de Nathan Morin.",
+      "type": "save",
+      "side": "home",
+      "playerId": "44e712fb-26e6-4278-9d9f-0de27edfe5d5",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 15,
+      "minute": 31,
+      "half": 1,
+      "text": "31' — Dribble réussi de Florian Lopez !",
+      "type": "dribble",
+      "side": "away",
+      "playerId": "b2d3034a-7398-4715-88ad-1943b28927eb",
+      "ballPos": {
+        "x": 80,
+        "y": 25
+      }
+    },
+    {
+      "id": 16,
+      "minute": 31,
+      "half": 1,
+      "text": "⚽ 31' — But pour 5ème Internationale ! Louis Fournier marque.",
+      "type": "goal",
+      "side": "away",
+      "playerId": "30c48de3-bd45-4195-a6d3-e7f59257bc2d",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 17,
+      "minute": 37,
+      "half": 1,
+      "text": "37' — Hors-jeu signalé contre 5ème Internationale.",
+      "type": "offside",
+      "side": "away",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 18,
+      "minute": 39,
+      "half": 1,
+      "text": "39' — Dégagement in extremis de André Côté.",
+      "type": "clearance",
+      "side": "home",
+      "playerId": "2bb42de2-8ff9-4e03-9a38-7b6e004ba097",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 19,
+      "minute": 43,
+      "half": 1,
+      "text": "43' — Passe décisive de Jean-Luc Garneau.",
+      "type": "keyPass",
+      "side": "home",
+      "playerId": "7c185c3b-b756-4e27-a573-b4ff397a3821",
+      "ballPos": {
+        "x": 40,
+        "y": 25
+      }
+    },
+    {
+      "id": 20,
+      "minute": 48,
+      "half": 1,
+      "text": "Mi-temps.",
+      "type": "halftime",
+      "side": null,
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 21,
+      "minute": 48,
+      "half": 1,
+      "text": "🔄 48' — CCB : Sean Mitchell ↔ Chase Martinez.",
+      "type": "substitution",
+      "side": "home",
+      "playerId": "abd4ab2b-9753-484d-aaf6-c0fa7a77ec2a",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 22,
+      "minute": 48,
+      "half": 1,
+      "text": "🔄 48' — CCB : Jordan Mitchell ↔ Chase Clark.",
+      "type": "substitution",
+      "side": "home",
+      "playerId": "4c1df5ee-4c61-454b-a817-1c24699e8f99",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 23,
+      "minute": 48,
+      "half": 1,
+      "text": "🔄 48' — 5ème Internationale : Henri Simon ↔ Léo Lemaire.",
+      "type": "substitution",
+      "side": "away",
+      "playerId": "1d7892d9-f47f-47a3-b41e-8622049075b2",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 24,
+      "minute": 48,
+      "half": 1,
+      "text": "🔄 48' — 5ème Internationale : Léo Meyer ↔ Tristan Martin.",
+      "type": "substitution",
+      "side": "away",
+      "playerId": "6ef59b0c-96ac-459b-8c5a-2080e923ce78",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 25,
+      "minute": 48,
+      "half": 2,
+      "text": "48' — Hors-jeu signalé contre 5ème Internationale.",
+      "type": "offside",
+      "side": "away",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 26,
+      "minute": 49,
+      "half": 2,
+      "text": "49' — Faute de Nathan Martin.",
+      "type": "foul",
+      "side": "away",
+      "playerId": "609de258-0ecd-46cb-aa38-645b1e005f4d",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 27,
+      "minute": 50,
+      "half": 2,
+      "text": "50' — Passe décisive de Florian Lopez.",
+      "type": "keyPass",
+      "side": "away",
+      "playerId": "b2d3034a-7398-4715-88ad-1943b28927eb",
+      "ballPos": {
+        "x": 60,
+        "y": 25
+      }
+    },
+    {
+      "id": 28,
+      "minute": 52,
+      "half": 2,
+      "text": "52' — Tir non cadré de Cédric Lévesque.",
+      "type": "shot",
+      "side": "home",
+      "playerId": "0b81ab16-beb5-4b65-bd06-525976aa8160",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 29,
+      "minute": 53,
+      "half": 2,
+      "text": "53' — Tir non cadré de Florian Lopez.",
+      "type": "shot",
+      "side": "away",
+      "playerId": "b2d3034a-7398-4715-88ad-1943b28927eb",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 30,
+      "minute": 56,
+      "half": 2,
+      "text": "56' — Passe décisive de Florian Lopez.",
+      "type": "keyPass",
+      "side": "away",
+      "playerId": "b2d3034a-7398-4715-88ad-1943b28927eb",
+      "ballPos": {
+        "x": 60,
+        "y": 25
+      }
+    },
+    {
+      "id": 31,
+      "minute": 57,
+      "half": 2,
+      "text": "57' — Passe décisive de Louis Fournier.",
+      "type": "keyPass",
+      "side": "away",
+      "playerId": "30c48de3-bd45-4195-a6d3-e7f59257bc2d",
+      "ballPos": {
+        "x": 60,
+        "y": 25
+      }
+    },
+    {
+      "id": 32,
+      "minute": 58,
+      "half": 2,
+      "text": "58' — Passe décisive de Florian Lopez.",
+      "type": "keyPass",
+      "side": "away",
+      "playerId": "b2d3034a-7398-4715-88ad-1943b28927eb",
+      "ballPos": {
+        "x": 60,
+        "y": 25
+      }
+    },
+    {
+      "id": 33,
+      "minute": 60,
+      "half": 2,
+      "text": "60' — Passe décisive de Louis Fournier.",
+      "type": "keyPass",
+      "side": "away",
+      "playerId": "30c48de3-bd45-4195-a6d3-e7f59257bc2d",
+      "ballPos": {
+        "x": 60,
+        "y": 25
+      }
+    },
+    {
+      "id": 34,
+      "minute": 61,
+      "half": 2,
+      "text": "61' — Faute de Louis Fournier.",
+      "type": "foul",
+      "side": "away",
+      "playerId": "30c48de3-bd45-4195-a6d3-e7f59257bc2d",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 35,
+      "minute": 63,
+      "half": 2,
+      "text": "63' — Corner pour CCB.",
+      "type": "corner",
+      "side": "home",
+      "ballPos": {
+        "x": 100,
+        "y": 50
+      }
+    },
+    {
+      "id": 36,
+      "minute": 64,
+      "half": 2,
+      "text": "64' — Tir non cadré de Florian Lopez.",
+      "type": "shot",
+      "side": "away",
+      "playerId": "b2d3034a-7398-4715-88ad-1943b28927eb",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 37,
+      "minute": 65,
+      "half": 2,
+      "text": "🧤 65' — Belle parade de Thomas Nicolas.",
+      "type": "save",
+      "side": "away",
+      "playerId": "8dfe3c1b-ad91-4c62-a9c6-5ae0265bcc34",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 38,
+      "minute": 67,
+      "half": 2,
+      "text": "🔴 67' — Penalty pour CCB ! Jordan Mitchell s'élance.",
+      "type": "penalty",
+      "side": "home",
+      "playerId": "4c1df5ee-4c61-454b-a817-1c24699e8f99",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 39,
+      "minute": 67,
+      "half": 2,
+      "text": "67' — Tir non cadré de Jean-Luc Garneau.",
+      "type": "shot",
+      "side": "home",
+      "playerId": "7c185c3b-b756-4e27-a573-b4ff397a3821",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 40,
+      "minute": 69,
+      "half": 2,
+      "text": "69' — Passe décisive de Jean-Luc Garneau.",
+      "type": "keyPass",
+      "side": "home",
+      "playerId": "7c185c3b-b756-4e27-a573-b4ff397a3821",
+      "ballPos": {
+        "x": 40,
+        "y": 25
+      }
+    },
+    {
+      "id": 41,
+      "minute": 72,
+      "half": 2,
+      "text": "72' — Dribble réussi de Florian Lopez !",
+      "type": "dribble",
+      "side": "away",
+      "playerId": "b2d3034a-7398-4715-88ad-1943b28927eb",
+      "ballPos": {
+        "x": 80,
+        "y": 25
+      }
+    },
+    {
+      "id": 42,
+      "minute": 73,
+      "half": 2,
+      "text": "73' — Tir non cadré de Florian Lopez.",
+      "type": "shot",
+      "side": "away",
+      "playerId": "b2d3034a-7398-4715-88ad-1943b28927eb",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 43,
+      "minute": 74,
+      "half": 2,
+      "text": "74' — Faute de Louis Fournier.",
+      "type": "foul",
+      "side": "away",
+      "playerId": "30c48de3-bd45-4195-a6d3-e7f59257bc2d",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 44,
+      "minute": 76,
+      "half": 2,
+      "text": "76' — Dribble réussi de Jean-Luc Garneau !",
+      "type": "dribble",
+      "side": "home",
+      "playerId": "7c185c3b-b756-4e27-a573-b4ff397a3821",
+      "ballPos": {
+        "x": 20,
+        "y": 25
+      }
+    },
+    {
+      "id": 45,
+      "minute": 76,
+      "half": 2,
+      "text": "⚽ 76' — But pour CCB ! Jean-Luc Garneau marque.",
+      "type": "goal",
+      "side": "home",
+      "playerId": "7c185c3b-b756-4e27-a573-b4ff397a3821",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 46,
+      "minute": 79,
+      "half": 2,
+      "text": "79' — Dégagement in extremis de André Côté.",
+      "type": "clearance",
+      "side": "home",
+      "playerId": "2bb42de2-8ff9-4e03-9a38-7b6e004ba097",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 47,
+      "minute": 80,
+      "half": 2,
+      "text": "80' — Hors-jeu signalé contre 5ème Internationale.",
+      "type": "offside",
+      "side": "away",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 48,
+      "minute": 82,
+      "half": 2,
+      "text": "82' — Tir non cadré de Paul Marchand.",
+      "type": "shot",
+      "side": "away",
+      "playerId": "0f37e5f2-34b6-42eb-a40d-a1cbed31548a",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 49,
+      "minute": 83,
+      "half": 2,
+      "text": "🔴 83' — Penalty pour CCB ! Jordan Mitchell s'élance.",
+      "type": "penalty",
+      "side": "home",
+      "playerId": "4c1df5ee-4c61-454b-a817-1c24699e8f99",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 50,
+      "minute": 83,
+      "half": 2,
+      "text": "⚽ 83' — But pour CCB ! Cédric Lévesque marque.",
+      "type": "goal",
+      "side": "home",
+      "playerId": "0b81ab16-beb5-4b65-bd06-525976aa8160",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 51,
+      "minute": 84,
+      "half": 2,
+      "text": "84' — Faute de Jules Garcia.",
+      "type": "foul",
+      "side": "away",
+      "playerId": "c23f3eb9-049b-4834-b371-619985d3ef86",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 52,
+      "minute": 84,
+      "half": 2,
+      "text": "🟨 84' — Carton jaune pour Jules Garcia (5ème Internationale).",
+      "type": "yellow",
+      "side": "away",
+      "playerId": "c23f3eb9-049b-4834-b371-619985d3ef86",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 53,
+      "minute": 85,
+      "half": 2,
+      "text": "85' — Dribble réussi de Sean Mitchell !",
+      "type": "dribble",
+      "side": "home",
+      "playerId": "abd4ab2b-9753-484d-aaf6-c0fa7a77ec2a",
+      "ballPos": {
+        "x": 20,
+        "y": 25
+      }
+    },
+    {
+      "id": 54,
+      "minute": 87,
+      "half": 2,
+      "text": "87' — Coup franc dangereux pour CCB (Jean-Luc Garneau).",
+      "type": "freeKick",
+      "side": "home",
+      "playerId": "7c185c3b-b756-4e27-a573-b4ff397a3821",
+      "ballPos": {
+        "x": 20,
+        "y": 25
+      }
+    },
+    {
+      "id": 55,
+      "minute": 87,
+      "half": 2,
+      "text": "🧤 87' — Belle parade de Thomas Nicolas.",
+      "type": "save",
+      "side": "away",
+      "playerId": "8dfe3c1b-ad91-4c62-a9c6-5ae0265bcc34",
+      "ballPos": {
+        "x": 20,
+        "y": 25
+      }
+    },
+    {
+      "id": 56,
+      "minute": 90,
+      "half": 2,
+      "text": "🧤 90' — Belle parade de Thomas Nicolas.",
+      "type": "save",
+      "side": "away",
+      "playerId": "8dfe3c1b-ad91-4c62-a9c6-5ae0265bcc34",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 57,
+      "minute": 91,
+      "half": 2,
+      "text": "91' — Faute de Henri Simon.",
+      "type": "foul",
+      "side": "away",
+      "playerId": "1d7892d9-f47f-47a3-b41e-8622049075b2",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 58,
+      "minute": 93,
+      "half": 2,
+      "text": "93' — Passe décisive de Jordan Mitchell.",
+      "type": "keyPass",
+      "side": "home",
+      "playerId": "4c1df5ee-4c61-454b-a817-1c24699e8f99",
+      "ballPos": {
+        "x": 40,
+        "y": 25
+      }
+    },
+    {
+      "id": 59,
+      "minute": 95,
+      "half": 2,
+      "text": "95' — Passe décisive de Cédric Lévesque.",
+      "type": "keyPass",
+      "side": "home",
+      "playerId": "0b81ab16-beb5-4b65-bd06-525976aa8160",
+      "ballPos": {
+        "x": 40,
+        "y": 25
+      }
+    },
+    {
+      "id": 60,
+      "minute": 97,
+      "half": 2,
+      "text": "Fin du match.",
+      "type": "fulltime",
+      "side": null,
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    }
+  ],
+  "finalScore": {
+    "home": 3,
+    "away": 1
+  }
+}
