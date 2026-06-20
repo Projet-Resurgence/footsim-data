@@ -27,7 +27,7 @@
       "63cba1c6-27e5-4311-91d8-92b5f3fde740"
     ]
   },
-  "publishedAt": "2026-06-20T18:42:31.033Z",
+  "publishedAt": "2026-06-20T20:51:00.300Z",
   "recentMatches": [
     {
       "matchId": "f4ba5acc-38f9-434d-a204-e68f1d9c7124",
@@ -65,5 +65,16 @@
       "scoreFor": 0,
       "scoreAgainst": 3
     }
-  ]
+  ],
+  "cultures": [
+    {
+      "culture": "italien",
+      "weight": 50
+    }
+  ],
+  "continent": "europe",
+  "continents": [
+    "europe"
+  ],
+  "managerDiscordId": "293869524091142144"
 }
