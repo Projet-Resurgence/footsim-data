@@ -11,6 +11,15 @@
   "formation": "4-3-3",
   "recentMatches": [
     {
+      "matchId": "ad54334e-6624-42b7-9d3c-a32a6e736551",
+      "playedAt": "2026-06-20T13:34:27.270Z",
+      "opponentSlug": "ccb",
+      "opponentName": "CCB",
+      "homeAway": "home",
+      "scoreFor": 3,
+      "scoreAgainst": 2
+    },
+    {
       "matchId": "e8795368-d6cc-4705-8c81-e2549776f82a",
       "playedAt": "2026-06-14T10:07:13.857Z",
       "opponentSlug": "foi-primaris",
