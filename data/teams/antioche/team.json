@@ -14,10 +14,9 @@
       "weight": 117
     }
   ],
-  "continent": "europe",
+  "continent": "moyenorient",
   "continents": [
-    "europe",
-    "afrique"
+    "moyenorient"
   ],
   "kind": "national",
   "globalStrength": 60,
@@ -26,7 +25,7 @@
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-20T16:53:12.475Z",
+  "publishedAt": "2026-06-20T22:41:23.470Z",
   "managerDiscordId": "1473103141728944171",
   "recentMatches": [
     {
