@@ -20,5 +20,26 @@
   "continents": [
     "amerique"
   ],
-  "publishedAt": "2026-06-20T16:02:44.028Z"
+  "publishedAt": "2026-06-20T23:55:07.270Z",
+  "coach": {
+    "id": "ccef3f36-30b1-4302-a9a7-b1b5ccc627cb",
+    "firstName": "Chase",
+    "lastName": "Phillips",
+    "culture": "anglo-americain",
+    "stats": {
+      "motivation": 17,
+      "tactique": 11,
+      "offensive": 17,
+      "defensif": 15,
+      "mentalite": 11,
+      "gestion": 20
+    },
+    "positiveTraits": [
+      "motivateur"
+    ],
+    "negativeTraits": [
+      "conservateur"
+    ],
+    "overall": 77
+  }
 }
