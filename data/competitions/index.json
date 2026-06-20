@@ -1,5 +1,13 @@
 [
   {
+    "id": "gzknaba9dyfmqmyhaox",
+    "name": "Coupe de Test de Tirage",
+    "format": "groups_knockout",
+    "status": "ongoing",
+    "teamCount": 16,
+    "createdAt": "2026-06-20T22:55:20.673Z"
+  },
+  {
     "id": "bt60djbglnimqmxenx1",
     "name": "Coupe de BJ (Corruption)",
     "format": "groups_knockout",
