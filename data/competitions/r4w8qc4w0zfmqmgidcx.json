@@ -21,7 +21,12 @@
       "phase": "group",
       "groupId": "group_0",
       "leg": 1,
-      "status": "pending"
+      "status": "completed",
+      "result": {
+        "home": 2,
+        "away": 0
+      },
+      "simulatedAt": "2026-06-20T14:33:24.514Z"
     },
     {
       "id": "9h3r5yxumqmgidcy",
@@ -31,7 +36,12 @@
       "phase": "group",
       "groupId": "group_0",
       "leg": 1,
-      "status": "pending"
+      "status": "completed",
+      "result": {
+        "home": 0,
+        "away": 1
+      },
+      "simulatedAt": "2026-06-20T14:33:24.516Z"
     },
     {
       "id": "aubo0tvqmqmgidcy",
@@ -81,7 +91,12 @@
       "phase": "group",
       "groupId": "group_1",
       "leg": 1,
-      "status": "pending"
+      "status": "completed",
+      "result": {
+        "home": 0,
+        "away": 2
+      },
+      "simulatedAt": "2026-06-20T14:33:24.517Z"
     },
     {
       "id": "1p5v6kcsmqmgidcy",
@@ -91,7 +106,12 @@
       "phase": "group",
       "groupId": "group_1",
       "leg": 1,
-      "status": "pending"
+      "status": "completed",
+      "result": {
+        "home": 1,
+        "away": 1
+      },
+      "simulatedAt": "2026-06-20T14:33:24.519Z"
     },
     {
       "id": "wmcp5ojemqmgidcy",
@@ -188,86 +208,1420 @@
   "standings": {
     "4050e7b8-0b32-4225-b936-2947890e501c": {
       "teamId": "4050e7b8-0b32-4225-b936-2947890e501c",
-      "played": 0,
-      "won": 0,
+      "played": 1,
+      "won": 1,
       "drawn": 0,
       "lost": 0,
-      "goalsFor": 0,
+      "goalsFor": 2,
       "goalsAgainst": 0,
-      "points": 0
+      "points": 3
     },
     "55c94018-aa17-477e-86d3-722caf57df20": {
       "teamId": "55c94018-aa17-477e-86d3-722caf57df20",
-      "played": 0,
+      "played": 1,
       "won": 0,
       "drawn": 0,
-      "lost": 0,
+      "lost": 1,
       "goalsFor": 0,
-      "goalsAgainst": 0,
+      "goalsAgainst": 1,
       "points": 0
     },
     "ca9439ef-f9f3-4ec5-8073-0f62660aa497": {
       "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
-      "played": 0,
-      "won": 0,
+      "played": 1,
+      "won": 1,
       "drawn": 0,
       "lost": 0,
-      "goalsFor": 0,
+      "goalsFor": 1,
       "goalsAgainst": 0,
-      "points": 0
+      "points": 3
     },
     "110159bd-411c-409a-ba07-95216b092ba4": {
       "teamId": "110159bd-411c-409a-ba07-95216b092ba4",
-      "played": 0,
+      "played": 1,
       "won": 0,
       "drawn": 0,
-      "lost": 0,
+      "lost": 1,
       "goalsFor": 0,
-      "goalsAgainst": 0,
+      "goalsAgainst": 2,
       "points": 0
     },
     "da633c6d-88ad-40f5-9ab5-6437d77c3797": {
       "teamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
-      "played": 0,
+      "played": 1,
       "won": 0,
       "drawn": 0,
-      "lost": 0,
+      "lost": 1,
       "goalsFor": 0,
-      "goalsAgainst": 0,
+      "goalsAgainst": 2,
       "points": 0
     },
     "45002df1-cafe-4c04-814c-660868b56d95": {
       "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
-      "played": 0,
+      "played": 1,
       "won": 0,
-      "drawn": 0,
+      "drawn": 1,
       "lost": 0,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
-      "points": 0
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "points": 1
     },
     "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a": {
       "teamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
-      "played": 0,
+      "played": 1,
       "won": 0,
-      "drawn": 0,
+      "drawn": 1,
       "lost": 0,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
-      "points": 0
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "points": 1
     },
     "c1a00454-3cc7-46dd-8ec3-a2abb527eba9": {
       "teamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
-      "played": 0,
-      "won": 0,
+      "played": 1,
+      "won": 1,
       "drawn": 0,
       "lost": 0,
-      "goalsFor": 0,
+      "goalsFor": 2,
       "goalsAgainst": 0,
-      "points": 0
+      "points": 3
     }
   },
-  "playerStats": {},
+  "playerStats": {
+    "ca687adc-bd22-47a6-aa29-723e1074382e": {
+      "playerId": "ca687adc-bd22-47a6-aa29-723e1074382e",
+      "playerName": "Nicolás Navarro",
+      "teamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "teamName": "FCLC",
+      "goals": 1,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        7.5
+      ],
+      "avgRating": 7.5
+    },
+    "333b22f4-cb43-4ea4-9e75-46c8cd2b2b30": {
+      "playerId": "333b22f4-cb43-4ea4-9e75-46c8cd2b2b30",
+      "playerName": "Daniel Ortega",
+      "teamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "teamName": "FCLC",
+      "goals": 1,
+      "assists": 1,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        8.5
+      ],
+      "avgRating": 8.5
+    },
+    "51964164-e7df-4598-a1ad-4086c38a7a61": {
+      "playerId": "51964164-e7df-4598-a1ad-4086c38a7a61",
+      "playerName": "Álvaro Sánchez",
+      "teamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "teamName": "FCLC",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 1,
+      "redCards": 0,
+      "matchRatings": [
+        5.5
+      ],
+      "avgRating": 5.5
+    },
+    "8b794504-1868-467a-be94-17f974dee1fb": {
+      "playerId": "8b794504-1868-467a-be94-17f974dee1fb",
+      "playerName": "Miguel Ruiz",
+      "teamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "teamName": "FCLC",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 1,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        7.3
+      ],
+      "avgRating": 7.3
+    },
+    "a1cca358-b23e-430e-8634-2706a71c10ee": {
+      "playerId": "a1cca358-b23e-430e-8634-2706a71c10ee",
+      "playerName": "Sebastián Medina",
+      "teamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "teamName": "FCLC",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.4
+      ],
+      "avgRating": 6.4
+    },
+    "53bf9428-0fa6-437a-a95a-c2d9572933ed": {
+      "playerId": "53bf9428-0fa6-437a-a95a-c2d9572933ed",
+      "playerName": "David Fernández",
+      "teamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "teamName": "FCLC",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.4
+      ],
+      "avgRating": 6.4
+    },
+    "18fa2203-cf2d-4638-ad42-0e12e142ffb5": {
+      "playerId": "18fa2203-cf2d-4638-ad42-0e12e142ffb5",
+      "playerName": "Gabriel Garrido",
+      "teamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "teamName": "FCLC",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.4
+      ],
+      "avgRating": 6.4
+    },
+    "c0931e70-563d-4f7a-9a41-48e371afeed3": {
+      "playerId": "c0931e70-563d-4f7a-9a41-48e371afeed3",
+      "playerName": "Mateo Ramos",
+      "teamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "teamName": "FCLC",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        5.7
+      ],
+      "avgRating": 5.7
+    },
+    "63e26cad-65b9-4c58-81b2-060246c101f5": {
+      "playerId": "63e26cad-65b9-4c58-81b2-060246c101f5",
+      "playerName": "Andrés Muñoz",
+      "teamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "teamName": "FCLC",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        5.7
+      ],
+      "avgRating": 5.7
+    },
+    "88126f88-0083-410d-8a18-45d68715bc13": {
+      "playerId": "88126f88-0083-410d-8a18-45d68715bc13",
+      "playerName": "Aitor García",
+      "teamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "teamName": "FCLC",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6
+      ],
+      "avgRating": 6
+    },
+    "184ff609-6d15-433f-92cc-42c0801e6352": {
+      "playerId": "184ff609-6d15-433f-92cc-42c0801e6352",
+      "playerName": "Manuel Peña",
+      "teamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "teamName": "FCLC",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6
+      ],
+      "avgRating": 6
+    },
+    "88d6cf70-fc34-479f-8572-d789499e1984": {
+      "playerId": "88d6cf70-fc34-479f-8572-d789499e1984",
+      "playerName": "Italo Rizzi",
+      "teamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "teamName": "UGP",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.8
+      ],
+      "avgRating": 6.8
+    },
+    "46274d60-60cb-4d62-b5ba-063a08adda21": {
+      "playerId": "46274d60-60cb-4d62-b5ba-063a08adda21",
+      "playerName": "Francesco De Santis",
+      "teamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "teamName": "UGP",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6
+      ],
+      "avgRating": 6
+    },
+    "edd4bb45-d83c-4421-8f10-63bba4605082": {
+      "playerId": "edd4bb45-d83c-4421-8f10-63bba4605082",
+      "playerName": "Pietro Romano",
+      "teamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "teamName": "UGP",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6
+      ],
+      "avgRating": 6
+    },
+    "88a0a7bc-90fd-407d-adc0-7c8d3a2e837d": {
+      "playerId": "88a0a7bc-90fd-407d-adc0-7c8d3a2e837d",
+      "playerName": "Leonardo Grasso",
+      "teamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "teamName": "UGP",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6
+      ],
+      "avgRating": 6
+    },
+    "63cba1c6-27e5-4311-91d8-92b5f3fde740": {
+      "playerId": "63cba1c6-27e5-4311-91d8-92b5f3fde740",
+      "playerName": "Cristian Lombardo",
+      "teamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "teamName": "UGP",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        5.7
+      ],
+      "avgRating": 5.7
+    },
+    "c0b175e4-3ae0-4184-9118-b1c25aef5498": {
+      "playerId": "c0b175e4-3ae0-4184-9118-b1c25aef5498",
+      "playerName": "Marcello Bruno",
+      "teamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "teamName": "UGP",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6
+      ],
+      "avgRating": 6
+    },
+    "442b01e6-c161-4845-8c2b-3261255abcdb": {
+      "playerId": "442b01e6-c161-4845-8c2b-3261255abcdb",
+      "playerName": "Luca Marini",
+      "teamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "teamName": "UGP",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6
+      ],
+      "avgRating": 6
+    },
+    "28caef8a-9b7f-4bae-a15b-b534c7bb14af": {
+      "playerId": "28caef8a-9b7f-4bae-a15b-b534c7bb14af",
+      "playerName": "Filippo Grasso",
+      "teamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "teamName": "UGP",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        5.7
+      ],
+      "avgRating": 5.7
+    },
+    "720e2681-c6f2-46e5-b610-9604d3a9e92c": {
+      "playerId": "720e2681-c6f2-46e5-b610-9604d3a9e92c",
+      "playerName": "Davide Mancini",
+      "teamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "teamName": "UGP",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6
+      ],
+      "avgRating": 6
+    },
+    "c6663d52-24a7-4d5a-aaea-b02fd24652d6": {
+      "playerId": "c6663d52-24a7-4d5a-aaea-b02fd24652d6",
+      "playerName": "Samuele De Angelis",
+      "teamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "teamName": "UGP",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6
+      ],
+      "avgRating": 6
+    },
+    "4afb61be-9f6f-4aba-80c9-ef35bf54158f": {
+      "playerId": "4afb61be-9f6f-4aba-80c9-ef35bf54158f",
+      "playerName": "Alberto Sala",
+      "teamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "teamName": "UGP",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6
+      ],
+      "avgRating": 6
+    },
+    "df23e187-01db-4b2f-9baa-c64547bb0f59": {
+      "playerId": "df23e187-01db-4b2f-9baa-c64547bb0f59",
+      "playerName": "Ramón Ramírez",
+      "teamId": "55c94018-aa17-477e-86d3-722caf57df20",
+      "teamName": "Castille",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 1,
+      "redCards": 0,
+      "matchRatings": [
+        5.5
+      ],
+      "avgRating": 5.5
+    },
+    "dc90057b-82df-4168-8204-a6e87d643d0a": {
+      "playerId": "dc90057b-82df-4168-8204-a6e87d643d0a",
+      "playerName": "Noureldeen Bilal",
+      "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "teamName": "Empire Hussein",
+      "goals": 1,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        7.5
+      ],
+      "avgRating": 7.5
+    },
+    "29bbc6be-5ead-4dc6-a4ce-0bc08d730468": {
+      "playerId": "29bbc6be-5ead-4dc6-a4ce-0bc08d730468",
+      "playerName": "Fatah Wahby",
+      "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "teamName": "Empire Hussein",
+      "goals": 0,
+      "assists": 1,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [],
+      "avgRating": 0
+    },
+    "1c999b90-da69-4d38-a0c2-b11dcd550957": {
+      "playerId": "1c999b90-da69-4d38-a0c2-b11dcd550957",
+      "playerName": "Tarek Hafez",
+      "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "teamName": "Empire Hussein",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 1,
+      "redCards": 0,
+      "matchRatings": [
+        5.5
+      ],
+      "avgRating": 5.5
+    },
+    "07aeab5b-061d-4600-8666-34b83f575da1": {
+      "playerId": "07aeab5b-061d-4600-8666-34b83f575da1",
+      "playerName": "Mounir Salah",
+      "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "teamName": "Empire Hussein",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 1,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        7.8
+      ],
+      "avgRating": 7.8
+    },
+    "83aa9570-1f8a-4927-9205-10adaeb5012e": {
+      "playerId": "83aa9570-1f8a-4927-9205-10adaeb5012e",
+      "playerName": "Rafael González",
+      "teamId": "55c94018-aa17-477e-86d3-722caf57df20",
+      "teamName": "Castille",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.3
+      ],
+      "avgRating": 6.3
+    },
+    "a058740a-a19b-4ec5-8245-d00f6d110c52": {
+      "playerId": "a058740a-a19b-4ec5-8245-d00f6d110c52",
+      "playerName": "Eduardo Sánchez",
+      "teamId": "55c94018-aa17-477e-86d3-722caf57df20",
+      "teamName": "Castille",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6
+      ],
+      "avgRating": 6
+    },
+    "fdc14393-1f4e-4ce4-a705-d56019c36ad3": {
+      "playerId": "fdc14393-1f4e-4ce4-a705-d56019c36ad3",
+      "playerName": "Eduardo Álvarez",
+      "teamId": "55c94018-aa17-477e-86d3-722caf57df20",
+      "teamName": "Castille",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6
+      ],
+      "avgRating": 6
+    },
+    "f7b96c62-3e2b-4bad-a76c-e349c7494b68": {
+      "playerId": "f7b96c62-3e2b-4bad-a76c-e349c7494b68",
+      "playerName": "Hector Jiménez",
+      "teamId": "55c94018-aa17-477e-86d3-722caf57df20",
+      "teamName": "Castille",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6
+      ],
+      "avgRating": 6
+    },
+    "201e2880-3d06-44ef-bed5-811150a0b73f": {
+      "playerId": "201e2880-3d06-44ef-bed5-811150a0b73f",
+      "playerName": "Jorge Moreno",
+      "teamId": "55c94018-aa17-477e-86d3-722caf57df20",
+      "teamName": "Castille",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6
+      ],
+      "avgRating": 6
+    },
+    "b42409b0-e7ce-4918-8ccc-ac8858101ba3": {
+      "playerId": "b42409b0-e7ce-4918-8ccc-ac8858101ba3",
+      "playerName": "Iván Garrido",
+      "teamId": "55c94018-aa17-477e-86d3-722caf57df20",
+      "teamName": "Castille",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        5.7
+      ],
+      "avgRating": 5.7
+    },
+    "c62628d5-2a45-4829-8689-2f0163d6fdb4": {
+      "playerId": "c62628d5-2a45-4829-8689-2f0163d6fdb4",
+      "playerName": "Nicolás Carrasco",
+      "teamId": "55c94018-aa17-477e-86d3-722caf57df20",
+      "teamName": "Castille",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        5.7
+      ],
+      "avgRating": 5.7
+    },
+    "765a1931-cb21-463c-b54e-968c193fdc0a": {
+      "playerId": "765a1931-cb21-463c-b54e-968c193fdc0a",
+      "playerName": "Saúl Caballero",
+      "teamId": "55c94018-aa17-477e-86d3-722caf57df20",
+      "teamName": "Castille",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6
+      ],
+      "avgRating": 6
+    },
+    "d0be7d2d-18d4-4cb9-a4bd-afd4a0c97a47": {
+      "playerId": "d0be7d2d-18d4-4cb9-a4bd-afd4a0c97a47",
+      "playerName": "Gonzalo Sanz",
+      "teamId": "55c94018-aa17-477e-86d3-722caf57df20",
+      "teamName": "Castille",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6
+      ],
+      "avgRating": 6
+    },
+    "ee6ed1a4-5d2e-4b22-b508-4af846e588ad": {
+      "playerId": "ee6ed1a4-5d2e-4b22-b508-4af846e588ad",
+      "playerName": "Gabriel León",
+      "teamId": "55c94018-aa17-477e-86d3-722caf57df20",
+      "teamName": "Castille",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6
+      ],
+      "avgRating": 6
+    },
+    "17ddb492-fc0b-4531-b55b-948928f486d3": {
+      "playerId": "17ddb492-fc0b-4531-b55b-948928f486d3",
+      "playerName": "Amir Hassan",
+      "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "teamName": "Empire Hussein",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.4
+      ],
+      "avgRating": 6.4
+    },
+    "408ffe60-4bad-461b-adf3-43ac1ed96add": {
+      "playerId": "408ffe60-4bad-461b-adf3-43ac1ed96add",
+      "playerName": "Mahmoud Ibrahim",
+      "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "teamName": "Empire Hussein",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.4
+      ],
+      "avgRating": 6.4
+    },
+    "d64558c3-8433-4001-a794-7bb6d8c2fb33": {
+      "playerId": "d64558c3-8433-4001-a794-7bb6d8c2fb33",
+      "playerName": "Mustafa Nabil",
+      "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "teamName": "Empire Hussein",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.4
+      ],
+      "avgRating": 6.4
+    },
+    "45c54192-9691-4007-b681-befb290dcc93": {
+      "playerId": "45c54192-9691-4007-b681-befb290dcc93",
+      "playerName": "Ramadan Youssef",
+      "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "teamName": "Empire Hussein",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.4
+      ],
+      "avgRating": 6.4
+    },
+    "7b19b67e-c651-4290-86dc-65a0b182c617": {
+      "playerId": "7b19b67e-c651-4290-86dc-65a0b182c617",
+      "playerName": "Mohamed Tawfik",
+      "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "teamName": "Empire Hussein",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        5.7
+      ],
+      "avgRating": 5.7
+    },
+    "9f59c484-b157-48a2-aa8b-8013d2e7994b": {
+      "playerId": "9f59c484-b157-48a2-aa8b-8013d2e7994b",
+      "playerName": "Oussama Mokhtari",
+      "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "teamName": "Empire Hussein",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        5.7
+      ],
+      "avgRating": 5.7
+    },
+    "89a0086b-0ff0-489e-a845-ca7b750f7403": {
+      "playerId": "89a0086b-0ff0-489e-a845-ca7b750f7403",
+      "playerName": "Hussein El-Amrani",
+      "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "teamName": "Empire Hussein",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6
+      ],
+      "avgRating": 6
+    },
+    "935e4e9a-b8e6-4409-99ad-7f224f7b4593": {
+      "playerId": "935e4e9a-b8e6-4409-99ad-7f224f7b4593",
+      "playerName": "Nordine Lounès",
+      "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "teamName": "Empire Hussein",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6
+      ],
+      "avgRating": 6
+    },
+    "2fd74179-e8e2-4358-a5cd-f4c917f6058e": {
+      "playerId": "2fd74179-e8e2-4358-a5cd-f4c917f6058e",
+      "playerName": "Yuma Taniguchi",
+      "teamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "teamName": "Yamatai",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 1,
+      "redCards": 0,
+      "matchRatings": [
+        5.5
+      ],
+      "avgRating": 5.5
+    },
+    "c23f3eb9-049b-4834-b371-619985d3ef86": {
+      "playerId": "c23f3eb9-049b-4834-b371-619985d3ef86",
+      "playerName": "Jules Garcia",
+      "teamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "teamName": "5ème Internationale",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 1,
+      "redCards": 0,
+      "matchRatings": [
+        5.5
+      ],
+      "avgRating": 5.5
+    },
+    "8dfe3c1b-ad91-4c62-a9c6-5ae0265bcc34": {
+      "playerId": "8dfe3c1b-ad91-4c62-a9c6-5ae0265bcc34",
+      "playerName": "Thomas Nicolas",
+      "teamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "teamName": "5ème Internationale",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 1,
+      "redCards": 0,
+      "matchRatings": [
+        5.8
+      ],
+      "avgRating": 5.8
+    },
+    "10873fba-5562-48ad-bddd-03c692f6be55": {
+      "playerId": "10873fba-5562-48ad-bddd-03c692f6be55",
+      "playerName": "Kenji Sakamoto",
+      "teamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "teamName": "Yamatai",
+      "goals": 1,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        7.5
+      ],
+      "avgRating": 7.5
+    },
+    "ff47a2e6-7d48-4409-83a8-99972bf718a7": {
+      "playerId": "ff47a2e6-7d48-4409-83a8-99972bf718a7",
+      "playerName": "Seiji Ota",
+      "teamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "teamName": "Yamatai",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 1,
+      "redCards": 0,
+      "matchRatings": [
+        7
+      ],
+      "avgRating": 7
+    },
+    "c61749e6-b4d4-41c6-93c4-4a48ea6d2c18": {
+      "playerId": "c61749e6-b4d4-41c6-93c4-4a48ea6d2c18",
+      "playerName": "Tetsuya Sakamoto",
+      "teamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "teamName": "Yamatai",
+      "goals": 1,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        7.5
+      ],
+      "avgRating": 7.5
+    },
+    "b3c886a5-f6d8-4cc1-af87-67e7874c0560": {
+      "playerId": "b3c886a5-f6d8-4cc1-af87-67e7874c0560",
+      "playerName": "Issei Hasegawa",
+      "teamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "teamName": "Yamatai",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 1,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        7.8
+      ],
+      "avgRating": 7.8
+    },
+    "609de258-0ecd-46cb-aa38-645b1e005f4d": {
+      "playerId": "609de258-0ecd-46cb-aa38-645b1e005f4d",
+      "playerName": "Nathan Martin",
+      "teamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "teamName": "5ème Internationale",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6
+      ],
+      "avgRating": 6
+    },
+    "54b229fc-a2a8-4458-9b88-ff8cbccf565d": {
+      "playerId": "54b229fc-a2a8-4458-9b88-ff8cbccf565d",
+      "playerName": "Enzo Duval",
+      "teamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "teamName": "5ème Internationale",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6
+      ],
+      "avgRating": 6
+    },
+    "1d7892d9-f47f-47a3-b41e-8622049075b2": {
+      "playerId": "1d7892d9-f47f-47a3-b41e-8622049075b2",
+      "playerName": "Henri Simon",
+      "teamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "teamName": "5ème Internationale",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        5.7
+      ],
+      "avgRating": 5.7
+    },
+    "b2d3034a-7398-4715-88ad-1943b28927eb": {
+      "playerId": "b2d3034a-7398-4715-88ad-1943b28927eb",
+      "playerName": "Florian Lopez",
+      "teamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "teamName": "5ème Internationale",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6
+      ],
+      "avgRating": 6
+    },
+    "30f29f34-1db2-4515-90d0-a533ad38fa0e": {
+      "playerId": "30f29f34-1db2-4515-90d0-a533ad38fa0e",
+      "playerName": "Mathis Dubois",
+      "teamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "teamName": "5ème Internationale",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6
+      ],
+      "avgRating": 6
+    },
+    "6ef59b0c-96ac-459b-8c5a-2080e923ce78": {
+      "playerId": "6ef59b0c-96ac-459b-8c5a-2080e923ce78",
+      "playerName": "Léo Meyer",
+      "teamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "teamName": "5ème Internationale",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        5.7
+      ],
+      "avgRating": 5.7
+    },
+    "0f37e5f2-34b6-42eb-a40d-a1cbed31548a": {
+      "playerId": "0f37e5f2-34b6-42eb-a40d-a1cbed31548a",
+      "playerName": "Paul Marchand",
+      "teamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "teamName": "5ème Internationale",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6
+      ],
+      "avgRating": 6
+    },
+    "30c48de3-bd45-4195-a6d3-e7f59257bc2d": {
+      "playerId": "30c48de3-bd45-4195-a6d3-e7f59257bc2d",
+      "playerName": "Louis Fournier",
+      "teamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "teamName": "5ème Internationale",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6
+      ],
+      "avgRating": 6
+    },
+    "f75dc5fe-ff5c-474d-92dc-2ec670d9a600": {
+      "playerId": "f75dc5fe-ff5c-474d-92dc-2ec670d9a600",
+      "playerName": "Sébastien Bernard",
+      "teamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "teamName": "5ème Internationale",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6
+      ],
+      "avgRating": 6
+    },
+    "0791ea8d-0339-4b1a-8419-b9786e51daf1": {
+      "playerId": "0791ea8d-0339-4b1a-8419-b9786e51daf1",
+      "playerName": "Riku Yoshida",
+      "teamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "teamName": "Yamatai",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.4
+      ],
+      "avgRating": 6.4
+    },
+    "4d9d8343-9de6-4c51-8a34-9ebe6d04f5f5": {
+      "playerId": "4d9d8343-9de6-4c51-8a34-9ebe6d04f5f5",
+      "playerName": "Shota Fukuda",
+      "teamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "teamName": "Yamatai",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.4
+      ],
+      "avgRating": 6.4
+    },
+    "6c6476dd-5f03-4895-9352-34c51b380b94": {
+      "playerId": "6c6476dd-5f03-4895-9352-34c51b380b94",
+      "playerName": "Ichiro Saito",
+      "teamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "teamName": "Yamatai",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.4
+      ],
+      "avgRating": 6.4
+    },
+    "e43f8cb6-5b88-4154-ac5b-d1285f15d8f1": {
+      "playerId": "e43f8cb6-5b88-4154-ac5b-d1285f15d8f1",
+      "playerName": "Haruto Sakamoto",
+      "teamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "teamName": "Yamatai",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6
+      ],
+      "avgRating": 6
+    },
+    "e56b97d3-3fc9-4bf3-856c-882375508b72": {
+      "playerId": "e56b97d3-3fc9-4bf3-856c-882375508b72",
+      "playerName": "Yasuhiro Kato",
+      "teamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "teamName": "Yamatai",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.1
+      ],
+      "avgRating": 6.1
+    },
+    "2b79fca0-732f-4457-8e3c-3b91222949bd": {
+      "playerId": "2b79fca0-732f-4457-8e3c-3b91222949bd",
+      "playerName": "Joji Ono",
+      "teamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "teamName": "Yamatai",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6
+      ],
+      "avgRating": 6
+    },
+    "b922c816-b6dd-47bd-9306-89ee6209ae7d": {
+      "playerId": "b922c816-b6dd-47bd-9306-89ee6209ae7d",
+      "playerName": "Yang Wu",
+      "teamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "teamName": "SPC",
+      "goals": 1,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        7.5
+      ],
+      "avgRating": 7.5
+    },
+    "4c1df5ee-4c61-454b-a817-1c24699e8f99": {
+      "playerId": "4c1df5ee-4c61-454b-a817-1c24699e8f99",
+      "playerName": "Jordan Mitchell",
+      "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "teamName": "CCB",
+      "goals": 1,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 1,
+      "redCards": 0,
+      "matchRatings": [
+        7
+      ],
+      "avgRating": 7
+    },
+    "44e712fb-26e6-4278-9d9f-0de27edfe5d5": {
+      "playerId": "44e712fb-26e6-4278-9d9f-0de27edfe5d5",
+      "playerName": "Nathan Morin",
+      "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "teamName": "CCB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.5
+      ],
+      "avgRating": 6.5
+    },
+    "8a0c7655-a4b7-4d57-9a19-7a6f37ad6931": {
+      "playerId": "8a0c7655-a4b7-4d57-9a19-7a6f37ad6931",
+      "playerName": "Tanner Martin",
+      "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "teamName": "CCB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        5.7
+      ],
+      "avgRating": 5.7
+    },
+    "c0f12e8b-929e-4763-af2c-947b54ec973d": {
+      "playerId": "c0f12e8b-929e-4763-af2c-947b54ec973d",
+      "playerName": "Aaron Hill",
+      "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "teamName": "CCB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6
+      ],
+      "avgRating": 6
+    },
+    "2bb42de2-8ff9-4e03-9a38-7b6e004ba097": {
+      "playerId": "2bb42de2-8ff9-4e03-9a38-7b6e004ba097",
+      "playerName": "André Côté",
+      "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "teamName": "CCB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6
+      ],
+      "avgRating": 6
+    },
+    "5d165f97-694f-4e10-ad43-7e01e408729a": {
+      "playerId": "5d165f97-694f-4e10-ad43-7e01e408729a",
+      "playerName": "Evan Campbell",
+      "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "teamName": "CCB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        5.7
+      ],
+      "avgRating": 5.7
+    },
+    "3485a9f3-c86e-4378-a689-d66274d56746": {
+      "playerId": "3485a9f3-c86e-4378-a689-d66274d56746",
+      "playerName": "Kevin Thompson",
+      "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "teamName": "CCB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6
+      ],
+      "avgRating": 6
+    },
+    "afb3247a-c91a-4352-9008-b30a1fb17733": {
+      "playerId": "afb3247a-c91a-4352-9008-b30a1fb17733",
+      "playerName": "Liam Williams",
+      "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "teamName": "CCB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6
+      ],
+      "avgRating": 6
+    },
+    "cf9cb854-71a7-497a-a24a-75038a58e648": {
+      "playerId": "cf9cb854-71a7-497a-a24a-75038a58e648",
+      "playerName": "Noah Williams",
+      "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "teamName": "CCB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6
+      ],
+      "avgRating": 6
+    },
+    "c8c2dbe4-df80-489b-a6b9-bba593860c98": {
+      "playerId": "c8c2dbe4-df80-489b-a6b9-bba593860c98",
+      "playerName": "Spencer Clark",
+      "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "teamName": "CCB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6
+      ],
+      "avgRating": 6
+    },
+    "7c185c3b-b756-4e27-a573-b4ff397a3821": {
+      "playerId": "7c185c3b-b756-4e27-a573-b4ff397a3821",
+      "playerName": "Jean-Luc Garneau",
+      "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "teamName": "CCB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6
+      ],
+      "avgRating": 6
+    },
+    "0663f1b8-69bb-449e-8716-a18823b621f5": {
+      "playerId": "0663f1b8-69bb-449e-8716-a18823b621f5",
+      "playerName": "Wen Fu",
+      "teamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "teamName": "SPC",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        7
+      ],
+      "avgRating": 7
+    },
+    "4ef345a9-c2fd-4920-ab92-5124797d4e7d": {
+      "playerId": "4ef345a9-c2fd-4920-ab92-5124797d4e7d",
+      "playerName": "Uo Yuan",
+      "teamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "teamName": "SPC",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        5.7
+      ],
+      "avgRating": 5.7
+    },
+    "d67a8844-1344-4fb1-8591-041530e2623c": {
+      "playerId": "d67a8844-1344-4fb1-8591-041530e2623c",
+      "playerName": "Xiang Zhang",
+      "teamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "teamName": "SPC",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6
+      ],
+      "avgRating": 6
+    },
+    "2a40f2a8-21e7-4d78-a889-fce6f644ca00": {
+      "playerId": "2a40f2a8-21e7-4d78-a889-fce6f644ca00",
+      "playerName": "Ping Cai",
+      "teamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "teamName": "SPC",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        5.7
+      ],
+      "avgRating": 5.7
+    },
+    "91d1ad6f-2a74-44d8-8cf9-276014c0fbdd": {
+      "playerId": "91d1ad6f-2a74-44d8-8cf9-276014c0fbdd",
+      "playerName": "Feng Luo",
+      "teamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "teamName": "SPC",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6
+      ],
+      "avgRating": 6
+    },
+    "2caa7860-2d4a-42f0-a5cf-7763cd065ab7": {
+      "playerId": "2caa7860-2d4a-42f0-a5cf-7763cd065ab7",
+      "playerName": "Tian Cao",
+      "teamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "teamName": "SPC",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6
+      ],
+      "avgRating": 6
+    },
+    "4a9fc2df-0422-43e9-9335-7298cb4c0168": {
+      "playerId": "4a9fc2df-0422-43e9-9335-7298cb4c0168",
+      "playerName": "Lei Luo",
+      "teamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "teamName": "SPC",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6
+      ],
+      "avgRating": 6
+    },
+    "39d38a15-321d-4d2a-988c-509fe2931279": {
+      "playerId": "39d38a15-321d-4d2a-988c-509fe2931279",
+      "playerName": "Wei Yang",
+      "teamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "teamName": "SPC",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6
+      ],
+      "avgRating": 6
+    },
+    "c63920ec-9b0d-437e-9176-37361654efb1": {
+      "playerId": "c63920ec-9b0d-437e-9176-37361654efb1",
+      "playerName": "Nan Ceng",
+      "teamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "teamName": "SPC",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6
+      ],
+      "avgRating": 6
+    },
+    "1eb6cdb3-28c8-4792-8b45-f820be065dd9": {
+      "playerId": "1eb6cdb3-28c8-4792-8b45-f820be065dd9",
+      "playerName": "Ran Tian",
+      "teamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "teamName": "SPC",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6
+      ],
+      "avgRating": 6
+    }
+  },
   "config": {
     "legsPerMatch": 1,
     "thirdPlaceMatch": false,
@@ -281,7 +1635,7 @@
       "penalties": false
     }
   },
-  "currentRound": 1,
+  "currentRound": 2,
   "status": "ongoing",
   "createdAt": "2026-06-20T14:32:17.698Z"
 }
