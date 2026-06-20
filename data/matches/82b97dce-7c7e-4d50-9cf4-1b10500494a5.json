@@ -1,0 +1,731 @@
+{
+  "id": "82b97dce-7c7e-4d50-9cf4-1b10500494a5",
+  "playedAt": "2026-06-20T15:19:06.992Z",
+  "speed": "5",
+  "home": {
+    "teamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+    "teamSlug": "5eme-internationale",
+    "teamName": "5ème Internationale",
+    "formation": "4-3-3",
+    "lineup": [
+      "8dfe3c1b-ad91-4c62-a9c6-5ae0265bcc34",
+      "609de258-0ecd-46cb-aa38-645b1e005f4d",
+      "54b229fc-a2a8-4458-9b88-ff8cbccf565d",
+      "c23f3eb9-049b-4834-b371-619985d3ef86",
+      "1d7892d9-f47f-47a3-b41e-8622049075b2",
+      "b2d3034a-7398-4715-88ad-1943b28927eb",
+      "30f29f34-1db2-4515-90d0-a533ad38fa0e",
+      "6ef59b0c-96ac-459b-8c5a-2080e923ce78",
+      "0f37e5f2-34b6-42eb-a40d-a1cbed31548a",
+      "30c48de3-bd45-4195-a6d3-e7f59257bc2d",
+      "f75dc5fe-ff5c-474d-92dc-2ec670d9a600"
+    ],
+    "score": 1,
+    "shots": 7,
+    "shotsOnTarget": 6,
+    "fouls": 7,
+    "yellows": [],
+    "reds": [],
+    "possession": 47
+  },
+  "away": {
+    "teamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+    "teamSlug": "yamatai",
+    "teamName": "Yamatai",
+    "formation": "5-4-1",
+    "lineup": [
+      "b3c886a5-f6d8-4cc1-af87-67e7874c0560",
+      "0791ea8d-0339-4b1a-8419-b9786e51daf1",
+      "4d9d8343-9de6-4c51-8a34-9ebe6d04f5f5",
+      "6c6476dd-5f03-4895-9352-34c51b380b94",
+      "03e2a802-190c-40e2-affe-80ca71c24012",
+      "2fd74179-e8e2-4358-a5cd-f4c917f6058e",
+      "e56b97d3-3fc9-4bf3-856c-882375508b72",
+      "c61749e6-b4d4-41c6-93c4-4a48ea6d2c18",
+      "e43f8cb6-5b88-4154-ac5b-d1285f15d8f1",
+      "a9ceb601-a7a5-4f70-ae19-ca68f99e0168",
+      "2b79fca0-732f-4457-8e3c-3b91222949bd"
+    ],
+    "score": 0,
+    "shots": 9,
+    "shotsOnTarget": 4,
+    "fouls": 0,
+    "yellows": [],
+    "reds": [],
+    "possession": 53
+  },
+  "events": [
+    {
+      "id": 1,
+      "minute": 1,
+      "half": 1,
+      "text": "1' — Coup d'envoi.",
+      "type": "kickoff",
+      "side": null,
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 2,
+      "minute": 3,
+      "half": 1,
+      "text": "⚽ 3' — But pour 5ème Internationale ! Louis Fournier marque.",
+      "type": "goal",
+      "side": "home",
+      "playerId": "30c48de3-bd45-4195-a6d3-e7f59257bc2d",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 3,
+      "minute": 10,
+      "half": 1,
+      "text": "🧤 10' — Belle parade de Thomas Nicolas.",
+      "type": "save",
+      "side": "home",
+      "playerId": "8dfe3c1b-ad91-4c62-a9c6-5ae0265bcc34",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 4,
+      "minute": 14,
+      "half": 1,
+      "text": "14' — Passe décisive de Mathis Dubois.",
+      "type": "keyPass",
+      "side": "home",
+      "playerId": "30f29f34-1db2-4515-90d0-a533ad38fa0e",
+      "ballPos": {
+        "x": 40,
+        "y": 25
+      }
+    },
+    {
+      "id": 5,
+      "minute": 15,
+      "half": 1,
+      "text": "🧤 15' — Belle parade de Issei Hasegawa.",
+      "type": "save",
+      "side": "away",
+      "playerId": "b3c886a5-f6d8-4cc1-af87-67e7874c0560",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 6,
+      "minute": 16,
+      "half": 1,
+      "text": "16' — Passe décisive de Florian Lopez.",
+      "type": "keyPass",
+      "side": "home",
+      "playerId": "b2d3034a-7398-4715-88ad-1943b28927eb",
+      "ballPos": {
+        "x": 40,
+        "y": 25
+      }
+    },
+    {
+      "id": 7,
+      "minute": 18,
+      "half": 1,
+      "text": "18' — Passe décisive de Haruto Sakamoto.",
+      "type": "keyPass",
+      "side": "away",
+      "playerId": "e43f8cb6-5b88-4154-ac5b-d1285f15d8f1",
+      "ballPos": {
+        "x": 60,
+        "y": 25
+      }
+    },
+    {
+      "id": 8,
+      "minute": 19,
+      "half": 1,
+      "text": "19' — Faute de Léo Lemaire.",
+      "type": "foul",
+      "side": "home",
+      "playerId": "562f948b-701b-46a0-bff7-2e6f110fdf4b",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 9,
+      "minute": 22,
+      "half": 1,
+      "text": "22' — Tir non cadré de Mathis Dubois.",
+      "type": "shot",
+      "side": "home",
+      "playerId": "30f29f34-1db2-4515-90d0-a533ad38fa0e",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 10,
+      "minute": 23,
+      "half": 1,
+      "text": "🧤 23' — Belle parade de Thomas Nicolas.",
+      "type": "save",
+      "side": "home",
+      "playerId": "8dfe3c1b-ad91-4c62-a9c6-5ae0265bcc34",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 11,
+      "minute": 28,
+      "half": 1,
+      "text": "28' — Faute de Nathan Martin.",
+      "type": "foul",
+      "side": "home",
+      "playerId": "609de258-0ecd-46cb-aa38-645b1e005f4d",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 12,
+      "minute": 29,
+      "half": 1,
+      "text": "🧤 29' — Belle parade de Issei Hasegawa.",
+      "type": "save",
+      "side": "away",
+      "playerId": "b3c886a5-f6d8-4cc1-af87-67e7874c0560",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 13,
+      "minute": 32,
+      "half": 1,
+      "text": "32' — Tir non cadré de Tetsuya Sakamoto.",
+      "type": "shot",
+      "side": "away",
+      "playerId": "c61749e6-b4d4-41c6-93c4-4a48ea6d2c18",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 14,
+      "minute": 35,
+      "half": 1,
+      "text": "35' — Dribble réussi de Joji Ono !",
+      "type": "dribble",
+      "side": "away",
+      "playerId": "2b79fca0-732f-4457-8e3c-3b91222949bd",
+      "ballPos": {
+        "x": 80,
+        "y": 25
+      }
+    },
+    {
+      "id": 15,
+      "minute": 42,
+      "half": 1,
+      "text": "42' — Faute de Jules Garcia.",
+      "type": "foul",
+      "side": "home",
+      "playerId": "c23f3eb9-049b-4834-b371-619985d3ef86",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 16,
+      "minute": 45,
+      "half": 1,
+      "text": "45' — Dribble réussi de Louis Fournier !",
+      "type": "dribble",
+      "side": "home",
+      "playerId": "30c48de3-bd45-4195-a6d3-e7f59257bc2d",
+      "ballPos": {
+        "x": 20,
+        "y": 25
+      }
+    },
+    {
+      "id": 17,
+      "minute": 47,
+      "half": 1,
+      "text": "⛔ 47' — Tetsuya Sakamoto touche le poteau !",
+      "type": "crossbar",
+      "side": "away",
+      "playerId": "c61749e6-b4d4-41c6-93c4-4a48ea6d2c18",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 18,
+      "minute": 48,
+      "half": 1,
+      "text": "48' — Coup franc dangereux pour 5ème Internationale (Florian Lopez).",
+      "type": "freeKick",
+      "side": "home",
+      "playerId": "b2d3034a-7398-4715-88ad-1943b28927eb",
+      "ballPos": {
+        "x": 20,
+        "y": 25
+      }
+    },
+    {
+      "id": 19,
+      "minute": 50,
+      "half": 1,
+      "text": "Mi-temps.",
+      "type": "halftime",
+      "side": null,
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 20,
+      "minute": 50,
+      "half": 1,
+      "text": "🔄 50' — 5ème Internationale : Henri Simon ↔ Léo Lemaire.",
+      "type": "substitution",
+      "side": "home",
+      "playerId": "1d7892d9-f47f-47a3-b41e-8622049075b2",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 21,
+      "minute": 50,
+      "half": 1,
+      "text": "🔄 50' — 5ème Internationale : Léo Meyer ↔ Tristan Martin.",
+      "type": "substitution",
+      "side": "home",
+      "playerId": "6ef59b0c-96ac-459b-8c5a-2080e923ce78",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 22,
+      "minute": 50,
+      "half": 1,
+      "text": "🔄 50' — Yamatai : Yuma Taniguchi ↔ Hideki Aoki.",
+      "type": "substitution",
+      "side": "away",
+      "playerId": "2fd74179-e8e2-4358-a5cd-f4c917f6058e",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 23,
+      "minute": 50,
+      "half": 1,
+      "text": "🔄 50' — Yamatai : Yasuhiro Kato ↔ Kohei Okada.",
+      "type": "substitution",
+      "side": "away",
+      "playerId": "e56b97d3-3fc9-4bf3-856c-882375508b72",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 24,
+      "minute": 47,
+      "half": 2,
+      "text": "🧤 47' — Belle parade de Issei Hasegawa.",
+      "type": "save",
+      "side": "away",
+      "playerId": "b3c886a5-f6d8-4cc1-af87-67e7874c0560",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 25,
+      "minute": 50,
+      "half": 2,
+      "text": "50' — Hors-jeu signalé contre Yamatai.",
+      "type": "offside",
+      "side": "away",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 26,
+      "minute": 52,
+      "half": 2,
+      "text": "52' — Passe décisive de Haruto Sakamoto.",
+      "type": "keyPass",
+      "side": "away",
+      "playerId": "e43f8cb6-5b88-4154-ac5b-d1285f15d8f1",
+      "ballPos": {
+        "x": 60,
+        "y": 25
+      }
+    },
+    {
+      "id": 27,
+      "minute": 53,
+      "half": 2,
+      "text": "🔴 53' — Penalty pour 5ème Internationale ! Louis Fournier s'élance.",
+      "type": "penalty",
+      "side": "home",
+      "playerId": "30c48de3-bd45-4195-a6d3-e7f59257bc2d",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 28,
+      "minute": 53,
+      "half": 2,
+      "text": "🧤 53' — Belle parade de Issei Hasegawa.",
+      "type": "save",
+      "side": "away",
+      "playerId": "b3c886a5-f6d8-4cc1-af87-67e7874c0560",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 29,
+      "minute": 54,
+      "half": 2,
+      "text": "54' — Dégagement in extremis de Masaki Yamada.",
+      "type": "clearance",
+      "side": "away",
+      "playerId": "03e2a802-190c-40e2-affe-80ca71c24012",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 30,
+      "minute": 56,
+      "half": 2,
+      "text": "56' — Hors-jeu signalé contre Yamatai.",
+      "type": "offside",
+      "side": "away",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 31,
+      "minute": 59,
+      "half": 2,
+      "text": "59' — Passe décisive de Louis Fournier.",
+      "type": "keyPass",
+      "side": "home",
+      "playerId": "30c48de3-bd45-4195-a6d3-e7f59257bc2d",
+      "ballPos": {
+        "x": 40,
+        "y": 25
+      }
+    },
+    {
+      "id": 32,
+      "minute": 61,
+      "half": 2,
+      "text": "61' — Faute de Louis Fournier.",
+      "type": "foul",
+      "side": "home",
+      "playerId": "30c48de3-bd45-4195-a6d3-e7f59257bc2d",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 33,
+      "minute": 63,
+      "half": 2,
+      "text": "63' — Passe décisive de Paul Marchand.",
+      "type": "keyPass",
+      "side": "home",
+      "playerId": "0f37e5f2-34b6-42eb-a40d-a1cbed31548a",
+      "ballPos": {
+        "x": 40,
+        "y": 25
+      }
+    },
+    {
+      "id": 34,
+      "minute": 65,
+      "half": 2,
+      "text": "65' — Faute de Jules Garcia.",
+      "type": "foul",
+      "side": "home",
+      "playerId": "c23f3eb9-049b-4834-b371-619985d3ef86",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 35,
+      "minute": 68,
+      "half": 2,
+      "text": "68' — Corner pour 5ème Internationale.",
+      "type": "corner",
+      "side": "home",
+      "ballPos": {
+        "x": 100,
+        "y": 50
+      }
+    },
+    {
+      "id": 36,
+      "minute": 69,
+      "half": 2,
+      "text": "69' — Passe décisive de Mathis Dubois.",
+      "type": "keyPass",
+      "side": "home",
+      "playerId": "30f29f34-1db2-4515-90d0-a533ad38fa0e",
+      "ballPos": {
+        "x": 40,
+        "y": 25
+      }
+    },
+    {
+      "id": 37,
+      "minute": 73,
+      "half": 2,
+      "text": "73' — Faute de Henri Simon.",
+      "type": "foul",
+      "side": "home",
+      "playerId": "1d7892d9-f47f-47a3-b41e-8622049075b2",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 38,
+      "minute": 74,
+      "half": 2,
+      "text": "74' — Coup franc dangereux pour Yamatai (Joji Ono).",
+      "type": "freeKick",
+      "side": "away",
+      "playerId": "2b79fca0-732f-4457-8e3c-3b91222949bd",
+      "ballPos": {
+        "x": 80,
+        "y": 25
+      }
+    },
+    {
+      "id": 39,
+      "minute": 78,
+      "half": 2,
+      "text": "78' — Tir non cadré de Yuma Taniguchi.",
+      "type": "shot",
+      "side": "away",
+      "playerId": "2fd74179-e8e2-4358-a5cd-f4c917f6058e",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 40,
+      "minute": 79,
+      "half": 2,
+      "text": "79' — Passe décisive de Mathis Dubois.",
+      "type": "keyPass",
+      "side": "home",
+      "playerId": "30f29f34-1db2-4515-90d0-a533ad38fa0e",
+      "ballPos": {
+        "x": 40,
+        "y": 25
+      }
+    },
+    {
+      "id": 41,
+      "minute": 80,
+      "half": 2,
+      "text": "🧤 80' — Belle parade de Thomas Nicolas.",
+      "type": "save",
+      "side": "home",
+      "playerId": "8dfe3c1b-ad91-4c62-a9c6-5ae0265bcc34",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 42,
+      "minute": 81,
+      "half": 2,
+      "text": "81' — Tir non cadré de Joji Ono.",
+      "type": "shot",
+      "side": "away",
+      "playerId": "2b79fca0-732f-4457-8e3c-3b91222949bd",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 43,
+      "minute": 82,
+      "half": 2,
+      "text": "82' — Passe décisive de Haruto Sakamoto.",
+      "type": "keyPass",
+      "side": "away",
+      "playerId": "e43f8cb6-5b88-4154-ac5b-d1285f15d8f1",
+      "ballPos": {
+        "x": 60,
+        "y": 25
+      }
+    },
+    {
+      "id": 44,
+      "minute": 83,
+      "half": 2,
+      "text": "83' — Tir non cadré de Haruto Sakamoto.",
+      "type": "shot",
+      "side": "away",
+      "playerId": "e43f8cb6-5b88-4154-ac5b-d1285f15d8f1",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 45,
+      "minute": 84,
+      "half": 2,
+      "text": "84' — Hors-jeu signalé contre Yamatai.",
+      "type": "offside",
+      "side": "away",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 46,
+      "minute": 87,
+      "half": 2,
+      "text": "87' — Passe décisive de Yuma Taniguchi.",
+      "type": "keyPass",
+      "side": "away",
+      "playerId": "2fd74179-e8e2-4358-a5cd-f4c917f6058e",
+      "ballPos": {
+        "x": 60,
+        "y": 25
+      }
+    },
+    {
+      "id": 47,
+      "minute": 90,
+      "half": 2,
+      "text": "90' — Passe décisive de Tetsuya Sakamoto.",
+      "type": "keyPass",
+      "side": "away",
+      "playerId": "c61749e6-b4d4-41c6-93c4-4a48ea6d2c18",
+      "ballPos": {
+        "x": 60,
+        "y": 25
+      }
+    },
+    {
+      "id": 48,
+      "minute": 92,
+      "half": 2,
+      "text": "92' — Corner pour Yamatai.",
+      "type": "corner",
+      "side": "away",
+      "ballPos": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "id": 49,
+      "minute": 92,
+      "half": 2,
+      "text": "92' — Coup de tête de Tetsuya Sakamoto.",
+      "type": "header",
+      "side": "away",
+      "playerId": "c61749e6-b4d4-41c6-93c4-4a48ea6d2c18",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 50,
+      "minute": 92,
+      "half": 2,
+      "text": "92' — Tir non cadré de Joji Ono.",
+      "type": "shot",
+      "side": "away",
+      "playerId": "2b79fca0-732f-4457-8e3c-3b91222949bd",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 51,
+      "minute": 94,
+      "half": 2,
+      "text": "🧤 94' — Belle parade de Issei Hasegawa.",
+      "type": "save",
+      "side": "away",
+      "playerId": "b3c886a5-f6d8-4cc1-af87-67e7874c0560",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 52,
+      "minute": 95,
+      "half": 2,
+      "text": "Fin du match.",
+      "type": "fulltime",
+      "side": null,
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    }
+  ],
+  "finalScore": {
+    "home": 1,
+    "away": 0
+  }
+}
