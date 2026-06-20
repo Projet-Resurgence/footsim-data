@@ -42,6 +42,15 @@
   },
   "recentMatches": [
     {
+      "matchId": "a817f681-2793-42f0-bfa6-e6a88ab2defa",
+      "playedAt": "2026-06-20T13:41:12.468Z",
+      "opponentSlug": "spc",
+      "opponentName": "SPC",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 0
+    },
+    {
       "matchId": "ad54334e-6624-42b7-9d3c-a32a6e736551",
       "playedAt": "2026-06-20T13:34:27.270Z",
       "opponentSlug": "empire-hussein",
