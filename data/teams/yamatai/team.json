@@ -181,5 +181,16 @@
       "scoreAgainst": 1
     }
   ],
-  "publishedAt": "2026-06-20T13:44:43.298Z"
+  "publishedAt": "2026-06-20T20:50:20.595Z",
+  "cultures": [
+    {
+      "culture": "japonais",
+      "weight": 50
+    }
+  ],
+  "continent": "asie",
+  "continents": [
+    "asie"
+  ],
+  "managerDiscordId": "677663204960239666"
 }
