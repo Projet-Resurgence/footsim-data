@@ -42,6 +42,15 @@
   },
   "recentMatches": [
     {
+      "matchId": "b661c740-ece2-4e79-9a9c-837dac4091d3",
+      "playedAt": "2026-06-20T13:45:50.463Z",
+      "opponentSlug": "yamatai",
+      "opponentName": "Yamatai",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 0
+    },
+    {
       "matchId": "15e6052d-da5f-4803-aae0-0ecab96aad02",
       "playedAt": "2026-06-20T13:44:25.047Z",
       "opponentSlug": "fclc",
