@@ -1,0 +1,1107 @@
+{
+  "id": "8eeb01f9-d7c2-4075-83ae-97f4a43b13a8",
+  "playedAt": "2026-06-20T13:39:09.640Z",
+  "speed": "2",
+  "home": {
+    "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+    "teamSlug": "empire-hussein",
+    "teamName": "Empire Hussein",
+    "formation": "4-2-3-1",
+    "lineup": [
+      "07aeab5b-061d-4600-8666-34b83f575da1",
+      "17ddb492-fc0b-4531-b55b-948928f486d3",
+      "408ffe60-4bad-461b-adf3-43ac1ed96add",
+      "d64558c3-8433-4001-a794-7bb6d8c2fb33",
+      "45c54192-9691-4007-b681-befb290dcc93",
+      "fc265c58-5fca-404e-9490-c43cc465c69a",
+      "7b19b67e-c651-4290-86dc-65a0b182c617",
+      "1c999b90-da69-4d38-a0c2-b11dcd550957",
+      "dc90057b-82df-4168-8204-a6e87d643d0a",
+      "935e4e9a-b8e6-4409-99ad-7f224f7b4593",
+      "89a0086b-0ff0-489e-a845-ca7b750f7403"
+    ],
+    "score": 0,
+    "shots": 10,
+    "shotsOnTarget": 5,
+    "fouls": 4,
+    "yellows": [],
+    "reds": [],
+    "possession": 61
+  },
+  "away": {
+    "teamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+    "teamSlug": "yamatai",
+    "teamName": "Yamatai",
+    "formation": "5-4-1",
+    "lineup": [
+      "b3c886a5-f6d8-4cc1-af87-67e7874c0560",
+      "4d9d8343-9de6-4c51-8a34-9ebe6d04f5f5",
+      "6c6476dd-5f03-4895-9352-34c51b380b94",
+      "03e2a802-190c-40e2-affe-80ca71c24012",
+      "2fd74179-e8e2-4358-a5cd-f4c917f6058e",
+      "e56b97d3-3fc9-4bf3-856c-882375508b72",
+      "c61749e6-b4d4-41c6-93c4-4a48ea6d2c18",
+      "e43f8cb6-5b88-4154-ac5b-d1285f15d8f1",
+      "a9ceb601-a7a5-4f70-ae19-ca68f99e0168",
+      "2b79fca0-732f-4457-8e3c-3b91222949bd"
+    ],
+    "score": 0,
+    "shots": 6,
+    "shotsOnTarget": 4,
+    "fouls": 5,
+    "yellows": [
+      "0791ea8d-0339-4b1a-8419-b9786e51daf1"
+    ],
+    "reds": [
+      "0791ea8d-0339-4b1a-8419-b9786e51daf1"
+    ],
+    "possession": 39
+  },
+  "events": [
+    {
+      "id": 1,
+      "minute": 1,
+      "half": 1,
+      "text": "1' — Coup d'envoi.",
+      "type": "kickoff",
+      "side": null,
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 2,
+      "minute": 3,
+      "half": 1,
+      "text": "3' — Corner pour Empire Hussein.",
+      "type": "corner",
+      "side": "home",
+      "ballPos": {
+        "x": 100,
+        "y": 50
+      }
+    },
+    {
+      "id": 3,
+      "minute": 3,
+      "half": 1,
+      "text": "3' — Coup de tête de Adel Gaber.",
+      "type": "header",
+      "side": "home",
+      "playerId": "9e7245a9-b3ce-476c-a30b-e771ab050d71",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 4,
+      "minute": 6,
+      "half": 1,
+      "text": "6' — Passe décisive de Joji Ono.",
+      "type": "keyPass",
+      "side": "away",
+      "playerId": "2b79fca0-732f-4457-8e3c-3b91222949bd",
+      "ballPos": {
+        "x": 60,
+        "y": 25
+      }
+    },
+    {
+      "id": 5,
+      "minute": 8,
+      "half": 1,
+      "text": "8' — Faute de Mustafa Nabil.",
+      "type": "foul",
+      "side": "home",
+      "playerId": "d64558c3-8433-4001-a794-7bb6d8c2fb33",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 6,
+      "minute": 11,
+      "half": 1,
+      "text": "11' — Corner pour Empire Hussein.",
+      "type": "corner",
+      "side": "home",
+      "ballPos": {
+        "x": 100,
+        "y": 50
+      }
+    },
+    {
+      "id": 7,
+      "minute": 16,
+      "half": 1,
+      "text": "16' — Passe décisive de Adel Gaber.",
+      "type": "keyPass",
+      "side": "home",
+      "playerId": "9e7245a9-b3ce-476c-a30b-e771ab050d71",
+      "ballPos": {
+        "x": 40,
+        "y": 25
+      }
+    },
+    {
+      "id": 8,
+      "minute": 17,
+      "half": 1,
+      "text": "17' — Passe décisive de Tarek Hafez.",
+      "type": "keyPass",
+      "side": "home",
+      "playerId": "1c999b90-da69-4d38-a0c2-b11dcd550957",
+      "ballPos": {
+        "x": 40,
+        "y": 25
+      }
+    },
+    {
+      "id": 9,
+      "minute": 18,
+      "half": 1,
+      "text": "18' — Passe décisive de Hussein El-Amrani.",
+      "type": "keyPass",
+      "side": "home",
+      "playerId": "89a0086b-0ff0-489e-a845-ca7b750f7403",
+      "ballPos": {
+        "x": 40,
+        "y": 25
+      }
+    },
+    {
+      "id": 10,
+      "minute": 21,
+      "half": 1,
+      "text": "21' — Faute de Ichiro Saito.",
+      "type": "foul",
+      "side": "away",
+      "playerId": "6c6476dd-5f03-4895-9352-34c51b380b94",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 11,
+      "minute": 22,
+      "half": 1,
+      "text": "22' — Dribble réussi de Tarek Hafez !",
+      "type": "dribble",
+      "side": "home",
+      "playerId": "1c999b90-da69-4d38-a0c2-b11dcd550957",
+      "ballPos": {
+        "x": 20,
+        "y": 25
+      }
+    },
+    {
+      "id": 12,
+      "minute": 27,
+      "half": 1,
+      "text": "27' — Passe décisive de Hussein El-Amrani.",
+      "type": "keyPass",
+      "side": "home",
+      "playerId": "89a0086b-0ff0-489e-a845-ca7b750f7403",
+      "ballPos": {
+        "x": 40,
+        "y": 25
+      }
+    },
+    {
+      "id": 13,
+      "minute": 28,
+      "half": 1,
+      "text": "28' — Corner pour Empire Hussein.",
+      "type": "corner",
+      "side": "home",
+      "ballPos": {
+        "x": 100,
+        "y": 50
+      }
+    },
+    {
+      "id": 14,
+      "minute": 28,
+      "half": 1,
+      "text": "28' — Coup de tête de Tarek Hafez.",
+      "type": "header",
+      "side": "home",
+      "playerId": "1c999b90-da69-4d38-a0c2-b11dcd550957",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 15,
+      "minute": 30,
+      "half": 1,
+      "text": "30' — Tir non cadré de Tarek Hafez.",
+      "type": "shot",
+      "side": "home",
+      "playerId": "1c999b90-da69-4d38-a0c2-b11dcd550957",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 16,
+      "minute": 31,
+      "half": 1,
+      "text": "🔴 31' — Penalty pour Yamatai ! Haruto Sakamoto s'élance.",
+      "type": "penalty",
+      "side": "away",
+      "playerId": "e43f8cb6-5b88-4154-ac5b-d1285f15d8f1",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 17,
+      "minute": 31,
+      "half": 1,
+      "text": "🧤 31' — Belle parade de Mounir Salah.",
+      "type": "save",
+      "side": "home",
+      "playerId": "07aeab5b-061d-4600-8666-34b83f575da1",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 18,
+      "minute": 33,
+      "half": 1,
+      "text": "33' — Tir non cadré de Joji Ono.",
+      "type": "shot",
+      "side": "away",
+      "playerId": "2b79fca0-732f-4457-8e3c-3b91222949bd",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 19,
+      "minute": 35,
+      "half": 1,
+      "text": "35' — Coup franc dangereux pour Yamatai (Joji Ono).",
+      "type": "freeKick",
+      "side": "away",
+      "playerId": "2b79fca0-732f-4457-8e3c-3b91222949bd",
+      "ballPos": {
+        "x": 80,
+        "y": 25
+      }
+    },
+    {
+      "id": 20,
+      "minute": 42,
+      "half": 1,
+      "text": "42' — Passe décisive de Adel Gaber.",
+      "type": "keyPass",
+      "side": "home",
+      "playerId": "9e7245a9-b3ce-476c-a30b-e771ab050d71",
+      "ballPos": {
+        "x": 40,
+        "y": 25
+      }
+    },
+    {
+      "id": 21,
+      "minute": 44,
+      "half": 1,
+      "text": "44' — Coup franc dangereux pour Empire Hussein (Hussein El-Amrani).",
+      "type": "freeKick",
+      "side": "home",
+      "playerId": "89a0086b-0ff0-489e-a845-ca7b750f7403",
+      "ballPos": {
+        "x": 20,
+        "y": 25
+      }
+    },
+    {
+      "id": 22,
+      "minute": 48,
+      "half": 1,
+      "text": "48' — Tir non cadré de Hussein El-Amrani.",
+      "type": "shot",
+      "side": "home",
+      "playerId": "89a0086b-0ff0-489e-a845-ca7b750f7403",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 23,
+      "minute": 49,
+      "half": 1,
+      "text": "49' — Faute de Riku Yoshida.",
+      "type": "foul",
+      "side": "away",
+      "playerId": "0791ea8d-0339-4b1a-8419-b9786e51daf1",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 24,
+      "minute": 49,
+      "half": 1,
+      "text": "🟨 49' — Carton jaune pour Riku Yoshida (Yamatai).",
+      "type": "yellow",
+      "side": "away",
+      "playerId": "0791ea8d-0339-4b1a-8419-b9786e51daf1",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 25,
+      "minute": 50,
+      "half": 1,
+      "text": "Mi-temps.",
+      "type": "halftime",
+      "side": null,
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 26,
+      "minute": 50,
+      "half": 1,
+      "text": "🔄 50' — Empire Hussein : Mohamed Tawfik ↔ Umar Faroug.",
+      "type": "substitution",
+      "side": "home",
+      "playerId": "7b19b67e-c651-4290-86dc-65a0b182c617",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 27,
+      "minute": 50,
+      "half": 1,
+      "text": "🔄 50' — Empire Hussein : Noureldeen Bilal ↔ Adel Gaber.",
+      "type": "substitution",
+      "side": "home",
+      "playerId": "dc90057b-82df-4168-8204-a6e87d643d0a",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 28,
+      "minute": 50,
+      "half": 1,
+      "text": "🔄 50' — Yamatai : Yuma Taniguchi ↔ Hideki Aoki.",
+      "type": "substitution",
+      "side": "away",
+      "playerId": "2fd74179-e8e2-4358-a5cd-f4c917f6058e",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 29,
+      "minute": 50,
+      "half": 1,
+      "text": "🔄 50' — Yamatai : Yasuhiro Kato ↔ Kohei Okada.",
+      "type": "substitution",
+      "side": "away",
+      "playerId": "e56b97d3-3fc9-4bf3-856c-882375508b72",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 30,
+      "minute": 49,
+      "half": 2,
+      "text": "49' — Corner pour Yamatai.",
+      "type": "corner",
+      "side": "away",
+      "ballPos": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "id": 31,
+      "minute": 50,
+      "half": 2,
+      "text": "50' — Passe décisive de Nordine Lounès.",
+      "type": "keyPass",
+      "side": "home",
+      "playerId": "935e4e9a-b8e6-4409-99ad-7f224f7b4593",
+      "ballPos": {
+        "x": 40,
+        "y": 25
+      }
+    },
+    {
+      "id": 32,
+      "minute": 51,
+      "half": 2,
+      "text": "51' — Faute de Riku Yoshida.",
+      "type": "foul",
+      "side": "away",
+      "playerId": "0791ea8d-0339-4b1a-8419-b9786e51daf1",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 33,
+      "minute": 52,
+      "half": 2,
+      "text": "🧤 52' — Belle parade de Issei Hasegawa.",
+      "type": "save",
+      "side": "away",
+      "playerId": "b3c886a5-f6d8-4cc1-af87-67e7874c0560",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 34,
+      "minute": 56,
+      "half": 2,
+      "text": "56' — Tir non cadré de Nordine Lounès.",
+      "type": "shot",
+      "side": "home",
+      "playerId": "935e4e9a-b8e6-4409-99ad-7f224f7b4593",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 35,
+      "minute": 59,
+      "half": 2,
+      "text": "🔴 59' — Penalty pour Yamatai ! Yuma Taniguchi s'élance.",
+      "type": "penalty",
+      "side": "away",
+      "playerId": "2fd74179-e8e2-4358-a5cd-f4c917f6058e",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 36,
+      "minute": 59,
+      "half": 2,
+      "text": "🧤 59' — Belle parade de Mounir Salah.",
+      "type": "save",
+      "side": "home",
+      "playerId": "07aeab5b-061d-4600-8666-34b83f575da1",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 37,
+      "minute": 61,
+      "half": 2,
+      "text": "61' — Passe décisive de Yuma Taniguchi.",
+      "type": "keyPass",
+      "side": "away",
+      "playerId": "2fd74179-e8e2-4358-a5cd-f4c917f6058e",
+      "ballPos": {
+        "x": 60,
+        "y": 25
+      }
+    },
+    {
+      "id": 38,
+      "minute": 65,
+      "half": 2,
+      "text": "🔴 65' — Penalty pour Empire Hussein ! Tarek Hafez s'élance.",
+      "type": "penalty",
+      "side": "home",
+      "playerId": "1c999b90-da69-4d38-a0c2-b11dcd550957",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 39,
+      "minute": 65,
+      "half": 2,
+      "text": "65' — Tir non cadré de Noureldeen Bilal.",
+      "type": "shot",
+      "side": "home",
+      "playerId": "dc90057b-82df-4168-8204-a6e87d643d0a",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 40,
+      "minute": 67,
+      "half": 2,
+      "text": "🧤 67' — Belle parade de Mounir Salah.",
+      "type": "save",
+      "side": "home",
+      "playerId": "07aeab5b-061d-4600-8666-34b83f575da1",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 41,
+      "minute": 70,
+      "half": 2,
+      "text": "70' — Corner pour Yamatai.",
+      "type": "corner",
+      "side": "away",
+      "ballPos": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "id": 42,
+      "minute": 70,
+      "half": 2,
+      "text": "70' — Coup de tête de Tetsuya Sakamoto.",
+      "type": "header",
+      "side": "away",
+      "playerId": "c61749e6-b4d4-41c6-93c4-4a48ea6d2c18",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 43,
+      "minute": 73,
+      "half": 2,
+      "text": "73' — Hors-jeu signalé contre Yamatai.",
+      "type": "offside",
+      "side": "away",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 44,
+      "minute": 78,
+      "half": 2,
+      "text": "🧤 78' — Belle parade de Issei Hasegawa.",
+      "type": "save",
+      "side": "away",
+      "playerId": "b3c886a5-f6d8-4cc1-af87-67e7874c0560",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 45,
+      "minute": 80,
+      "half": 2,
+      "text": "80' — Passe décisive de Yuma Taniguchi.",
+      "type": "keyPass",
+      "side": "away",
+      "playerId": "2fd74179-e8e2-4358-a5cd-f4c917f6058e",
+      "ballPos": {
+        "x": 60,
+        "y": 25
+      }
+    },
+    {
+      "id": 46,
+      "minute": 81,
+      "half": 2,
+      "text": "81' — Tir non cadré de Hussein El-Amrani.",
+      "type": "shot",
+      "side": "home",
+      "playerId": "89a0086b-0ff0-489e-a845-ca7b750f7403",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 47,
+      "minute": 83,
+      "half": 2,
+      "text": "83' — Dribble réussi de Noureldeen Bilal !",
+      "type": "dribble",
+      "side": "home",
+      "playerId": "dc90057b-82df-4168-8204-a6e87d643d0a",
+      "ballPos": {
+        "x": 20,
+        "y": 25
+      }
+    },
+    {
+      "id": 48,
+      "minute": 83,
+      "half": 2,
+      "text": "🧤 83' — Belle parade de Issei Hasegawa.",
+      "type": "save",
+      "side": "away",
+      "playerId": "b3c886a5-f6d8-4cc1-af87-67e7874c0560",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 49,
+      "minute": 84,
+      "half": 2,
+      "text": "84' — Passe décisive de Yuma Taniguchi.",
+      "type": "keyPass",
+      "side": "away",
+      "playerId": "2fd74179-e8e2-4358-a5cd-f4c917f6058e",
+      "ballPos": {
+        "x": 60,
+        "y": 25
+      }
+    },
+    {
+      "id": 50,
+      "minute": 86,
+      "half": 2,
+      "text": "86' — Coup franc dangereux pour Empire Hussein (Hussein El-Amrani).",
+      "type": "freeKick",
+      "side": "home",
+      "playerId": "89a0086b-0ff0-489e-a845-ca7b750f7403",
+      "ballPos": {
+        "x": 20,
+        "y": 25
+      }
+    },
+    {
+      "id": 51,
+      "minute": 88,
+      "half": 2,
+      "text": "88' — Dégagement in extremis de Shota Fukuda.",
+      "type": "clearance",
+      "side": "away",
+      "playerId": "4d9d8343-9de6-4c51-8a34-9ebe6d04f5f5",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 52,
+      "minute": 89,
+      "half": 2,
+      "text": "89' — Passe décisive de Nordine Lounès.",
+      "type": "keyPass",
+      "side": "home",
+      "playerId": "935e4e9a-b8e6-4409-99ad-7f224f7b4593",
+      "ballPos": {
+        "x": 40,
+        "y": 25
+      }
+    },
+    {
+      "id": 53,
+      "minute": 91,
+      "half": 2,
+      "text": "91' — Dégagement in extremis de Amir Hassan.",
+      "type": "clearance",
+      "side": "home",
+      "playerId": "17ddb492-fc0b-4531-b55b-948928f486d3",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 54,
+      "minute": 92,
+      "half": 2,
+      "text": "92' — Passe décisive de Joji Ono.",
+      "type": "keyPass",
+      "side": "away",
+      "playerId": "2b79fca0-732f-4457-8e3c-3b91222949bd",
+      "ballPos": {
+        "x": 60,
+        "y": 25
+      }
+    },
+    {
+      "id": 55,
+      "minute": 90,
+      "half": 2,
+      "text": "⏱ Prolongations !",
+      "type": "extraTime",
+      "side": null,
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 56,
+      "minute": 101,
+      "half": 2,
+      "text": "🧤 101' — Belle parade de Mounir Salah.",
+      "type": "save",
+      "side": "home",
+      "playerId": "07aeab5b-061d-4600-8666-34b83f575da1",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 57,
+      "minute": 105,
+      "half": 2,
+      "text": "🧤 105' — Belle parade de Issei Hasegawa.",
+      "type": "save",
+      "side": "away",
+      "playerId": "b3c886a5-f6d8-4cc1-af87-67e7874c0560",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 58,
+      "minute": 106,
+      "half": 2,
+      "text": "Mi-temps.",
+      "type": "halftime",
+      "side": null,
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 59,
+      "minute": 107,
+      "half": 2,
+      "text": "107' — Passe décisive de Yuma Taniguchi.",
+      "type": "keyPass",
+      "side": "away",
+      "playerId": "2fd74179-e8e2-4358-a5cd-f4c917f6058e",
+      "ballPos": {
+        "x": 60,
+        "y": 25
+      }
+    },
+    {
+      "id": 60,
+      "minute": 109,
+      "half": 2,
+      "text": "109' — Faute de Nordine Lounès.",
+      "type": "foul",
+      "side": "home",
+      "playerId": "935e4e9a-b8e6-4409-99ad-7f224f7b4593",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 61,
+      "minute": 110,
+      "half": 2,
+      "text": "110' — Hors-jeu signalé contre Empire Hussein.",
+      "type": "offside",
+      "side": "home",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 62,
+      "minute": 111,
+      "half": 2,
+      "text": "111' — Passe décisive de Tetsuya Sakamoto.",
+      "type": "keyPass",
+      "side": "away",
+      "playerId": "c61749e6-b4d4-41c6-93c4-4a48ea6d2c18",
+      "ballPos": {
+        "x": 60,
+        "y": 25
+      }
+    },
+    {
+      "id": 63,
+      "minute": 114,
+      "half": 2,
+      "text": "114' — Faute de Riku Yoshida.",
+      "type": "foul",
+      "side": "away",
+      "playerId": "0791ea8d-0339-4b1a-8419-b9786e51daf1",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 64,
+      "minute": 114,
+      "half": 2,
+      "text": "🟥 114' — Riku Yoshida expulsé ! Yamatai à 10.",
+      "type": "red",
+      "side": "away",
+      "playerId": "0791ea8d-0339-4b1a-8419-b9786e51daf1",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 65,
+      "minute": 116,
+      "half": 2,
+      "text": "🧤 116' — Belle parade de Issei Hasegawa.",
+      "type": "save",
+      "side": "away",
+      "playerId": "b3c886a5-f6d8-4cc1-af87-67e7874c0560",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 66,
+      "minute": 118,
+      "half": 2,
+      "text": "118' — Passe décisive de Nordine Lounès.",
+      "type": "keyPass",
+      "side": "home",
+      "playerId": "935e4e9a-b8e6-4409-99ad-7f224f7b4593",
+      "ballPos": {
+        "x": 40,
+        "y": 25
+      }
+    },
+    {
+      "id": 67,
+      "minute": 119,
+      "half": 2,
+      "text": "119' — Passe décisive de Nordine Lounès.",
+      "type": "keyPass",
+      "side": "home",
+      "playerId": "935e4e9a-b8e6-4409-99ad-7f224f7b4593",
+      "ballPos": {
+        "x": 40,
+        "y": 25
+      }
+    },
+    {
+      "id": 68,
+      "minute": 122,
+      "half": 2,
+      "text": "122' — Dribble réussi de Tarek Hafez !",
+      "type": "dribble",
+      "side": "home",
+      "playerId": "1c999b90-da69-4d38-a0c2-b11dcd550957",
+      "ballPos": {
+        "x": 20,
+        "y": 25
+      }
+    },
+    {
+      "id": 69,
+      "minute": 123,
+      "half": 2,
+      "text": "123' — Tir non cadré de Joji Ono.",
+      "type": "shot",
+      "side": "away",
+      "playerId": "2b79fca0-732f-4457-8e3c-3b91222949bd",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 70,
+      "minute": 124,
+      "half": 2,
+      "type": "penalty",
+      "side": "home",
+      "playerId": "1c999b90-da69-4d38-a0c2-b11dcd550957",
+      "text": "🧤 TAB — Arrêté ! (0-0)",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 71,
+      "minute": 124,
+      "half": 2,
+      "type": "penalty",
+      "side": "away",
+      "playerId": "2fd74179-e8e2-4358-a5cd-f4c917f6058e",
+      "text": "🧤 TAB — Arrêté ! (0-0)",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 72,
+      "minute": 124,
+      "half": 2,
+      "type": "penalty",
+      "side": "home",
+      "playerId": "89a0086b-0ff0-489e-a845-ca7b750f7403",
+      "text": "🧤 TAB — Arrêté ! (0-0)",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 73,
+      "minute": 124,
+      "half": 2,
+      "type": "penalty",
+      "side": "away",
+      "playerId": "e43f8cb6-5b88-4154-ac5b-d1285f15d8f1",
+      "text": "🧤 TAB — Arrêté ! (0-0)",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 74,
+      "minute": 124,
+      "half": 2,
+      "type": "penalty",
+      "side": "home",
+      "playerId": "dc90057b-82df-4168-8204-a6e87d643d0a",
+      "text": "🧤 TAB — Arrêté ! (0-0)",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 75,
+      "minute": 124,
+      "half": 2,
+      "type": "penalty",
+      "side": "away",
+      "playerId": "2b79fca0-732f-4457-8e3c-3b91222949bd",
+      "text": "⚽ TAB — Yamatai marque ! (0-1)",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 76,
+      "minute": 124,
+      "half": 2,
+      "type": "penalty",
+      "side": "home",
+      "playerId": "89a0086b-0ff0-489e-a845-ca7b750f7403",
+      "text": "⚽ TAB — Empire Hussein marque ! (1-1)",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 77,
+      "minute": 124,
+      "half": 2,
+      "type": "penalty",
+      "side": "away",
+      "playerId": "2b79fca0-732f-4457-8e3c-3b91222949bd",
+      "text": "🧤 TAB — Arrêté ! (1-1)",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 78,
+      "minute": 124,
+      "half": 2,
+      "type": "penalty",
+      "side": "home",
+      "playerId": "89a0086b-0ff0-489e-a845-ca7b750f7403",
+      "text": "⚽ TAB — Empire Hussein marque ! (2-1)",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 79,
+      "minute": 124,
+      "half": 2,
+      "type": "penalty",
+      "side": "away",
+      "playerId": "2fd74179-e8e2-4358-a5cd-f4c917f6058e",
+      "text": "⚽ TAB — Yamatai marque ! (2-2)",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 80,
+      "minute": 124,
+      "half": 2,
+      "type": "penalty",
+      "side": "home",
+      "playerId": "89a0086b-0ff0-489e-a845-ca7b750f7403",
+      "text": "⚽ TAB — Empire Hussein marque ! (3-2)",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 81,
+      "minute": 124,
+      "half": 2,
+      "text": "Fin du match.",
+      "type": "fulltime",
+      "side": null,
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    }
+  ],
+  "finalScore": {
+    "home": 0,
+    "away": 0
+  }
+}
