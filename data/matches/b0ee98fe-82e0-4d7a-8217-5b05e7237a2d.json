@@ -1,0 +1,719 @@
+{
+  "id": "b0ee98fe-82e0-4d7a-8217-5b05e7237a2d",
+  "playedAt": "2026-06-20T13:42:45.933Z",
+  "speed": "2",
+  "home": {
+    "teamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+    "teamSlug": "yamatai",
+    "teamName": "Yamatai",
+    "formation": "5-4-1",
+    "lineup": [
+      "b3c886a5-f6d8-4cc1-af87-67e7874c0560",
+      "0791ea8d-0339-4b1a-8419-b9786e51daf1",
+      "4d9d8343-9de6-4c51-8a34-9ebe6d04f5f5",
+      "6c6476dd-5f03-4895-9352-34c51b380b94",
+      "03e2a802-190c-40e2-affe-80ca71c24012",
+      "2fd74179-e8e2-4358-a5cd-f4c917f6058e",
+      "e56b97d3-3fc9-4bf3-856c-882375508b72",
+      "c61749e6-b4d4-41c6-93c4-4a48ea6d2c18",
+      "e43f8cb6-5b88-4154-ac5b-d1285f15d8f1",
+      "a9ceb601-a7a5-4f70-ae19-ca68f99e0168",
+      "2b79fca0-732f-4457-8e3c-3b91222949bd"
+    ],
+    "score": 0,
+    "shots": 6,
+    "shotsOnTarget": 3,
+    "fouls": 3,
+    "yellows": [
+      "e56b97d3-3fc9-4bf3-856c-882375508b72"
+    ],
+    "reds": [],
+    "possession": 45
+  },
+  "away": {
+    "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
+    "teamSlug": "ccb",
+    "teamName": "CCB",
+    "formation": "3-4-1-2",
+    "lineup": [
+      "44e712fb-26e6-4278-9d9f-0de27edfe5d5",
+      "c0f12e8b-929e-4763-af2c-947b54ec973d",
+      "2bb42de2-8ff9-4e03-9a38-7b6e004ba097",
+      "4c1df5ee-4c61-454b-a817-1c24699e8f99",
+      "7c2053ae-79ce-4101-950e-ddb262ad7601",
+      "3485a9f3-c86e-4378-a689-d66274d56746",
+      "afb3247a-c91a-4352-9008-b30a1fb17733",
+      "abd4ab2b-9753-484d-aaf6-c0fa7a77ec2a",
+      "67059fa1-f80e-4ba9-818e-cd713dd00299",
+      "7c185c3b-b756-4e27-a573-b4ff397a3821",
+      "0b81ab16-beb5-4b65-bd06-525976aa8160"
+    ],
+    "score": 1,
+    "shots": 10,
+    "shotsOnTarget": 6,
+    "fouls": 5,
+    "yellows": [
+      "44e712fb-26e6-4278-9d9f-0de27edfe5d5"
+    ],
+    "reds": [],
+    "possession": 55
+  },
+  "events": [
+    {
+      "id": 1,
+      "minute": 1,
+      "half": 1,
+      "text": "1' — Coup d'envoi.",
+      "type": "kickoff",
+      "side": null,
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 2,
+      "minute": 2,
+      "half": 1,
+      "text": "🧤 2' — Belle parade de Issei Hasegawa.",
+      "type": "save",
+      "side": "home",
+      "playerId": "b3c886a5-f6d8-4cc1-af87-67e7874c0560",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 3,
+      "minute": 4,
+      "half": 1,
+      "text": "4' — Passe décisive de Tetsuya Sakamoto.",
+      "type": "keyPass",
+      "side": "home",
+      "playerId": "c61749e6-b4d4-41c6-93c4-4a48ea6d2c18",
+      "ballPos": {
+        "x": 40,
+        "y": 25
+      }
+    },
+    {
+      "id": 4,
+      "minute": 7,
+      "half": 1,
+      "text": "7' — Faute de Nathan Morin.",
+      "type": "foul",
+      "side": "away",
+      "playerId": "44e712fb-26e6-4278-9d9f-0de27edfe5d5",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 5,
+      "minute": 8,
+      "half": 1,
+      "text": "🧤 8' — Belle parade de Issei Hasegawa.",
+      "type": "save",
+      "side": "home",
+      "playerId": "b3c886a5-f6d8-4cc1-af87-67e7874c0560",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 6,
+      "minute": 9,
+      "half": 1,
+      "text": "⚽ 9' — But pour CCB ! Jean-Luc Garneau marque.",
+      "type": "goal",
+      "side": "away",
+      "playerId": "7c185c3b-b756-4e27-a573-b4ff397a3821",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 7,
+      "minute": 10,
+      "half": 1,
+      "text": "🧤 10' — Belle parade de Issei Hasegawa.",
+      "type": "save",
+      "side": "home",
+      "playerId": "b3c886a5-f6d8-4cc1-af87-67e7874c0560",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 8,
+      "minute": 13,
+      "half": 1,
+      "text": "13' — Passe décisive de Cédric Lévesque.",
+      "type": "keyPass",
+      "side": "away",
+      "playerId": "0b81ab16-beb5-4b65-bd06-525976aa8160",
+      "ballPos": {
+        "x": 60,
+        "y": 25
+      }
+    },
+    {
+      "id": 9,
+      "minute": 20,
+      "half": 1,
+      "text": "20' — Tir non cadré de Tetsuya Sakamoto.",
+      "type": "shot",
+      "side": "home",
+      "playerId": "c61749e6-b4d4-41c6-93c4-4a48ea6d2c18",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 10,
+      "minute": 28,
+      "half": 1,
+      "text": "🧤 28' — Belle parade de Issei Hasegawa.",
+      "type": "save",
+      "side": "home",
+      "playerId": "b3c886a5-f6d8-4cc1-af87-67e7874c0560",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 11,
+      "minute": 29,
+      "half": 1,
+      "text": "29' — Tir non cadré de Haruto Sakamoto.",
+      "type": "shot",
+      "side": "home",
+      "playerId": "e43f8cb6-5b88-4154-ac5b-d1285f15d8f1",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 12,
+      "minute": 31,
+      "half": 1,
+      "text": "31' — Faute de Kohei Okada.",
+      "type": "foul",
+      "side": "home",
+      "playerId": "670fc577-fdc6-4084-8673-05422213059c",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 13,
+      "minute": 32,
+      "half": 1,
+      "text": "32' — Passe décisive de Nash Wright.",
+      "type": "keyPass",
+      "side": "away",
+      "playerId": "67059fa1-f80e-4ba9-818e-cd713dd00299",
+      "ballPos": {
+        "x": 60,
+        "y": 25
+      }
+    },
+    {
+      "id": 14,
+      "minute": 33,
+      "half": 1,
+      "text": "33' — Tir non cadré de Jean-Luc Garneau.",
+      "type": "shot",
+      "side": "away",
+      "playerId": "7c185c3b-b756-4e27-a573-b4ff397a3821",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 15,
+      "minute": 35,
+      "half": 1,
+      "text": "35' — Passe décisive de Joji Ono.",
+      "type": "keyPass",
+      "side": "home",
+      "playerId": "2b79fca0-732f-4457-8e3c-3b91222949bd",
+      "ballPos": {
+        "x": 40,
+        "y": 25
+      }
+    },
+    {
+      "id": 16,
+      "minute": 37,
+      "half": 1,
+      "text": "37' — Passe décisive de Tetsuya Sakamoto.",
+      "type": "keyPass",
+      "side": "home",
+      "playerId": "c61749e6-b4d4-41c6-93c4-4a48ea6d2c18",
+      "ballPos": {
+        "x": 40,
+        "y": 25
+      }
+    },
+    {
+      "id": 17,
+      "minute": 39,
+      "half": 1,
+      "text": "39' — Hors-jeu signalé contre Yamatai.",
+      "type": "offside",
+      "side": "home",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 18,
+      "minute": 41,
+      "half": 1,
+      "text": "🧤 41' — Belle parade de Nathan Morin.",
+      "type": "save",
+      "side": "away",
+      "playerId": "44e712fb-26e6-4278-9d9f-0de27edfe5d5",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 19,
+      "minute": 45,
+      "half": 1,
+      "text": "45' — Corner pour CCB.",
+      "type": "corner",
+      "side": "away",
+      "ballPos": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "id": 20,
+      "minute": 47,
+      "half": 1,
+      "text": "47' — Dribble réussi de Joji Ono !",
+      "type": "dribble",
+      "side": "home",
+      "playerId": "2b79fca0-732f-4457-8e3c-3b91222949bd",
+      "ballPos": {
+        "x": 20,
+        "y": 25
+      }
+    },
+    {
+      "id": 21,
+      "minute": 49,
+      "half": 1,
+      "text": "49' — Dégagement in extremis de Riku Yoshida.",
+      "type": "clearance",
+      "side": "home",
+      "playerId": "0791ea8d-0339-4b1a-8419-b9786e51daf1",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 22,
+      "minute": 50,
+      "half": 1,
+      "text": "50' — Faute de Cédric Lévesque.",
+      "type": "foul",
+      "side": "away",
+      "playerId": "0b81ab16-beb5-4b65-bd06-525976aa8160",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 23,
+      "minute": 51,
+      "half": 1,
+      "text": "Mi-temps.",
+      "type": "halftime",
+      "side": null,
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 24,
+      "minute": 51,
+      "half": 1,
+      "text": "🔄 51' — Yamatai : Yuma Taniguchi ↔ Hideki Aoki.",
+      "type": "substitution",
+      "side": "home",
+      "playerId": "2fd74179-e8e2-4358-a5cd-f4c917f6058e",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 25,
+      "minute": 51,
+      "half": 1,
+      "text": "🔄 51' — Yamatai : Yasuhiro Kato ↔ Kohei Okada.",
+      "type": "substitution",
+      "side": "home",
+      "playerId": "e56b97d3-3fc9-4bf3-856c-882375508b72",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 26,
+      "minute": 51,
+      "half": 1,
+      "text": "🔄 51' — CCB : Sean Mitchell ↔ Chase Martinez.",
+      "type": "substitution",
+      "side": "away",
+      "playerId": "abd4ab2b-9753-484d-aaf6-c0fa7a77ec2a",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 27,
+      "minute": 51,
+      "half": 1,
+      "text": "🔄 51' — CCB : Jordan Mitchell ↔ Chase Clark.",
+      "type": "substitution",
+      "side": "away",
+      "playerId": "4c1df5ee-4c61-454b-a817-1c24699e8f99",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 28,
+      "minute": 47,
+      "half": 2,
+      "text": "47' — Corner pour CCB.",
+      "type": "corner",
+      "side": "away",
+      "ballPos": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "id": 29,
+      "minute": 50,
+      "half": 2,
+      "text": "50' — Tir non cadré de Cédric Lévesque.",
+      "type": "shot",
+      "side": "away",
+      "playerId": "0b81ab16-beb5-4b65-bd06-525976aa8160",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 30,
+      "minute": 59,
+      "half": 2,
+      "text": "59' — Faute de Yasuhiro Kato.",
+      "type": "foul",
+      "side": "home",
+      "playerId": "e56b97d3-3fc9-4bf3-856c-882375508b72",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 31,
+      "minute": 59,
+      "half": 2,
+      "text": "🟨 59' — Carton jaune pour Yasuhiro Kato (Yamatai).",
+      "type": "yellow",
+      "side": "home",
+      "playerId": "e56b97d3-3fc9-4bf3-856c-882375508b72",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 32,
+      "minute": 61,
+      "half": 2,
+      "text": "61' — Tir non cadré de Jean-Luc Garneau.",
+      "type": "shot",
+      "side": "away",
+      "playerId": "7c185c3b-b756-4e27-a573-b4ff397a3821",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 33,
+      "minute": 63,
+      "half": 2,
+      "text": "63' — Tir non cadré de Joji Ono.",
+      "type": "shot",
+      "side": "home",
+      "playerId": "2b79fca0-732f-4457-8e3c-3b91222949bd",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 34,
+      "minute": 64,
+      "half": 2,
+      "text": "64' — Corner pour CCB.",
+      "type": "corner",
+      "side": "away",
+      "ballPos": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "id": 35,
+      "minute": 65,
+      "half": 2,
+      "text": "🧤 65' — Belle parade de Issei Hasegawa.",
+      "type": "save",
+      "side": "home",
+      "playerId": "b3c886a5-f6d8-4cc1-af87-67e7874c0560",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 36,
+      "minute": 66,
+      "half": 2,
+      "text": "66' — Tir non cadré de Jean-Luc Garneau.",
+      "type": "shot",
+      "side": "away",
+      "playerId": "7c185c3b-b756-4e27-a573-b4ff397a3821",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 37,
+      "minute": 71,
+      "half": 2,
+      "text": "71' — Passe décisive de Joji Ono.",
+      "type": "keyPass",
+      "side": "home",
+      "playerId": "2b79fca0-732f-4457-8e3c-3b91222949bd",
+      "ballPos": {
+        "x": 40,
+        "y": 25
+      }
+    },
+    {
+      "id": 38,
+      "minute": 72,
+      "half": 2,
+      "text": "72' — Faute de Riku Yoshida.",
+      "type": "foul",
+      "side": "home",
+      "playerId": "0791ea8d-0339-4b1a-8419-b9786e51daf1",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 39,
+      "minute": 75,
+      "half": 2,
+      "text": "🔴 75' — Penalty pour Yamatai ! Joji Ono s'élance.",
+      "type": "penalty",
+      "side": "home",
+      "playerId": "2b79fca0-732f-4457-8e3c-3b91222949bd",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 40,
+      "minute": 75,
+      "half": 2,
+      "text": "⛔ 75' — Tetsuya Sakamoto touche le poteau !",
+      "type": "crossbar",
+      "side": "home",
+      "playerId": "c61749e6-b4d4-41c6-93c4-4a48ea6d2c18",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 41,
+      "minute": 77,
+      "half": 2,
+      "text": "77' — Faute de Nathan Morin.",
+      "type": "foul",
+      "side": "away",
+      "playerId": "44e712fb-26e6-4278-9d9f-0de27edfe5d5",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 42,
+      "minute": 77,
+      "half": 2,
+      "text": "🟨 77' — Carton jaune pour Nathan Morin (CCB).",
+      "type": "yellow",
+      "side": "away",
+      "playerId": "44e712fb-26e6-4278-9d9f-0de27edfe5d5",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 43,
+      "minute": 79,
+      "half": 2,
+      "text": "79' — Corner pour CCB.",
+      "type": "corner",
+      "side": "away",
+      "ballPos": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "id": 44,
+      "minute": 80,
+      "half": 2,
+      "text": "⛔ 80' — Tetsuya Sakamoto touche le poteau !",
+      "type": "crossbar",
+      "side": "home",
+      "playerId": "c61749e6-b4d4-41c6-93c4-4a48ea6d2c18",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 45,
+      "minute": 82,
+      "half": 2,
+      "text": "82' — Corner pour CCB.",
+      "type": "corner",
+      "side": "away",
+      "ballPos": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "id": 46,
+      "minute": 83,
+      "half": 2,
+      "text": "83' — Corner pour CCB.",
+      "type": "corner",
+      "side": "away",
+      "ballPos": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "id": 47,
+      "minute": 86,
+      "half": 2,
+      "text": "86' — Corner pour Yamatai.",
+      "type": "corner",
+      "side": "home",
+      "ballPos": {
+        "x": 100,
+        "y": 50
+      }
+    },
+    {
+      "id": 48,
+      "minute": 89,
+      "half": 2,
+      "text": "89' — Passe décisive de Joji Ono.",
+      "type": "keyPass",
+      "side": "home",
+      "playerId": "2b79fca0-732f-4457-8e3c-3b91222949bd",
+      "ballPos": {
+        "x": 40,
+        "y": 25
+      }
+    },
+    {
+      "id": 49,
+      "minute": 90,
+      "half": 2,
+      "text": "90' — Passe décisive de Haruto Sakamoto.",
+      "type": "keyPass",
+      "side": "home",
+      "playerId": "e43f8cb6-5b88-4154-ac5b-d1285f15d8f1",
+      "ballPos": {
+        "x": 40,
+        "y": 25
+      }
+    },
+    {
+      "id": 50,
+      "minute": 92,
+      "half": 2,
+      "text": "92' — Faute de Nathan Morin.",
+      "type": "foul",
+      "side": "away",
+      "playerId": "44e712fb-26e6-4278-9d9f-0de27edfe5d5",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 51,
+      "minute": 94,
+      "half": 2,
+      "text": "Fin du match.",
+      "type": "fulltime",
+      "side": null,
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    }
+  ],
+  "finalScore": {
+    "home": 0,
+    "away": 1
+  }
+}
