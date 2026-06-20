@@ -10,7 +10,7 @@
   "playerCount": 500,
   "formation": "4-3-3",
   "tactics": {
-    "style": "ultra-defensif",
+    "style": "chaos",
     "formation": "5-4-1",
     "lineup": [
       "b3c886a5-f6d8-4cc1-af87-67e7874c0560",
@@ -154,5 +154,5 @@
       "scoreAgainst": 1
     }
   ],
-  "publishedAt": "2026-06-20T13:26:51.829Z"
+  "publishedAt": "2026-06-20T13:44:43.298Z"
 }
