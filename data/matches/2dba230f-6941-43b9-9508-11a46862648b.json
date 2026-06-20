@@ -1,0 +1,1120 @@
+{
+  "id": "2dba230f-6941-43b9-9508-11a46862648b",
+  "playedAt": "2026-06-20T13:29:13.713Z",
+  "speed": "2",
+  "home": {
+    "teamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+    "teamSlug": "yamatai",
+    "teamName": "Yamatai",
+    "formation": "5-4-1",
+    "lineup": [
+      "b3c886a5-f6d8-4cc1-af87-67e7874c0560",
+      "0791ea8d-0339-4b1a-8419-b9786e51daf1",
+      "4d9d8343-9de6-4c51-8a34-9ebe6d04f5f5",
+      "6c6476dd-5f03-4895-9352-34c51b380b94",
+      "03e2a802-190c-40e2-affe-80ca71c24012",
+      "2fd74179-e8e2-4358-a5cd-f4c917f6058e",
+      "e56b97d3-3fc9-4bf3-856c-882375508b72",
+      "c61749e6-b4d4-41c6-93c4-4a48ea6d2c18",
+      "e43f8cb6-5b88-4154-ac5b-d1285f15d8f1",
+      "a9ceb601-a7a5-4f70-ae19-ca68f99e0168",
+      "2b79fca0-732f-4457-8e3c-3b91222949bd"
+    ],
+    "score": 0,
+    "shots": 6,
+    "shotsOnTarget": 3,
+    "fouls": 8,
+    "yellows": [
+      "4d9d8343-9de6-4c51-8a34-9ebe6d04f5f5"
+    ],
+    "reds": [],
+    "possession": 50
+  },
+  "away": {
+    "teamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+    "teamSlug": "spc",
+    "teamName": "SPC",
+    "formation": "5-4-1",
+    "lineup": [
+      "0663f1b8-69bb-449e-8716-a18823b621f5",
+      "2a40f2a8-21e7-4d78-a889-fce6f644ca00",
+      "d67a8844-1344-4fb1-8591-041530e2623c",
+      "56b5c9fc-f1bf-4162-a82c-24957496ec42",
+      "1eb6cdb3-28c8-4792-8b45-f820be065dd9",
+      "91d1ad6f-2a74-44d8-8cf9-276014c0fbdd",
+      "4ef345a9-c2fd-4920-ab92-5124797d4e7d",
+      "2caa7860-2d4a-42f0-a5cf-7763cd065ab7",
+      "4a9fc2df-0422-43e9-9335-7298cb4c0168",
+      "c8fb97c6-5a3d-4d8b-9ed0-57c81cccacd6",
+      "b922c816-b6dd-47bd-9306-89ee6209ae7d"
+    ],
+    "score": 0,
+    "shots": 7,
+    "shotsOnTarget": 6,
+    "fouls": 8,
+    "yellows": [
+      "d67a8844-1344-4fb1-8591-041530e2623c"
+    ],
+    "reds": [],
+    "possession": 50
+  },
+  "events": [
+    {
+      "id": 1,
+      "minute": 1,
+      "half": 1,
+      "text": "1' — Coup d'envoi.",
+      "type": "kickoff",
+      "side": null,
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 2,
+      "minute": 8,
+      "half": 1,
+      "text": "8' — Coup franc dangereux pour Yamatai (Joji Ono).",
+      "type": "freeKick",
+      "side": "home",
+      "playerId": "2b79fca0-732f-4457-8e3c-3b91222949bd",
+      "ballPos": {
+        "x": 20,
+        "y": 25
+      }
+    },
+    {
+      "id": 3,
+      "minute": 9,
+      "half": 1,
+      "text": "9' — Passe décisive de Joji Ono.",
+      "type": "keyPass",
+      "side": "home",
+      "playerId": "2b79fca0-732f-4457-8e3c-3b91222949bd",
+      "ballPos": {
+        "x": 40,
+        "y": 25
+      }
+    },
+    {
+      "id": 4,
+      "minute": 12,
+      "half": 1,
+      "text": "🔴 12' — Penalty pour Yamatai ! Haruto Sakamoto s'élance.",
+      "type": "penalty",
+      "side": "home",
+      "playerId": "e43f8cb6-5b88-4154-ac5b-d1285f15d8f1",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 5,
+      "minute": 12,
+      "half": 1,
+      "text": "12' — Tir non cadré de Joji Ono.",
+      "type": "shot",
+      "side": "home",
+      "playerId": "2b79fca0-732f-4457-8e3c-3b91222949bd",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 6,
+      "minute": 14,
+      "half": 1,
+      "text": "🧤 14' — Belle parade de Wen Fu.",
+      "type": "save",
+      "side": "away",
+      "playerId": "0663f1b8-69bb-449e-8716-a18823b621f5",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 7,
+      "minute": 17,
+      "half": 1,
+      "text": "🔴 17' — Penalty pour SPC ! Lei Luo s'élance.",
+      "type": "penalty",
+      "side": "away",
+      "playerId": "4a9fc2df-0422-43e9-9335-7298cb4c0168",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 8,
+      "minute": 17,
+      "half": 1,
+      "text": "🧤 17' — Belle parade de Issei Hasegawa.",
+      "type": "save",
+      "side": "home",
+      "playerId": "b3c886a5-f6d8-4cc1-af87-67e7874c0560",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 9,
+      "minute": 20,
+      "half": 1,
+      "text": "20' — Faute de Xiang Zhang.",
+      "type": "foul",
+      "side": "away",
+      "playerId": "d67a8844-1344-4fb1-8591-041530e2623c",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 10,
+      "minute": 24,
+      "half": 1,
+      "text": "24' — Tir non cadré de Joji Ono.",
+      "type": "shot",
+      "side": "home",
+      "playerId": "2b79fca0-732f-4457-8e3c-3b91222949bd",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 11,
+      "minute": 25,
+      "half": 1,
+      "text": "25' — Passe décisive de Lei Luo.",
+      "type": "keyPass",
+      "side": "away",
+      "playerId": "4a9fc2df-0422-43e9-9335-7298cb4c0168",
+      "ballPos": {
+        "x": 60,
+        "y": 25
+      }
+    },
+    {
+      "id": 12,
+      "minute": 27,
+      "half": 1,
+      "text": "27' — Corner pour Yamatai.",
+      "type": "corner",
+      "side": "home",
+      "ballPos": {
+        "x": 100,
+        "y": 50
+      }
+    },
+    {
+      "id": 13,
+      "minute": 27,
+      "half": 1,
+      "text": "27' — Coup de tête de Tetsuya Sakamoto.",
+      "type": "header",
+      "side": "home",
+      "playerId": "c61749e6-b4d4-41c6-93c4-4a48ea6d2c18",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 14,
+      "minute": 28,
+      "half": 1,
+      "text": "28' — Corner pour Yamatai.",
+      "type": "corner",
+      "side": "home",
+      "ballPos": {
+        "x": 100,
+        "y": 50
+      }
+    },
+    {
+      "id": 15,
+      "minute": 28,
+      "half": 1,
+      "text": "28' — Coup de tête de Haruto Sakamoto.",
+      "type": "header",
+      "side": "home",
+      "playerId": "e43f8cb6-5b88-4154-ac5b-d1285f15d8f1",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 16,
+      "minute": 29,
+      "half": 1,
+      "text": "29' — Passe décisive de Tian Cao.",
+      "type": "keyPass",
+      "side": "away",
+      "playerId": "2caa7860-2d4a-42f0-a5cf-7763cd065ab7",
+      "ballPos": {
+        "x": 60,
+        "y": 25
+      }
+    },
+    {
+      "id": 17,
+      "minute": 30,
+      "half": 1,
+      "text": "🧤 30' — Belle parade de Issei Hasegawa.",
+      "type": "save",
+      "side": "home",
+      "playerId": "b3c886a5-f6d8-4cc1-af87-67e7874c0560",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 18,
+      "minute": 34,
+      "half": 1,
+      "text": "🧤 34' — Belle parade de Wen Fu.",
+      "type": "save",
+      "side": "away",
+      "playerId": "0663f1b8-69bb-449e-8716-a18823b621f5",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 19,
+      "minute": 36,
+      "half": 1,
+      "text": "36' — Passe décisive de Lei Luo.",
+      "type": "keyPass",
+      "side": "away",
+      "playerId": "4a9fc2df-0422-43e9-9335-7298cb4c0168",
+      "ballPos": {
+        "x": 60,
+        "y": 25
+      }
+    },
+    {
+      "id": 20,
+      "minute": 37,
+      "half": 1,
+      "text": "37' — Faute de Shota Fukuda.",
+      "type": "foul",
+      "side": "home",
+      "playerId": "4d9d8343-9de6-4c51-8a34-9ebe6d04f5f5",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 21,
+      "minute": 37,
+      "half": 1,
+      "text": "🟨 37' — Carton jaune pour Shota Fukuda (Yamatai).",
+      "type": "yellow",
+      "side": "home",
+      "playerId": "4d9d8343-9de6-4c51-8a34-9ebe6d04f5f5",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 22,
+      "minute": 44,
+      "half": 1,
+      "text": "44' — Coup franc dangereux pour Yamatai (Tetsuya Sakamoto).",
+      "type": "freeKick",
+      "side": "home",
+      "playerId": "c61749e6-b4d4-41c6-93c4-4a48ea6d2c18",
+      "ballPos": {
+        "x": 20,
+        "y": 25
+      }
+    },
+    {
+      "id": 23,
+      "minute": 46,
+      "half": 1,
+      "text": "46' — Faute de Riku Yoshida.",
+      "type": "foul",
+      "side": "home",
+      "playerId": "0791ea8d-0339-4b1a-8419-b9786e51daf1",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 24,
+      "minute": 47,
+      "half": 1,
+      "text": "Mi-temps.",
+      "type": "halftime",
+      "side": null,
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 25,
+      "minute": 47,
+      "half": 1,
+      "text": "🔄 47' — Yamatai : Yuma Taniguchi ↔ Hideki Aoki.",
+      "type": "substitution",
+      "side": "home",
+      "playerId": "2fd74179-e8e2-4358-a5cd-f4c917f6058e",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 26,
+      "minute": 47,
+      "half": 1,
+      "text": "🔄 47' — Yamatai : Yasuhiro Kato ↔ Kohei Okada.",
+      "type": "substitution",
+      "side": "home",
+      "playerId": "e56b97d3-3fc9-4bf3-856c-882375508b72",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 27,
+      "minute": 47,
+      "half": 1,
+      "text": "🔄 47' — SPC : Ping Cai ↔ Ping Gao.",
+      "type": "substitution",
+      "side": "away",
+      "playerId": "2a40f2a8-21e7-4d78-a889-fce6f644ca00",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 28,
+      "minute": 47,
+      "half": 1,
+      "text": "🔄 47' — SPC : Ran Tian ↔ De Liang.",
+      "type": "substitution",
+      "side": "away",
+      "playerId": "1eb6cdb3-28c8-4792-8b45-f820be065dd9",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 29,
+      "minute": 47,
+      "half": 2,
+      "text": "47' — Passe décisive de Ping Cai.",
+      "type": "keyPass",
+      "side": "away",
+      "playerId": "2a40f2a8-21e7-4d78-a889-fce6f644ca00",
+      "ballPos": {
+        "x": 60,
+        "y": 25
+      }
+    },
+    {
+      "id": 30,
+      "minute": 52,
+      "half": 2,
+      "text": "52' — Faute de Ping Cai.",
+      "type": "foul",
+      "side": "away",
+      "playerId": "2a40f2a8-21e7-4d78-a889-fce6f644ca00",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 31,
+      "minute": 53,
+      "half": 2,
+      "text": "53' — Corner pour SPC.",
+      "type": "corner",
+      "side": "away",
+      "ballPos": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "id": 32,
+      "minute": 56,
+      "half": 2,
+      "text": "56' — Passe décisive de Haruto Sakamoto.",
+      "type": "keyPass",
+      "side": "home",
+      "playerId": "e43f8cb6-5b88-4154-ac5b-d1285f15d8f1",
+      "ballPos": {
+        "x": 40,
+        "y": 25
+      }
+    },
+    {
+      "id": 33,
+      "minute": 57,
+      "half": 2,
+      "text": "57' — Passe décisive de Yuma Taniguchi.",
+      "type": "keyPass",
+      "side": "home",
+      "playerId": "2fd74179-e8e2-4358-a5cd-f4c917f6058e",
+      "ballPos": {
+        "x": 40,
+        "y": 25
+      }
+    },
+    {
+      "id": 34,
+      "minute": 58,
+      "half": 2,
+      "text": "58' — Passe décisive de Yuma Taniguchi.",
+      "type": "keyPass",
+      "side": "home",
+      "playerId": "2fd74179-e8e2-4358-a5cd-f4c917f6058e",
+      "ballPos": {
+        "x": 40,
+        "y": 25
+      }
+    },
+    {
+      "id": 35,
+      "minute": 59,
+      "half": 2,
+      "text": "59' — Faute de Masaki Yamada.",
+      "type": "foul",
+      "side": "home",
+      "playerId": "03e2a802-190c-40e2-affe-80ca71c24012",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 36,
+      "minute": 60,
+      "half": 2,
+      "text": "60' — Hors-jeu signalé contre Yamatai.",
+      "type": "offside",
+      "side": "home",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 37,
+      "minute": 61,
+      "half": 2,
+      "text": "61' — Hors-jeu signalé contre Yamatai.",
+      "type": "offside",
+      "side": "home",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 38,
+      "minute": 62,
+      "half": 2,
+      "text": "62' — Coup franc dangereux pour SPC (Ping Cai).",
+      "type": "freeKick",
+      "side": "away",
+      "playerId": "2a40f2a8-21e7-4d78-a889-fce6f644ca00",
+      "ballPos": {
+        "x": 80,
+        "y": 25
+      }
+    },
+    {
+      "id": 39,
+      "minute": 64,
+      "half": 2,
+      "text": "64' — Passe décisive de Yuma Taniguchi.",
+      "type": "keyPass",
+      "side": "home",
+      "playerId": "2fd74179-e8e2-4358-a5cd-f4c917f6058e",
+      "ballPos": {
+        "x": 40,
+        "y": 25
+      }
+    },
+    {
+      "id": 40,
+      "minute": 65,
+      "half": 2,
+      "text": "65' — Faute de Feng Luo.",
+      "type": "foul",
+      "side": "away",
+      "playerId": "91d1ad6f-2a74-44d8-8cf9-276014c0fbdd",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 41,
+      "minute": 67,
+      "half": 2,
+      "text": "67' — Corner pour SPC.",
+      "type": "corner",
+      "side": "away",
+      "ballPos": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "id": 42,
+      "minute": 68,
+      "half": 2,
+      "text": "68' — Faute de Xiang Zhang.",
+      "type": "foul",
+      "side": "away",
+      "playerId": "d67a8844-1344-4fb1-8591-041530e2623c",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 43,
+      "minute": 69,
+      "half": 2,
+      "text": "69' — Passe décisive de Joji Ono.",
+      "type": "keyPass",
+      "side": "home",
+      "playerId": "2b79fca0-732f-4457-8e3c-3b91222949bd",
+      "ballPos": {
+        "x": 40,
+        "y": 25
+      }
+    },
+    {
+      "id": 44,
+      "minute": 71,
+      "half": 2,
+      "text": "71' — Corner pour Yamatai.",
+      "type": "corner",
+      "side": "home",
+      "ballPos": {
+        "x": 100,
+        "y": 50
+      }
+    },
+    {
+      "id": 45,
+      "minute": 71,
+      "half": 2,
+      "text": "71' — Coup de tête de Joji Ono.",
+      "type": "header",
+      "side": "home",
+      "playerId": "2b79fca0-732f-4457-8e3c-3b91222949bd",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 46,
+      "minute": 74,
+      "half": 2,
+      "text": "74' — Coup franc dangereux pour SPC (Ran Tian).",
+      "type": "freeKick",
+      "side": "away",
+      "playerId": "1eb6cdb3-28c8-4792-8b45-f820be065dd9",
+      "ballPos": {
+        "x": 80,
+        "y": 25
+      }
+    },
+    {
+      "id": 47,
+      "minute": 74,
+      "half": 2,
+      "text": "74' — Tir non cadré de Ping Cai.",
+      "type": "shot",
+      "side": "away",
+      "playerId": "2a40f2a8-21e7-4d78-a889-fce6f644ca00",
+      "ballPos": {
+        "x": 80,
+        "y": 25
+      }
+    },
+    {
+      "id": 48,
+      "minute": 75,
+      "half": 2,
+      "text": "75' — Dribble réussi de Yang Wu !",
+      "type": "dribble",
+      "side": "away",
+      "playerId": "b922c816-b6dd-47bd-9306-89ee6209ae7d",
+      "ballPos": {
+        "x": 80,
+        "y": 25
+      }
+    },
+    {
+      "id": 49,
+      "minute": 79,
+      "half": 2,
+      "text": "79' — Coup franc dangereux pour SPC (Yang Wu).",
+      "type": "freeKick",
+      "side": "away",
+      "playerId": "b922c816-b6dd-47bd-9306-89ee6209ae7d",
+      "ballPos": {
+        "x": 80,
+        "y": 25
+      }
+    },
+    {
+      "id": 50,
+      "minute": 79,
+      "half": 2,
+      "text": "🧤 79' — Belle parade de Issei Hasegawa.",
+      "type": "save",
+      "side": "home",
+      "playerId": "b3c886a5-f6d8-4cc1-af87-67e7874c0560",
+      "ballPos": {
+        "x": 80,
+        "y": 25
+      }
+    },
+    {
+      "id": 51,
+      "minute": 80,
+      "half": 2,
+      "text": "80' — Faute de Riku Yoshida.",
+      "type": "foul",
+      "side": "home",
+      "playerId": "0791ea8d-0339-4b1a-8419-b9786e51daf1",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 52,
+      "minute": 83,
+      "half": 2,
+      "text": "83' — Passe décisive de Yang Wu.",
+      "type": "keyPass",
+      "side": "away",
+      "playerId": "b922c816-b6dd-47bd-9306-89ee6209ae7d",
+      "ballPos": {
+        "x": 60,
+        "y": 25
+      }
+    },
+    {
+      "id": 53,
+      "minute": 85,
+      "half": 2,
+      "text": "🧤 85' — Belle parade de Issei Hasegawa.",
+      "type": "save",
+      "side": "home",
+      "playerId": "b3c886a5-f6d8-4cc1-af87-67e7874c0560",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 54,
+      "minute": 88,
+      "half": 2,
+      "text": "🔴 88' — Penalty pour SPC ! Ran Tian s'élance.",
+      "type": "penalty",
+      "side": "away",
+      "playerId": "1eb6cdb3-28c8-4792-8b45-f820be065dd9",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 55,
+      "minute": 88,
+      "half": 2,
+      "text": "🧤 88' — Belle parade de Issei Hasegawa.",
+      "type": "save",
+      "side": "home",
+      "playerId": "b3c886a5-f6d8-4cc1-af87-67e7874c0560",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 56,
+      "minute": 91,
+      "half": 2,
+      "text": "91' — Faute de Xiang Zhang.",
+      "type": "foul",
+      "side": "away",
+      "playerId": "d67a8844-1344-4fb1-8591-041530e2623c",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 57,
+      "minute": 91,
+      "half": 2,
+      "text": "🟨 91' — Carton jaune pour Xiang Zhang (SPC).",
+      "type": "yellow",
+      "side": "away",
+      "playerId": "d67a8844-1344-4fb1-8591-041530e2623c",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 58,
+      "minute": 90,
+      "half": 2,
+      "text": "⏱ Prolongations !",
+      "type": "extraTime",
+      "side": null,
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 59,
+      "minute": 93,
+      "half": 2,
+      "text": "93' — Faute de Xiang Zhang.",
+      "type": "foul",
+      "side": "away",
+      "playerId": "d67a8844-1344-4fb1-8591-041530e2623c",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 60,
+      "minute": 95,
+      "half": 2,
+      "text": "95' — Corner pour SPC.",
+      "type": "corner",
+      "side": "away",
+      "ballPos": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "id": 61,
+      "minute": 96,
+      "half": 2,
+      "text": "96' — Faute de Feng Luo.",
+      "type": "foul",
+      "side": "away",
+      "playerId": "91d1ad6f-2a74-44d8-8cf9-276014c0fbdd",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 62,
+      "minute": 98,
+      "half": 2,
+      "text": "98' — Faute de Yasuhiro Kato.",
+      "type": "foul",
+      "side": "home",
+      "playerId": "e56b97d3-3fc9-4bf3-856c-882375508b72",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 63,
+      "minute": 101,
+      "half": 2,
+      "text": "101' — Passe décisive de Tetsuya Sakamoto.",
+      "type": "keyPass",
+      "side": "home",
+      "playerId": "c61749e6-b4d4-41c6-93c4-4a48ea6d2c18",
+      "ballPos": {
+        "x": 40,
+        "y": 25
+      }
+    },
+    {
+      "id": 64,
+      "minute": 102,
+      "half": 2,
+      "text": "102' — Passe décisive de Ping Cai.",
+      "type": "keyPass",
+      "side": "away",
+      "playerId": "2a40f2a8-21e7-4d78-a889-fce6f644ca00",
+      "ballPos": {
+        "x": 60,
+        "y": 25
+      }
+    },
+    {
+      "id": 65,
+      "minute": 106,
+      "half": 2,
+      "text": "Mi-temps.",
+      "type": "halftime",
+      "side": null,
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 66,
+      "minute": 111,
+      "half": 2,
+      "text": "111' — Dégagement in extremis de Ichiro Saito.",
+      "type": "clearance",
+      "side": "home",
+      "playerId": "6c6476dd-5f03-4895-9352-34c51b380b94",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 67,
+      "minute": 114,
+      "half": 2,
+      "text": "114' — Tir non cadré de Yuma Taniguchi.",
+      "type": "shot",
+      "side": "home",
+      "playerId": "2fd74179-e8e2-4358-a5cd-f4c917f6058e",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 68,
+      "minute": 116,
+      "half": 2,
+      "text": "116' — Coup franc dangereux pour SPC (Ping Cai).",
+      "type": "freeKick",
+      "side": "away",
+      "playerId": "2a40f2a8-21e7-4d78-a889-fce6f644ca00",
+      "ballPos": {
+        "x": 80,
+        "y": 25
+      }
+    },
+    {
+      "id": 69,
+      "minute": 116,
+      "half": 2,
+      "text": "🧤 116' — Belle parade de Issei Hasegawa.",
+      "type": "save",
+      "side": "home",
+      "playerId": "b3c886a5-f6d8-4cc1-af87-67e7874c0560",
+      "ballPos": {
+        "x": 80,
+        "y": 25
+      }
+    },
+    {
+      "id": 70,
+      "minute": 117,
+      "half": 2,
+      "text": "🧤 117' — Belle parade de Wen Fu.",
+      "type": "save",
+      "side": "away",
+      "playerId": "0663f1b8-69bb-449e-8716-a18823b621f5",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 71,
+      "minute": 119,
+      "half": 2,
+      "text": "119' — Faute de Ichiro Saito.",
+      "type": "foul",
+      "side": "home",
+      "playerId": "6c6476dd-5f03-4895-9352-34c51b380b94",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 72,
+      "minute": 124,
+      "half": 2,
+      "type": "penalty",
+      "side": "home",
+      "playerId": "2fd74179-e8e2-4358-a5cd-f4c917f6058e",
+      "text": "⚽ TAB — Yamatai marque ! (1-0)",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 73,
+      "minute": 124,
+      "half": 2,
+      "type": "penalty",
+      "side": "away",
+      "playerId": "1eb6cdb3-28c8-4792-8b45-f820be065dd9",
+      "text": "⚽ TAB — SPC marque ! (1-1)",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 74,
+      "minute": 124,
+      "half": 2,
+      "type": "penalty",
+      "side": "home",
+      "playerId": "2b79fca0-732f-4457-8e3c-3b91222949bd",
+      "text": "🧤 TAB — Arrêté ! (1-1)",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 75,
+      "minute": 124,
+      "half": 2,
+      "type": "penalty",
+      "side": "away",
+      "playerId": "1eb6cdb3-28c8-4792-8b45-f820be065dd9",
+      "text": "⚽ TAB — SPC marque ! (1-2)",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 76,
+      "minute": 124,
+      "half": 2,
+      "type": "penalty",
+      "side": "home",
+      "playerId": "c61749e6-b4d4-41c6-93c4-4a48ea6d2c18",
+      "text": "⚽ TAB — Yamatai marque ! (2-2)",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 77,
+      "minute": 124,
+      "half": 2,
+      "type": "penalty",
+      "side": "away",
+      "playerId": "2a40f2a8-21e7-4d78-a889-fce6f644ca00",
+      "text": "🧤 TAB — Arrêté ! (2-2)",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 78,
+      "minute": 124,
+      "half": 2,
+      "type": "penalty",
+      "side": "home",
+      "playerId": "2fd74179-e8e2-4358-a5cd-f4c917f6058e",
+      "text": "🧤 TAB — Arrêté ! (2-2)",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 79,
+      "minute": 124,
+      "half": 2,
+      "type": "penalty",
+      "side": "away",
+      "playerId": "4a9fc2df-0422-43e9-9335-7298cb4c0168",
+      "text": "⚽ TAB — SPC marque ! (2-3)",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 80,
+      "minute": 124,
+      "half": 2,
+      "type": "penalty",
+      "side": "home",
+      "playerId": "e43f8cb6-5b88-4154-ac5b-d1285f15d8f1",
+      "text": "🧤 TAB — Arrêté ! (2-3)",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 81,
+      "minute": 124,
+      "half": 2,
+      "type": "penalty",
+      "side": "away",
+      "playerId": "b922c816-b6dd-47bd-9306-89ee6209ae7d",
+      "text": "⚽ TAB — SPC marque ! (2-4)",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 82,
+      "minute": 124,
+      "half": 2,
+      "text": "Fin du match.",
+      "type": "fulltime",
+      "side": null,
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    }
+  ],
+  "finalScore": {
+    "home": 0,
+    "away": 0
+  }
+}
