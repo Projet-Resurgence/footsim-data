@@ -1,5 +1,13 @@
 [
   {
+    "id": "a9iyqrwekswmqmhacoi",
+    "name": "Coupe des Nations",
+    "format": "groups_knockout",
+    "status": "ongoing",
+    "teamCount": 8,
+    "createdAt": "2026-06-20T14:54:03.187Z"
+  },
+  {
     "id": "b6s674oxdnmqmh8689",
     "name": "Championnat des Nations",
     "format": "league",
