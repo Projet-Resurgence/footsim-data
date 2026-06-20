@@ -17,5 +17,16 @@
     }
   ],
   "continent": "europe",
-  "publishedAt": "2026-06-14T12:43:15.735Z"
+  "publishedAt": "2026-06-14T12:43:15.735Z",
+  "recentMatches": [
+    {
+      "matchId": "90affd96-10ea-40d0-890a-0f9680e670a0",
+      "playedAt": "2026-06-20T15:17:29.079Z",
+      "opponentSlug": "ccb",
+      "opponentName": "CCB",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 3
+    }
+  ]
 }
