@@ -1,5 +1,13 @@
 [
   {
+    "id": "vszhctafmkfmqmijaa6",
+    "name": "Ligue des Nations",
+    "format": "league",
+    "status": "ongoing",
+    "teamCount": 10,
+    "createdAt": "2026-06-20T15:28:59.599Z"
+  },
+  {
     "id": "r4w8qc4w0zfmqmgidcx",
     "name": "éi'pdf",
     "format": "groups_knockout",
