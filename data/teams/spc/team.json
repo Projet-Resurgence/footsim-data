@@ -35,5 +35,16 @@
       "c8fb97c6-5a3d-4d8b-9ed0-57c81cccacd6",
       "b922c816-b6dd-47bd-9306-89ee6209ae7d"
     ]
-  }
+  },
+  "recentMatches": [
+    {
+      "matchId": "2dba230f-6941-43b9-9508-11a46862648b",
+      "playedAt": "2026-06-20T13:29:13.713Z",
+      "opponentSlug": "yamatai",
+      "opponentName": "Yamatai",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 0
+    }
+  ]
 }
