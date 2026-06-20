@@ -30,6 +30,15 @@
   "publishedAt": "2026-06-20T18:42:31.033Z",
   "recentMatches": [
     {
+      "matchId": "f4ba5acc-38f9-434d-a204-e68f1d9c7124",
+      "playedAt": "2026-06-20T18:48:01.068Z",
+      "opponentSlug": "antioche",
+      "opponentName": "Antioche",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 0
+    },
+    {
       "matchId": "e96d81ed-8ef5-4d6c-a4a0-32635ab56eb7",
       "playedAt": "2026-06-20T18:46:51.422Z",
       "opponentSlug": "fclc",
