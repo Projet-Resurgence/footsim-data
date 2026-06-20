@@ -42,6 +42,15 @@
   },
   "recentMatches": [
     {
+      "matchId": "90affd96-10ea-40d0-890a-0f9680e670a0",
+      "playedAt": "2026-06-20T15:17:29.079Z",
+      "opponentSlug": "5eme-internationale",
+      "opponentName": "5ème Internationale",
+      "homeAway": "home",
+      "scoreFor": 3,
+      "scoreAgainst": 1
+    },
+    {
       "matchId": "f251a9c7-b202-414b-b960-03d770cafc7c",
       "playedAt": "2026-06-20T14:07:31.738Z",
       "opponentSlug": "yamatai",
