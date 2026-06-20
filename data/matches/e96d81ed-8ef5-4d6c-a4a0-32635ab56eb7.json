@@ -1,0 +1,915 @@
+{
+  "id": "e96d81ed-8ef5-4d6c-a4a0-32635ab56eb7",
+  "playedAt": "2026-06-20T18:46:51.422Z",
+  "speed": "5",
+  "home": {
+    "teamId": "110159bd-411c-409a-ba07-95216b092ba4",
+    "teamSlug": "ugp",
+    "teamName": "UGP",
+    "formation": "4-3-3",
+    "lineup": [
+      "88d6cf70-fc34-479f-8572-d789499e1984",
+      "46274d60-60cb-4d62-b5ba-063a08adda21",
+      "edd4bb45-d83c-4421-8f10-63bba4605082",
+      "63cba1c6-27e5-4311-91d8-92b5f3fde740",
+      "c0b175e4-3ae0-4184-9118-b1c25aef5498",
+      "442b01e6-c161-4845-8c2b-3261255abcdb",
+      "28caef8a-9b7f-4bae-a15b-b534c7bb14af",
+      "720e2681-c6f2-46e5-b610-9604d3a9e92c",
+      "c6663d52-24a7-4d5a-aaea-b02fd24652d6",
+      "4afb61be-9f6f-4aba-80c9-ef35bf54158f"
+    ],
+    "score": 4,
+    "shots": 8,
+    "shotsOnTarget": 6,
+    "fouls": 11,
+    "yellows": [
+      "88a0a7bc-90fd-407d-adc0-7c8d3a2e837d",
+      "88d6cf70-fc34-479f-8572-d789499e1984"
+    ],
+    "reds": [
+      "88a0a7bc-90fd-407d-adc0-7c8d3a2e837d"
+    ],
+    "possession": 56
+  },
+  "away": {
+    "teamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+    "teamSlug": "fclc",
+    "teamName": "FCLC",
+    "formation": "4-3-2-1",
+    "lineup": [
+      "2495dbfd-b6c9-4f52-9f81-a4d0a0ae4516",
+      "09450d41-e046-49ca-b7e3-18a888fdbaff",
+      "f7316f69-a58e-4178-94a8-4ed4f00d4757",
+      "d2fb304f-c2d2-4081-a61a-c098ba0f78d2",
+      "34913eb7-c685-47f4-9276-331f470037f2",
+      "7df52e8f-e721-4741-bab7-cb348e9dcc68",
+      "d3b5a343-9d58-4042-bc2e-6887f348fb0e",
+      "903ec461-2eb8-440f-bdfd-229bf9be85ed",
+      "1e3a0a8c-ae55-480c-a424-3d472cbdd381",
+      "07c3f9ca-f46a-4d28-a059-6dc2e307d4ea",
+      "615e72dc-30d8-4bc1-b273-749fc52b8322"
+    ],
+    "score": 1,
+    "shots": 9,
+    "shotsOnTarget": 5,
+    "fouls": 0,
+    "yellows": [],
+    "reds": [],
+    "possession": 44
+  },
+  "events": [
+    {
+      "id": 1,
+      "minute": 1,
+      "half": 1,
+      "text": "1' — Coup d'envoi.",
+      "type": "kickoff",
+      "side": null,
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 2,
+      "minute": 2,
+      "half": 1,
+      "text": "⛔ 2' — Tomás Romero touche le poteau !",
+      "type": "crossbar",
+      "side": "away",
+      "playerId": "34913eb7-c685-47f4-9276-331f470037f2",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 3,
+      "minute": 3,
+      "half": 1,
+      "text": "3' — Corner pour UGP.",
+      "type": "corner",
+      "side": "home",
+      "ballPos": {
+        "x": 100,
+        "y": 50
+      }
+    },
+    {
+      "id": 4,
+      "minute": 3,
+      "half": 1,
+      "text": "3' — Coup de tête de Marcello Bruno.",
+      "type": "header",
+      "side": "home",
+      "playerId": "c0b175e4-3ae0-4184-9118-b1c25aef5498",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 5,
+      "minute": 4,
+      "half": 1,
+      "text": "4' — Corner pour FCLC.",
+      "type": "corner",
+      "side": "away",
+      "ballPos": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "id": 6,
+      "minute": 7,
+      "half": 1,
+      "text": "7' — Coup franc dangereux pour UGP (Davide Mancini).",
+      "type": "freeKick",
+      "side": "home",
+      "playerId": "720e2681-c6f2-46e5-b610-9604d3a9e92c",
+      "ballPos": {
+        "x": 20,
+        "y": 25
+      }
+    },
+    {
+      "id": 7,
+      "minute": 7,
+      "half": 1,
+      "text": "⛔ 7' — Gennaro Bruno touche le poteau !",
+      "type": "crossbar",
+      "side": "home",
+      "playerId": "564a4ebb-d2a7-4bd7-aa86-1f52b9d7e446",
+      "ballPos": {
+        "x": 20,
+        "y": 25
+      }
+    },
+    {
+      "id": 8,
+      "minute": 11,
+      "half": 1,
+      "text": "11' — Passe clé de Marcello Bruno.",
+      "type": "keyPass",
+      "side": "home",
+      "playerId": "c0b175e4-3ae0-4184-9118-b1c25aef5498",
+      "ballPos": {
+        "x": 40,
+        "y": 25
+      }
+    },
+    {
+      "id": 9,
+      "minute": 12,
+      "half": 1,
+      "text": "12' — Faute de Italo Rizzi.",
+      "type": "foul",
+      "side": "home",
+      "playerId": "88d6cf70-fc34-479f-8572-d789499e1984",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 10,
+      "minute": 13,
+      "half": 1,
+      "text": "13' — Passe clé de Tomás Romero.",
+      "type": "keyPass",
+      "side": "away",
+      "playerId": "34913eb7-c685-47f4-9276-331f470037f2",
+      "ballPos": {
+        "x": 60,
+        "y": 25
+      }
+    },
+    {
+      "id": 11,
+      "minute": 15,
+      "half": 1,
+      "text": "15' — Faute de Italo Rizzi.",
+      "type": "foul",
+      "side": "home",
+      "playerId": "88d6cf70-fc34-479f-8572-d789499e1984",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 12,
+      "minute": 16,
+      "half": 1,
+      "text": "16' — Passe clé de Gennaro Bruno.",
+      "type": "keyPass",
+      "side": "home",
+      "playerId": "564a4ebb-d2a7-4bd7-aa86-1f52b9d7e446",
+      "ballPos": {
+        "x": 40,
+        "y": 25
+      }
+    },
+    {
+      "id": 13,
+      "minute": 17,
+      "half": 1,
+      "text": "17' — Faute de Leonardo Grasso.",
+      "type": "foul",
+      "side": "home",
+      "playerId": "88a0a7bc-90fd-407d-adc0-7c8d3a2e837d",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 14,
+      "minute": 19,
+      "half": 1,
+      "text": "19' — Tir non cadré de Marcello Bruno.",
+      "type": "shot",
+      "side": "home",
+      "playerId": "c0b175e4-3ae0-4184-9118-b1c25aef5498",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 15,
+      "minute": 20,
+      "half": 1,
+      "text": "20' — Coup franc dangereux pour UGP (Gennaro Bruno).",
+      "type": "freeKick",
+      "side": "home",
+      "playerId": "564a4ebb-d2a7-4bd7-aa86-1f52b9d7e446",
+      "ballPos": {
+        "x": 20,
+        "y": 25
+      }
+    },
+    {
+      "id": 16,
+      "minute": 21,
+      "half": 1,
+      "text": "21' — Corner pour UGP.",
+      "type": "corner",
+      "side": "home",
+      "ballPos": {
+        "x": 100,
+        "y": 50
+      }
+    },
+    {
+      "id": 17,
+      "minute": 21,
+      "half": 1,
+      "text": "21' — Coup de tête de Samuele De Angelis.",
+      "type": "header",
+      "side": "home",
+      "playerId": "c6663d52-24a7-4d5a-aaea-b02fd24652d6",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 18,
+      "minute": 23,
+      "half": 1,
+      "text": "23' — Faute de Italo Rizzi.",
+      "type": "foul",
+      "side": "home",
+      "playerId": "88d6cf70-fc34-479f-8572-d789499e1984",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 19,
+      "minute": 24,
+      "half": 1,
+      "text": "⚽ 24' — But pour UGP ! Samuele De Angelis marque.",
+      "type": "goal",
+      "side": "home",
+      "playerId": "c6663d52-24a7-4d5a-aaea-b02fd24652d6",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 20,
+      "minute": 27,
+      "half": 1,
+      "text": "27' — Faute de Italo Rizzi.",
+      "type": "foul",
+      "side": "home",
+      "playerId": "88d6cf70-fc34-479f-8572-d789499e1984",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 21,
+      "minute": 28,
+      "half": 1,
+      "text": "28' — Faute de Leonardo Grasso.",
+      "type": "foul",
+      "side": "home",
+      "playerId": "88a0a7bc-90fd-407d-adc0-7c8d3a2e837d",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 22,
+      "minute": 28,
+      "half": 1,
+      "text": "🟨 28' — Carton jaune pour Leonardo Grasso (UGP).",
+      "type": "yellow",
+      "side": "home",
+      "playerId": "88a0a7bc-90fd-407d-adc0-7c8d3a2e837d",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 23,
+      "minute": 31,
+      "half": 1,
+      "text": "31' — Faute de Leonardo Grasso.",
+      "type": "foul",
+      "side": "home",
+      "playerId": "88a0a7bc-90fd-407d-adc0-7c8d3a2e837d",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 24,
+      "minute": 31,
+      "half": 1,
+      "text": "🟥 31' — Leonardo Grasso expulsé ! UGP à 10.",
+      "type": "red",
+      "side": "home",
+      "playerId": "88a0a7bc-90fd-407d-adc0-7c8d3a2e837d",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 25,
+      "minute": 34,
+      "half": 1,
+      "text": "34' — Coup franc dangereux pour FCLC (Gabriel Ortega).",
+      "type": "freeKick",
+      "side": "away",
+      "playerId": "1e3a0a8c-ae55-480c-a424-3d472cbdd381",
+      "ballPos": {
+        "x": 80,
+        "y": 25
+      }
+    },
+    {
+      "id": 26,
+      "minute": 37,
+      "half": 1,
+      "text": "37' — Faute de Italo Rizzi.",
+      "type": "foul",
+      "side": "home",
+      "playerId": "88d6cf70-fc34-479f-8572-d789499e1984",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 27,
+      "minute": 37,
+      "half": 1,
+      "text": "🟨 37' — Carton jaune pour Italo Rizzi (UGP).",
+      "type": "yellow",
+      "side": "home",
+      "playerId": "88d6cf70-fc34-479f-8572-d789499e1984",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 28,
+      "minute": 41,
+      "half": 1,
+      "text": "41' — Tir non cadré de Gabriel Ortega.",
+      "type": "shot",
+      "side": "away",
+      "playerId": "1e3a0a8c-ae55-480c-a424-3d472cbdd381",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 29,
+      "minute": 42,
+      "half": 1,
+      "text": "42' — Faute de Alberto Sala.",
+      "type": "foul",
+      "side": "home",
+      "playerId": "4afb61be-9f6f-4aba-80c9-ef35bf54158f",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 30,
+      "minute": 47,
+      "half": 1,
+      "text": "47' — Passe clé de Tomás Romero.",
+      "type": "keyPass",
+      "side": "away",
+      "playerId": "34913eb7-c685-47f4-9276-331f470037f2",
+      "ballPos": {
+        "x": 60,
+        "y": 25
+      }
+    },
+    {
+      "id": 31,
+      "minute": 49,
+      "half": 1,
+      "text": "49' — Passe clé de Gabriel Ortega.",
+      "type": "keyPass",
+      "side": "away",
+      "playerId": "1e3a0a8c-ae55-480c-a424-3d472cbdd381",
+      "ballPos": {
+        "x": 60,
+        "y": 25
+      }
+    },
+    {
+      "id": 32,
+      "minute": 50,
+      "half": 1,
+      "text": "Mi-temps.",
+      "type": "halftime",
+      "side": null,
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 33,
+      "minute": 50,
+      "half": 1,
+      "text": "🔄 50' — UGP : Cristian Lombardo ↔ Pietro Greco.",
+      "type": "substitution",
+      "side": "home",
+      "playerId": "63cba1c6-27e5-4311-91d8-92b5f3fde740",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 34,
+      "minute": 50,
+      "half": 1,
+      "text": "🔄 50' — UGP : Filippo Grasso ↔ Gennaro Bruno.",
+      "type": "substitution",
+      "side": "home",
+      "playerId": "28caef8a-9b7f-4bae-a15b-b534c7bb14af",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 35,
+      "minute": 50,
+      "half": 1,
+      "text": "🔄 50' — FCLC : Joaquín Peña ↔ Iván Gil.",
+      "type": "substitution",
+      "side": "away",
+      "playerId": "615e72dc-30d8-4bc1-b273-749fc52b8322",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 36,
+      "minute": 50,
+      "half": 1,
+      "text": "🔄 50' — FCLC : David Ortega ↔ Mario Vega.",
+      "type": "substitution",
+      "side": "away",
+      "playerId": "d3b5a343-9d58-4042-bc2e-6887f348fb0e",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 37,
+      "minute": 47,
+      "half": 2,
+      "text": "⚽ 47' — But pour UGP ! Filippo Grasso marque.",
+      "type": "goal",
+      "side": "home",
+      "playerId": "28caef8a-9b7f-4bae-a15b-b534c7bb14af",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 38,
+      "minute": 48,
+      "half": 2,
+      "text": "⛔ 48' — Tomás Romero touche le poteau !",
+      "type": "crossbar",
+      "side": "away",
+      "playerId": "34913eb7-c685-47f4-9276-331f470037f2",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 39,
+      "minute": 54,
+      "half": 2,
+      "text": "54' — Passe clé de Samuele De Angelis.",
+      "type": "keyPass",
+      "side": "home",
+      "playerId": "c6663d52-24a7-4d5a-aaea-b02fd24652d6",
+      "ballPos": {
+        "x": 40,
+        "y": 25
+      }
+    },
+    {
+      "id": 40,
+      "minute": 55,
+      "half": 2,
+      "text": "55' — Dribble réussi de Samuele De Angelis !",
+      "type": "dribble",
+      "side": "home",
+      "playerId": "c6663d52-24a7-4d5a-aaea-b02fd24652d6",
+      "ballPos": {
+        "x": 20,
+        "y": 25
+      }
+    },
+    {
+      "id": 41,
+      "minute": 57,
+      "half": 2,
+      "text": "57' — Passe clé de Cristian Lombardo.",
+      "type": "keyPass",
+      "side": "home",
+      "playerId": "63cba1c6-27e5-4311-91d8-92b5f3fde740",
+      "ballPos": {
+        "x": 40,
+        "y": 25
+      }
+    },
+    {
+      "id": 42,
+      "minute": 60,
+      "half": 2,
+      "text": "60' — Faute de Marcello Bruno.",
+      "type": "foul",
+      "side": "home",
+      "playerId": "c0b175e4-3ae0-4184-9118-b1c25aef5498",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 43,
+      "minute": 62,
+      "half": 2,
+      "text": "62' — Corner pour UGP.",
+      "type": "corner",
+      "side": "home",
+      "ballPos": {
+        "x": 100,
+        "y": 50
+      }
+    },
+    {
+      "id": 44,
+      "minute": 62,
+      "half": 2,
+      "text": "62' — Coup de tête de Filippo Grasso.",
+      "type": "header",
+      "side": "home",
+      "playerId": "28caef8a-9b7f-4bae-a15b-b534c7bb14af",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 45,
+      "minute": 68,
+      "half": 2,
+      "text": "68' — Hors-jeu signalé contre FCLC.",
+      "type": "offside",
+      "side": "away",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 46,
+      "minute": 70,
+      "half": 2,
+      "text": "70' — Corner pour UGP.",
+      "type": "corner",
+      "side": "home",
+      "ballPos": {
+        "x": 100,
+        "y": 50
+      }
+    },
+    {
+      "id": 47,
+      "minute": 70,
+      "half": 2,
+      "text": "70' — Coup de tête de Samuele De Angelis.",
+      "type": "header",
+      "side": "home",
+      "playerId": "c6663d52-24a7-4d5a-aaea-b02fd24652d6",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 48,
+      "minute": 70,
+      "half": 2,
+      "text": "⚽ 70' — But pour UGP ! Cristian Lombardo marque.",
+      "type": "goal",
+      "side": "home",
+      "playerId": "63cba1c6-27e5-4311-91d8-92b5f3fde740",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 49,
+      "minute": 71,
+      "half": 2,
+      "text": "⚽ 71' — But pour UGP ! Davide Mancini marque.",
+      "type": "goal",
+      "side": "home",
+      "playerId": "720e2681-c6f2-46e5-b610-9604d3a9e92c",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 50,
+      "minute": 73,
+      "half": 2,
+      "text": "🧤 73' — Belle parade de le gardien.",
+      "type": "save",
+      "side": "away",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 51,
+      "minute": 74,
+      "half": 2,
+      "text": "74' — Faute de Marcello Bruno.",
+      "type": "foul",
+      "side": "home",
+      "playerId": "c0b175e4-3ae0-4184-9118-b1c25aef5498",
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    },
+    {
+      "id": 52,
+      "minute": 75,
+      "half": 2,
+      "text": "75' — Passe clé de Alejandro Blanco.",
+      "type": "keyPass",
+      "side": "away",
+      "playerId": "d2fb304f-c2d2-4081-a61a-c098ba0f78d2",
+      "ballPos": {
+        "x": 60,
+        "y": 25
+      }
+    },
+    {
+      "id": 53,
+      "minute": 76,
+      "half": 2,
+      "text": "76' — Tir non cadré de Tomás Romero.",
+      "type": "shot",
+      "side": "away",
+      "playerId": "34913eb7-c685-47f4-9276-331f470037f2",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 54,
+      "minute": 77,
+      "half": 2,
+      "text": "77' — Tir non cadré de Samuele De Angelis.",
+      "type": "shot",
+      "side": "home",
+      "playerId": "c6663d52-24a7-4d5a-aaea-b02fd24652d6",
+      "ballPos": {
+        "x": 12,
+        "y": 25
+      }
+    },
+    {
+      "id": 55,
+      "minute": 80,
+      "half": 2,
+      "text": "80' — Coup franc dangereux pour FCLC (Alejandro Blanco).",
+      "type": "freeKick",
+      "side": "away",
+      "playerId": "d2fb304f-c2d2-4081-a61a-c098ba0f78d2",
+      "ballPos": {
+        "x": 80,
+        "y": 25
+      }
+    },
+    {
+      "id": 56,
+      "minute": 80,
+      "half": 2,
+      "text": "⚽ 80' — But pour FCLC ! Alejandro Blanco marque.",
+      "type": "goal",
+      "side": "away",
+      "playerId": "d2fb304f-c2d2-4081-a61a-c098ba0f78d2",
+      "ballPos": {
+        "x": 80,
+        "y": 25
+      }
+    },
+    {
+      "id": 57,
+      "minute": 81,
+      "half": 2,
+      "text": "81' — Coup franc dangereux pour FCLC (Andrés Jiménez).",
+      "type": "freeKick",
+      "side": "away",
+      "playerId": "f7316f69-a58e-4178-94a8-4ed4f00d4757",
+      "ballPos": {
+        "x": 80,
+        "y": 25
+      }
+    },
+    {
+      "id": 58,
+      "minute": 81,
+      "half": 2,
+      "text": "🧤 81' — Belle parade de Italo Rizzi.",
+      "type": "save",
+      "side": "home",
+      "playerId": "88d6cf70-fc34-479f-8572-d789499e1984",
+      "ballPos": {
+        "x": 80,
+        "y": 25
+      }
+    },
+    {
+      "id": 59,
+      "minute": 82,
+      "half": 2,
+      "text": "82' — Passe clé de David Ortega.",
+      "type": "keyPass",
+      "side": "away",
+      "playerId": "d3b5a343-9d58-4042-bc2e-6887f348fb0e",
+      "ballPos": {
+        "x": 60,
+        "y": 25
+      }
+    },
+    {
+      "id": 60,
+      "minute": 84,
+      "half": 2,
+      "text": "84' — Passe clé de David Ortega.",
+      "type": "keyPass",
+      "side": "away",
+      "playerId": "d3b5a343-9d58-4042-bc2e-6887f348fb0e",
+      "ballPos": {
+        "x": 60,
+        "y": 25
+      }
+    },
+    {
+      "id": 61,
+      "minute": 85,
+      "half": 2,
+      "text": "🧤 85' — Belle parade de Italo Rizzi.",
+      "type": "save",
+      "side": "home",
+      "playerId": "88d6cf70-fc34-479f-8572-d789499e1984",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 62,
+      "minute": 87,
+      "half": 2,
+      "text": "87' — Passe clé de Cristian Lombardo.",
+      "type": "keyPass",
+      "side": "home",
+      "playerId": "63cba1c6-27e5-4311-91d8-92b5f3fde740",
+      "ballPos": {
+        "x": 40,
+        "y": 25
+      }
+    },
+    {
+      "id": 63,
+      "minute": 92,
+      "half": 2,
+      "text": "92' — Passe clé de Filippo Grasso.",
+      "type": "keyPass",
+      "side": "home",
+      "playerId": "28caef8a-9b7f-4bae-a15b-b534c7bb14af",
+      "ballPos": {
+        "x": 40,
+        "y": 25
+      }
+    },
+    {
+      "id": 64,
+      "minute": 95,
+      "half": 2,
+      "text": "95' — Tir non cadré de Andrés Jiménez.",
+      "type": "shot",
+      "side": "away",
+      "playerId": "f7316f69-a58e-4178-94a8-4ed4f00d4757",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 65,
+      "minute": 96,
+      "half": 2,
+      "text": "96' — Tir non cadré de Andrés Jiménez.",
+      "type": "shot",
+      "side": "away",
+      "playerId": "f7316f69-a58e-4178-94a8-4ed4f00d4757",
+      "ballPos": {
+        "x": 88,
+        "y": 25
+      }
+    },
+    {
+      "id": 66,
+      "minute": 97,
+      "half": 2,
+      "text": "Fin du match.",
+      "type": "fulltime",
+      "side": null,
+      "ballPos": {
+        "x": 50,
+        "y": 25
+      }
+    }
+  ],
+  "finalScore": {
+    "home": 4,
+    "away": 1
+  }
+}
