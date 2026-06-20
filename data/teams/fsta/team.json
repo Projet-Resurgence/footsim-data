@@ -21,5 +21,22 @@
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-20T21:55:23.854Z"
+  "publishedAt": "2026-06-20T21:55:59.752Z",
+  "tactics": {
+    "style": "direct",
+    "formation": "4-1-4-1",
+    "lineup": [
+      "84a94969-96af-49ec-8814-ca79d38eb028",
+      "eecffdeb-69c1-48e6-b47e-b527fe6ed638",
+      "6e6c3c93-8076-47a6-bc9a-6d6d7477d850",
+      "1faeca41-38a6-4fe5-b220-a8a0240712ce",
+      "e2ceda94-2b87-42f6-91fb-05634ef6df29",
+      "728bb9f9-7b81-4aad-97ee-e6b80d8a9ae7",
+      "7de5fdbb-45a5-4899-8802-654b57ca3ae2",
+      "9b1626f5-fe6b-45a5-b56b-9f257253945f",
+      "70e39a9c-653c-4844-a252-1e02d3890bbf",
+      "4e71b8d1-8052-4efc-9d63-18772918df1c",
+      "463b2a1a-5b55-4f0e-a150-f26d2adddf99"
+    ]
+  }
 }
