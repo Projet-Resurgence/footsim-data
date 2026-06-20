@@ -172,7 +172,7 @@
       "892948fc-f22f-48f4-b6af-6ebeaa6db607"
     ]
   },
-  "publishedAt": "2026-06-20T19:26:52.935Z",
+  "publishedAt": "2026-06-20T23:49:01.903Z",
   "cultures": [
     {
       "culture": "cubain",
@@ -191,5 +191,28 @@
   "continents": [
     "amerique"
   ],
-  "managerDiscordId": "928291843958014014"
+  "managerDiscordId": "928291843958014014",
+  "coach": {
+    "id": "2a93a25b-010a-409f-b8b0-7fd9709f784a",
+    "firstName": "Odrisamer",
+    "lastName": "González",
+    "culture": "cubain",
+    "stats": {
+      "motivation": 15,
+      "tactique": 18,
+      "offensive": 9,
+      "defensif": 19,
+      "mentalite": 14,
+      "gestion": 9
+    },
+    "positiveTraits": [
+      "gestionnaire"
+    ],
+    "negativeTraits": [
+      "passif",
+      "conservateur"
+    ],
+    "overall": 69
+  },
+  "coachSuspended": false
 }
