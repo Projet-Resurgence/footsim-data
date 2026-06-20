@@ -30,6 +30,15 @@
   "publishedAt": "2026-06-20T18:42:31.033Z",
   "recentMatches": [
     {
+      "matchId": "e96d81ed-8ef5-4d6c-a4a0-32635ab56eb7",
+      "playedAt": "2026-06-20T18:46:51.422Z",
+      "opponentSlug": "fclc",
+      "opponentName": "FCLC",
+      "homeAway": "home",
+      "scoreFor": 4,
+      "scoreAgainst": 1
+    },
+    {
       "matchId": "2f54bf44-dbfd-4da7-8590-2fd068d2e331",
       "playedAt": "2026-06-20T18:46:08.058Z",
       "opponentSlug": "ccb",
