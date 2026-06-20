@@ -147,21 +147,21 @@
     }
   ],
   "tactics": {
-    "style": "ultra-defensif",
-    "formation": "5-4-1",
+    "style": "direct",
+    "formation": "4-2-3-1",
     "lineup": [
       "07aeab5b-061d-4600-8666-34b83f575da1",
       "17ddb492-fc0b-4531-b55b-948928f486d3",
       "408ffe60-4bad-461b-adf3-43ac1ed96add",
       "d64558c3-8433-4001-a794-7bb6d8c2fb33",
-      "522546bb-fc82-4ff4-8c92-86e4f4de381d",
       "45c54192-9691-4007-b681-befb290dcc93",
-      "52a454a3-b7b5-4396-b444-334daf5ad37e",
-      "dc90057b-82df-4168-8204-a6e87d643d0a",
-      "29bbc6be-5ead-4dc6-a4ce-0bc08d730468",
-      "7b19b67e-c651-4290-86dc-65a0b182c617",
+      "fc265c58-5fca-404e-9490-c43cc465c69a",
+      "49034b51-1fc4-4ba2-b88d-94d039a207ac",
+      "1c999b90-da69-4d38-a0c2-b11dcd550957",
+      "9e7245a9-b3ce-476c-a30b-e771ab050d71",
+      "935e4e9a-b8e6-4409-99ad-7f224f7b4593",
       "89a0086b-0ff0-489e-a845-ca7b750f7403"
     ]
   },
-  "publishedAt": "2026-06-20T13:12:37.724Z"
+  "publishedAt": "2026-06-20T13:30:08.704Z"
 }
