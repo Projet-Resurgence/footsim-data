@@ -9,5 +9,16 @@
   "createdBy": "772821169664426025",
   "ownerId": "772821169664426025",
   "playerCount": 500,
-  "formation": "4-3-3"
+  "formation": "4-3-3",
+  "recentMatches": [
+    {
+      "matchId": "13401210-2e09-4dd4-85e7-4a1510b954f3",
+      "playedAt": "2026-06-20T18:39:47.880Z",
+      "opponentSlug": "empire-hussein",
+      "opponentName": "Empire Hussein",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 0
+    }
+  ]
 }
