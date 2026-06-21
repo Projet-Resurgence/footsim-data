@@ -1,5 +1,13 @@
 [
   {
+    "id": "31eh8ypyhzmmqnlowxy",
+    "name": "Coupe du Monde de test",
+    "format": "groups_knockout",
+    "status": "ongoing",
+    "teamCount": 24,
+    "createdAt": "2026-06-21T09:45:07.271Z"
+  },
+  {
     "id": "7y4hjdw5r1pmqmyxjjy",
     "name": "Coupe du Monde (de Test calmez vous)",
     "format": "groups_knockout",
