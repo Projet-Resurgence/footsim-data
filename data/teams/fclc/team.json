@@ -172,7 +172,7 @@
       "892948fc-f22f-48f4-b6af-6ebeaa6db607"
     ]
   },
-  "publishedAt": "2026-06-21T21:55:00.868Z",
+  "publishedAt": "2026-06-21T22:11:27.540Z",
   "cultures": [
     {
       "culture": "cubain",
@@ -238,5 +238,6 @@
       "name": "Tactique 1"
     }
   ],
-  "activeTacticId": "3822cfd1-58db-46e2-92d2-ec0ef994d813"
+  "activeTacticId": "3822cfd1-58db-46e2-92d2-ec0ef994d813",
+  "ownerId": "772821169664426025"
 }
