@@ -181,7 +181,7 @@
       "scoreAgainst": 1
     }
   ],
-  "publishedAt": "2026-06-21T09:35:27.720Z",
+  "publishedAt": "2026-06-21T15:12:35.081Z",
   "cultures": [
     {
       "culture": "japonais",
@@ -194,23 +194,24 @@
   ],
   "managerDiscordId": "677663204960239666",
   "coach": {
-    "id": "8bb12820-dea9-4be1-b0c2-c5ffcc6019d7",
-    "firstName": "Takumi",
-    "lastName": "Maruyama",
+    "id": "5bc86b3a-b210-4fe8-bfff-9bca239f53af",
+    "firstName": "Ryota",
+    "lastName": "Takeda",
     "culture": "japonais",
     "stats": {
-      "motivation": 8,
-      "tactique": 16,
-      "offensive": 10,
-      "defensif": 11,
+      "motivation": 12,
+      "tactique": 9,
+      "offensive": 18,
+      "defensif": 10,
       "mentalite": 9,
-      "gestion": 11
+      "gestion": 15
     },
-    "positiveTraits": [],
-    "negativeTraits": [
-      "imprevoyant",
-      "impulsif"
+    "positiveTraits": [
+      "tacticien"
     ],
-    "overall": 50
+    "negativeTraits": [
+      "conservateur"
+    ],
+    "overall": 62
   }
 }
