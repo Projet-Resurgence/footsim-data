@@ -181,7 +181,7 @@
       "scoreAgainst": 1
     }
   ],
-  "publishedAt": "2026-06-20T20:50:20.595Z",
+  "publishedAt": "2026-06-21T09:35:27.720Z",
   "cultures": [
     {
       "culture": "japonais",
@@ -192,5 +192,25 @@
   "continents": [
     "asie"
   ],
-  "managerDiscordId": "677663204960239666"
+  "managerDiscordId": "677663204960239666",
+  "coach": {
+    "id": "8bb12820-dea9-4be1-b0c2-c5ffcc6019d7",
+    "firstName": "Takumi",
+    "lastName": "Maruyama",
+    "culture": "japonais",
+    "stats": {
+      "motivation": 8,
+      "tactique": 16,
+      "offensive": 10,
+      "defensif": 11,
+      "mentalite": 9,
+      "gestion": 11
+    },
+    "positiveTraits": [],
+    "negativeTraits": [
+      "imprevoyant",
+      "impulsif"
+    ],
+    "overall": 50
+  }
 }
