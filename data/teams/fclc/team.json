@@ -172,19 +172,27 @@
       "892948fc-f22f-48f4-b6af-6ebeaa6db607"
     ]
   },
-  "publishedAt": "2026-06-21T22:22:35.590Z",
+  "publishedAt": "2026-06-21T22:39:22.586Z",
   "cultures": [
     {
       "culture": "cubain",
-      "weight": 49
+      "weight": 50
     },
     {
       "culture": "haitien",
-      "weight": 6
+      "weight": 11
     },
     {
       "culture": "jamaicain",
-      "weight": 6
+      "weight": 13
+    },
+    {
+      "culture": "venezuelien",
+      "weight": 13
+    },
+    {
+      "culture": "mexicain",
+      "weight": 13
     }
   ],
   "continent": "amerique",
@@ -219,18 +227,18 @@
   "savedTactics": [
     {
       "style": "possession",
-      "formation": "4-2-3-1",
+      "formation": "4-3-2-1",
       "lineup": [
         "e87a5851-81ce-485c-83fe-194209656715",
         "92ec6bdc-708a-4530-9e31-33a671942604",
         "0537ad7c-740a-4fce-b710-d816befa3b8e",
         "e3e1ec99-423f-475d-b4d9-e5a7b9bbb145",
         "0a3b965e-04a0-4994-b513-7c71996ae867",
-        "4079a3e4-3d69-4fa0-84a8-a08c0d3cc6bc",
-        "8695b196-5011-4283-b4e3-b51225e676d4",
-        "0cde6afa-5371-4d50-84b0-42c5dce8e58c",
+        "aca08af0-9097-4f69-99df-b10b11993d02",
+        "d1f33281-0c4a-44f2-8485-bd164cce0749",
+        "0734c0f9-3313-473d-8514-1465958da988",
         "e6f510db-f16b-483f-9f1f-d671bff0ccd5",
-        "154edfa8-6176-460e-bc7d-9264ee047feb",
+        "34913eb7-c685-47f4-9276-331f470037f2",
         "5f32168a-14df-4d52-a989-1b39439b3517"
       ],
       "customStyles": [],
