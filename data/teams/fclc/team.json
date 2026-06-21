@@ -172,7 +172,7 @@
       "892948fc-f22f-48f4-b6af-6ebeaa6db607"
     ]
   },
-  "publishedAt": "2026-06-20T23:49:01.903Z",
+  "publishedAt": "2026-06-21T01:53:47.053Z",
   "cultures": [
     {
       "culture": "cubain",
@@ -214,5 +214,6 @@
     ],
     "overall": 69
   },
-  "coachSuspended": false
+  "coachSuspended": false,
+  "jerseyColor": "#c20000"
 }
