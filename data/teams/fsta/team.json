@@ -21,7 +21,7 @@
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-20T21:55:59.752Z",
+  "publishedAt": "2026-06-21T09:30:58.063Z",
   "tactics": {
     "style": "direct",
     "formation": "4-1-4-1",
@@ -38,5 +38,28 @@
       "4e71b8d1-8052-4efc-9d63-18772918df1c",
       "463b2a1a-5b55-4f0e-a150-f26d2adddf99"
     ]
+  },
+  "coach": {
+    "id": "8add682c-75e2-4260-8c72-b833fd925948",
+    "firstName": "Marcel",
+    "lastName": "Friedrich",
+    "culture": "allemand",
+    "stats": {
+      "motivation": 12,
+      "tactique": 18,
+      "offensive": 11,
+      "defensif": 8,
+      "mentalite": 10,
+      "gestion": 17
+    },
+    "positiveTraits": [
+      "meneur",
+      "defensif"
+    ],
+    "negativeTraits": [
+      "alcoolique",
+      "conflictuel"
+    ],
+    "overall": 65
   }
 }
