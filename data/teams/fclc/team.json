@@ -172,7 +172,7 @@
       "892948fc-f22f-48f4-b6af-6ebeaa6db607"
     ]
   },
-  "publishedAt": "2026-06-21T21:39:09.617Z",
+  "publishedAt": "2026-06-21T21:55:00.868Z",
   "cultures": [
     {
       "culture": "cubain",
@@ -218,25 +218,25 @@
   "jerseyColor": "#c20000",
   "savedTactics": [
     {
-      "style": "tiki-taka",
-      "formation": "3-5-2",
+      "style": "possession",
+      "formation": "4-2-3-1",
       "lineup": [
-        "1ade2d17-e156-4768-a4bb-14f051929c71",
-        "615e72dc-30d8-4bc1-b273-749fc52b8322",
-        "6e0dbfbe-fc92-4052-9429-dd200cb38091",
-        "eaa2e414-5b65-4762-b34e-e0cf67e20bb3",
-        "77a4d067-6d2a-4514-b001-b3ad89687fd8",
-        "8f9af56f-8988-4375-b773-aba003e7819c",
-        "09450d41-e046-49ca-b7e3-18a888fdbaff",
-        "ea47cd68-6226-4997-b0b2-986943cb3fcb",
-        "a3d95409-56f5-4123-ad79-a297ed2ea046",
-        "ddda2f3d-024b-4e4f-9028-a43ede2a80eb",
-        "0a2a8055-5c87-443a-a01a-1aebd0e40269"
+        "e87a5851-81ce-485c-83fe-194209656715",
+        "92ec6bdc-708a-4530-9e31-33a671942604",
+        "0537ad7c-740a-4fce-b710-d816befa3b8e",
+        "e3e1ec99-423f-475d-b4d9-e5a7b9bbb145",
+        "0a3b965e-04a0-4994-b513-7c71996ae867",
+        "4079a3e4-3d69-4fa0-84a8-a08c0d3cc6bc",
+        "8695b196-5011-4283-b4e3-b51225e676d4",
+        "0cde6afa-5371-4d50-84b0-42c5dce8e58c",
+        "e6f510db-f16b-483f-9f1f-d671bff0ccd5",
+        "154edfa8-6176-460e-bc7d-9264ee047feb",
+        "5f32168a-14df-4d52-a989-1b39439b3517"
       ],
       "customStyles": [],
-      "id": "93fd36ba-0aeb-4137-8c85-1d312169fd89",
-      "name": "Tactique 3"
+      "id": "3822cfd1-58db-46e2-92d2-ec0ef994d813",
+      "name": "Tactique 1"
     }
   ],
-  "activeTacticId": "93fd36ba-0aeb-4137-8c85-1d312169fd89"
+  "activeTacticId": "3822cfd1-58db-46e2-92d2-ec0ef994d813"
 }
