@@ -172,27 +172,35 @@
       "892948fc-f22f-48f4-b6af-6ebeaa6db607"
     ]
   },
-  "publishedAt": "2026-06-21T22:39:22.586Z",
+  "publishedAt": "2026-06-21T22:52:37.353Z",
   "cultures": [
     {
       "culture": "cubain",
-      "weight": 50
+      "weight": 14
     },
     {
       "culture": "haitien",
-      "weight": 11
+      "weight": 14
     },
     {
       "culture": "jamaicain",
-      "weight": 13
+      "weight": 14
     },
     {
       "culture": "venezuelien",
-      "weight": 13
+      "weight": 14
     },
     {
-      "culture": "mexicain",
-      "weight": 13
+      "culture": "trinidadien",
+      "weight": 14
+    },
+    {
+      "culture": "colombien",
+      "weight": 14
+    },
+    {
+      "culture": "amerindien",
+      "weight": 14
     }
   ],
   "continent": "amerique",
