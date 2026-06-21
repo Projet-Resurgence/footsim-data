@@ -18,7 +18,7 @@
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-20T13:26:29.183Z",
+  "publishedAt": "2026-06-21T00:10:04.210Z",
   "tactics": {
     "style": "ultra-defensif",
     "formation": "5-4-1",
@@ -55,5 +55,27 @@
       "scoreFor": 0,
       "scoreAgainst": 0
     }
-  ]
+  ],
+  "coach": {
+    "id": "586b7899-187a-4617-8eb0-a078fdb3318e",
+    "firstName": "Ji",
+    "lastName": "Wang",
+    "culture": "chinois",
+    "stats": {
+      "motivation": 16,
+      "tactique": 15,
+      "offensive": 15,
+      "defensif": 13,
+      "mentalite": 13,
+      "gestion": 11
+    },
+    "positiveTraits": [
+      "opportuniste"
+    ],
+    "negativeTraits": [
+      "drogue",
+      "conflictuel"
+    ],
+    "overall": 68
+  }
 }
