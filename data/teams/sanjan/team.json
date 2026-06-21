@@ -10,9 +10,8 @@
       "weight": 50
     }
   ],
-  "continent": "europe",
+  "continent": "asie",
   "continents": [
-    "europe",
     "asie"
   ],
   "kind": "national",
@@ -43,5 +42,5 @@
     "overall": 77
   },
   "jerseyColor": "#652f6f",
-  "publishedAt": "2026-06-21T13:11:11.525Z"
+  "publishedAt": "2026-06-21T13:11:30.862Z"
 }
