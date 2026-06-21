@@ -21,5 +21,52 @@
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-20T19:28:29.509Z"
+  "publishedAt": "2026-06-21T10:37:57.442Z",
+  "coach": {
+    "id": "1cb2f4fb-8e00-4043-a535-34b3b91ef4ae",
+    "firstName": "Leili",
+    "lastName": "Zamani",
+    "culture": "persan",
+    "stats": {
+      "motivation": 17,
+      "tactique": 18,
+      "offensive": 10,
+      "defensif": 19,
+      "mentalite": 11,
+      "gestion": 12
+    },
+    "positiveTraits": [
+      "gestionnaire",
+      "opportuniste"
+    ],
+    "negativeTraits": [
+      "impatient",
+      "conservateur",
+      "drogue"
+    ],
+    "overall": 73
+  },
+  "savedTactics": [
+    {
+      "style": "ultra-defensif",
+      "formation": "5-4-1",
+      "lineup": [
+        "541fbce5-29ef-4c5f-83fd-9e0a42d404fb",
+        "247bcbb8-08b9-477f-9dc8-2b52b6c82b28",
+        "8a841420-88c3-4053-a9ed-ce5321ac8b79",
+        "e4684998-5d0f-43df-8a26-af0d383cd1af",
+        "137de3cb-0f8e-4859-a698-141d07f0f5b3",
+        "d64c17eb-9a54-47b8-8d62-f94324bb97d1",
+        "8bfcde77-da92-4b72-96bf-cf245005926f",
+        "d5f00f3c-2cd1-4ac2-b6b9-a60d357eb5c3",
+        "4fa45034-5317-43ba-8738-7dc6d677551a",
+        "628fdbc5-9655-497c-a148-802a4f649d96",
+        "077e30cd-6094-44fd-b93c-e30b75837090"
+      ],
+      "customStyles": [],
+      "id": "45e22f0b-fdfc-4b4a-9ac7-0e329f5747c6",
+      "name": "Tactique 2"
+    }
+  ],
+  "activeTacticId": "45e22f0b-fdfc-4b4a-9ac7-0e329f5747c6"
 }
