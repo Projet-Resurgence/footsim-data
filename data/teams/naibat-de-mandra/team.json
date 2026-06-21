@@ -25,7 +25,7 @@
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-21T01:13:09.170Z",
+  "publishedAt": "2026-06-21T01:40:53.531Z",
   "managerDiscordId": "950389750739664896",
   "tactics": {
     "formation": "5-3-2",
@@ -45,5 +45,42 @@
     ],
     "formationLabel": "7-2-1",
     "customStyles": []
-  }
+  },
+  "savedTactics": [
+    {
+      "style": "possession",
+      "formation": "4-3-3",
+      "lineup": [
+        "5e6875b5-700b-488c-aa5a-52c80210c641",
+        "9669349c-c7db-4b47-ab75-2744e127e678",
+        "883c98c2-db30-4172-812e-f532f4073f7f",
+        "4cf810a6-37f6-42c6-92e0-711e88d883e6",
+        "23a9d68a-6fee-43c9-9848-44dca31ae8f5",
+        "e30bb536-3f84-4352-a708-3f2ddad76e65",
+        "5af5cb1a-3d50-4be6-8912-aa74fe59e043",
+        "bfa42baf-2980-4b42-bd12-1a955891f9a7",
+        "0a866b06-8636-4890-ac0d-6a6098fa2c4a",
+        "20e03366-0040-41cd-97df-dcc1ea775ed9",
+        "fb856e6c-b56b-4b88-a732-d5be384d1822"
+      ],
+      "formationLabel": "5-1-4",
+      "customStyles": [
+        {
+          "id": "747bc000-3024-463f-8929-e9a2882746f3",
+          "name": "Mandra style",
+          "mods": {
+            "shotFreqMult": 1.1,
+            "foulRateMult": 1,
+            "midfieldMult": 1,
+            "attackMult": 1.15,
+            "defenseMult": 1.05
+          }
+        }
+      ],
+      "activeCustomStyleId": "747bc000-3024-463f-8929-e9a2882746f3",
+      "id": "ab463d23-e9d2-43c3-9f8f-49040cab209f",
+      "name": "Tactique 1"
+    }
+  ],
+  "activeTacticId": "ab463d23-e9d2-43c3-9f8f-49040cab209f"
 }
