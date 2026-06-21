@@ -1,8 +1,8 @@
 [
   {
     "id": "d1cb3f7d-044c-4305-b05f-6b04bba0c80b",
-    "firstName": "Quentin",
-    "lastName": "Sanchez",
+    "firstName": "Inese",
+    "lastName": "Ceriņš",
     "age": 28,
     "position": "AM",
     "altPositions": [],
@@ -43,8 +43,8 @@
   },
   {
     "id": "8b2f6ce7-31a0-4d93-a6a5-fffe1f973513",
-    "firstName": "Corentin",
-    "lastName": "Martin",
+    "firstName": "Andris",
+    "lastName": "Ceriņš",
     "age": 33,
     "position": "RB",
     "altPositions": [],
@@ -85,8 +85,8 @@
   },
   {
     "id": "5b419be8-d769-482b-b43f-d02932dfb7e2",
-    "firstName": "Adrien",
-    "lastName": "Simon",
+    "firstName": "Artūrs",
+    "lastName": "Briede",
     "age": 26,
     "position": "CM",
     "altPositions": [
@@ -129,8 +129,8 @@
   },
   {
     "id": "fcb15388-a294-43d9-9495-44c01db50226",
-    "firstName": "Rémi",
-    "lastName": "Dumont",
+    "firstName": "Reinis",
+    "lastName": "Zariņš",
     "age": 27,
     "position": "RM",
     "altPositions": [],
@@ -171,8 +171,8 @@
   },
   {
     "id": "df01cae2-3c51-4947-b42c-e7ddf06b0fc8",
-    "firstName": "Édouard",
-    "lastName": "Gauthier",
+    "firstName": "Baiba",
+    "lastName": "Strautiņš",
     "age": 32,
     "position": "CB",
     "altPositions": [],
@@ -213,8 +213,8 @@
   },
   {
     "id": "3afed790-680b-4b35-b8e2-bf46a05b818c",
-    "firstName": "Augustin",
-    "lastName": "Thomas",
+    "firstName": "Emīls",
+    "lastName": "Jansons",
     "age": 23,
     "position": "CB",
     "altPositions": [],
@@ -255,8 +255,8 @@
   },
   {
     "id": "c1cc3d78-4e46-44ac-83a2-692ecee5e4dc",
-    "firstName": "Édouard",
-    "lastName": "Joly",
+    "firstName": "Kristaps",
+    "lastName": "Balodis",
     "age": 28,
     "position": "LW",
     "altPositions": [],
@@ -297,8 +297,8 @@
   },
   {
     "id": "579e9ba2-1945-4ece-bbf9-0a2c757bcbdc",
-    "firstName": "Adrien",
-    "lastName": "Simon",
+    "firstName": "Solvita",
+    "lastName": "Liepiņš",
     "age": 26,
     "position": "CM",
     "altPositions": [],
@@ -339,8 +339,8 @@
   },
   {
     "id": "2d4f7dcc-fbb2-4429-bad9-26a9ee5774a0",
-    "firstName": "Nathan",
-    "lastName": "Roger",
+    "firstName": "Kristaps",
+    "lastName": "Rubenis",
     "age": 19,
     "position": "LM",
     "altPositions": [],
@@ -381,8 +381,8 @@
   },
   {
     "id": "b9a00389-9cdd-422d-bc66-2c86bf6cd71e",
-    "firstName": "Sébastien",
-    "lastName": "Dupont",
+    "firstName": "Elīna",
+    "lastName": "Ģēģeris",
     "age": 23,
     "position": "CB",
     "altPositions": [],
@@ -423,8 +423,8 @@
   },
   {
     "id": "44f5e187-4699-4c54-a9ea-7a5c4637a7ec",
-    "firstName": "Jonathan",
-    "lastName": "Michel",
+    "firstName": "Toms",
+    "lastName": "Lācis",
     "age": 32,
     "position": "ST",
     "altPositions": [
@@ -467,8 +467,8 @@
   },
   {
     "id": "d41009f6-2d38-4b75-abe2-e07c1ac3b0d8",
-    "firstName": "Bastien",
-    "lastName": "Bertrand",
+    "firstName": "Gunta",
+    "lastName": "Vītoliņš",
     "age": 19,
     "position": "DM",
     "altPositions": [
@@ -512,8 +512,8 @@
   },
   {
     "id": "c5e9d3ac-6465-4909-819d-a660a935a7d3",
-    "firstName": "Léo",
-    "lastName": "Gérard",
+    "firstName": "Aigars",
+    "lastName": "Skujiņš",
     "age": 27,
     "position": "CM",
     "altPositions": [
@@ -557,8 +557,8 @@
   },
   {
     "id": "683161ba-e5d3-43d8-b3c3-46195d5a72d6",
-    "firstName": "Adam",
-    "lastName": "Masson",
+    "firstName": "Emīls",
+    "lastName": "Krūmiņš",
     "age": 27,
     "position": "CB",
     "altPositions": [],
@@ -599,8 +599,8 @@
   },
   {
     "id": "c384e9e4-8a24-40ee-8b49-8ef88f4736a8",
-    "firstName": "Enzo",
-    "lastName": "Meyer",
+    "firstName": "Māris",
+    "lastName": "Ģēģeris",
     "age": 23,
     "position": "CB",
     "altPositions": [],
@@ -641,8 +641,8 @@
   },
   {
     "id": "f99106bd-ff88-48ae-b136-8f97d06d5f64",
-    "firstName": "Olivier",
-    "lastName": "Masson",
+    "firstName": "Reinis",
+    "lastName": "Zalāns",
     "age": 21,
     "position": "CM",
     "altPositions": [],
@@ -683,8 +683,8 @@
   },
   {
     "id": "e36c8f79-4fdb-4080-aae0-166c6af9a4f6",
-    "firstName": "Léo",
-    "lastName": "Meunier",
+    "firstName": "Artūrs",
+    "lastName": "Jansons",
     "age": 28,
     "position": "CB",
     "altPositions": [],
@@ -725,8 +725,8 @@
   },
   {
     "id": "bc098111-0451-47a0-a81e-f2a06d43a7d1",
-    "firstName": "Enzo",
-    "lastName": "Roussel",
+    "firstName": "Normunds",
+    "lastName": "Briede",
     "age": 26,
     "position": "GK",
     "altPositions": [],
@@ -774,8 +774,8 @@
   },
   {
     "id": "b7a15e78-c35f-4b43-9c20-32529e9bed93",
-    "firstName": "Raphaël",
-    "lastName": "Moreau",
+    "firstName": "Toms",
+    "lastName": "Upenieks",
     "age": 25,
     "position": "ST",
     "altPositions": [],
@@ -816,8 +816,8 @@
   },
   {
     "id": "b9202aab-4bf8-449d-9d8b-110546261919",
-    "firstName": "Yann",
-    "lastName": "Lambert",
+    "firstName": "Liga",
+    "lastName": "Ķēniņš",
     "age": 28,
     "position": "AM",
     "altPositions": [],
@@ -858,8 +858,8 @@
   },
   {
     "id": "498154fa-99e9-4c93-8221-02f06b055265",
-    "firstName": "Tanguy",
-    "lastName": "Lambert",
+    "firstName": "Artūrs",
+    "lastName": "Siliņš",
     "age": 22,
     "position": "DM",
     "altPositions": [],
@@ -900,8 +900,8 @@
   },
   {
     "id": "5416ab37-3a1f-419c-8132-6a6ef49b07d7",
-    "firstName": "Loïc",
-    "lastName": "Roy",
+    "firstName": "Māris",
+    "lastName": "Ķēniņš",
     "age": 34,
     "position": "RB",
     "altPositions": [],
@@ -942,8 +942,8 @@
   },
   {
     "id": "6968c638-1e62-442b-82df-83bf4a5439f0",
-    "firstName": "Tom",
-    "lastName": "Petit",
+    "firstName": "Mārtiņš",
+    "lastName": "Melnis",
     "age": 24,
     "position": "GK",
     "altPositions": [],
@@ -991,8 +991,8 @@
   },
   {
     "id": "a4fdac47-aac9-40b9-ae92-0da29f51c2e8",
-    "firstName": "Guillaume",
-    "lastName": "Martin",
+    "firstName": "Uldis",
+    "lastName": "Jansons",
     "age": 27,
     "position": "RB",
     "altPositions": [],
@@ -1033,8 +1033,8 @@
   },
   {
     "id": "66b67a00-0902-4389-b149-a3ed7bb5ffa2",
-    "firstName": "Stéphane",
-    "lastName": "Martinez",
+    "firstName": "Rolands",
+    "lastName": "Lācis",
     "age": 30,
     "position": "CB",
     "altPositions": [],
@@ -1075,8 +1075,8 @@
   },
   {
     "id": "d9895545-1906-4ea8-9bf5-fa2bc86c9802",
-    "firstName": "Adrien",
-    "lastName": "Thomas",
+    "firstName": "Emīls",
+    "lastName": "Rubenis",
     "age": 29,
     "position": "LB",
     "altPositions": [],
@@ -1117,8 +1117,8 @@
   },
   {
     "id": "4bbc2c3e-34e8-4508-846a-f6a6b6e40f22",
-    "firstName": "Stéphane",
-    "lastName": "Brun",
+    "firstName": "Edgars",
+    "lastName": "Zariņš",
     "age": 30,
     "position": "AM",
     "altPositions": [
@@ -1162,8 +1162,8 @@
   },
   {
     "id": "695b78dd-164d-4e84-8c40-ecba1311a2ba",
-    "firstName": "Yannick",
-    "lastName": "Brun",
+    "firstName": "Uldis",
+    "lastName": "Siliņš",
     "age": 30,
     "position": "CB",
     "altPositions": [],
@@ -1204,8 +1204,8 @@
   },
   {
     "id": "fda07096-763e-4461-82c5-aee272ba2a7e",
-    "firstName": "Guillaume",
-    "lastName": "Sanchez",
+    "firstName": "Dace",
+    "lastName": "Grīnbergs",
     "age": 28,
     "position": "RW",
     "altPositions": [],
@@ -1246,8 +1246,8 @@
   },
   {
     "id": "f56bc1bf-7dd4-4c3c-ae24-cc61fc2f5119",
-    "firstName": "Sébastien",
-    "lastName": "André",
+    "firstName": "Aigars",
+    "lastName": "Zariņš",
     "age": 34,
     "position": "CM",
     "altPositions": [
@@ -1290,8 +1290,8 @@
   },
   {
     "id": "acb57235-6457-4c9f-9092-cb68dee0ed9b",
-    "firstName": "Bastien",
-    "lastName": "Meunier",
+    "firstName": "Gints",
+    "lastName": "Ģēģeris",
     "age": 17,
     "position": "LM",
     "altPositions": [
@@ -1334,8 +1334,8 @@
   },
   {
     "id": "0616b36a-9f35-48c0-8238-f9512d0fc90f",
-    "firstName": "Paul",
-    "lastName": "Lucas",
+    "firstName": "Kristaps",
+    "lastName": "Strautiņš",
     "age": 24,
     "position": "LB",
     "altPositions": [
@@ -1378,8 +1378,8 @@
   },
   {
     "id": "e278f9b1-c8d2-4486-bdf7-2574645b4c8d",
-    "firstName": "Henri",
-    "lastName": "Martin",
+    "firstName": "Aigars",
+    "lastName": "Lācis",
     "age": 27,
     "position": "RB",
     "altPositions": [],
@@ -1420,8 +1420,8 @@
   },
   {
     "id": "c690585c-1574-4cca-ab28-3e4cf95facc7",
-    "firstName": "Killian",
-    "lastName": "Dumont",
+    "firstName": "Dace",
+    "lastName": "Roze",
     "age": 22,
     "position": "CM",
     "altPositions": [],
@@ -1462,8 +1462,8 @@
   },
   {
     "id": "42127fac-b9e0-4ef9-9e0d-aa669e866104",
-    "firstName": "Bastien",
-    "lastName": "Durand",
+    "firstName": "Gunta",
+    "lastName": "Vītoliņš",
     "age": 30,
     "position": "LW",
     "altPositions": [],
@@ -1504,8 +1504,8 @@
   },
   {
     "id": "bfecd444-736c-4f37-8939-aa45a4e3e65a",
-    "firstName": "Lilian",
-    "lastName": "Morel",
+    "firstName": "Edgars",
+    "lastName": "Liepiņš",
     "age": 23,
     "position": "ST",
     "altPositions": [],
@@ -1546,8 +1546,8 @@
   },
   {
     "id": "43a3aa3e-23ec-4baf-80f6-abe38249910b",
-    "firstName": "Alexis",
-    "lastName": "Robert",
+    "firstName": "Mārtiņš",
+    "lastName": "Grīnbergs",
     "age": 22,
     "position": "LB",
     "altPositions": [],
@@ -1588,8 +1588,8 @@
   },
   {
     "id": "41cb8fa4-464a-4ad0-a223-0007297000cd",
-    "firstName": "Clément",
-    "lastName": "Simon",
+    "firstName": "Liga",
+    "lastName": "Strautiņš",
     "age": 23,
     "position": "RW",
     "altPositions": [],
@@ -1630,8 +1630,8 @@
   },
   {
     "id": "58c5d50f-7578-4b18-b695-95fa639e9944",
-    "firstName": "Mathieu",
-    "lastName": "Lucas",
+    "firstName": "Kristaps",
+    "lastName": "Balodis",
     "age": 21,
     "position": "ST",
     "altPositions": [
@@ -1674,8 +1674,8 @@
   },
   {
     "id": "d7046098-80b9-4f42-a207-77b6829163d2",
-    "firstName": "Nathan",
-    "lastName": "Lefèbvre",
+    "firstName": "Guntars",
+    "lastName": "Lācis",
     "age": 20,
     "position": "LW",
     "altPositions": [],
@@ -1716,8 +1716,8 @@
   },
   {
     "id": "d0142f00-b40b-4226-8814-dd224bfa6ed7",
-    "firstName": "Antoine",
-    "lastName": "Dumont",
+    "firstName": "Edgars",
+    "lastName": "Siliņš",
     "age": 23,
     "position": "LB",
     "altPositions": [],
@@ -1758,8 +1758,8 @@
   },
   {
     "id": "a624f752-d684-447c-a334-e5c2ab962355",
-    "firstName": "Lucas",
-    "lastName": "Bonnet",
+    "firstName": "Solvita",
+    "lastName": "Roze",
     "age": 31,
     "position": "CB",
     "altPositions": [
@@ -1802,8 +1802,8 @@
   },
   {
     "id": "993b2635-094d-4d5c-a98d-e27fe7fe3bbd",
-    "firstName": "Anthony",
-    "lastName": "Lefèbvre",
+    "firstName": "Kaspars",
+    "lastName": "Vītoliņš",
     "age": 32,
     "position": "DM",
     "altPositions": [
@@ -1847,8 +1847,8 @@
   },
   {
     "id": "55c3f753-c46d-438d-bca6-c951d5414834",
-    "firstName": "Corentin",
-    "lastName": "Garnier",
+    "firstName": "Jānis",
+    "lastName": "Bērziņš",
     "age": 20,
     "position": "DM",
     "altPositions": [],
@@ -1889,8 +1889,8 @@
   },
   {
     "id": "c9ea4cc2-325f-41cd-92a8-42290197a205",
-    "firstName": "Mathieu",
-    "lastName": "Dufour",
+    "firstName": "Kristīne",
+    "lastName": "Melnis",
     "age": 22,
     "position": "ST",
     "altPositions": [
@@ -1933,8 +1933,8 @@
   },
   {
     "id": "1bd82e4f-4e69-404c-8793-aa83f03b867f",
-    "firstName": "Tom",
-    "lastName": "Chevalier",
+    "firstName": "Raivis",
+    "lastName": "Zariņš",
     "age": 36,
     "position": "CM",
     "altPositions": [
@@ -1978,8 +1978,8 @@
   },
   {
     "id": "ca186bf7-c28b-475f-ac83-6a16f9a53f7c",
-    "firstName": "Stéphane",
-    "lastName": "Meunier",
+    "firstName": "Rolands",
+    "lastName": "Upenieks",
     "age": 25,
     "position": "RM",
     "altPositions": [],
@@ -2020,8 +2020,8 @@
   },
   {
     "id": "0edc960d-b127-4d8d-9982-02c0c30a1e55",
-    "firstName": "Yannick",
-    "lastName": "Morel",
+    "firstName": "Uldis",
+    "lastName": "Krūmiņš",
     "age": 29,
     "position": "RW",
     "altPositions": [],
@@ -2062,8 +2062,8 @@
   },
   {
     "id": "ddde9bd9-d7de-459a-b72f-a66f5e50c678",
-    "firstName": "Lilian",
-    "lastName": "Petit",
+    "firstName": "Aija",
+    "lastName": "Eglītis",
     "age": 26,
     "position": "GK",
     "altPositions": [],
@@ -2111,8 +2111,8 @@
   },
   {
     "id": "aa619392-697a-428f-941d-6a7e8a8fc648",
-    "firstName": "David",
-    "lastName": "Fontaine",
+    "firstName": "Normunds",
+    "lastName": "Bērziņš",
     "age": 36,
     "position": "GK",
     "altPositions": [],
@@ -2160,8 +2160,8 @@
   },
   {
     "id": "9e097b78-7d82-4de8-be52-255472133750",
-    "firstName": "Alexis",
-    "lastName": "Lopez",
+    "firstName": "Mārtiņš",
+    "lastName": "Lācis",
     "age": 24,
     "position": "ST",
     "altPositions": [],
@@ -2202,8 +2202,8 @@
   },
   {
     "id": "3a3a59db-32f4-4445-a8b3-89174468f49b",
-    "firstName": "Anthony",
-    "lastName": "Marie",
+    "firstName": "Jānis",
+    "lastName": "Roze",
     "age": 25,
     "position": "RB",
     "altPositions": [],
@@ -2244,8 +2244,8 @@
   },
   {
     "id": "b459d189-59e8-4a31-acb7-3e39bf5a3c3d",
-    "firstName": "Alexandre",
-    "lastName": "André",
+    "firstName": "Toms",
+    "lastName": "Freibergs",
     "age": 32,
     "position": "RW",
     "altPositions": [
@@ -2288,8 +2288,8 @@
   },
   {
     "id": "595c3798-70b4-4a24-9504-161d3bd0aa8f",
-    "firstName": "Sylvain",
-    "lastName": "Nicolas",
+    "firstName": "Dace",
+    "lastName": "Ceriņš",
     "age": 31,
     "position": "CB",
     "altPositions": [],
@@ -2330,8 +2330,8 @@
   },
   {
     "id": "4dbcdf36-9dc6-482f-88b0-42e28b1625a3",
-    "firstName": "Adrien",
-    "lastName": "Masson",
+    "firstName": "Aija",
+    "lastName": "Āboltiņš",
     "age": 31,
     "position": "CB",
     "altPositions": [
@@ -2374,8 +2374,8 @@
   },
   {
     "id": "7fdb2744-dc0f-4698-92f0-3f7c801c8597",
-    "firstName": "Alexis",
-    "lastName": "Roussel",
+    "firstName": "Rolands",
+    "lastName": "Siliņš",
     "age": 22,
     "position": "CM",
     "altPositions": [],
@@ -2416,8 +2416,8 @@
   },
   {
     "id": "e7771602-91ad-43da-b08f-b4af94f30632",
-    "firstName": "Anthony",
-    "lastName": "Dupont",
+    "firstName": "Elīna",
+    "lastName": "Zariņš",
     "age": 25,
     "position": "RW",
     "altPositions": [],
@@ -2458,8 +2458,8 @@
   },
   {
     "id": "318d5daf-0778-4322-8f9e-d363ef418994",
-    "firstName": "Stéphane",
-    "lastName": "Muller",
+    "firstName": "Reinis",
+    "lastName": "Krūmiņš",
     "age": 21,
     "position": "GK",
     "altPositions": [],
@@ -2507,8 +2507,8 @@
   },
   {
     "id": "a9560ae6-da31-441b-9dfe-dcb59dad7745",
-    "firstName": "Mathieu",
-    "lastName": "Marie",
+    "firstName": "Aija",
+    "lastName": "Vītoliņš",
     "age": 24,
     "position": "LB",
     "altPositions": [],
@@ -2549,8 +2549,8 @@
   },
   {
     "id": "b84233ac-9770-4554-b178-0a21483e3aae",
-    "firstName": "Adrien",
-    "lastName": "Robert",
+    "firstName": "Emīls",
+    "lastName": "Ģēģeris",
     "age": 34,
     "position": "RM",
     "altPositions": [],
@@ -2591,8 +2591,8 @@
   },
   {
     "id": "7bf8ec30-4235-442d-871e-36d22e16acfa",
-    "firstName": "Henri",
-    "lastName": "Sanchez",
+    "firstName": "Kaspars",
+    "lastName": "Zalāns",
     "age": 22,
     "position": "DM",
     "altPositions": [],
@@ -2633,8 +2633,8 @@
   },
   {
     "id": "ec3ac997-00b9-41eb-8263-cadc56e561dd",
-    "firstName": "Aurélien",
-    "lastName": "André",
+    "firstName": "Kristaps",
+    "lastName": "Ozoliņš",
     "age": 28,
     "position": "CM",
     "altPositions": [],
@@ -2675,8 +2675,8 @@
   },
   {
     "id": "ca10662e-63e6-4a7c-9370-2d2e1d541d19",
-    "firstName": "Yannick",
-    "lastName": "Blanc",
+    "firstName": "Liga",
+    "lastName": "Eglītis",
     "age": 28,
     "position": "ST",
     "altPositions": [
@@ -2719,8 +2719,8 @@
   },
   {
     "id": "14feba0b-1b4b-4fb1-8ef3-974467fbea13",
-    "firstName": "Damien",
-    "lastName": "Leroy",
+    "firstName": "Reinis",
+    "lastName": "Ceriņš",
     "age": 24,
     "position": "GK",
     "altPositions": [],
@@ -2768,8 +2768,8 @@
   },
   {
     "id": "64d51b03-347e-4cde-9ce6-e2be7828f8d4",
-    "firstName": "Christophe",
-    "lastName": "Mathieu",
+    "firstName": "Solvita",
+    "lastName": "Jansons",
     "age": 28,
     "position": "DM",
     "altPositions": [],
@@ -2810,8 +2810,8 @@
   },
   {
     "id": "16d54d6f-a160-4e38-af3e-61725f6e40aa",
-    "firstName": "Killian",
-    "lastName": "François",
+    "firstName": "Raivis",
+    "lastName": "Balodis",
     "age": 25,
     "position": "CM",
     "altPositions": [],
@@ -2852,8 +2852,8 @@
   },
   {
     "id": "253d147e-f176-4f0f-9f04-852c35c6a149",
-    "firstName": "Hervé",
-    "lastName": "Roger",
+    "firstName": "Andris",
+    "lastName": "Skujiņš",
     "age": 20,
     "position": "RB",
     "altPositions": [
@@ -2897,8 +2897,8 @@
   },
   {
     "id": "310f17c2-6fb0-41de-8845-a70db0a65b58",
-    "firstName": "Tanguy",
-    "lastName": "Chevalier",
+    "firstName": "Kristīne",
+    "lastName": "Skujiņš",
     "age": 26,
     "position": "LM",
     "altPositions": [],
@@ -2939,8 +2939,8 @@
   },
   {
     "id": "18a30fc2-9b0f-483b-9a78-658bc0d5f450",
-    "firstName": "Liam",
-    "lastName": "Simon",
+    "firstName": "Elīna",
+    "lastName": "Rubenis",
     "age": 32,
     "position": "RW",
     "altPositions": [],
@@ -2981,8 +2981,8 @@
   },
   {
     "id": "2ffcdd37-3d60-4fc1-aba8-21597f1d7c5f",
-    "firstName": "Cédric",
-    "lastName": "Lemaire",
+    "firstName": "Dace",
+    "lastName": "Balodis",
     "age": 25,
     "position": "RM",
     "altPositions": [],
@@ -3023,8 +3023,8 @@
   },
   {
     "id": "a48cd3d8-48b4-4a50-a20c-350a8ca01b2f",
-    "firstName": "Jonathan",
-    "lastName": "Lemaire",
+    "firstName": "Solvita",
+    "lastName": "Melnis",
     "age": 30,
     "position": "ST",
     "altPositions": [],
@@ -3065,8 +3065,8 @@
   },
   {
     "id": "f4f32b11-652a-44b9-b78a-f3c22bdc640c",
-    "firstName": "Louis",
-    "lastName": "Thomas",
+    "firstName": "Guntars",
+    "lastName": "Krūmiņš",
     "age": 20,
     "position": "LM",
     "altPositions": [],
@@ -3107,8 +3107,8 @@
   },
   {
     "id": "3c7c0b9c-6224-4f08-9dbe-b85cbadb4a88",
-    "firstName": "Jules",
-    "lastName": "Roger",
+    "firstName": "Māris",
+    "lastName": "Jansons",
     "age": 29,
     "position": "CM",
     "altPositions": [],
@@ -3149,8 +3149,8 @@
   },
   {
     "id": "a6cdcd23-fc32-4284-8b58-99e8a04e636d",
-    "firstName": "Augustin",
-    "lastName": "Richard",
+    "firstName": "Raivis",
+    "lastName": "Upenieks",
     "age": 21,
     "position": "CB",
     "altPositions": [],
@@ -3191,8 +3191,8 @@
   },
   {
     "id": "aafa01b3-0999-4ec5-a130-2052a742421e",
-    "firstName": "Nicolas",
-    "lastName": "Dupont",
+    "firstName": "Gunta",
+    "lastName": "Ģēģeris",
     "age": 22,
     "position": "LW",
     "altPositions": [],
@@ -3233,8 +3233,8 @@
   },
   {
     "id": "2618548b-57a2-47a3-a843-376d4e767bfe",
-    "firstName": "Erwan",
-    "lastName": "Lemaire",
+    "firstName": "Dace",
+    "lastName": "Ģēģeris",
     "age": 22,
     "position": "ST",
     "altPositions": [
@@ -3278,8 +3278,8 @@
   },
   {
     "id": "3ebce27b-4ea3-47ab-8862-2b9923f157ac",
-    "firstName": "Erwan",
-    "lastName": "Meyer",
+    "firstName": "Guntars",
+    "lastName": "Jansons",
     "age": 25,
     "position": "AM",
     "altPositions": [
@@ -3322,8 +3322,8 @@
   },
   {
     "id": "4c430abe-8636-40ba-8c80-81b5acf00652",
-    "firstName": "David",
-    "lastName": "François",
+    "firstName": "Kristīne",
+    "lastName": "Melnis",
     "age": 23,
     "position": "ST",
     "altPositions": [],
@@ -3364,8 +3364,8 @@
   },
   {
     "id": "1fa3ddca-a2b9-4e2d-b7bc-9775b098f8be",
-    "firstName": "Antoine",
-    "lastName": "Roussel",
+    "firstName": "Baiba",
+    "lastName": "Siliņš",
     "age": 28,
     "position": "DM",
     "altPositions": [],
@@ -3406,8 +3406,8 @@
   },
   {
     "id": "6aa2b7dc-c776-4a0b-aece-5399f8723c39",
-    "firstName": "Benjamin",
-    "lastName": "Leroy",
+    "firstName": "Lauris",
+    "lastName": "Rubenis",
     "age": 31,
     "position": "LW",
     "altPositions": [],
@@ -3448,8 +3448,8 @@
   },
   {
     "id": "411bc603-c486-450d-be0a-2ea80bad8205",
-    "firstName": "Augustin",
-    "lastName": "Laurent",
+    "firstName": "Emīls",
+    "lastName": "Vītoliņš",
     "age": 21,
     "position": "AM",
     "altPositions": [],
@@ -3490,8 +3490,8 @@
   },
   {
     "id": "e140ede1-16ba-4c97-ab4b-dc11d285fef4",
-    "firstName": "Killian",
-    "lastName": "Lambert",
+    "firstName": "Toms",
+    "lastName": "Balodis",
     "age": 33,
     "position": "RB",
     "altPositions": [
@@ -3534,8 +3534,8 @@
   },
   {
     "id": "adad49cf-e6a1-4582-86a5-3fbaa6f779f5",
-    "firstName": "Damien",
-    "lastName": "Garcia",
+    "firstName": "Kristaps",
+    "lastName": "Balodis",
     "age": 23,
     "position": "LB",
     "altPositions": [],
@@ -3576,8 +3576,8 @@
   },
   {
     "id": "dedb9e32-d448-47ed-8059-2df9fcbb2c18",
-    "firstName": "Adrien",
-    "lastName": "François",
+    "firstName": "Uldis",
+    "lastName": "Siliņš",
     "age": 21,
     "position": "DM",
     "altPositions": [],
@@ -3618,8 +3618,8 @@
   },
   {
     "id": "9dcf44e7-05d5-4acf-ba43-8b29db05543a",
-    "firstName": "Jules",
-    "lastName": "Fournier",
+    "firstName": "Kristīne",
+    "lastName": "Siliņš",
     "age": 35,
     "position": "CM",
     "altPositions": [],
@@ -3660,8 +3660,8 @@
   },
   {
     "id": "a7b7f5c8-6ab4-4253-a500-087faa36b8d7",
-    "firstName": "Mathieu",
-    "lastName": "Lambert",
+    "firstName": "Guntars",
+    "lastName": "Zariņš",
     "age": 20,
     "position": "CM",
     "altPositions": [
@@ -3704,8 +3704,8 @@
   },
   {
     "id": "ac1d6286-8f9d-404d-8007-9ac806ee5d1e",
-    "firstName": "Gaël",
-    "lastName": "Clément",
+    "firstName": "Ilze",
+    "lastName": "Rubenis",
     "age": 25,
     "position": "CM",
     "altPositions": [],
@@ -3746,8 +3746,8 @@
   },
   {
     "id": "b7e9b938-f245-4f5a-899b-ca80a12950cd",
-    "firstName": "Lucas",
-    "lastName": "Marchand",
+    "firstName": "Edgars",
+    "lastName": "Briede",
     "age": 29,
     "position": "CB",
     "altPositions": [],
@@ -3788,8 +3788,8 @@
   },
   {
     "id": "a6f29024-795e-45f0-9c68-c245eefa1cf8",
-    "firstName": "Mathéo",
-    "lastName": "Morel",
+    "firstName": "Elīna",
+    "lastName": "Liepiņš",
     "age": 32,
     "position": "LB",
     "altPositions": [
@@ -3832,8 +3832,8 @@
   },
   {
     "id": "85ff174b-9f3a-4a0c-9057-b719764fbdf0",
-    "firstName": "Hervé",
-    "lastName": "Lopez",
+    "firstName": "Edgars",
+    "lastName": "Bērziņš",
     "age": 34,
     "position": "CB",
     "altPositions": [],
@@ -3874,8 +3874,8 @@
   },
   {
     "id": "7ed7ef77-0553-4975-8c52-8094d7302e70",
-    "firstName": "Sylvain",
-    "lastName": "Dupont",
+    "firstName": "Kristīne",
+    "lastName": "Grīnbergs",
     "age": 27,
     "position": "CB",
     "altPositions": [],
@@ -3916,8 +3916,8 @@
   },
   {
     "id": "8774d05c-9caf-4fb6-8e8b-4cff409468ce",
-    "firstName": "Thomas",
-    "lastName": "Muller",
+    "firstName": "Edgars",
+    "lastName": "Mežsargs",
     "age": 36,
     "position": "GK",
     "altPositions": [],
@@ -3965,8 +3965,8 @@
   },
   {
     "id": "61fe40fe-5613-4189-bea9-4dd695d408bc",
-    "firstName": "Clément",
-    "lastName": "Roger",
+    "firstName": "Kaspars",
+    "lastName": "Bērziņš",
     "age": 27,
     "position": "CB",
     "altPositions": [
@@ -4009,8 +4009,8 @@
   },
   {
     "id": "11f0c803-838a-4d80-8fd2-8b85a0a8da7e",
-    "firstName": "Maxime",
-    "lastName": "Roger",
+    "firstName": "Andris",
+    "lastName": "Skujiņš",
     "age": 31,
     "position": "CB",
     "altPositions": [],
@@ -4051,8 +4051,8 @@
   },
   {
     "id": "4e8c1b36-ebc0-471a-bfcb-de0b0aa4e5a8",
-    "firstName": "Liam",
-    "lastName": "Noël",
+    "firstName": "Edgars",
+    "lastName": "Ķēniņš",
     "age": 31,
     "position": "GK",
     "altPositions": [],
@@ -4100,8 +4100,8 @@
   },
   {
     "id": "1b90a35d-d3b2-4461-976c-f36855cbeb66",
-    "firstName": "Tom",
-    "lastName": "Simon",
+    "firstName": "Ilze",
+    "lastName": "Briede",
     "age": 31,
     "position": "RB",
     "altPositions": [
@@ -4144,8 +4144,8 @@
   },
   {
     "id": "c40f2cf5-9f40-40f5-873c-1e3f309c837d",
-    "firstName": "Corentin",
-    "lastName": "Marie",
+    "firstName": "Mārtiņš",
+    "lastName": "Krūmiņš",
     "age": 27,
     "position": "LW",
     "altPositions": [],
@@ -4186,8 +4186,8 @@
   },
   {
     "id": "eac1fd8f-f1a7-447d-a375-846fb457d487",
-    "firstName": "Alexis",
-    "lastName": "Gauthier",
+    "firstName": "Gints",
+    "lastName": "Briede",
     "age": 20,
     "position": "CB",
     "altPositions": [
@@ -4230,8 +4230,8 @@
   },
   {
     "id": "7a4ad243-35ff-4a7a-8bd0-4f51afcb092c",
-    "firstName": "Liam",
-    "lastName": "Gautier",
+    "firstName": "Normunds",
+    "lastName": "Jansons",
     "age": 28,
     "position": "LB",
     "altPositions": [
@@ -4274,8 +4274,8 @@
   },
   {
     "id": "f0b9c868-3bc7-43bc-bceb-271df1d9ed5b",
-    "firstName": "Rémi",
-    "lastName": "Meunier",
+    "firstName": "Baiba",
+    "lastName": "Lācis",
     "age": 28,
     "position": "AM",
     "altPositions": [],
@@ -4316,8 +4316,8 @@
   },
   {
     "id": "341e0373-5485-494d-a425-c275b2cfa390",
-    "firstName": "Lilian",
-    "lastName": "François",
+    "firstName": "Normunds",
+    "lastName": "Jansons",
     "age": 33,
     "position": "RM",
     "altPositions": [],
@@ -4358,8 +4358,8 @@
   },
   {
     "id": "7d688b37-1a41-4e8f-9cc5-ac438b6979e7",
-    "firstName": "Paul",
-    "lastName": "Bernard",
+    "firstName": "Sandis",
+    "lastName": "Freibergs",
     "age": 22,
     "position": "CB",
     "altPositions": [],
@@ -4400,8 +4400,8 @@
   },
   {
     "id": "65733462-da78-4545-9e34-85f1426a7af3",
-    "firstName": "Sylvain",
-    "lastName": "Lopez",
+    "firstName": "Baiba",
+    "lastName": "Vaivods",
     "age": 30,
     "position": "GK",
     "altPositions": [],
@@ -4449,8 +4449,8 @@
   },
   {
     "id": "08ef4295-3120-4691-8023-26d5de4d0812",
-    "firstName": "Étienne",
-    "lastName": "Roussel",
+    "firstName": "Baiba",
+    "lastName": "Bērziņš",
     "age": 21,
     "position": "GK",
     "altPositions": [],
@@ -4498,8 +4498,8 @@
   },
   {
     "id": "2897b7fb-15a4-4539-bde3-4e1dde9da8f7",
-    "firstName": "Sylvain",
-    "lastName": "Gautier",
+    "firstName": "Aigars",
+    "lastName": "Āboltiņš",
     "age": 29,
     "position": "LM",
     "altPositions": [],
@@ -4540,8 +4540,8 @@
   },
   {
     "id": "8db3b46d-ea3f-4e89-884e-724b424f676e",
-    "firstName": "Mickaël",
-    "lastName": "Denis",
+    "firstName": "Solvita",
+    "lastName": "Bērziņš",
     "age": 21,
     "position": "RW",
     "altPositions": [
@@ -4585,8 +4585,8 @@
   },
   {
     "id": "2fe1cd92-45c4-4143-a72a-1bccc373f35b",
-    "firstName": "David",
-    "lastName": "Bernard",
+    "firstName": "Guntars",
+    "lastName": "Dumbris",
     "age": 17,
     "position": "LW",
     "altPositions": [],
@@ -4627,8 +4627,8 @@
   },
   {
     "id": "c44f817d-13ab-4e92-b8a2-72cc4b26f529",
-    "firstName": "Étienne",
-    "lastName": "Fontaine",
+    "firstName": "Toms",
+    "lastName": "Ceriņš",
     "age": 21,
     "position": "RB",
     "altPositions": [
@@ -4671,8 +4671,8 @@
   },
   {
     "id": "5f30cc41-6ab3-4577-bcc7-3e2de45e3c2a",
-    "firstName": "Tristan",
-    "lastName": "Lefèvre",
+    "firstName": "Elīna",
+    "lastName": "Grīnbergs",
     "age": 27,
     "position": "CM",
     "altPositions": [],
@@ -4713,8 +4713,8 @@
   },
   {
     "id": "9a2a04dd-db8c-4b22-885e-7379a4727d42",
-    "firstName": "Liam",
-    "lastName": "Mathieu",
+    "firstName": "Baiba",
+    "lastName": "Melnis",
     "age": 25,
     "position": "LB",
     "altPositions": [
@@ -4757,8 +4757,8 @@
   },
   {
     "id": "e9064a94-459f-460a-8c4f-51a772ec7c59",
-    "firstName": "Antoine",
-    "lastName": "Marie",
+    "firstName": "Lauris",
+    "lastName": "Āboltiņš",
     "age": 31,
     "position": "CB",
     "altPositions": [],
@@ -4799,8 +4799,8 @@
   },
   {
     "id": "6285e35e-c7cb-4190-ab1e-86a4076d9a0c",
-    "firstName": "Augustin",
-    "lastName": "Faure",
+    "firstName": "Raivis",
+    "lastName": "Ģēģeris",
     "age": 19,
     "position": "RM",
     "altPositions": [
@@ -4843,8 +4843,8 @@
   },
   {
     "id": "9471d173-e289-412f-b301-874264533f38",
-    "firstName": "Loïc",
-    "lastName": "Roussel",
+    "firstName": "Andris",
+    "lastName": "Freibergs",
     "age": 22,
     "position": "CB",
     "altPositions": [],
@@ -4885,8 +4885,8 @@
   },
   {
     "id": "a16f6430-c679-4e36-87fe-587b0d67fd86",
-    "firstName": "Sylvain",
-    "lastName": "Sanchez",
+    "firstName": "Aigars",
+    "lastName": "Zalāns",
     "age": 24,
     "position": "LB",
     "altPositions": [
@@ -4929,8 +4929,8 @@
   },
   {
     "id": "31e1f061-75c5-4e0f-868a-ae92b7958688",
-    "firstName": "Édouard",
-    "lastName": "Vincent",
+    "firstName": "Toms",
+    "lastName": "Briede",
     "age": 18,
     "position": "GK",
     "altPositions": [],
@@ -4978,8 +4978,8 @@
   },
   {
     "id": "10b930b3-a11b-43e6-88c2-9e4b85715696",
-    "firstName": "Romain",
-    "lastName": "Lemaire",
+    "firstName": "Lauris",
+    "lastName": "Melnis",
     "age": 26,
     "position": "CB",
     "altPositions": [],
@@ -5020,8 +5020,8 @@
   },
   {
     "id": "706eb6ae-5250-4f51-ada6-a7d7be967fc9",
-    "firstName": "Aurélien",
-    "lastName": "Roux",
+    "firstName": "Normunds",
+    "lastName": "Puķe",
     "age": 26,
     "position": "GK",
     "altPositions": [],
@@ -5069,8 +5069,8 @@
   },
   {
     "id": "f65f8878-3726-4e45-933b-d451eabe867d",
-    "firstName": "Valentin",
-    "lastName": "Lefèbvre",
+    "firstName": "Solvita",
+    "lastName": "Siliņš",
     "age": 33,
     "position": "CB",
     "altPositions": [],
@@ -5111,8 +5111,8 @@
   },
   {
     "id": "1202ae08-1f68-4fe1-9d1d-657795803684",
-    "firstName": "Fabien",
-    "lastName": "Martin",
+    "firstName": "Lauris",
+    "lastName": "Strautiņš",
     "age": 21,
     "position": "LM",
     "altPositions": [],
@@ -5153,8 +5153,8 @@
   },
   {
     "id": "7067946b-ef01-415b-9e5f-3e7c8cd0b99d",
-    "firstName": "Adrien",
-    "lastName": "Fournier",
+    "firstName": "Baiba",
+    "lastName": "Eglītis",
     "age": 22,
     "position": "ST",
     "altPositions": [],
@@ -5195,8 +5195,8 @@
   },
   {
     "id": "3f86eeea-d1ac-4cf3-8c88-2299a80c0fb8",
-    "firstName": "Hervé",
-    "lastName": "Meyer",
+    "firstName": "Normunds",
+    "lastName": "Zalāns",
     "age": 19,
     "position": "DM",
     "altPositions": [],
@@ -5237,8 +5237,8 @@
   },
   {
     "id": "c0420138-b4c3-45f4-a90d-bbbf417c18c0",
-    "firstName": "Liam",
-    "lastName": "Bertrand",
+    "firstName": "Normunds",
+    "lastName": "Mežsargs",
     "age": 21,
     "position": "RB",
     "altPositions": [],
@@ -5279,8 +5279,8 @@
   },
   {
     "id": "a6704d1d-22f1-41c9-8e19-e8ea3c653ee6",
-    "firstName": "Pierre",
-    "lastName": "Bernard",
+    "firstName": "Reinis",
+    "lastName": "Ceriņš",
     "age": 23,
     "position": "AM",
     "altPositions": [],
@@ -5321,8 +5321,8 @@
   },
   {
     "id": "b57b70bb-a60f-48fd-8128-14b72e5ba034",
-    "firstName": "Hugo",
-    "lastName": "Lopez",
+    "firstName": "Toms",
+    "lastName": "Kalniņš",
     "age": 25,
     "position": "ST",
     "altPositions": [],
@@ -5363,8 +5363,8 @@
   },
   {
     "id": "a79f27d1-eb03-4bbc-b2d1-4a017e0666a0",
-    "firstName": "Raphaël",
-    "lastName": "Bertrand",
+    "firstName": "Māris",
+    "lastName": "Ģēģeris",
     "age": 31,
     "position": "RW",
     "altPositions": [],
@@ -5405,8 +5405,8 @@
   },
   {
     "id": "e9a51033-be8f-4719-b5c4-cf72e7a5f6e0",
-    "firstName": "Mathéo",
-    "lastName": "Robert",
+    "firstName": "Ilze",
+    "lastName": "Skujiņš",
     "age": 25,
     "position": "LW",
     "altPositions": [],
@@ -5447,8 +5447,8 @@
   },
   {
     "id": "9ff0d77f-1788-4a2e-b75a-55d09a80ef0c",
-    "firstName": "Aurélien",
-    "lastName": "Roussel",
+    "firstName": "Guntars",
+    "lastName": "Upenieks",
     "age": 30,
     "position": "DM",
     "altPositions": [],
@@ -5489,8 +5489,8 @@
   },
   {
     "id": "db6226c2-9872-4bd6-8479-136d309bf25f",
-    "firstName": "Damien",
-    "lastName": "Marchand",
+    "firstName": "Gints",
+    "lastName": "Eglītis",
     "age": 24,
     "position": "LB",
     "altPositions": [],
@@ -5531,8 +5531,8 @@
   },
   {
     "id": "a5b39f54-9f33-46b2-af5c-f42ca4a69a64",
-    "firstName": "Aurélien",
-    "lastName": "Vincent",
+    "firstName": "Emīls",
+    "lastName": "Eglītis",
     "age": 33,
     "position": "ST",
     "altPositions": [],
@@ -5573,8 +5573,8 @@
   },
   {
     "id": "e91d8a3b-ddfd-4696-9fd7-5264275a4a41",
-    "firstName": "Rémi",
-    "lastName": "Roux",
+    "firstName": "Lauris",
+    "lastName": "Liepiņš",
     "age": 28,
     "position": "LB",
     "altPositions": [],
@@ -5615,8 +5615,8 @@
   },
   {
     "id": "6aafed4a-735c-4a6b-bdb6-35a8a99d9871",
-    "firstName": "Mathéo",
-    "lastName": "Noël",
+    "firstName": "Ilze",
+    "lastName": "Kalniņš",
     "age": 25,
     "position": "CM",
     "altPositions": [
@@ -5659,8 +5659,8 @@
   },
   {
     "id": "80dda09a-1222-4df7-ace1-a10f354615e8",
-    "firstName": "Adam",
-    "lastName": "Sanchez",
+    "firstName": "Kristīne",
+    "lastName": "Ģēģeris",
     "age": 21,
     "position": "AM",
     "altPositions": [
@@ -5703,8 +5703,8 @@
   },
   {
     "id": "85bc46a1-50dc-4222-9053-a19219a1b93c",
-    "firstName": "Alexis",
-    "lastName": "Clément",
+    "firstName": "Liga",
+    "lastName": "Zalāns",
     "age": 23,
     "position": "CB",
     "altPositions": [
@@ -5747,8 +5747,8 @@
   },
   {
     "id": "3655124c-3cb5-4dbd-bfce-5a554d424bdc",
-    "firstName": "Pierre",
-    "lastName": "Gérard",
+    "firstName": "Sandis",
+    "lastName": "Briede",
     "age": 26,
     "position": "RB",
     "altPositions": [],
@@ -5789,8 +5789,8 @@
   },
   {
     "id": "e2bf8e71-affa-4ec7-b54f-b34fa8b082da",
-    "firstName": "Gaël",
-    "lastName": "Meyer",
+    "firstName": "Kaspars",
+    "lastName": "Ķēniņš",
     "age": 23,
     "position": "CM",
     "altPositions": [
@@ -5833,8 +5833,8 @@
   },
   {
     "id": "39b03643-321c-49d8-b10a-686285bf03f4",
-    "firstName": "Sébastien",
-    "lastName": "Dumont",
+    "firstName": "Aigars",
+    "lastName": "Ķēniņš",
     "age": 22,
     "position": "CB",
     "altPositions": [],
@@ -5875,8 +5875,8 @@
   },
   {
     "id": "f83bed6a-b7fb-482c-b0b0-344361469b19",
-    "firstName": "Henri",
-    "lastName": "Durand",
+    "firstName": "Kaspars",
+    "lastName": "Mežsargs",
     "age": 31,
     "position": "AM",
     "altPositions": [],
@@ -5917,8 +5917,8 @@
   },
   {
     "id": "dd59809c-9df4-4b8f-ad35-3d549ecd0b91",
-    "firstName": "Gabriel",
-    "lastName": "Rousseau",
+    "firstName": "Reinis",
+    "lastName": "Strautiņš",
     "age": 24,
     "position": "ST",
     "altPositions": [],
@@ -5959,8 +5959,8 @@
   },
   {
     "id": "931771c6-932b-48e7-916f-8331b9cd62ff",
-    "firstName": "Louis",
-    "lastName": "Gauthier",
+    "firstName": "Liga",
+    "lastName": "Ozoliņš",
     "age": 31,
     "position": "CM",
     "altPositions": [],
@@ -6001,8 +6001,8 @@
   },
   {
     "id": "d279d8b0-2522-4732-acf5-37a00515841e",
-    "firstName": "Bastien",
-    "lastName": "Lucas",
+    "firstName": "Aigars",
+    "lastName": "Melnis",
     "age": 27,
     "position": "CM",
     "altPositions": [
@@ -6045,8 +6045,8 @@
   },
   {
     "id": "ede16ef4-876e-4740-a31c-11d2d74dc294",
-    "firstName": "Arthur",
-    "lastName": "Clément",
+    "firstName": "Rolands",
+    "lastName": "Melnis",
     "age": 18,
     "position": "LW",
     "altPositions": [
@@ -6090,8 +6090,8 @@
   },
   {
     "id": "2710de9a-5240-4963-9f19-2d547b4d671b",
-    "firstName": "Yann",
-    "lastName": "Blanc",
+    "firstName": "Kaspars",
+    "lastName": "Balodis",
     "age": 20,
     "position": "CM",
     "altPositions": [],
@@ -6132,8 +6132,8 @@
   },
   {
     "id": "6648f7d5-fb0d-41be-b43e-e673d68399e3",
-    "firstName": "Bastien",
-    "lastName": "Faure",
+    "firstName": "Sandis",
+    "lastName": "Bērziņš",
     "age": 33,
     "position": "CB",
     "altPositions": [
@@ -6176,8 +6176,8 @@
   },
   {
     "id": "07662c5a-0c67-4b64-bb94-38e916dc0ac1",
-    "firstName": "Édouard",
-    "lastName": "Durand",
+    "firstName": "Guntars",
+    "lastName": "Vaivods",
     "age": 24,
     "position": "CB",
     "altPositions": [],
@@ -6218,8 +6218,8 @@
   },
   {
     "id": "9b4c2588-63b8-4f03-8b3c-f72153639e6d",
-    "firstName": "Olivier",
-    "lastName": "Leroy",
+    "firstName": "Uldis",
+    "lastName": "Kalniņš",
     "age": 32,
     "position": "ST",
     "altPositions": [],
@@ -6260,8 +6260,8 @@
   },
   {
     "id": "d74ef609-116e-4fe2-b474-7d21cefb57f2",
-    "firstName": "Anthony",
-    "lastName": "Marchand",
+    "firstName": "Edgars",
+    "lastName": "Krūmiņš",
     "age": 28,
     "position": "RW",
     "altPositions": [],
@@ -6302,8 +6302,8 @@
   },
   {
     "id": "e757b8b0-01de-4a8d-958a-580c3e1fe36b",
-    "firstName": "Léo",
-    "lastName": "Perrin",
+    "firstName": "Inese",
+    "lastName": "Bērziņš",
     "age": 25,
     "position": "DM",
     "altPositions": [],
@@ -6344,8 +6344,8 @@
   },
   {
     "id": "ff82dc69-9702-4577-8e3d-e151ff23332c",
-    "firstName": "Thomas",
-    "lastName": "Joly",
+    "firstName": "Artūrs",
+    "lastName": "Krūmiņš",
     "age": 26,
     "position": "CM",
     "altPositions": [],
@@ -6386,8 +6386,8 @@
   },
   {
     "id": "e78f4fe4-7488-4d01-8ba7-e2160ba863d4",
-    "firstName": "Guillaume",
-    "lastName": "Denis",
+    "firstName": "Elīna",
+    "lastName": "Freibergs",
     "age": 25,
     "position": "RB",
     "altPositions": [],
@@ -6428,8 +6428,8 @@
   },
   {
     "id": "5bc6dcca-3747-4054-a782-3c29216baa96",
-    "firstName": "Paul",
-    "lastName": "Roger",
+    "firstName": "Sandis",
+    "lastName": "Freibergs",
     "age": 20,
     "position": "DM",
     "altPositions": [],
@@ -6470,8 +6470,8 @@
   },
   {
     "id": "cec0f290-1675-4c98-b404-0d65a03a268d",
-    "firstName": "Gabriel",
-    "lastName": "Masson",
+    "firstName": "Māris",
+    "lastName": "Āboltiņš",
     "age": 24,
     "position": "DM",
     "altPositions": [],
@@ -6512,8 +6512,8 @@
   },
   {
     "id": "8be5b546-1ad2-4265-b3bc-91c3a4ab4874",
-    "firstName": "Théo",
-    "lastName": "Dupont",
+    "firstName": "Raivis",
+    "lastName": "Mežsargs",
     "age": 31,
     "position": "AM",
     "altPositions": [],
@@ -6554,8 +6554,8 @@
   },
   {
     "id": "6eb10f10-4c4d-475b-9c8c-a38d2a0ceb3a",
-    "firstName": "Loïc",
-    "lastName": "Simon",
+    "firstName": "Liga",
+    "lastName": "Roze",
     "age": 25,
     "position": "ST",
     "altPositions": [],
@@ -6596,8 +6596,8 @@
   },
   {
     "id": "4748c217-536f-4bbf-baf7-ed57379b4cc4",
-    "firstName": "Liam",
-    "lastName": "Nicolas",
+    "firstName": "Lauris",
+    "lastName": "Skujiņš",
     "age": 29,
     "position": "GK",
     "altPositions": [],
@@ -6645,8 +6645,8 @@
   },
   {
     "id": "07d113ce-4454-4298-9fab-597356afe8cd",
-    "firstName": "Adrien",
-    "lastName": "Faure",
+    "firstName": "Aija",
+    "lastName": "Lācis",
     "age": 17,
     "position": "ST",
     "altPositions": [],
@@ -6687,8 +6687,8 @@
   },
   {
     "id": "1aa0db1f-f62e-46a1-af6f-49a50fc4fc8a",
-    "firstName": "Enzo",
-    "lastName": "Noël",
+    "firstName": "Inese",
+    "lastName": "Ķēniņš",
     "age": 26,
     "position": "LW",
     "altPositions": [],
@@ -6729,8 +6729,8 @@
   },
   {
     "id": "360d6ff8-a369-4d06-8117-32007018b754",
-    "firstName": "Adrien",
-    "lastName": "Martin",
+    "firstName": "Mārtiņš",
+    "lastName": "Balodis",
     "age": 30,
     "position": "LM",
     "altPositions": [],
@@ -6771,8 +6771,8 @@
   },
   {
     "id": "28ac3716-8299-4320-8ab9-396bfb2f76f9",
-    "firstName": "Émilien",
-    "lastName": "Dupont",
+    "firstName": "Māris",
+    "lastName": "Puķe",
     "age": 25,
     "position": "RW",
     "altPositions": [],
@@ -6813,8 +6813,8 @@
   },
   {
     "id": "1ced3d0c-8d46-4637-a61a-a3c3952ac806",
-    "firstName": "Liam",
-    "lastName": "Noël",
+    "firstName": "Edgars",
+    "lastName": "Vītoliņš",
     "age": 26,
     "position": "CB",
     "altPositions": [
@@ -6857,8 +6857,8 @@
   },
   {
     "id": "820b55ac-fc98-463a-9428-1131c8fa43d7",
-    "firstName": "Killian",
-    "lastName": "Blanc",
+    "firstName": "Raivis",
+    "lastName": "Rubenis",
     "age": 36,
     "position": "RM",
     "altPositions": [],
@@ -6899,8 +6899,8 @@
   },
   {
     "id": "4528ca73-16c0-49b6-8a4e-077466fdb2c1",
-    "firstName": "Cédric",
-    "lastName": "Bernard",
+    "firstName": "Raivis",
+    "lastName": "Grīnbergs",
     "age": 25,
     "position": "DM",
     "altPositions": [],
@@ -6941,8 +6941,8 @@
   },
   {
     "id": "d02592ef-519c-424f-a0e9-8119a917b3c2",
-    "firstName": "Gabriel",
-    "lastName": "Fournier",
+    "firstName": "Emīls",
+    "lastName": "Lācis",
     "age": 19,
     "position": "RW",
     "altPositions": [],
@@ -6983,8 +6983,8 @@
   },
   {
     "id": "52adb955-8d01-43b0-a7ad-e4b3f8c39dbe",
-    "firstName": "Loïc",
-    "lastName": "Masson",
+    "firstName": "Rolands",
+    "lastName": "Ceriņš",
     "age": 32,
     "position": "CM",
     "altPositions": [],
@@ -7025,8 +7025,8 @@
   },
   {
     "id": "7aa30f2a-bc1e-45ab-b88e-3b66888113db",
-    "firstName": "Tanguy",
-    "lastName": "Rousseau",
+    "firstName": "Baiba",
+    "lastName": "Kalniņš",
     "age": 23,
     "position": "CB",
     "altPositions": [
@@ -7070,8 +7070,8 @@
   },
   {
     "id": "fcd53825-dd58-47f3-8942-c79b5c1e6b39",
-    "firstName": "Anthony",
-    "lastName": "Lucas",
+    "firstName": "Emīls",
+    "lastName": "Roze",
     "age": 37,
     "position": "CM",
     "altPositions": [],
@@ -7112,8 +7112,8 @@
   },
   {
     "id": "ffd6d5b6-b838-41b3-8b5c-58760433cbe2",
-    "firstName": "Thomas",
-    "lastName": "Gérard",
+    "firstName": "Kristīne",
+    "lastName": "Strautiņš",
     "age": 32,
     "position": "LM",
     "altPositions": [],
@@ -7154,8 +7154,8 @@
   },
   {
     "id": "b42d73e0-69e1-405c-954a-12eef5a00abf",
-    "firstName": "Augustin",
-    "lastName": "Roche",
+    "firstName": "Kristīne",
+    "lastName": "Ozoliņš",
     "age": 24,
     "position": "CB",
     "altPositions": [],
@@ -7196,8 +7196,8 @@
   },
   {
     "id": "8e3974f2-ad78-4d66-bb64-9774c8779854",
-    "firstName": "Mathis",
-    "lastName": "Vincent",
+    "firstName": "Reinis",
+    "lastName": "Upenieks",
     "age": 34,
     "position": "CM",
     "altPositions": [],
@@ -7238,8 +7238,8 @@
   },
   {
     "id": "c07f4960-bc43-4167-9613-ef852349ebb8",
-    "firstName": "Tristan",
-    "lastName": "Sanchez",
+    "firstName": "Edgars",
+    "lastName": "Kalniņš",
     "age": 20,
     "position": "LB",
     "altPositions": [
@@ -7282,8 +7282,8 @@
   },
   {
     "id": "631844a2-6454-4665-b979-d24324153d00",
-    "firstName": "Alexis",
-    "lastName": "Blanc",
+    "firstName": "Aigars",
+    "lastName": "Krūmiņš",
     "age": 26,
     "position": "AM",
     "altPositions": [],
@@ -7324,8 +7324,8 @@
   },
   {
     "id": "370e27a4-5105-46a8-8ba8-0bf0ba3f2834",
-    "firstName": "Étienne",
-    "lastName": "Denis",
+    "firstName": "Jānis",
+    "lastName": "Strautiņš",
     "age": 33,
     "position": "GK",
     "altPositions": [],
@@ -7373,8 +7373,8 @@
   },
   {
     "id": "c9665e91-f0eb-4793-8332-e45cfa998448",
-    "firstName": "Lilian",
-    "lastName": "Blanc",
+    "firstName": "Dace",
+    "lastName": "Lācis",
     "age": 18,
     "position": "CB",
     "altPositions": [
@@ -7418,8 +7418,8 @@
   },
   {
     "id": "a46d9428-8842-48cf-9f66-dce37729d7d1",
-    "firstName": "Jonathan",
-    "lastName": "Morel",
+    "firstName": "Kristīne",
+    "lastName": "Zalāns",
     "age": 20,
     "position": "RB",
     "altPositions": [],
@@ -7460,8 +7460,8 @@
   },
   {
     "id": "2732b5f2-fb0e-486b-b819-f984ba6c8c14",
-    "firstName": "Pierre",
-    "lastName": "Fournier",
+    "firstName": "Aigars",
+    "lastName": "Skujiņš",
     "age": 29,
     "position": "RB",
     "altPositions": [],
@@ -7502,8 +7502,8 @@
   },
   {
     "id": "15e3d786-71d9-47ec-995c-a48ed7ab3304",
-    "firstName": "Mathis",
-    "lastName": "Roger",
+    "firstName": "Inese",
+    "lastName": "Balodis",
     "age": 36,
     "position": "LW",
     "altPositions": [],
@@ -7544,8 +7544,8 @@
   },
   {
     "id": "c32d0fa2-b395-4fd9-b0be-d317a70ee8a0",
-    "firstName": "Bruno",
-    "lastName": "Dupont",
+    "firstName": "Kaspars",
+    "lastName": "Roze",
     "age": 23,
     "position": "CM",
     "altPositions": [],
@@ -7586,8 +7586,8 @@
   },
   {
     "id": "16d8c441-dc63-4415-be20-0477070eba32",
-    "firstName": "Édouard",
-    "lastName": "Garcia",
+    "firstName": "Uldis",
+    "lastName": "Ģēģeris",
     "age": 23,
     "position": "LB",
     "altPositions": [
@@ -7630,8 +7630,8 @@
   },
   {
     "id": "92da569c-7af0-47c4-aed9-e53eb8e33937",
-    "firstName": "Mathieu",
-    "lastName": "Gauthier",
+    "firstName": "Elīna",
+    "lastName": "Eglītis",
     "age": 20,
     "position": "LW",
     "altPositions": [
@@ -7674,8 +7674,8 @@
   },
   {
     "id": "316afaae-0459-47d0-8cd4-ed4c3a4dcb0c",
-    "firstName": "Bruno",
-    "lastName": "Petit",
+    "firstName": "Normunds",
+    "lastName": "Eglītis",
     "age": 23,
     "position": "ST",
     "altPositions": [],
@@ -7716,8 +7716,8 @@
   },
   {
     "id": "75a6a537-f51e-4a1e-a50d-1d51426a8778",
-    "firstName": "Étienne",
-    "lastName": "Bertrand",
+    "firstName": "Lauris",
+    "lastName": "Āboltiņš",
     "age": 29,
     "position": "AM",
     "altPositions": [
@@ -7760,8 +7760,8 @@
   },
   {
     "id": "dec94a62-d05c-423b-9a4f-2ad1dd41a16d",
-    "firstName": "Anthony",
-    "lastName": "Roussel",
+    "firstName": "Edgars",
+    "lastName": "Freibergs",
     "age": 32,
     "position": "DM",
     "altPositions": [
@@ -7804,8 +7804,8 @@
   },
   {
     "id": "4c579708-794a-47ca-9706-a9562176b1fa",
-    "firstName": "Clément",
-    "lastName": "Michel",
+    "firstName": "Kristīne",
+    "lastName": "Vītoliņš",
     "age": 22,
     "position": "RW",
     "altPositions": [],
@@ -7846,8 +7846,8 @@
   },
   {
     "id": "66dd5a80-c749-4334-a6ee-003cbdf22f51",
-    "firstName": "Rémi",
-    "lastName": "Leroy",
+    "firstName": "Sandis",
+    "lastName": "Siliņš",
     "age": 24,
     "position": "RB",
     "altPositions": [
@@ -7891,8 +7891,8 @@
   },
   {
     "id": "affb354d-2082-4e7a-8570-575627c9d870",
-    "firstName": "Jonathan",
-    "lastName": "Meunier",
+    "firstName": "Dace",
+    "lastName": "Freibergs",
     "age": 29,
     "position": "ST",
     "altPositions": [],
@@ -7933,8 +7933,8 @@
   },
   {
     "id": "77b9bd52-148c-4609-8b0d-72b4db711c27",
-    "firstName": "Vincent",
-    "lastName": "Roger",
+    "firstName": "Kristaps",
+    "lastName": "Bērziņš",
     "age": 24,
     "position": "GK",
     "altPositions": [],
@@ -7982,8 +7982,8 @@
   },
   {
     "id": "e824b6c4-4365-41a0-a1e9-41ffa76a07fa",
-    "firstName": "Bastien",
-    "lastName": "Brun",
+    "firstName": "Elīna",
+    "lastName": "Ķēniņš",
     "age": 17,
     "position": "CB",
     "altPositions": [
@@ -8026,8 +8026,8 @@
   },
   {
     "id": "838745dc-fd21-46eb-9d2c-3d90d8d0b2f8",
-    "firstName": "Aurélien",
-    "lastName": "Fontaine",
+    "firstName": "Ilze",
+    "lastName": "Briede",
     "age": 26,
     "position": "CB",
     "altPositions": [],
@@ -8068,8 +8068,8 @@
   },
   {
     "id": "09fc1282-34ab-44da-bec5-9648623c1ecb",
-    "firstName": "Damien",
-    "lastName": "Roy",
+    "firstName": "Liga",
+    "lastName": "Briede",
     "age": 25,
     "position": "RB",
     "altPositions": [],
@@ -8110,8 +8110,8 @@
   },
   {
     "id": "33f44070-acc6-4bea-abde-98b382d49b9b",
-    "firstName": "Yann",
-    "lastName": "Lopez",
+    "firstName": "Jānis",
+    "lastName": "Ķēniņš",
     "age": 24,
     "position": "CM",
     "altPositions": [
@@ -8154,8 +8154,8 @@
   },
   {
     "id": "c941fc51-0e95-47b4-a7d5-12d3d30ecf51",
-    "firstName": "David",
-    "lastName": "Roche",
+    "firstName": "Dace",
+    "lastName": "Ķēniņš",
     "age": 30,
     "position": "CM",
     "altPositions": [],
@@ -8196,8 +8196,8 @@
   },
   {
     "id": "aeb99d48-8235-4fdf-9a3c-935ce9548b3e",
-    "firstName": "Nicolas",
-    "lastName": "Dufour",
+    "firstName": "Liga",
+    "lastName": "Lācis",
     "age": 20,
     "position": "LB",
     "altPositions": [],
@@ -8238,8 +8238,8 @@
   },
   {
     "id": "d9c2dd50-1169-4f74-a10f-e1e0a835c733",
-    "firstName": "Benjamin",
-    "lastName": "Martinez",
+    "firstName": "Kristīne",
+    "lastName": "Lācis",
     "age": 19,
     "position": "LB",
     "altPositions": [],
@@ -8280,8 +8280,8 @@
   },
   {
     "id": "4cb4b9d3-fd12-4577-8097-7267f9cf2271",
-    "firstName": "Liam",
-    "lastName": "André",
+    "firstName": "Dace",
+    "lastName": "Roze",
     "age": 29,
     "position": "DM",
     "altPositions": [
@@ -8324,8 +8324,8 @@
   },
   {
     "id": "84805efd-2531-422d-bf0a-351e6a6aeb20",
-    "firstName": "Mathéo",
-    "lastName": "Clément",
+    "firstName": "Andris",
+    "lastName": "Jansons",
     "age": 29,
     "position": "CB",
     "altPositions": [],
@@ -8366,8 +8366,8 @@
   },
   {
     "id": "8df8fe1d-4258-4b85-ab09-f97c7255d2ce",
-    "firstName": "Yannick",
-    "lastName": "Sanchez",
+    "firstName": "Emīls",
+    "lastName": "Bērziņš",
     "age": 31,
     "position": "ST",
     "altPositions": [],
@@ -8408,8 +8408,8 @@
   },
   {
     "id": "fc10e9d1-7fb0-4bb5-bf8a-e9f2ac42fd67",
-    "firstName": "Hugo",
-    "lastName": "Mathieu",
+    "firstName": "Kristīne",
+    "lastName": "Ģēģeris",
     "age": 30,
     "position": "RM",
     "altPositions": [],
@@ -8450,8 +8450,8 @@
   },
   {
     "id": "79ca112f-59bc-444b-a33e-4b7015737010",
-    "firstName": "Olivier",
-    "lastName": "Richard",
+    "firstName": "Ilze",
+    "lastName": "Jansons",
     "age": 23,
     "position": "CM",
     "altPositions": [
@@ -8495,8 +8495,8 @@
   },
   {
     "id": "7697d830-7653-4cd4-8780-03d2a1866c00",
-    "firstName": "Louis",
-    "lastName": "Masson",
+    "firstName": "Sandis",
+    "lastName": "Ozoliņš",
     "age": 24,
     "position": "GK",
     "altPositions": [],
@@ -8544,8 +8544,8 @@
   },
   {
     "id": "6589e419-0154-40d7-830d-a5ea20eebc29",
-    "firstName": "Valentin",
-    "lastName": "André",
+    "firstName": "Andris",
+    "lastName": "Vaivods",
     "age": 19,
     "position": "CB",
     "altPositions": [],
@@ -8586,8 +8586,8 @@
   },
   {
     "id": "a0471645-0692-4800-9d91-cd0946400754",
-    "firstName": "Hervé",
-    "lastName": "Boyer",
+    "firstName": "Ilze",
+    "lastName": "Freibergs",
     "age": 22,
     "position": "CB",
     "altPositions": [],
@@ -8628,8 +8628,8 @@
   },
   {
     "id": "f2a919b1-685d-478d-8a76-a31a9a5bee6d",
-    "firstName": "Théo",
-    "lastName": "Boyer",
+    "firstName": "Kaspars",
+    "lastName": "Krūmiņš",
     "age": 30,
     "position": "CB",
     "altPositions": [],
@@ -8670,8 +8670,8 @@
   },
   {
     "id": "593c57d3-2207-4605-809d-055f22a38b66",
-    "firstName": "Loïc",
-    "lastName": "Morin",
+    "firstName": "Jānis",
+    "lastName": "Skujiņš",
     "age": 25,
     "position": "ST",
     "altPositions": [],
@@ -8712,8 +8712,8 @@
   },
   {
     "id": "51146867-aa32-4844-918a-5bb510091e74",
-    "firstName": "Étienne",
-    "lastName": "Dumont",
+    "firstName": "Rolands",
+    "lastName": "Upenieks",
     "age": 32,
     "position": "DM",
     "altPositions": [],
@@ -8754,8 +8754,8 @@
   },
   {
     "id": "58512bc4-c76f-4c2c-b10a-d4f90ef2d61f",
-    "firstName": "Augustin",
-    "lastName": "Chevalier",
+    "firstName": "Aija",
+    "lastName": "Lācis",
     "age": 22,
     "position": "LB",
     "altPositions": [],
@@ -8796,8 +8796,8 @@
   },
   {
     "id": "1acf75c4-4319-4c7d-b5e4-a988272544f7",
-    "firstName": "Yann",
-    "lastName": "Clément",
+    "firstName": "Baiba",
+    "lastName": "Liepiņš",
     "age": 34,
     "position": "LB",
     "altPositions": [
@@ -8840,8 +8840,8 @@
   },
   {
     "id": "c35cfa14-a2c9-487f-bf79-f8bc9dde89d8",
-    "firstName": "Fabien",
-    "lastName": "Simon",
+    "firstName": "Uldis",
+    "lastName": "Lācis",
     "age": 26,
     "position": "CB",
     "altPositions": [
@@ -8884,8 +8884,8 @@
   },
   {
     "id": "447948d4-e04a-44d9-94a7-9f3a43b18276",
-    "firstName": "Florian",
-    "lastName": "Roy",
+    "firstName": "Dace",
+    "lastName": "Upenieks",
     "age": 26,
     "position": "CM",
     "altPositions": [],
@@ -8926,8 +8926,8 @@
   },
   {
     "id": "3870d047-9cd9-4567-a6b4-02655ed38c87",
-    "firstName": "Jonathan",
-    "lastName": "Duval",
+    "firstName": "Lauris",
+    "lastName": "Liepiņš",
     "age": 33,
     "position": "CM",
     "altPositions": [],
@@ -8968,8 +8968,8 @@
   },
   {
     "id": "e3de4217-4c5e-4c6e-baac-aa8b4f8214f5",
-    "firstName": "Nicolas",
-    "lastName": "Meyer",
+    "firstName": "Edgars",
+    "lastName": "Upenieks",
     "age": 22,
     "position": "RM",
     "altPositions": [
@@ -9012,8 +9012,8 @@
   },
   {
     "id": "702cf227-f567-465b-8e9c-98ce8e8663f9",
-    "firstName": "Théo",
-    "lastName": "Joly",
+    "firstName": "Mārtiņš",
+    "lastName": "Ozoliņš",
     "age": 26,
     "position": "LW",
     "altPositions": [],
@@ -9054,8 +9054,8 @@
   },
   {
     "id": "5e0ecb8f-973d-4c8c-ace2-bc4b34bd35ce",
-    "firstName": "Guillaume",
-    "lastName": "Petit",
+    "firstName": "Artūrs",
+    "lastName": "Vītoliņš",
     "age": 24,
     "position": "GK",
     "altPositions": [],
@@ -9103,8 +9103,8 @@
   },
   {
     "id": "609798e4-5351-40a1-8620-216acca3b2ef",
-    "firstName": "Sébastien",
-    "lastName": "Fontaine",
+    "firstName": "Jānis",
+    "lastName": "Vītoliņš",
     "age": 21,
     "position": "GK",
     "altPositions": [],
@@ -9152,8 +9152,8 @@
   },
   {
     "id": "070cc117-6406-49b8-acec-8ce48eac93aa",
-    "firstName": "Mathéo",
-    "lastName": "Lopez",
+    "firstName": "Guntars",
+    "lastName": "Freibergs",
     "age": 25,
     "position": "CB",
     "altPositions": [],
@@ -9194,8 +9194,8 @@
   },
   {
     "id": "d58ea5cd-6cdf-4d83-a389-91db17f2ac1d",
-    "firstName": "Hugo",
-    "lastName": "Moreau",
+    "firstName": "Rolands",
+    "lastName": "Upenieks",
     "age": 31,
     "position": "CM",
     "altPositions": [
@@ -9238,8 +9238,8 @@
   },
   {
     "id": "50437c24-7c3a-4a3c-9e28-ef98574519e8",
-    "firstName": "Maxime",
-    "lastName": "Marie",
+    "firstName": "Artūrs",
+    "lastName": "Bērziņš",
     "age": 21,
     "position": "DM",
     "altPositions": [
@@ -9282,8 +9282,8 @@
   },
   {
     "id": "37f98f4f-6316-40c0-80cc-08cc2ca67301",
-    "firstName": "Thomas",
-    "lastName": "Lopez",
+    "firstName": "Elīna",
+    "lastName": "Melnis",
     "age": 27,
     "position": "LW",
     "altPositions": [
@@ -9326,8 +9326,8 @@
   },
   {
     "id": "4663b481-b170-4a2f-912b-1bf95f681bf3",
-    "firstName": "Gabriel",
-    "lastName": "Nicolas",
+    "firstName": "Aigars",
+    "lastName": "Krūmiņš",
     "age": 25,
     "position": "ST",
     "altPositions": [],
@@ -9368,8 +9368,8 @@
   },
   {
     "id": "6b93264f-e825-4769-8483-3f55f74bcbab",
-    "firstName": "Loïc",
-    "lastName": "Thomas",
+    "firstName": "Sandis",
+    "lastName": "Zariņš",
     "age": 22,
     "position": "RB",
     "altPositions": [
@@ -9412,8 +9412,8 @@
   },
   {
     "id": "837c91ef-d429-4d96-bca8-e6aa562649f2",
-    "firstName": "Adam",
-    "lastName": "Brun",
+    "firstName": "Emīls",
+    "lastName": "Ozoliņš",
     "age": 32,
     "position": "LM",
     "altPositions": [],
@@ -9454,8 +9454,8 @@
   },
   {
     "id": "c204ff9b-eb9a-47f6-b05b-00fb02b60887",
-    "firstName": "Frédéric",
-    "lastName": "Marie",
+    "firstName": "Baiba",
+    "lastName": "Ķēniņš",
     "age": 32,
     "position": "DM",
     "altPositions": [],
@@ -9496,8 +9496,8 @@
   },
   {
     "id": "7e84a2e0-e57f-48bd-80d7-01d135d7810f",
-    "firstName": "Romain",
-    "lastName": "Masson",
+    "firstName": "Aija",
+    "lastName": "Ķēniņš",
     "age": 23,
     "position": "CM",
     "altPositions": [],
@@ -9538,8 +9538,8 @@
   },
   {
     "id": "0824b391-dcc0-4b84-8945-7f9514750d37",
-    "firstName": "Frédéric",
-    "lastName": "Guérin",
+    "firstName": "Emīls",
+    "lastName": "Vītoliņš",
     "age": 28,
     "position": "CB",
     "altPositions": [
@@ -9582,8 +9582,8 @@
   },
   {
     "id": "728dc7ee-5d7e-4160-a3aa-f145cc181320",
-    "firstName": "Quentin",
-    "lastName": "Masson",
+    "firstName": "Normunds",
+    "lastName": "Ģēģeris",
     "age": 30,
     "position": "GK",
     "altPositions": [],
@@ -9631,8 +9631,8 @@
   },
   {
     "id": "1e4df19c-58e8-4cfa-8f5d-971ed3cf5775",
-    "firstName": "Guillaume",
-    "lastName": "Rousseau",
+    "firstName": "Elīna",
+    "lastName": "Jansons",
     "age": 32,
     "position": "CB",
     "altPositions": [
@@ -9675,8 +9675,8 @@
   },
   {
     "id": "c1f2d829-6f5e-4c83-8132-c020d9ebbfcd",
-    "firstName": "Vincent",
-    "lastName": "Roux",
+    "firstName": "Mārtiņš",
+    "lastName": "Ceriņš",
     "age": 25,
     "position": "LW",
     "altPositions": [],
@@ -9717,8 +9717,8 @@
   },
   {
     "id": "4c0875d9-5351-4cb4-b8c0-4a803436dd8c",
-    "firstName": "Corentin",
-    "lastName": "Blanc",
+    "firstName": "Ilze",
+    "lastName": "Eglītis",
     "age": 28,
     "position": "DM",
     "altPositions": [],
@@ -9759,8 +9759,8 @@
   },
   {
     "id": "6020be01-b79d-49bb-a70a-9354db986f4f",
-    "firstName": "Julien",
-    "lastName": "Fontaine",
+    "firstName": "Toms",
+    "lastName": "Ģēģeris",
     "age": 24,
     "position": "RW",
     "altPositions": [],
@@ -9801,8 +9801,8 @@
   },
   {
     "id": "2d860f00-595c-4154-a1b6-fbafaa2ee36d",
-    "firstName": "Anthony",
-    "lastName": "Sanchez",
+    "firstName": "Reinis",
+    "lastName": "Āboltiņš",
     "age": 27,
     "position": "CB",
     "altPositions": [
@@ -9845,8 +9845,8 @@
   },
   {
     "id": "b8593720-040d-4472-a506-5bc2f9002f68",
-    "firstName": "Olivier",
-    "lastName": "Denis",
+    "firstName": "Dace",
+    "lastName": "Jansons",
     "age": 25,
     "position": "RM",
     "altPositions": [],
@@ -9887,8 +9887,8 @@
   },
   {
     "id": "24f06513-75e0-4214-929a-f82eaedf5229",
-    "firstName": "Raphaël",
-    "lastName": "Bertrand",
+    "firstName": "Liga",
+    "lastName": "Rubenis",
     "age": 27,
     "position": "RW",
     "altPositions": [
@@ -9931,8 +9931,8 @@
   },
   {
     "id": "7d58368f-f942-4d18-a25b-c5997f01b2b6",
-    "firstName": "Lucas",
-    "lastName": "Roche",
+    "firstName": "Edgars",
+    "lastName": "Briede",
     "age": 29,
     "position": "CM",
     "altPositions": [
@@ -9975,8 +9975,8 @@
   },
   {
     "id": "1ac76981-b093-4ce3-baf3-dcd99f6581e5",
-    "firstName": "Antoine",
-    "lastName": "Sanchez",
+    "firstName": "Liga",
+    "lastName": "Ceriņš",
     "age": 30,
     "position": "CM",
     "altPositions": [],
@@ -10017,8 +10017,8 @@
   },
   {
     "id": "3e730d73-7b78-434a-9156-5b5acf696603",
-    "firstName": "Quentin",
-    "lastName": "Moreau",
+    "firstName": "Ilze",
+    "lastName": "Strautiņš",
     "age": 25,
     "position": "RB",
     "altPositions": [
@@ -10061,8 +10061,8 @@
   },
   {
     "id": "cd6d0f95-56d0-4a4f-afc4-6b66dc95787a",
-    "firstName": "Paul",
-    "lastName": "Guérin",
+    "firstName": "Kristīne",
+    "lastName": "Ķēniņš",
     "age": 34,
     "position": "ST",
     "altPositions": [],
@@ -10103,8 +10103,8 @@
   },
   {
     "id": "ad17b3d4-b7cc-4e7f-ad90-c952e017613f",
-    "firstName": "Romain",
-    "lastName": "Garcia",
+    "firstName": "Elīna",
+    "lastName": "Zariņš",
     "age": 31,
     "position": "AM",
     "altPositions": [],
@@ -10145,8 +10145,8 @@
   },
   {
     "id": "be6a392b-3d38-4224-9c73-ce4a613b8317",
-    "firstName": "Adrien",
-    "lastName": "Marchand",
+    "firstName": "Raivis",
+    "lastName": "Ozoliņš",
     "age": 30,
     "position": "AM",
     "altPositions": [],
@@ -10187,8 +10187,8 @@
   },
   {
     "id": "2958ab63-a9c0-40ce-b7f0-22937288a64d",
-    "firstName": "Antoine",
-    "lastName": "Moreau",
+    "firstName": "Kaspars",
+    "lastName": "Mežsargs",
     "age": 25,
     "position": "LB",
     "altPositions": [],
@@ -10229,8 +10229,8 @@
   },
   {
     "id": "cd917741-03cd-4e5f-b127-305d4bda7068",
-    "firstName": "Liam",
-    "lastName": "Robin",
+    "firstName": "Raivis",
+    "lastName": "Dumbris",
     "age": 28,
     "position": "RB",
     "altPositions": [],
@@ -10271,8 +10271,8 @@
   },
   {
     "id": "90ea5dd3-f809-473d-90f2-b466651ceb87",
-    "firstName": "Stéphane",
-    "lastName": "Henry",
+    "firstName": "Normunds",
+    "lastName": "Puķe",
     "age": 30,
     "position": "ST",
     "altPositions": [],
@@ -10313,8 +10313,8 @@
   },
   {
     "id": "8d90ebe5-65c9-457e-9ec4-7890c7715103",
-    "firstName": "Tanguy",
-    "lastName": "Roche",
+    "firstName": "Emīls",
+    "lastName": "Jansons",
     "age": 31,
     "position": "GK",
     "altPositions": [],
@@ -10362,8 +10362,8 @@
   },
   {
     "id": "6ad97c8a-6f46-4d07-8946-dbead2fcc5e9",
-    "firstName": "Jonathan",
-    "lastName": "Garnier",
+    "firstName": "Normunds",
+    "lastName": "Vaivods",
     "age": 24,
     "position": "ST",
     "altPositions": [
@@ -10406,8 +10406,8 @@
   },
   {
     "id": "db74bb39-06e6-408c-ad1d-ff20f265f688",
-    "firstName": "Émilien",
-    "lastName": "Blanc",
+    "firstName": "Ilze",
+    "lastName": "Zalāns",
     "age": 24,
     "position": "LM",
     "altPositions": [],
@@ -10448,8 +10448,8 @@
   },
   {
     "id": "3c4665d8-66af-459e-942e-d0d67cf26412",
-    "firstName": "Aurélien",
-    "lastName": "Joly",
+    "firstName": "Rolands",
+    "lastName": "Balodis",
     "age": 27,
     "position": "CM",
     "altPositions": [
@@ -10492,8 +10492,8 @@
   },
   {
     "id": "9cd9f8ad-50ff-4a39-8966-2f93e29d93c0",
-    "firstName": "Augustin",
-    "lastName": "Noël",
+    "firstName": "Sandis",
+    "lastName": "Balodis",
     "age": 30,
     "position": "RW",
     "altPositions": [],
@@ -10534,8 +10534,8 @@
   },
   {
     "id": "5f529c04-5218-44c5-b4f2-d615a219bf7b",
-    "firstName": "Vincent",
-    "lastName": "Simon",
+    "firstName": "Emīls",
+    "lastName": "Roze",
     "age": 23,
     "position": "CB",
     "altPositions": [],
@@ -10576,8 +10576,8 @@
   },
   {
     "id": "ed13c954-e86f-4b29-b0d8-10dae471e17f",
-    "firstName": "Corentin",
-    "lastName": "Rousseau",
+    "firstName": "Reinis",
+    "lastName": "Ozoliņš",
     "age": 32,
     "position": "AM",
     "altPositions": [],
@@ -10618,8 +10618,8 @@
   },
   {
     "id": "a98202c7-eaf8-4160-9095-ce96f6ba4786",
-    "firstName": "Romain",
-    "lastName": "Noël",
+    "firstName": "Rolands",
+    "lastName": "Ģēģeris",
     "age": 20,
     "position": "LB",
     "altPositions": [],
@@ -10660,8 +10660,8 @@
   },
   {
     "id": "8525d636-1951-4415-b121-96648c577d91",
-    "firstName": "Mathéo",
-    "lastName": "Masson",
+    "firstName": "Lauris",
+    "lastName": "Vaivods",
     "age": 31,
     "position": "CB",
     "altPositions": [],
@@ -10702,8 +10702,8 @@
   },
   {
     "id": "6912f5c4-0375-4a4b-8fcf-cd5c6a888d3f",
-    "firstName": "Sylvain",
-    "lastName": "Gauthier",
+    "firstName": "Normunds",
+    "lastName": "Balodis",
     "age": 36,
     "position": "CB",
     "altPositions": [
@@ -10746,8 +10746,8 @@
   },
   {
     "id": "aeac20f6-52e6-4b66-987a-535dac7a4faf",
-    "firstName": "Fabien",
-    "lastName": "Martin",
+    "firstName": "Inese",
+    "lastName": "Briede",
     "age": 31,
     "position": "RB",
     "altPositions": [],
@@ -10788,8 +10788,8 @@
   },
   {
     "id": "a9c05644-f575-41a6-aad4-b107e969381b",
-    "firstName": "Bruno",
-    "lastName": "Moreau",
+    "firstName": "Gints",
+    "lastName": "Ģēģeris",
     "age": 27,
     "position": "CB",
     "altPositions": [
@@ -10833,8 +10833,8 @@
   },
   {
     "id": "dec67067-2269-4239-ad28-6a91b6381c6f",
-    "firstName": "Benjamin",
-    "lastName": "Simon",
+    "firstName": "Inese",
+    "lastName": "Puķe",
     "age": 21,
     "position": "CB",
     "altPositions": [],
@@ -10875,8 +10875,8 @@
   },
   {
     "id": "46386af1-244a-4323-944f-46d79d29e599",
-    "firstName": "Lucas",
-    "lastName": "Moreau",
+    "firstName": "Dace",
+    "lastName": "Liepiņš",
     "age": 21,
     "position": "CM",
     "altPositions": [],
@@ -10917,8 +10917,8 @@
   },
   {
     "id": "f73464ab-77c1-421c-bcdb-81e106f73f88",
-    "firstName": "Augustin",
-    "lastName": "Meyer",
+    "firstName": "Gints",
+    "lastName": "Dumbris",
     "age": 37,
     "position": "ST",
     "altPositions": [],
@@ -10959,8 +10959,8 @@
   },
   {
     "id": "01fdf5bd-185d-4214-8318-231760c32a5c",
-    "firstName": "Gabriel",
-    "lastName": "Morin",
+    "firstName": "Toms",
+    "lastName": "Roze",
     "age": 32,
     "position": "CB",
     "altPositions": [],
@@ -11001,8 +11001,8 @@
   },
   {
     "id": "fed28b05-e56b-4bc9-b282-b0141aae49b9",
-    "firstName": "Vincent",
-    "lastName": "Meunier",
+    "firstName": "Māris",
+    "lastName": "Puķe",
     "age": 30,
     "position": "CB",
     "altPositions": [],
@@ -11043,8 +11043,8 @@
   },
   {
     "id": "d4335120-3074-46a7-af93-5b88427c0d16",
-    "firstName": "Guillaume",
-    "lastName": "Laurent",
+    "firstName": "Rolands",
+    "lastName": "Ķēniņš",
     "age": 18,
     "position": "GK",
     "altPositions": [],
@@ -11092,8 +11092,8 @@
   },
   {
     "id": "4b2e16c2-fda2-4220-b540-0bf6415e5f4b",
-    "firstName": "Mickaël",
-    "lastName": "Dupont",
+    "firstName": "Uldis",
+    "lastName": "Zalāns",
     "age": 26,
     "position": "GK",
     "altPositions": [],
@@ -11141,8 +11141,8 @@
   },
   {
     "id": "3194b485-093e-48a8-bdfe-e34eef7c91ad",
-    "firstName": "Jonathan",
-    "lastName": "Martin",
+    "firstName": "Inese",
+    "lastName": "Krūmiņš",
     "age": 28,
     "position": "GK",
     "altPositions": [],
@@ -11190,8 +11190,8 @@
   },
   {
     "id": "e27539c9-345f-4cb7-b27e-fd9ce8149f8c",
-    "firstName": "Bastien",
-    "lastName": "Joly",
+    "firstName": "Kristīne",
+    "lastName": "Dumbris",
     "age": 33,
     "position": "LB",
     "altPositions": [
@@ -11234,8 +11234,8 @@
   },
   {
     "id": "6f19c1bf-82f3-4cd7-978f-216ead8ac80b",
-    "firstName": "Sébastien",
-    "lastName": "Garnier",
+    "firstName": "Liga",
+    "lastName": "Rubenis",
     "age": 31,
     "position": "GK",
     "altPositions": [],
@@ -11283,8 +11283,8 @@
   },
   {
     "id": "9ebdc6cb-e2cf-410b-93f5-f5bb12247ceb",
-    "firstName": "Louis",
-    "lastName": "Roger",
+    "firstName": "Kristīne",
+    "lastName": "Jansons",
     "age": 18,
     "position": "LW",
     "altPositions": [],
@@ -11325,8 +11325,8 @@
   },
   {
     "id": "05e71bd5-bed5-4929-a078-e62ad179f86d",
-    "firstName": "Adam",
-    "lastName": "Martin",
+    "firstName": "Raivis",
+    "lastName": "Kalniņš",
     "age": 25,
     "position": "CB",
     "altPositions": [],
@@ -11367,8 +11367,8 @@
   },
   {
     "id": "51a86057-ab0b-4f10-9ab3-69b0176ddc93",
-    "firstName": "Bastien",
-    "lastName": "Lopez",
+    "firstName": "Toms",
+    "lastName": "Roze",
     "age": 21,
     "position": "CB",
     "altPositions": [],
@@ -11409,8 +11409,8 @@
   },
   {
     "id": "cdd90516-9394-4211-9d8b-bb64da4e8e7c",
-    "firstName": "Cédric",
-    "lastName": "Petit",
+    "firstName": "Kaspars",
+    "lastName": "Bērziņš",
     "age": 21,
     "position": "CB",
     "altPositions": [
@@ -11453,8 +11453,8 @@
   },
   {
     "id": "4a70b198-c900-4dc6-98e0-8ca18646038d",
-    "firstName": "Alexandre",
-    "lastName": "David",
+    "firstName": "Sandis",
+    "lastName": "Vītoliņš",
     "age": 24,
     "position": "DM",
     "altPositions": [
@@ -11497,8 +11497,8 @@
   },
   {
     "id": "573062f0-de7e-4756-8c0c-90028e587ffd",
-    "firstName": "Jules",
-    "lastName": "Mathieu",
+    "firstName": "Gunta",
+    "lastName": "Bērziņš",
     "age": 20,
     "position": "CM",
     "altPositions": [],
@@ -11539,8 +11539,8 @@
   },
   {
     "id": "3dd8e40f-50e2-45fd-b2d8-70711b331eae",
-    "firstName": "Maxime",
-    "lastName": "Garnier",
+    "firstName": "Normunds",
+    "lastName": "Grīnbergs",
     "age": 30,
     "position": "LM",
     "altPositions": [],
@@ -11581,8 +11581,8 @@
   },
   {
     "id": "efb258ee-52a2-4dc4-9043-c21289ca8c82",
-    "firstName": "Nicolas",
-    "lastName": "Bonnet",
+    "firstName": "Edgars",
+    "lastName": "Liepiņš",
     "age": 33,
     "position": "CM",
     "altPositions": [],
@@ -11623,8 +11623,8 @@
   },
   {
     "id": "8af8313a-db96-47e3-91aa-95a17d4cf2a9",
-    "firstName": "Sylvain",
-    "lastName": "Dumont",
+    "firstName": "Reinis",
+    "lastName": "Ozoliņš",
     "age": 24,
     "position": "CM",
     "altPositions": [],
@@ -11665,8 +11665,8 @@
   },
   {
     "id": "fd252670-f5f3-40f7-b02b-07dc1b486823",
-    "firstName": "Tristan",
-    "lastName": "Fournier",
+    "firstName": "Liga",
+    "lastName": "Zalāns",
     "age": 23,
     "position": "ST",
     "altPositions": [],
@@ -11707,8 +11707,8 @@
   },
   {
     "id": "38cff4bf-0e05-42ab-b8ca-155093db7fe7",
-    "firstName": "Vincent",
-    "lastName": "Brun",
+    "firstName": "Andris",
+    "lastName": "Vaivods",
     "age": 22,
     "position": "RW",
     "altPositions": [],
@@ -11749,8 +11749,8 @@
   },
   {
     "id": "791b0f07-7730-4b02-9474-914037677947",
-    "firstName": "Maxence",
-    "lastName": "Michel",
+    "firstName": "Māris",
+    "lastName": "Briede",
     "age": 27,
     "position": "LB",
     "altPositions": [],
@@ -11791,8 +11791,8 @@
   },
   {
     "id": "9ca805e5-4ad3-4672-9947-1870532a8bb8",
-    "firstName": "Tristan",
-    "lastName": "Girard",
+    "firstName": "Baiba",
+    "lastName": "Ozoliņš",
     "age": 32,
     "position": "LM",
     "altPositions": [],
@@ -11833,8 +11833,8 @@
   },
   {
     "id": "eb172720-2b12-4650-a29a-c9d34148f7d4",
-    "firstName": "Tristan",
-    "lastName": "Mathieu",
+    "firstName": "Normunds",
+    "lastName": "Rubenis",
     "age": 20,
     "position": "CM",
     "altPositions": [],
@@ -11875,8 +11875,8 @@
   },
   {
     "id": "a0c689d4-65e2-4d53-8a56-dfd5164c6bce",
-    "firstName": "Sébastien",
-    "lastName": "Robert",
+    "firstName": "Reinis",
+    "lastName": "Rubenis",
     "age": 29,
     "position": "RM",
     "altPositions": [],
@@ -11917,8 +11917,8 @@
   },
   {
     "id": "ba33fa6c-58be-45df-a557-e41ca43e4c0f",
-    "firstName": "Augustin",
-    "lastName": "Joly",
+    "firstName": "Emīls",
+    "lastName": "Skujiņš",
     "age": 29,
     "position": "RW",
     "altPositions": [],
@@ -11959,8 +11959,8 @@
   },
   {
     "id": "14034b88-50e6-4e1e-84f6-3f3b2e1d37c2",
-    "firstName": "Stéphane",
-    "lastName": "Martin",
+    "firstName": "Inese",
+    "lastName": "Krūmiņš",
     "age": 24,
     "position": "RB",
     "altPositions": [
@@ -12003,8 +12003,8 @@
   },
   {
     "id": "f9879fb7-ebb1-4e9c-9af1-f8fb617ff6a6",
-    "firstName": "Jules",
-    "lastName": "Bernard",
+    "firstName": "Elīna",
+    "lastName": "Zalāns",
     "age": 27,
     "position": "LW",
     "altPositions": [],
@@ -12045,8 +12045,8 @@
   },
   {
     "id": "1be2cafc-d0a6-45b3-9992-d254a8b06ba9",
-    "firstName": "Christophe",
-    "lastName": "Roux",
+    "firstName": "Dace",
+    "lastName": "Melnis",
     "age": 30,
     "position": "CB",
     "altPositions": [],
@@ -12087,8 +12087,8 @@
   },
   {
     "id": "12fa1be8-099f-4585-9cf0-0225f9664ff5",
-    "firstName": "Mickaël",
-    "lastName": "Mercier",
+    "firstName": "Aigars",
+    "lastName": "Dumbris",
     "age": 23,
     "position": "RB",
     "altPositions": [],
@@ -12129,8 +12129,8 @@
   },
   {
     "id": "2e092cfe-c1a1-4a9e-9380-1c8e5a651ec6",
-    "firstName": "Charles",
-    "lastName": "Roche",
+    "firstName": "Edgars",
+    "lastName": "Ķēniņš",
     "age": 26,
     "position": "RB",
     "altPositions": [],
@@ -12171,8 +12171,8 @@
   },
   {
     "id": "dafc7b48-09d7-47cd-891a-b7fec82cc77f",
-    "firstName": "Raphaël",
-    "lastName": "Morel",
+    "firstName": "Mārtiņš",
+    "lastName": "Lācis",
     "age": 25,
     "position": "ST",
     "altPositions": [],
@@ -12213,8 +12213,8 @@
   },
   {
     "id": "a1470ab2-dfb8-4342-a972-1b85fab504f9",
-    "firstName": "Tristan",
-    "lastName": "Dumont",
+    "firstName": "Andris",
+    "lastName": "Zariņš",
     "age": 23,
     "position": "LW",
     "altPositions": [],
@@ -12255,8 +12255,8 @@
   },
   {
     "id": "fa3f6f3d-b245-4d22-bd5b-9fd17ca20898",
-    "firstName": "Jonathan",
-    "lastName": "Bernard",
+    "firstName": "Mārtiņš",
+    "lastName": "Āboltiņš",
     "age": 26,
     "position": "CB",
     "altPositions": [],
@@ -12297,8 +12297,8 @@
   },
   {
     "id": "595c26af-9659-4166-863a-14bb45f6ddb7",
-    "firstName": "Frédéric",
-    "lastName": "Gautier",
+    "firstName": "Ilze",
+    "lastName": "Ceriņš",
     "age": 30,
     "position": "CM",
     "altPositions": [
@@ -12341,8 +12341,8 @@
   },
   {
     "id": "8dad1046-2804-4401-a3f4-8170bf44f4d8",
-    "firstName": "Gaël",
-    "lastName": "Morin",
+    "firstName": "Aigars",
+    "lastName": "Dumbris",
     "age": 26,
     "position": "DM",
     "altPositions": [],
@@ -12383,8 +12383,8 @@
   },
   {
     "id": "d59d2566-efe9-46d8-82ad-ab0231cbdfb5",
-    "firstName": "Tristan",
-    "lastName": "Meyer",
+    "firstName": "Reinis",
+    "lastName": "Lācis",
     "age": 32,
     "position": "DM",
     "altPositions": [],
@@ -12425,8 +12425,8 @@
   },
   {
     "id": "04714dc8-b971-4445-a77d-1dc1a706567a",
-    "firstName": "Louis",
-    "lastName": "Roche",
+    "firstName": "Guntars",
+    "lastName": "Grīnbergs",
     "age": 33,
     "position": "ST",
     "altPositions": [],
@@ -12467,8 +12467,8 @@
   },
   {
     "id": "5dbe6144-1e9f-4257-8dd4-0c4fd4f2680b",
-    "firstName": "Étienne",
-    "lastName": "Lemaire",
+    "firstName": "Inese",
+    "lastName": "Freibergs",
     "age": 33,
     "position": "AM",
     "altPositions": [
@@ -12511,8 +12511,8 @@
   },
   {
     "id": "c47a09b6-7547-4a8f-b96b-2decefd980b4",
-    "firstName": "Erwan",
-    "lastName": "Clément",
+    "firstName": "Elīna",
+    "lastName": "Balodis",
     "age": 17,
     "position": "ST",
     "altPositions": [],
@@ -12553,8 +12553,8 @@
   },
   {
     "id": "e3a76bbe-bf71-4f45-802d-515bdc5be1e2",
-    "firstName": "Mathis",
-    "lastName": "Robin",
+    "firstName": "Elīna",
+    "lastName": "Ķēniņš",
     "age": 26,
     "position": "CM",
     "altPositions": [],
@@ -12595,8 +12595,8 @@
   },
   {
     "id": "c3d113bd-2749-4213-863e-4f529e494b9c",
-    "firstName": "Julien",
-    "lastName": "Durand",
+    "firstName": "Kristīne",
+    "lastName": "Lācis",
     "age": 31,
     "position": "RB",
     "altPositions": [],
@@ -12637,8 +12637,8 @@
   },
   {
     "id": "89563302-13e5-4a89-a044-131b038aada1",
-    "firstName": "Fabien",
-    "lastName": "Lefèvre",
+    "firstName": "Gints",
+    "lastName": "Briede",
     "age": 23,
     "position": "LB",
     "altPositions": [],
@@ -12679,8 +12679,8 @@
   },
   {
     "id": "5e499058-259e-45f1-92d4-d2bf855485de",
-    "firstName": "Paul",
-    "lastName": "Meunier",
+    "firstName": "Normunds",
+    "lastName": "Kalniņš",
     "age": 25,
     "position": "RM",
     "altPositions": [
@@ -12723,8 +12723,8 @@
   },
   {
     "id": "6fc8e40f-6196-46c6-a1f6-d28db596aff3",
-    "firstName": "Sébastien",
-    "lastName": "Duval",
+    "firstName": "Kristaps",
+    "lastName": "Mežsargs",
     "age": 20,
     "position": "DM",
     "altPositions": [],
@@ -12765,8 +12765,8 @@
   },
   {
     "id": "34fd1db7-dcc4-4107-b9c8-4ebb01bfbd33",
-    "firstName": "Enzo",
-    "lastName": "Morel",
+    "firstName": "Uldis",
+    "lastName": "Strautiņš",
     "age": 27,
     "position": "AM",
     "altPositions": [
@@ -12809,8 +12809,8 @@
   },
   {
     "id": "479230c9-897a-43e1-8dd9-e39e983a6edb",
-    "firstName": "Thomas",
-    "lastName": "Rousseau",
+    "firstName": "Reinis",
+    "lastName": "Rubenis",
     "age": 32,
     "position": "RW",
     "altPositions": [],
@@ -12851,8 +12851,8 @@
   },
   {
     "id": "a9107249-e285-42a5-9e74-2f496cca5da3",
-    "firstName": "Aurélien",
-    "lastName": "Bertrand",
+    "firstName": "Dace",
+    "lastName": "Jansons",
     "age": 19,
     "position": "AM",
     "altPositions": [
@@ -12895,8 +12895,8 @@
   },
   {
     "id": "c8b2a3df-ae1a-4342-9fcc-2acbe7543482",
-    "firstName": "Lucas",
-    "lastName": "Morel",
+    "firstName": "Jānis",
+    "lastName": "Ceriņš",
     "age": 23,
     "position": "LB",
     "altPositions": [
@@ -12939,8 +12939,8 @@
   },
   {
     "id": "e7d54372-1b97-4b43-96d3-e69621d53f0f",
-    "firstName": "Théo",
-    "lastName": "Sanchez",
+    "firstName": "Raivis",
+    "lastName": "Ozoliņš",
     "age": 20,
     "position": "LM",
     "altPositions": [],
@@ -12981,8 +12981,8 @@
   },
   {
     "id": "0c84f256-0a81-4817-91b2-eb6b117975c9",
-    "firstName": "Alexandre",
-    "lastName": "Martinez",
+    "firstName": "Ilze",
+    "lastName": "Melnis",
     "age": 24,
     "position": "CB",
     "altPositions": [],
@@ -13023,8 +13023,8 @@
   },
   {
     "id": "3b48882c-462f-4cec-9647-4638129277cb",
-    "firstName": "Alexis",
-    "lastName": "Meunier",
+    "firstName": "Normunds",
+    "lastName": "Balodis",
     "age": 27,
     "position": "GK",
     "altPositions": [],
@@ -13072,8 +13072,8 @@
   },
   {
     "id": "23268b1b-c1a0-4a63-9368-259e3bbc8402",
-    "firstName": "Hugo",
-    "lastName": "Perrin",
+    "firstName": "Andris",
+    "lastName": "Skujiņš",
     "age": 31,
     "position": "DM",
     "altPositions": [],
@@ -13114,8 +13114,8 @@
   },
   {
     "id": "dd12dfe0-3cf8-4322-9ade-462655897ebe",
-    "firstName": "Thomas",
-    "lastName": "Dufour",
+    "firstName": "Inese",
+    "lastName": "Skujiņš",
     "age": 19,
     "position": "RB",
     "altPositions": [
@@ -13159,8 +13159,8 @@
   },
   {
     "id": "5947ca10-a843-4058-a36d-157f6d255198",
-    "firstName": "Enzo",
-    "lastName": "Lopez",
+    "firstName": "Gints",
+    "lastName": "Lācis",
     "age": 26,
     "position": "DM",
     "altPositions": [],
@@ -13201,8 +13201,8 @@
   },
   {
     "id": "5425b8d4-96fc-4368-9fa6-b9a151d17d85",
-    "firstName": "Clément",
-    "lastName": "Brun",
+    "firstName": "Uldis",
+    "lastName": "Bērziņš",
     "age": 20,
     "position": "CB",
     "altPositions": [],
@@ -13243,8 +13243,8 @@
   },
   {
     "id": "976a70c8-ae67-4f8b-8c91-27505f39a5b0",
-    "firstName": "Pierre",
-    "lastName": "Gautier",
+    "firstName": "Kristīne",
+    "lastName": "Krūmiņš",
     "age": 33,
     "position": "CB",
     "altPositions": [],
@@ -13285,8 +13285,8 @@
   },
   {
     "id": "ce0b79c8-4cde-4ea4-8837-2e273847a043",
-    "firstName": "Enzo",
-    "lastName": "Duval",
+    "firstName": "Lauris",
+    "lastName": "Roze",
     "age": 20,
     "position": "LW",
     "altPositions": [],
@@ -13327,8 +13327,8 @@
   },
   {
     "id": "126a1142-c654-4845-9416-c43389071844",
-    "firstName": "Lilian",
-    "lastName": "Marchand",
+    "firstName": "Lauris",
+    "lastName": "Vītoliņš",
     "age": 33,
     "position": "ST",
     "altPositions": [],
@@ -13369,8 +13369,8 @@
   },
   {
     "id": "79e0d92e-4dfe-4943-a762-1eeddf33ce33",
-    "firstName": "Julien",
-    "lastName": "Lambert",
+    "firstName": "Māris",
+    "lastName": "Balodis",
     "age": 26,
     "position": "CM",
     "altPositions": [],
@@ -13411,8 +13411,8 @@
   },
   {
     "id": "d03e9490-8d8f-4861-996d-0be3f588b452",
-    "firstName": "Guillaume",
-    "lastName": "Dumont",
+    "firstName": "Gints",
+    "lastName": "Krūmiņš",
     "age": 22,
     "position": "GK",
     "altPositions": [],
@@ -13460,8 +13460,8 @@
   },
   {
     "id": "48f2b7bb-038a-4d2d-80c3-deb707cf0bc7",
-    "firstName": "Gaël",
-    "lastName": "Morel",
+    "firstName": "Guntars",
+    "lastName": "Roze",
     "age": 29,
     "position": "RM",
     "altPositions": [],
@@ -13502,8 +13502,8 @@
   },
   {
     "id": "ca8c57b0-e94a-4e34-ba83-30ad3f190db1",
-    "firstName": "Yann",
-    "lastName": "Lemaire",
+    "firstName": "Sandis",
+    "lastName": "Vītoliņš",
     "age": 27,
     "position": "GK",
     "altPositions": [],
@@ -13551,8 +13551,8 @@
   },
   {
     "id": "fa9977db-8c00-4e9b-89d0-628ba9a41373",
-    "firstName": "Corentin",
-    "lastName": "Rousseau",
+    "firstName": "Ilze",
+    "lastName": "Strautiņš",
     "age": 24,
     "position": "DM",
     "altPositions": [],
@@ -13593,8 +13593,8 @@
   },
   {
     "id": "e6e93b6f-b010-4aa1-839b-f6d33b9c0469",
-    "firstName": "Léo",
-    "lastName": "Robert",
+    "firstName": "Toms",
+    "lastName": "Eglītis",
     "age": 22,
     "position": "ST",
     "altPositions": [],
@@ -13635,8 +13635,8 @@
   },
   {
     "id": "a6826426-9567-4ee4-8d28-ea97588456c6",
-    "firstName": "Édouard",
-    "lastName": "David",
+    "firstName": "Guntars",
+    "lastName": "Upenieks",
     "age": 23,
     "position": "AM",
     "altPositions": [],
@@ -13677,8 +13677,8 @@
   },
   {
     "id": "2e6d22aa-ae68-4501-89dd-36ed4139946c",
-    "firstName": "Henri",
-    "lastName": "André",
+    "firstName": "Baiba",
+    "lastName": "Grīnbergs",
     "age": 21,
     "position": "CM",
     "altPositions": [],
@@ -13719,8 +13719,8 @@
   },
   {
     "id": "52fb1ca0-b354-4dc3-b7af-59d404cde916",
-    "firstName": "Erwan",
-    "lastName": "Rousseau",
+    "firstName": "Reinis",
+    "lastName": "Ceriņš",
     "age": 26,
     "position": "CM",
     "altPositions": [
@@ -13763,8 +13763,8 @@
   },
   {
     "id": "83d8fbdb-2b2f-4579-bff1-636a6d695541",
-    "firstName": "Nathan",
-    "lastName": "Meyer",
+    "firstName": "Liga",
+    "lastName": "Zalāns",
     "age": 27,
     "position": "LB",
     "altPositions": [],
@@ -13805,8 +13805,8 @@
   },
   {
     "id": "63dd201f-7f9c-4d2d-9121-37e7649de996",
-    "firstName": "Adrien",
-    "lastName": "Morel",
+    "firstName": "Liga",
+    "lastName": "Bērziņš",
     "age": 26,
     "position": "CM",
     "altPositions": [
@@ -13849,8 +13849,8 @@
   },
   {
     "id": "af2d9093-dce6-4d2d-a737-c1dd4074abc9",
-    "firstName": "Aurélien",
-    "lastName": "Morel",
+    "firstName": "Solvita",
+    "lastName": "Vaivods",
     "age": 20,
     "position": "CB",
     "altPositions": [],
@@ -13891,8 +13891,8 @@
   },
   {
     "id": "f58edb6d-4e3e-457e-94cd-291b6a5208b2",
-    "firstName": "Yann",
-    "lastName": "Lemaire",
+    "firstName": "Toms",
+    "lastName": "Ģēģeris",
     "age": 23,
     "position": "RW",
     "altPositions": [],
@@ -13933,8 +13933,8 @@
   },
   {
     "id": "7f62166c-f42a-44df-b08c-8e4464f5a491",
-    "firstName": "Cédric",
-    "lastName": "Chevalier",
+    "firstName": "Kristīne",
+    "lastName": "Mežsargs",
     "age": 30,
     "position": "DM",
     "altPositions": [],
@@ -13975,8 +13975,8 @@
   },
   {
     "id": "cc6ffcb0-34b7-4bdb-b53c-e4282fafacca",
-    "firstName": "Théo",
-    "lastName": "Masson",
+    "firstName": "Aigars",
+    "lastName": "Briede",
     "age": 26,
     "position": "AM",
     "altPositions": [],
@@ -14017,8 +14017,8 @@
   },
   {
     "id": "937ee522-54c2-4697-8ba2-3b57512c2b58",
-    "firstName": "Mathéo",
-    "lastName": "Chevalier",
+    "firstName": "Kaspars",
+    "lastName": "Strautiņš",
     "age": 29,
     "position": "GK",
     "altPositions": [],
@@ -14066,8 +14066,8 @@
   },
   {
     "id": "e29166eb-37ea-4203-b7f0-49c8c141cc62",
-    "firstName": "Tom",
-    "lastName": "Muller",
+    "firstName": "Edgars",
+    "lastName": "Roze",
     "age": 32,
     "position": "RB",
     "altPositions": [
@@ -14110,8 +14110,8 @@
   },
   {
     "id": "13aaae4d-f636-41f1-98ac-60c6f057cfd9",
-    "firstName": "Adrien",
-    "lastName": "Roche",
+    "firstName": "Gunta",
+    "lastName": "Melnis",
     "age": 24,
     "position": "LB",
     "altPositions": [],
@@ -14152,8 +14152,8 @@
   },
   {
     "id": "002b5b98-9e46-4052-9cba-f8473d311bd8",
-    "firstName": "Tanguy",
-    "lastName": "Gauthier",
+    "firstName": "Guntars",
+    "lastName": "Melnis",
     "age": 21,
     "position": "RW",
     "altPositions": [],
@@ -14194,8 +14194,8 @@
   },
   {
     "id": "a7d8ffc2-a284-4f39-9d01-b9a454082b09",
-    "firstName": "Hugo",
-    "lastName": "Garnier",
+    "firstName": "Kristaps",
+    "lastName": "Mežsargs",
     "age": 19,
     "position": "CM",
     "altPositions": [
@@ -14238,8 +14238,8 @@
   },
   {
     "id": "1eead86b-39e1-4b1c-999c-f45f3acbbbec",
-    "firstName": "Quentin",
-    "lastName": "Martin",
+    "firstName": "Kristaps",
+    "lastName": "Krūmiņš",
     "age": 28,
     "position": "ST",
     "altPositions": [
@@ -14282,8 +14282,8 @@
   },
   {
     "id": "8160b568-0cc4-4ad2-841e-4a6f528ead65",
-    "firstName": "Christophe",
-    "lastName": "Durand",
+    "firstName": "Reinis",
+    "lastName": "Skujiņš",
     "age": 25,
     "position": "AM",
     "altPositions": [],
@@ -14324,8 +14324,8 @@
   },
   {
     "id": "107021b0-fac5-411b-8b69-74a071687705",
-    "firstName": "Damien",
-    "lastName": "Faure",
+    "firstName": "Uldis",
+    "lastName": "Melnis",
     "age": 20,
     "position": "CB",
     "altPositions": [
@@ -14368,8 +14368,8 @@
   },
   {
     "id": "e16d147a-353d-4f55-a8c5-eaa7832fc91e",
-    "firstName": "Fabien",
-    "lastName": "Sanchez",
+    "firstName": "Kaspars",
+    "lastName": "Briede",
     "age": 36,
     "position": "RB",
     "altPositions": [
@@ -14412,8 +14412,8 @@
   },
   {
     "id": "90cb93d7-109f-4b92-bcaa-9ea0e065c00f",
-    "firstName": "Louis",
-    "lastName": "Thomas",
+    "firstName": "Normunds",
+    "lastName": "Briede",
     "age": 30,
     "position": "CB",
     "altPositions": [
@@ -14456,8 +14456,8 @@
   },
   {
     "id": "9f1c168f-d7e5-4063-a2dd-117205b268f4",
-    "firstName": "Adam",
-    "lastName": "Duval",
+    "firstName": "Kristaps",
+    "lastName": "Ceriņš",
     "age": 23,
     "position": "CM",
     "altPositions": [],
@@ -14498,8 +14498,8 @@
   },
   {
     "id": "40b21ca8-ea7e-48f6-92f6-70d8e8fa02b7",
-    "firstName": "Émilien",
-    "lastName": "Duval",
+    "firstName": "Andris",
+    "lastName": "Melnis",
     "age": 32,
     "position": "LW",
     "altPositions": [],
@@ -14540,8 +14540,8 @@
   },
   {
     "id": "34fc9c91-8353-4805-bf40-b2c8e2dca4f6",
-    "firstName": "Damien",
-    "lastName": "Petit",
+    "firstName": "Gints",
+    "lastName": "Liepiņš",
     "age": 27,
     "position": "CB",
     "altPositions": [],
@@ -14582,8 +14582,8 @@
   },
   {
     "id": "12832a6a-6ff3-467d-806e-da7e29e389cf",
-    "firstName": "Alexis",
-    "lastName": "Roche",
+    "firstName": "Liga",
+    "lastName": "Ozoliņš",
     "age": 31,
     "position": "CB",
     "altPositions": [
@@ -14627,8 +14627,8 @@
   },
   {
     "id": "1900150d-64b1-47a8-841e-27a2b1a72361",
-    "firstName": "Mickaël",
-    "lastName": "François",
+    "firstName": "Liga",
+    "lastName": "Ozoliņš",
     "age": 25,
     "position": "LB",
     "altPositions": [],
@@ -14669,8 +14669,8 @@
   },
   {
     "id": "dba882e2-93d5-4ee5-aa75-1c5ddbb5f8f3",
-    "firstName": "Charles",
-    "lastName": "Marie",
+    "firstName": "Emīls",
+    "lastName": "Ģēģeris",
     "age": 32,
     "position": "CB",
     "altPositions": [],
@@ -14711,8 +14711,8 @@
   },
   {
     "id": "f135eee6-4bfe-4f3d-b777-ef431772109f",
-    "firstName": "Hugo",
-    "lastName": "Lefèvre",
+    "firstName": "Sandis",
+    "lastName": "Liepiņš",
     "age": 23,
     "position": "RB",
     "altPositions": [],
@@ -14753,8 +14753,8 @@
   },
   {
     "id": "134f8af3-b1e1-429f-a8d5-071e03def5c9",
-    "firstName": "Étienne",
-    "lastName": "Rousseau",
+    "firstName": "Sandis",
+    "lastName": "Puķe",
     "age": 22,
     "position": "ST",
     "altPositions": [
@@ -14797,8 +14797,8 @@
   },
   {
     "id": "c2efac95-e92a-4043-82d7-89f91e931995",
-    "firstName": "Rémi",
-    "lastName": "Marie",
+    "firstName": "Gunta",
+    "lastName": "Siliņš",
     "age": 33,
     "position": "LB",
     "altPositions": [],
@@ -14839,8 +14839,8 @@
   },
   {
     "id": "2ecce80d-b968-4462-93a8-355dabfcf47e",
-    "firstName": "Raphaël",
-    "lastName": "Lefèvre",
+    "firstName": "Andris",
+    "lastName": "Kalniņš",
     "age": 22,
     "position": "ST",
     "altPositions": [],
@@ -14881,8 +14881,8 @@
   },
   {
     "id": "14f0c970-a3e3-4477-b06b-a9e42f8736e0",
-    "firstName": "Tanguy",
-    "lastName": "Roussel",
+    "firstName": "Gints",
+    "lastName": "Rubenis",
     "age": 29,
     "position": "RW",
     "altPositions": [],
@@ -14923,8 +14923,8 @@
   },
   {
     "id": "822a3da3-2ac3-4340-89de-e801e76ea407",
-    "firstName": "Guillaume",
-    "lastName": "Roy",
+    "firstName": "Rolands",
+    "lastName": "Liepiņš",
     "age": 27,
     "position": "LW",
     "altPositions": [
@@ -14967,8 +14967,8 @@
   },
   {
     "id": "60eba1b9-79cd-4615-94b4-8b5ced6d949d",
-    "firstName": "Damien",
-    "lastName": "Durand",
+    "firstName": "Kristīne",
+    "lastName": "Zalāns",
     "age": 20,
     "position": "LM",
     "altPositions": [],
@@ -15009,8 +15009,8 @@
   },
   {
     "id": "6d9c36e3-3c5e-49df-b854-f0cdc459d3c4",
-    "firstName": "Cédric",
-    "lastName": "Fournier",
+    "firstName": "Ilze",
+    "lastName": "Bērziņš",
     "age": 35,
     "position": "CM",
     "altPositions": [],
@@ -15051,8 +15051,8 @@
   },
   {
     "id": "9a3117c7-1fe9-4b61-8eb5-6dc08531a271",
-    "firstName": "Liam",
-    "lastName": "Roger",
+    "firstName": "Rolands",
+    "lastName": "Ozoliņš",
     "age": 25,
     "position": "RM",
     "altPositions": [],
@@ -15093,8 +15093,8 @@
   },
   {
     "id": "23ab6168-8279-4dab-886c-3eff8276cfc3",
-    "firstName": "Charles",
-    "lastName": "Duval",
+    "firstName": "Toms",
+    "lastName": "Mežsargs",
     "age": 24,
     "position": "LW",
     "altPositions": [],
@@ -15135,8 +15135,8 @@
   },
   {
     "id": "a0eda8eb-089a-4c7a-a214-82b3fa0abe58",
-    "firstName": "Killian",
-    "lastName": "David",
+    "firstName": "Uldis",
+    "lastName": "Ozoliņš",
     "age": 26,
     "position": "CB",
     "altPositions": [],
@@ -15177,8 +15177,8 @@
   },
   {
     "id": "729f2c59-93c6-4d5e-9293-e77f9eb9f8e4",
-    "firstName": "Yannick",
-    "lastName": "Girard",
+    "firstName": "Gints",
+    "lastName": "Strautiņš",
     "age": 20,
     "position": "LM",
     "altPositions": [
@@ -15221,8 +15221,8 @@
   },
   {
     "id": "61a3eec5-be7a-4407-aaa7-ef0f0c53c31e",
-    "firstName": "Jules",
-    "lastName": "Mathieu",
+    "firstName": "Artūrs",
+    "lastName": "Siliņš",
     "age": 27,
     "position": "RM",
     "altPositions": [
@@ -15265,8 +15265,8 @@
   },
   {
     "id": "90fc965c-eabd-4d72-8f0d-151dba297a09",
-    "firstName": "Mathéo",
-    "lastName": "Meunier",
+    "firstName": "Gints",
+    "lastName": "Bērziņš",
     "age": 26,
     "position": "RB",
     "altPositions": [
@@ -15310,8 +15310,8 @@
   },
   {
     "id": "a29d5644-d69c-4bca-890d-31eec1254177",
-    "firstName": "Mathis",
-    "lastName": "Duval",
+    "firstName": "Andris",
+    "lastName": "Upenieks",
     "age": 34,
     "position": "DM",
     "altPositions": [],
@@ -15352,8 +15352,8 @@
   },
   {
     "id": "2207dda8-1476-4889-ba1f-78962bcbf903",
-    "firstName": "Anthony",
-    "lastName": "Thomas",
+    "firstName": "Kristīne",
+    "lastName": "Vītoliņš",
     "age": 34,
     "position": "LB",
     "altPositions": [],
@@ -15394,8 +15394,8 @@
   },
   {
     "id": "f88dc154-f467-4d22-9637-18cd4bce7c7a",
-    "firstName": "Liam",
-    "lastName": "Moreau",
+    "firstName": "Aigars",
+    "lastName": "Āboltiņš",
     "age": 28,
     "position": "CB",
     "altPositions": [],
@@ -15436,8 +15436,8 @@
   },
   {
     "id": "c3e84d08-f4e4-4550-b08b-da18e34f4b9e",
-    "firstName": "Hugo",
-    "lastName": "Fournier",
+    "firstName": "Jānis",
+    "lastName": "Bērziņš",
     "age": 29,
     "position": "CB",
     "altPositions": [],
@@ -15478,8 +15478,8 @@
   },
   {
     "id": "be498931-00cd-4782-b4b1-23d912688936",
-    "firstName": "Maxence",
-    "lastName": "Robin",
+    "firstName": "Inese",
+    "lastName": "Mežsargs",
     "age": 21,
     "position": "LB",
     "altPositions": [],
@@ -15520,8 +15520,8 @@
   },
   {
     "id": "3169c99d-408d-457a-b82f-369acd9fa931",
-    "firstName": "Pierre",
-    "lastName": "Bertrand",
+    "firstName": "Liga",
+    "lastName": "Bērziņš",
     "age": 21,
     "position": "AM",
     "altPositions": [],
@@ -15562,8 +15562,8 @@
   },
   {
     "id": "f46fc91b-1286-41c3-be36-dd6b8e8284db",
-    "firstName": "Frédéric",
-    "lastName": "Lopez",
+    "firstName": "Baiba",
+    "lastName": "Jansons",
     "age": 25,
     "position": "RB",
     "altPositions": [],
@@ -15604,8 +15604,8 @@
   },
   {
     "id": "b49d80dd-19a0-4514-ac48-ff54097531a5",
-    "firstName": "Adrien",
-    "lastName": "Marie",
+    "firstName": "Ilze",
+    "lastName": "Mežsargs",
     "age": 35,
     "position": "CM",
     "altPositions": [],
@@ -15646,8 +15646,8 @@
   },
   {
     "id": "120c407c-9c98-4d01-adb2-95d65c09b4e0",
-    "firstName": "Nathan",
-    "lastName": "Roux",
+    "firstName": "Emīls",
+    "lastName": "Zariņš",
     "age": 29,
     "position": "AM",
     "altPositions": [],
@@ -15688,8 +15688,8 @@
   },
   {
     "id": "8adeb984-cbcb-4f58-b864-03203c6fe3c9",
-    "firstName": "Valentin",
-    "lastName": "Duval",
+    "firstName": "Uldis",
+    "lastName": "Ceriņš",
     "age": 32,
     "position": "ST",
     "altPositions": [
@@ -15733,8 +15733,8 @@
   },
   {
     "id": "e6f4b77c-2a67-4917-8fe4-4197183a895b",
-    "firstName": "Pierre",
-    "lastName": "Joly",
+    "firstName": "Kristaps",
+    "lastName": "Siliņš",
     "age": 29,
     "position": "CB",
     "altPositions": [
@@ -15777,8 +15777,8 @@
   },
   {
     "id": "94469c98-c413-4704-8a6a-be1b38dd491c",
-    "firstName": "Cédric",
-    "lastName": "Marchand",
+    "firstName": "Dace",
+    "lastName": "Āboltiņš",
     "age": 23,
     "position": "GK",
     "altPositions": [],
@@ -15826,8 +15826,8 @@
   },
   {
     "id": "d7229551-f9e5-46cd-a97f-c49ef4459480",
-    "firstName": "Charles",
-    "lastName": "Sanchez",
+    "firstName": "Elīna",
+    "lastName": "Strautiņš",
     "age": 30,
     "position": "LW",
     "altPositions": [],
@@ -15868,8 +15868,8 @@
   },
   {
     "id": "ba328305-cdb8-4d0c-8580-2e1894b22361",
-    "firstName": "Olivier",
-    "lastName": "Moreau",
+    "firstName": "Kristīne",
+    "lastName": "Strautiņš",
     "age": 31,
     "position": "RW",
     "altPositions": [],
@@ -15910,8 +15910,8 @@
   },
   {
     "id": "986cb86e-3093-4f2c-9dd6-f2f80973d8e3",
-    "firstName": "Tristan",
-    "lastName": "Petit",
+    "firstName": "Kristīne",
+    "lastName": "Ceriņš",
     "age": 21,
     "position": "CB",
     "altPositions": [
@@ -15954,8 +15954,8 @@
   },
   {
     "id": "a833ddfc-87c1-495b-b90f-dd74407b1317",
-    "firstName": "Romain",
-    "lastName": "Moreau",
+    "firstName": "Kaspars",
+    "lastName": "Mežsargs",
     "age": 24,
     "position": "CB",
     "altPositions": [
@@ -15998,8 +15998,8 @@
   },
   {
     "id": "96b87074-493a-412f-a8e8-f3c8be2a668e",
-    "firstName": "Aurélien",
-    "lastName": "Faure",
+    "firstName": "Sandis",
+    "lastName": "Ķēniņš",
     "age": 30,
     "position": "CM",
     "altPositions": [
@@ -16042,8 +16042,8 @@
   },
   {
     "id": "5adccf1f-9814-415e-b372-b61ccb74de7d",
-    "firstName": "Mathis",
-    "lastName": "Simon",
+    "firstName": "Toms",
+    "lastName": "Vaivods",
     "age": 20,
     "position": "CM",
     "altPositions": [],
@@ -16084,8 +16084,8 @@
   },
   {
     "id": "275a4bc1-0514-4a7e-a458-efbffd815d32",
-    "firstName": "Thomas",
-    "lastName": "Fournier",
+    "firstName": "Gunta",
+    "lastName": "Upenieks",
     "age": 19,
     "position": "LM",
     "altPositions": [],
@@ -16126,8 +16126,8 @@
   },
   {
     "id": "e32e0bbe-b5b0-4d70-9806-e8782e247842",
-    "firstName": "Sébastien",
-    "lastName": "Joly",
+    "firstName": "Artūrs",
+    "lastName": "Bērziņš",
     "age": 27,
     "position": "ST",
     "altPositions": [],
@@ -16168,8 +16168,8 @@
   },
   {
     "id": "a7d51dc5-f06b-4899-b715-29af73a4b55e",
-    "firstName": "Guillaume",
-    "lastName": "Roussel",
+    "firstName": "Kristīne",
+    "lastName": "Rubenis",
     "age": 33,
     "position": "ST",
     "altPositions": [],
@@ -16210,8 +16210,8 @@
   },
   {
     "id": "11ad6b79-75ea-4354-9b6e-d66ac9d74000",
-    "firstName": "Charles",
-    "lastName": "Guérin",
+    "firstName": "Edgars",
+    "lastName": "Vaivods",
     "age": 35,
     "position": "CB",
     "altPositions": [],
@@ -16252,8 +16252,8 @@
   },
   {
     "id": "c359d778-25e5-4dcc-9036-1a658a478fd2",
-    "firstName": "Alexandre",
-    "lastName": "Vincent",
+    "firstName": "Edgars",
+    "lastName": "Skujiņš",
     "age": 20,
     "position": "RB",
     "altPositions": [
@@ -16296,8 +16296,8 @@
   },
   {
     "id": "b804c0b0-9e9b-4a29-9f67-fd6d463ef0e1",
-    "firstName": "Léo",
-    "lastName": "Roux",
+    "firstName": "Solvita",
+    "lastName": "Skujiņš",
     "age": 32,
     "position": "CB",
     "altPositions": [],
@@ -16338,8 +16338,8 @@
   },
   {
     "id": "8d66c360-9b02-4b00-9142-8734a92c9de1",
-    "firstName": "Bastien",
-    "lastName": "Durand",
+    "firstName": "Lauris",
+    "lastName": "Briede",
     "age": 27,
     "position": "DM",
     "altPositions": [],
@@ -16380,8 +16380,8 @@
   },
   {
     "id": "43e71c4a-de9a-495f-8253-0e8ee556536a",
-    "firstName": "Maxime",
-    "lastName": "Duval",
+    "firstName": "Rolands",
+    "lastName": "Siliņš",
     "age": 23,
     "position": "ST",
     "altPositions": [
@@ -16424,8 +16424,8 @@
   },
   {
     "id": "120bd3f8-db21-4022-8de7-a48775c9a66a",
-    "firstName": "Louis",
-    "lastName": "Gautier",
+    "firstName": "Solvita",
+    "lastName": "Melnis",
     "age": 24,
     "position": "CM",
     "altPositions": [
@@ -16468,8 +16468,8 @@
   },
   {
     "id": "2f5e8a2a-3500-47e2-bfe1-4f8055c855b9",
-    "firstName": "Augustin",
-    "lastName": "Henry",
+    "firstName": "Inese",
+    "lastName": "Lācis",
     "age": 35,
     "position": "CM",
     "altPositions": [
@@ -16512,8 +16512,8 @@
   },
   {
     "id": "211b4f1f-9b12-4b4f-b7bb-3e63fbc81d03",
-    "firstName": "Cédric",
-    "lastName": "Denis",
+    "firstName": "Kaspars",
+    "lastName": "Zalāns",
     "age": 21,
     "position": "GK",
     "altPositions": [],
@@ -16561,8 +16561,8 @@
   },
   {
     "id": "f8b8fcee-9553-4244-8c34-0075fc7d657a",
-    "firstName": "Pierre",
-    "lastName": "Dubois",
+    "firstName": "Uldis",
+    "lastName": "Liepiņš",
     "age": 31,
     "position": "DM",
     "altPositions": [
@@ -16605,8 +16605,8 @@
   },
   {
     "id": "ef220c84-d662-44bf-b1a5-f3ec4957fccb",
-    "firstName": "Paul",
-    "lastName": "Bernard",
+    "firstName": "Rolands",
+    "lastName": "Vaivods",
     "age": 29,
     "position": "CM",
     "altPositions": [],
@@ -16647,8 +16647,8 @@
   },
   {
     "id": "1a01643b-86e6-4138-9ed8-eb5028042302",
-    "firstName": "Valentin",
-    "lastName": "David",
+    "firstName": "Inese",
+    "lastName": "Strautiņš",
     "age": 19,
     "position": "CM",
     "altPositions": [
@@ -16691,8 +16691,8 @@
   },
   {
     "id": "d8fabe71-ec94-4840-8193-2102d8a6e9a6",
-    "firstName": "Thomas",
-    "lastName": "Bernard",
+    "firstName": "Māris",
+    "lastName": "Skujiņš",
     "age": 24,
     "position": "RM",
     "altPositions": [],
@@ -16733,8 +16733,8 @@
   },
   {
     "id": "acde28cd-af44-4126-bebc-ad1f2df448cf",
-    "firstName": "Benjamin",
-    "lastName": "Marie",
+    "firstName": "Gints",
+    "lastName": "Balodis",
     "age": 27,
     "position": "LB",
     "altPositions": [],
@@ -16775,8 +16775,8 @@
   },
   {
     "id": "5d4256e9-3ea8-4a0a-9196-d313fb543a71",
-    "firstName": "Cédric",
-    "lastName": "Martin",
+    "firstName": "Lauris",
+    "lastName": "Ozoliņš",
     "age": 22,
     "position": "RB",
     "altPositions": [],
@@ -16817,8 +16817,8 @@
   },
   {
     "id": "34f23f57-1948-488f-91fa-c7401e392329",
-    "firstName": "Clément",
-    "lastName": "Martin",
+    "firstName": "Jānis",
+    "lastName": "Ķēniņš",
     "age": 30,
     "position": "AM",
     "altPositions": [],
@@ -16859,8 +16859,8 @@
   },
   {
     "id": "3b545f80-8219-44a4-a42e-d59883931c62",
-    "firstName": "Christophe",
-    "lastName": "Bonnet",
+    "firstName": "Kristaps",
+    "lastName": "Rubenis",
     "age": 26,
     "position": "DM",
     "altPositions": [
@@ -16903,8 +16903,8 @@
   },
   {
     "id": "13a0e23b-2488-4944-bab4-c367d0ab5fa7",
-    "firstName": "David",
-    "lastName": "Marchand",
+    "firstName": "Guntars",
+    "lastName": "Briede",
     "age": 30,
     "position": "GK",
     "altPositions": [],
@@ -16952,8 +16952,8 @@
   },
   {
     "id": "47c3e065-169a-4062-83bb-9641ada76654",
-    "firstName": "Tanguy",
-    "lastName": "Faure",
+    "firstName": "Guntars",
+    "lastName": "Krūmiņš",
     "age": 30,
     "position": "RW",
     "altPositions": [],
@@ -16994,8 +16994,8 @@
   },
   {
     "id": "96fe969a-a6e6-4565-95a6-2d21265f6a43",
-    "firstName": "Clément",
-    "lastName": "Boyer",
+    "firstName": "Uldis",
+    "lastName": "Liepiņš",
     "age": 35,
     "position": "RW",
     "altPositions": [],
@@ -17036,8 +17036,8 @@
   },
   {
     "id": "eeb1842d-c4f4-496c-95b0-3de164928f61",
-    "firstName": "Édouard",
-    "lastName": "Lemaire",
+    "firstName": "Liga",
+    "lastName": "Lācis",
     "age": 24,
     "position": "ST",
     "altPositions": [],
@@ -17078,8 +17078,8 @@
   },
   {
     "id": "67cc90ac-cd51-46f6-a6e2-d57106786d83",
-    "firstName": "Antoine",
-    "lastName": "Mercier",
+    "firstName": "Andris",
+    "lastName": "Mežsargs",
     "age": 26,
     "position": "LB",
     "altPositions": [],
@@ -17120,8 +17120,8 @@
   },
   {
     "id": "765dff25-1ab3-4e4f-be34-ad6b79be44b6",
-    "firstName": "Jonathan",
-    "lastName": "Clément",
+    "firstName": "Kristaps",
+    "lastName": "Ķēniņš",
     "age": 30,
     "position": "GK",
     "altPositions": [],
@@ -17169,8 +17169,8 @@
   },
   {
     "id": "379f13d0-4b3c-47fc-af40-adda1b51aaf8",
-    "firstName": "Lilian",
-    "lastName": "Lefèvre",
+    "firstName": "Baiba",
+    "lastName": "Freibergs",
     "age": 30,
     "position": "LW",
     "altPositions": [
@@ -17213,8 +17213,8 @@
   },
   {
     "id": "eb949d59-2abf-4a1d-976d-465211903c18",
-    "firstName": "Corentin",
-    "lastName": "Roussel",
+    "firstName": "Baiba",
+    "lastName": "Eglītis",
     "age": 31,
     "position": "CB",
     "altPositions": [],
@@ -17255,8 +17255,8 @@
   },
   {
     "id": "7e1405b9-f583-45e6-a540-22beb815bd31",
-    "firstName": "Erwan",
-    "lastName": "Lemaire",
+    "firstName": "Kristaps",
+    "lastName": "Upenieks",
     "age": 31,
     "position": "DM",
     "altPositions": [
@@ -17299,8 +17299,8 @@
   },
   {
     "id": "48162647-24bc-4f65-9d04-0d52cdbc7559",
-    "firstName": "Sébastien",
-    "lastName": "Michel",
+    "firstName": "Rolands",
+    "lastName": "Krūmiņš",
     "age": 25,
     "position": "ST",
     "altPositions": [],
@@ -17341,8 +17341,8 @@
   },
   {
     "id": "1b85da76-2a1c-4d4b-a1f0-ef277a377239",
-    "firstName": "Bruno",
-    "lastName": "Mercier",
+    "firstName": "Baiba",
+    "lastName": "Siliņš",
     "age": 30,
     "position": "ST",
     "altPositions": [],
@@ -17383,8 +17383,8 @@
   },
   {
     "id": "b66e6be7-584e-4270-9b25-a12f97c37cd2",
-    "firstName": "Benjamin",
-    "lastName": "Morel",
+    "firstName": "Gunta",
+    "lastName": "Zalāns",
     "age": 36,
     "position": "DM",
     "altPositions": [],
@@ -17425,8 +17425,8 @@
   },
   {
     "id": "a4298ed9-9cbb-4184-ae6f-cc9e72c239c0",
-    "firstName": "Yann",
-    "lastName": "Martinez",
+    "firstName": "Kristaps",
+    "lastName": "Āboltiņš",
     "age": 24,
     "position": "RB",
     "altPositions": [
@@ -17469,8 +17469,8 @@
   },
   {
     "id": "d4513c03-6178-495b-83b1-4a7aae3caa00",
-    "firstName": "Aurélien",
-    "lastName": "Morin",
+    "firstName": "Sandis",
+    "lastName": "Eglītis",
     "age": 21,
     "position": "AM",
     "altPositions": [],
@@ -17511,8 +17511,8 @@
   },
   {
     "id": "4b2dd133-8e9d-4f64-abc5-d0dacb6d0d9d",
-    "firstName": "Frédéric",
-    "lastName": "Denis",
+    "firstName": "Edgars",
+    "lastName": "Zalāns",
     "age": 28,
     "position": "GK",
     "altPositions": [],
@@ -17560,8 +17560,8 @@
   },
   {
     "id": "c549f3cc-a8b2-404e-b566-cec7f35cd5ce",
-    "firstName": "Paul",
-    "lastName": "Nicolas",
+    "firstName": "Kristaps",
+    "lastName": "Āboltiņš",
     "age": 18,
     "position": "LM",
     "altPositions": [
@@ -17604,8 +17604,8 @@
   },
   {
     "id": "32ba6e95-9566-4183-a00e-7721eeca60d0",
-    "firstName": "Arthur",
-    "lastName": "Bonnet",
+    "firstName": "Baiba",
+    "lastName": "Melnis",
     "age": 31,
     "position": "AM",
     "altPositions": [],
@@ -17646,8 +17646,8 @@
   },
   {
     "id": "3930ea89-d9f7-40ab-89ad-e4b3d8abc925",
-    "firstName": "Louis",
-    "lastName": "Joly",
+    "firstName": "Baiba",
+    "lastName": "Kalniņš",
     "age": 27,
     "position": "RB",
     "altPositions": [],
@@ -17688,8 +17688,8 @@
   },
   {
     "id": "2d4c3478-552c-450c-91f5-661b6953b79e",
-    "firstName": "Maxime",
-    "lastName": "Henry",
+    "firstName": "Sandis",
+    "lastName": "Briede",
     "age": 23,
     "position": "RM",
     "altPositions": [],
@@ -17730,8 +17730,8 @@
   },
   {
     "id": "ade01d0a-96d4-4f1b-96a0-d17704491794",
-    "firstName": "Théo",
-    "lastName": "Dufour",
+    "firstName": "Sandis",
+    "lastName": "Skujiņš",
     "age": 25,
     "position": "RB",
     "altPositions": [],
@@ -17772,8 +17772,8 @@
   },
   {
     "id": "c3312a75-b1f8-4c4c-b450-e8d29033536d",
-    "firstName": "Louis",
-    "lastName": "Garnier",
+    "firstName": "Artūrs",
+    "lastName": "Melnis",
     "age": 31,
     "position": "DM",
     "altPositions": [],
@@ -17814,8 +17814,8 @@
   },
   {
     "id": "3e77e042-66d2-4a49-8f9a-54267bdef791",
-    "firstName": "Raphaël",
-    "lastName": "Clément",
+    "firstName": "Sandis",
+    "lastName": "Bērziņš",
     "age": 21,
     "position": "CB",
     "altPositions": [],
@@ -17856,8 +17856,8 @@
   },
   {
     "id": "e08c3775-6c20-4e81-bd4e-658b6b9e7e31",
-    "firstName": "Mickaël",
-    "lastName": "David",
+    "firstName": "Rolands",
+    "lastName": "Briede",
     "age": 25,
     "position": "RM",
     "altPositions": [
@@ -17900,8 +17900,8 @@
   },
   {
     "id": "927d854e-d0f4-42bb-bc93-1249c46ce21b",
-    "firstName": "Mathis",
-    "lastName": "Chevalier",
+    "firstName": "Andris",
+    "lastName": "Jansons",
     "age": 29,
     "position": "RB",
     "altPositions": [],
@@ -17942,8 +17942,8 @@
   },
   {
     "id": "2ffb56ae-9b19-400c-b7f8-41bda8b8360f",
-    "firstName": "Louis",
-    "lastName": "Clément",
+    "firstName": "Inese",
+    "lastName": "Vaivods",
     "age": 27,
     "position": "LW",
     "altPositions": [],
@@ -17984,8 +17984,8 @@
   },
   {
     "id": "766f5d94-ee66-44b2-9135-6bea57643e09",
-    "firstName": "Corentin",
-    "lastName": "Perrin",
+    "firstName": "Andris",
+    "lastName": "Lācis",
     "age": 35,
     "position": "ST",
     "altPositions": [
@@ -18028,8 +18028,8 @@
   },
   {
     "id": "9390f539-8a8f-4c7f-ae05-de14d29820c0",
-    "firstName": "Maxime",
-    "lastName": "Gérard",
+    "firstName": "Normunds",
+    "lastName": "Puķe",
     "age": 19,
     "position": "CM",
     "altPositions": [],
@@ -18070,8 +18070,8 @@
   },
   {
     "id": "d8cfd966-8c51-4426-b618-fb175459b14b",
-    "firstName": "Nathan",
-    "lastName": "Lopez",
+    "firstName": "Mārtiņš",
+    "lastName": "Briede",
     "age": 24,
     "position": "LW",
     "altPositions": [
@@ -18114,8 +18114,8 @@
   },
   {
     "id": "0fac72e4-cc75-4774-886f-66acd0d3c352",
-    "firstName": "Loïc",
-    "lastName": "Roche",
+    "firstName": "Guntars",
+    "lastName": "Zariņš",
     "age": 18,
     "position": "GK",
     "altPositions": [],
@@ -18163,8 +18163,8 @@
   },
   {
     "id": "c70938f7-0bfe-4153-904d-31c9de313311",
-    "firstName": "Sébastien",
-    "lastName": "Simon",
+    "firstName": "Aija",
+    "lastName": "Roze",
     "age": 29,
     "position": "GK",
     "altPositions": [],
@@ -18212,8 +18212,8 @@
   },
   {
     "id": "eb6fb4ca-7995-48e2-942e-3dbb08aa0860",
-    "firstName": "Gaël",
-    "lastName": "Roger",
+    "firstName": "Artūrs",
+    "lastName": "Lācis",
     "age": 26,
     "position": "GK",
     "altPositions": [],
@@ -18261,8 +18261,8 @@
   },
   {
     "id": "224a5b46-9511-4b06-a0f7-fc252d31a8d2",
-    "firstName": "Benjamin",
-    "lastName": "Leroy",
+    "firstName": "Baiba",
+    "lastName": "Āboltiņš",
     "age": 25,
     "position": "CB",
     "altPositions": [
@@ -18305,8 +18305,8 @@
   },
   {
     "id": "e79d62fd-aaa9-4d18-81fa-b0e0bb11448c",
-    "firstName": "Guillaume",
-    "lastName": "Clément",
+    "firstName": "Baiba",
+    "lastName": "Upenieks",
     "age": 19,
     "position": "CB",
     "altPositions": [],
@@ -18347,8 +18347,8 @@
   },
   {
     "id": "c80e0b52-422b-4a90-93f3-514fa52f38d1",
-    "firstName": "Paul",
-    "lastName": "Vincent",
+    "firstName": "Baiba",
+    "lastName": "Rubenis",
     "age": 33,
     "position": "LB",
     "altPositions": [],
@@ -18389,8 +18389,8 @@
   },
   {
     "id": "a667455f-f1ee-465f-ae40-a1ce412ad353",
-    "firstName": "Nicolas",
-    "lastName": "Roussel",
+    "firstName": "Edgars",
+    "lastName": "Liepiņš",
     "age": 28,
     "position": "CM",
     "altPositions": [],
@@ -18431,8 +18431,8 @@
   },
   {
     "id": "d7986509-1003-480d-b181-ab031d0ed22a",
-    "firstName": "Damien",
-    "lastName": "Roy",
+    "firstName": "Normunds",
+    "lastName": "Eglītis",
     "age": 32,
     "position": "CB",
     "altPositions": [
@@ -18475,8 +18475,8 @@
   },
   {
     "id": "0d5b5665-19d6-406c-9a87-e49ad71fe374",
-    "firstName": "Hervé",
-    "lastName": "François",
+    "firstName": "Kristīne",
+    "lastName": "Rubenis",
     "age": 27,
     "position": "ST",
     "altPositions": [
@@ -18520,8 +18520,8 @@
   },
   {
     "id": "46e3265e-2ed7-4af9-97ed-eca3cd2a83a3",
-    "firstName": "Liam",
-    "lastName": "Boyer",
+    "firstName": "Māris",
+    "lastName": "Krūmiņš",
     "age": 26,
     "position": "LM",
     "altPositions": [],
@@ -18562,8 +18562,8 @@
   },
   {
     "id": "1596fa7a-7f59-4bf6-93f0-05a8e36f4ea8",
-    "firstName": "Tom",
-    "lastName": "Durand",
+    "firstName": "Sandis",
+    "lastName": "Krūmiņš",
     "age": 34,
     "position": "CB",
     "altPositions": [
@@ -18606,8 +18606,8 @@
   },
   {
     "id": "9b026e5b-bac5-4e30-ab27-43de1cefaf04",
-    "firstName": "Hugo",
-    "lastName": "Martin",
+    "firstName": "Gunta",
+    "lastName": "Zalāns",
     "age": 21,
     "position": "CM",
     "altPositions": [],
@@ -18648,8 +18648,8 @@
   },
   {
     "id": "fb16f905-31a9-4e4a-8bad-b4907dafe0d7",
-    "firstName": "Nicolas",
-    "lastName": "Bertrand",
+    "firstName": "Ilze",
+    "lastName": "Ozoliņš",
     "age": 25,
     "position": "CB",
     "altPositions": [],
@@ -18690,8 +18690,8 @@
   },
   {
     "id": "d8039940-dea9-412d-b6f1-83e16e010e0e",
-    "firstName": "Alexandre",
-    "lastName": "Duval",
+    "firstName": "Andris",
+    "lastName": "Grīnbergs",
     "age": 27,
     "position": "CM",
     "altPositions": [
@@ -18734,8 +18734,8 @@
   },
   {
     "id": "4f6cf2bd-540f-4e8e-bf70-bae47f03a0c4",
-    "firstName": "Julien",
-    "lastName": "David",
+    "firstName": "Elīna",
+    "lastName": "Krūmiņš",
     "age": 29,
     "position": "DM",
     "altPositions": [],
@@ -18776,8 +18776,8 @@
   },
   {
     "id": "f65d89c9-a2cf-4405-8e40-2f352d3d062a",
-    "firstName": "Louis",
-    "lastName": "Durand",
+    "firstName": "Baiba",
+    "lastName": "Zalāns",
     "age": 21,
     "position": "RW",
     "altPositions": [],
@@ -18818,8 +18818,8 @@
   },
   {
     "id": "bf1764dc-8408-4bec-a45f-9d1daf019e6b",
-    "firstName": "Yannick",
-    "lastName": "Dupont",
+    "firstName": "Inese",
+    "lastName": "Rubenis",
     "age": 26,
     "position": "CB",
     "altPositions": [],
@@ -18860,8 +18860,8 @@
   },
   {
     "id": "6fa99436-f56e-4f8d-89ef-b202e0263998",
-    "firstName": "Raphaël",
-    "lastName": "André",
+    "firstName": "Dace",
+    "lastName": "Skujiņš",
     "age": 25,
     "position": "RW",
     "altPositions": [],
@@ -18902,8 +18902,8 @@
   },
   {
     "id": "c156c47a-639e-4a55-9c6f-2e0b241c6de3",
-    "firstName": "Aurélien",
-    "lastName": "Richard",
+    "firstName": "Reinis",
+    "lastName": "Briede",
     "age": 33,
     "position": "LB",
     "altPositions": [],
@@ -18944,8 +18944,8 @@
   },
   {
     "id": "b97c89a8-f70e-410d-a335-70336850e994",
-    "firstName": "Cédric",
-    "lastName": "Denis",
+    "firstName": "Liga",
+    "lastName": "Mežsargs",
     "age": 30,
     "position": "CB",
     "altPositions": [
@@ -18989,8 +18989,8 @@
   },
   {
     "id": "e52df852-6c97-41df-98a9-d1f686cd50ce",
-    "firstName": "Mathis",
-    "lastName": "Morel",
+    "firstName": "Aija",
+    "lastName": "Kalniņš",
     "age": 28,
     "position": "LW",
     "altPositions": [],
@@ -19031,8 +19031,8 @@
   },
   {
     "id": "1a60b86e-2cbe-4d18-a5c1-bb89674824e7",
-    "firstName": "Raphaël",
-    "lastName": "Gauthier",
+    "firstName": "Rolands",
+    "lastName": "Ģēģeris",
     "age": 22,
     "position": "CM",
     "altPositions": [],
@@ -19073,8 +19073,8 @@
   },
   {
     "id": "b43a2a47-cf9c-4f18-9058-83b9f216ca68",
-    "firstName": "Cédric",
-    "lastName": "Laurent",
+    "firstName": "Guntars",
+    "lastName": "Ģēģeris",
     "age": 24,
     "position": "RW",
     "altPositions": [],
@@ -19115,8 +19115,8 @@
   },
   {
     "id": "631703f2-0fd8-45a3-b4d1-15d87638fd38",
-    "firstName": "Enzo",
-    "lastName": "Dumont",
+    "firstName": "Kristaps",
+    "lastName": "Strautiņš",
     "age": 21,
     "position": "LB",
     "altPositions": [],
@@ -19157,8 +19157,8 @@
   },
   {
     "id": "b715a031-acab-4971-a852-00182d39bd62",
-    "firstName": "Étienne",
-    "lastName": "Morin",
+    "firstName": "Jānis",
+    "lastName": "Liepiņš",
     "age": 33,
     "position": "AM",
     "altPositions": [],
@@ -19199,8 +19199,8 @@
   },
   {
     "id": "16f2fa3b-6d9e-4125-9dfc-d16ee734f5aa",
-    "firstName": "Tanguy",
-    "lastName": "Dupont",
+    "firstName": "Normunds",
+    "lastName": "Ķēniņš",
     "age": 26,
     "position": "ST",
     "altPositions": [],
@@ -19241,8 +19241,8 @@
   },
   {
     "id": "26efa027-5851-4544-b476-5129f907e2ca",
-    "firstName": "Killian",
-    "lastName": "Sanchez",
+    "firstName": "Liga",
+    "lastName": "Vaivods",
     "age": 35,
     "position": "CB",
     "altPositions": [
@@ -19285,8 +19285,8 @@
   },
   {
     "id": "bb1a1a02-4fa6-47da-8dec-e01df80e61bb",
-    "firstName": "Quentin",
-    "lastName": "Nicolas",
+    "firstName": "Gunta",
+    "lastName": "Upenieks",
     "age": 34,
     "position": "CM",
     "altPositions": [
@@ -19329,8 +19329,8 @@
   },
   {
     "id": "68ccd455-7d69-4bc9-a012-2450d0ef77f9",
-    "firstName": "Quentin",
-    "lastName": "Lefèvre",
+    "firstName": "Lauris",
+    "lastName": "Liepiņš",
     "age": 37,
     "position": "LB",
     "altPositions": [],
@@ -19371,8 +19371,8 @@
   },
   {
     "id": "350b2fe9-291e-4271-a852-a061784deeda",
-    "firstName": "Corentin",
-    "lastName": "Robin",
+    "firstName": "Inese",
+    "lastName": "Jansons",
     "age": 27,
     "position": "CM",
     "altPositions": [
@@ -19415,8 +19415,8 @@
   },
   {
     "id": "2745efd6-791f-4096-89b0-28eb4f9a119a",
-    "firstName": "Sébastien",
-    "lastName": "Meunier",
+    "firstName": "Aigars",
+    "lastName": "Upenieks",
     "age": 25,
     "position": "LW",
     "altPositions": [],
@@ -19457,8 +19457,8 @@
   },
   {
     "id": "c220d9ba-2ca8-4675-89e9-fd3a4a7669f9",
-    "firstName": "Jules",
-    "lastName": "Bonnet",
+    "firstName": "Ilze",
+    "lastName": "Roze",
     "age": 28,
     "position": "RW",
     "altPositions": [],
@@ -19499,8 +19499,8 @@
   },
   {
     "id": "719635a6-42df-4d09-ae6e-9dbaf3ea8c4a",
-    "firstName": "Henri",
-    "lastName": "François",
+    "firstName": "Rolands",
+    "lastName": "Ozoliņš",
     "age": 30,
     "position": "RW",
     "altPositions": [],
@@ -19541,8 +19541,8 @@
   },
   {
     "id": "f5226dde-737e-4c25-b9a2-4e9e3d79a4d2",
-    "firstName": "Bastien",
-    "lastName": "Muller",
+    "firstName": "Kaspars",
+    "lastName": "Grīnbergs",
     "age": 26,
     "position": "CB",
     "altPositions": [
@@ -19585,8 +19585,8 @@
   },
   {
     "id": "062eb94c-ccca-489c-8630-a894512610ab",
-    "firstName": "Guillaume",
-    "lastName": "Dupont",
+    "firstName": "Elīna",
+    "lastName": "Kalniņš",
     "age": 26,
     "position": "AM",
     "altPositions": [],
@@ -19627,8 +19627,8 @@
   },
   {
     "id": "e2d2d9c2-ef9e-4bff-b520-edd1a9850b61",
-    "firstName": "Yann",
-    "lastName": "Robert",
+    "firstName": "Gunta",
+    "lastName": "Zariņš",
     "age": 25,
     "position": "CB",
     "altPositions": [
@@ -19671,8 +19671,8 @@
   },
   {
     "id": "c461b74f-6edf-4e96-b3a0-a48f335fefdc",
-    "firstName": "Gabriel",
-    "lastName": "Garnier",
+    "firstName": "Reinis",
+    "lastName": "Siliņš",
     "age": 28,
     "position": "CM",
     "altPositions": [],
@@ -19713,8 +19713,8 @@
   },
   {
     "id": "19e2f0e9-d93f-45a2-a63e-3a032e7e8009",
-    "firstName": "Raphaël",
-    "lastName": "Laurent",
+    "firstName": "Normunds",
+    "lastName": "Eglītis",
     "age": 20,
     "position": "LB",
     "altPositions": [],
@@ -19755,8 +19755,8 @@
   },
   {
     "id": "8df3f9e1-d775-4e50-bc3b-1a126f7690a8",
-    "firstName": "Julien",
-    "lastName": "Gauthier",
+    "firstName": "Baiba",
+    "lastName": "Grīnbergs",
     "age": 27,
     "position": "CB",
     "altPositions": [
@@ -19799,8 +19799,8 @@
   },
   {
     "id": "a2dfb3ba-143a-4d03-b1c9-cbc6300edbb1",
-    "firstName": "Killian",
-    "lastName": "Boyer",
+    "firstName": "Kristaps",
+    "lastName": "Zalāns",
     "age": 35,
     "position": "LM",
     "altPositions": [
@@ -19844,8 +19844,8 @@
   },
   {
     "id": "dfe62b78-474d-47bd-9066-76a1557289e8",
-    "firstName": "Loïc",
-    "lastName": "Sanchez",
+    "firstName": "Lauris",
+    "lastName": "Jansons",
     "age": 35,
     "position": "CB",
     "altPositions": [],
@@ -19886,8 +19886,8 @@
   },
   {
     "id": "a8e7467c-a6bb-4da8-9ced-6bd218f2e2e9",
-    "firstName": "Jules",
-    "lastName": "Legrand",
+    "firstName": "Sandis",
+    "lastName": "Zariņš",
     "age": 26,
     "position": "RM",
     "altPositions": [],
@@ -19928,8 +19928,8 @@
   },
   {
     "id": "3eff5c4c-081c-430e-91f1-7adb5bffa74a",
-    "firstName": "Émilien",
-    "lastName": "Dumont",
+    "firstName": "Mārtiņš",
+    "lastName": "Skujiņš",
     "age": 19,
     "position": "CB",
     "altPositions": [],
@@ -19970,8 +19970,8 @@
   },
   {
     "id": "4285dffe-f649-4497-9cd6-244205403157",
-    "firstName": "Yann",
-    "lastName": "Roy",
+    "firstName": "Normunds",
+    "lastName": "Mežsargs",
     "age": 20,
     "position": "CB",
     "altPositions": [],
@@ -20012,8 +20012,8 @@
   },
   {
     "id": "8e9a28a2-b508-4c08-9b6d-e2f28a44541d",
-    "firstName": "Nicolas",
-    "lastName": "Meunier",
+    "firstName": "Inese",
+    "lastName": "Vītoliņš",
     "age": 20,
     "position": "DM",
     "altPositions": [
@@ -20056,8 +20056,8 @@
   },
   {
     "id": "5b0b5d61-55d8-48c6-84d2-1437bfb28132",
-    "firstName": "Henri",
-    "lastName": "Robert",
+    "firstName": "Gunta",
+    "lastName": "Briede",
     "age": 34,
     "position": "LW",
     "altPositions": [],
@@ -20098,8 +20098,8 @@
   },
   {
     "id": "0c4dfa65-136d-4a59-b2a1-3fd5827cd6ed",
-    "firstName": "Pierre",
-    "lastName": "Lopez",
+    "firstName": "Aija",
+    "lastName": "Eglītis",
     "age": 29,
     "position": "RB",
     "altPositions": [],
@@ -20140,8 +20140,8 @@
   },
   {
     "id": "622afdd1-b333-4d8a-8c1d-8d6df432d896",
-    "firstName": "Mickaël",
-    "lastName": "Boyer",
+    "firstName": "Kaspars",
+    "lastName": "Jansons",
     "age": 37,
     "position": "LB",
     "altPositions": [],
@@ -20182,8 +20182,8 @@
   },
   {
     "id": "df3abf06-e9aa-4616-afe7-87edd89a66d0",
-    "firstName": "Tristan",
-    "lastName": "Bertrand",
+    "firstName": "Sandis",
+    "lastName": "Vaivods",
     "age": 30,
     "position": "CM",
     "altPositions": [
@@ -20226,8 +20226,8 @@
   },
   {
     "id": "d3408ba9-071c-45d4-81b7-24ca5f0ce68b",
-    "firstName": "Nicolas",
-    "lastName": "Moreau",
+    "firstName": "Dace",
+    "lastName": "Dumbris",
     "age": 28,
     "position": "RB",
     "altPositions": [],
@@ -20268,8 +20268,8 @@
   },
   {
     "id": "f007bdc7-23e1-4660-8649-d987e52c624e",
-    "firstName": "Gabriel",
-    "lastName": "Morel",
+    "firstName": "Gints",
+    "lastName": "Kalniņš",
     "age": 20,
     "position": "RB",
     "altPositions": [],
@@ -20310,8 +20310,8 @@
   },
   {
     "id": "885c6317-e5d1-47ac-aa5a-0fc6ca101877",
-    "firstName": "Valentin",
-    "lastName": "Richard",
+    "firstName": "Andris",
+    "lastName": "Freibergs",
     "age": 26,
     "position": "CM",
     "altPositions": [],
@@ -20352,8 +20352,8 @@
   },
   {
     "id": "2fb903e5-6eeb-414f-a84d-ec9fa2db3985",
-    "firstName": "Mickaël",
-    "lastName": "Laurent",
+    "firstName": "Gunta",
+    "lastName": "Jansons",
     "age": 23,
     "position": "ST",
     "altPositions": [],
@@ -20394,8 +20394,8 @@
   },
   {
     "id": "fc82187f-9e87-410d-b768-8997a445583a",
-    "firstName": "Quentin",
-    "lastName": "Nicolas",
+    "firstName": "Artūrs",
+    "lastName": "Grīnbergs",
     "age": 28,
     "position": "AM",
     "altPositions": [],
@@ -20436,8 +20436,8 @@
   },
   {
     "id": "03d4077f-f051-4f28-8ebd-069d0f468bf5",
-    "firstName": "Quentin",
-    "lastName": "Roux",
+    "firstName": "Aigars",
+    "lastName": "Krūmiņš",
     "age": 33,
     "position": "RM",
     "altPositions": [],
@@ -20478,8 +20478,8 @@
   },
   {
     "id": "1afcce90-50d0-4703-8c45-131a41904e89",
-    "firstName": "Gaël",
-    "lastName": "Michel",
+    "firstName": "Baiba",
+    "lastName": "Dumbris",
     "age": 25,
     "position": "DM",
     "altPositions": [
@@ -20522,8 +20522,8 @@
   },
   {
     "id": "6609654d-4f9f-4f22-9557-025fcb4d45c5",
-    "firstName": "Vincent",
-    "lastName": "Dufour",
+    "firstName": "Kristaps",
+    "lastName": "Skujiņš",
     "age": 29,
     "position": "DM",
     "altPositions": [],
@@ -20564,8 +20564,8 @@
   },
   {
     "id": "c0f32f73-e68b-4bdd-adae-d1481086855e",
-    "firstName": "Aurélien",
-    "lastName": "Dupont",
+    "firstName": "Raivis",
+    "lastName": "Zalāns",
     "age": 28,
     "position": "DM",
     "altPositions": [
@@ -20609,8 +20609,8 @@
   },
   {
     "id": "a705504a-9a68-4b82-b86f-6424ea5410b2",
-    "firstName": "Florian",
-    "lastName": "Legrand",
+    "firstName": "Andris",
+    "lastName": "Ģēģeris",
     "age": 27,
     "position": "CM",
     "altPositions": [],
@@ -20651,8 +20651,8 @@
   },
   {
     "id": "39b4d901-b6d0-45c5-9245-ddef3b81476c",
-    "firstName": "Damien",
-    "lastName": "Noël",
+    "firstName": "Emīls",
+    "lastName": "Dumbris",
     "age": 20,
     "position": "GK",
     "altPositions": [],
@@ -20700,8 +20700,8 @@
   },
   {
     "id": "663e7705-ae06-4e54-be5e-77be9adb4089",
-    "firstName": "Alexis",
-    "lastName": "Lopez",
+    "firstName": "Elīna",
+    "lastName": "Vītoliņš",
     "age": 21,
     "position": "CM",
     "altPositions": [],
@@ -20742,8 +20742,8 @@
   },
   {
     "id": "f4d57480-e1d6-4e1e-b50f-c2d7df2c0b22",
-    "firstName": "Clément",
-    "lastName": "Fournier",
+    "firstName": "Sandis",
+    "lastName": "Ozoliņš",
     "age": 19,
     "position": "LB",
     "altPositions": [],
@@ -20784,8 +20784,8 @@
   },
   {
     "id": "2b9cbe84-8ba9-489d-8dc3-204bbe31e17c",
-    "firstName": "Benjamin",
-    "lastName": "Perrin",
+    "firstName": "Toms",
+    "lastName": "Upenieks",
     "age": 33,
     "position": "LW",
     "altPositions": [],
@@ -20826,8 +20826,8 @@
   },
   {
     "id": "369c5dff-8b56-4a21-8872-72ed9519fe04",
-    "firstName": "Vincent",
-    "lastName": "Gérard",
+    "firstName": "Aigars",
+    "lastName": "Mežsargs",
     "age": 33,
     "position": "ST",
     "altPositions": [],
@@ -20868,8 +20868,8 @@
   },
   {
     "id": "afc37e09-243a-4788-a6f1-2e140e11e360",
-    "firstName": "Maxence",
-    "lastName": "André",
+    "firstName": "Liga",
+    "lastName": "Liepiņš",
     "age": 27,
     "position": "GK",
     "altPositions": [],
@@ -20917,8 +20917,8 @@
   },
   {
     "id": "a7925fef-18e0-4a31-ab04-3ad7bef2c1d6",
-    "firstName": "Mathis",
-    "lastName": "Blanc",
+    "firstName": "Jānis",
+    "lastName": "Siliņš",
     "age": 22,
     "position": "CB",
     "altPositions": [],
@@ -20959,8 +20959,8 @@
   },
   {
     "id": "c1996741-6f99-46e0-a661-e8e632640153",
-    "firstName": "Anthony",
-    "lastName": "Garcia",
+    "firstName": "Sandis",
+    "lastName": "Zariņš",
     "age": 18,
     "position": "ST",
     "altPositions": [],
@@ -21001,8 +21001,8 @@
   },
   {
     "id": "4ab1a025-14a3-40c9-8dbe-f6876c3311d8",
-    "firstName": "Augustin",
-    "lastName": "Garcia",
+    "firstName": "Reinis",
+    "lastName": "Vaivods",
     "age": 23,
     "position": "RB",
     "altPositions": [
@@ -21045,8 +21045,8 @@
   },
   {
     "id": "57e923b0-1c90-4659-b982-f7a0d79988e6",
-    "firstName": "Lucas",
-    "lastName": "Marie",
+    "firstName": "Edgars",
+    "lastName": "Strautiņš",
     "age": 22,
     "position": "CM",
     "altPositions": [],
@@ -21087,8 +21087,8 @@
   },
   {
     "id": "b51e9775-27f0-443e-a932-c1ed14cbed36",
-    "firstName": "David",
-    "lastName": "Bernard",
+    "firstName": "Inese",
+    "lastName": "Upenieks",
     "age": 25,
     "position": "LM",
     "altPositions": [
@@ -21131,8 +21131,8 @@
   },
   {
     "id": "626aed5a-e2a8-4f9c-9dbb-e83ff54ea055",
-    "firstName": "David",
-    "lastName": "David",
+    "firstName": "Māris",
+    "lastName": "Liepiņš",
     "age": 26,
     "position": "CB",
     "altPositions": [],
@@ -21173,8 +21173,8 @@
   },
   {
     "id": "cf5ae32b-a107-4824-a8e7-2089a93cad9f",
-    "firstName": "Hugo",
-    "lastName": "Brun",
+    "firstName": "Kaspars",
+    "lastName": "Zariņš",
     "age": 24,
     "position": "RW",
     "altPositions": [],
@@ -21215,8 +21215,8 @@
   },
   {
     "id": "92808421-47cf-495d-ac70-c177b6db8c40",
-    "firstName": "Théo",
-    "lastName": "Dufour",
+    "firstName": "Andris",
+    "lastName": "Grīnbergs",
     "age": 26,
     "position": "ST",
     "altPositions": [
@@ -21260,8 +21260,8 @@
   },
   {
     "id": "7b9796f8-9473-4c3d-abad-98d0281308c4",
-    "firstName": "Cédric",
-    "lastName": "Girard",
+    "firstName": "Rolands",
+    "lastName": "Ceriņš",
     "age": 22,
     "position": "GK",
     "altPositions": [],
@@ -21309,8 +21309,8 @@
   },
   {
     "id": "8297ed69-051e-4c53-af42-792ab6751b4b",
-    "firstName": "Nathan",
-    "lastName": "Durand",
+    "firstName": "Guntars",
+    "lastName": "Ģēģeris",
     "age": 25,
     "position": "GK",
     "altPositions": [],
@@ -21358,8 +21358,8 @@
   },
   {
     "id": "4919d128-88ac-4c71-9009-083e125c8a22",
-    "firstName": "Maxime",
-    "lastName": "Lucas",
+    "firstName": "Toms",
+    "lastName": "Roze",
     "age": 30,
     "position": "ST",
     "altPositions": [
@@ -21402,8 +21402,8 @@
   },
   {
     "id": "b92b369a-8972-4e28-9cf7-aa47d8a64a32",
-    "firstName": "Sébastien",
-    "lastName": "Girard",
+    "firstName": "Māris",
+    "lastName": "Ceriņš",
     "age": 23,
     "position": "LB",
     "altPositions": [],
@@ -21444,8 +21444,8 @@
   },
   {
     "id": "842e1ca2-e630-4d30-b37a-d89c1c83101e",
-    "firstName": "Léo",
-    "lastName": "Dupont",
+    "firstName": "Liga",
+    "lastName": "Ozoliņš",
     "age": 25,
     "position": "AM",
     "altPositions": [],
@@ -21486,8 +21486,8 @@
   },
   {
     "id": "1c9098fa-74d4-44b8-ad96-ef7a215790d2",
-    "firstName": "Jonathan",
-    "lastName": "Boyer",
+    "firstName": "Kaspars",
+    "lastName": "Briede",
     "age": 24,
     "position": "CB",
     "altPositions": [],
@@ -21528,8 +21528,8 @@
   },
   {
     "id": "55fd69a4-a6ad-4e9f-b312-e901f8a67583",
-    "firstName": "Tristan",
-    "lastName": "Lucas",
+    "firstName": "Toms",
+    "lastName": "Ģēģeris",
     "age": 30,
     "position": "CM",
     "altPositions": [
