@@ -172,7 +172,7 @@
       "892948fc-f22f-48f4-b6af-6ebeaa6db607"
     ]
   },
-  "publishedAt": "2026-06-21T01:53:47.053Z",
+  "publishedAt": "2026-06-21T10:47:10.893Z",
   "cultures": [
     {
       "culture": "cubain",
@@ -215,5 +215,28 @@
     "overall": 69
   },
   "coachSuspended": false,
-  "jerseyColor": "#c20000"
+  "jerseyColor": "#c20000",
+  "savedTactics": [
+    {
+      "style": "tiki-taka",
+      "formation": "3-5-2",
+      "lineup": [
+        "1ade2d17-e156-4768-a4bb-14f051929c71",
+        "615e72dc-30d8-4bc1-b273-749fc52b8322",
+        "6e0dbfbe-fc92-4052-9429-dd200cb38091",
+        "eaa2e414-5b65-4762-b34e-e0cf67e20bb3",
+        "77a4d067-6d2a-4514-b001-b3ad89687fd8",
+        "8f9af56f-8988-4375-b773-aba003e7819c",
+        "09450d41-e046-49ca-b7e3-18a888fdbaff",
+        "ea47cd68-6226-4997-b0b2-986943cb3fcb",
+        "a3d95409-56f5-4123-ad79-a297ed2ea046",
+        "ddda2f3d-024b-4e4f-9028-a43ede2a80eb",
+        "0a2a8055-5c87-443a-a01a-1aebd0e40269"
+      ],
+      "customStyles": [],
+      "id": "93fd36ba-0aeb-4137-8c85-1d312169fd89",
+      "name": "Tactique 3"
+    }
+  ],
+  "activeTacticId": "93fd36ba-0aeb-4137-8c85-1d312169fd89"
 }
