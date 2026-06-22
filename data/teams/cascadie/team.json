@@ -23,29 +23,27 @@
   "formation": "4-3-3",
   "managerDiscordId": "862368510100504596",
   "coach": {
-    "id": "e1eee382-f5cd-4f54-970c-c786397d6077",
-    "firstName": "Scott",
-    "lastName": "Robinson",
+    "id": "794d2d04-cce2-4318-9ed7-15eb993f2899",
+    "firstName": "Brandon",
+    "lastName": "Thomas",
     "culture": "anglo-americain",
     "stats": {
-      "motivation": 13,
-      "tactique": 15,
-      "offensive": 10,
-      "defensif": 17,
-      "mentalite": 10,
+      "motivation": 14,
+      "tactique": 8,
+      "offensive": 19,
+      "defensif": 16,
+      "mentalite": 13,
       "gestion": 14
     },
     "positiveTraits": [
-      "tacticien",
-      "meneur"
+      "disciplinaire",
+      "motivateur"
     ],
     "negativeTraits": [
-      "conflictuel",
-      "passif",
-      "impatient"
+      "rigide"
     ],
-    "overall": 66
+    "overall": 74
   },
   "jerseyColor": "#356034",
-  "publishedAt": "2026-06-22T19:43:36.298Z"
+  "publishedAt": "2026-06-22T19:49:16.334Z"
 }
