@@ -17666,7 +17666,7 @@
       "technical": {
         "passing": 10,
         "crossing": 11,
-        "dribbling": 17,
+        "dribbling": 19,
         "finishing": 18,
         "firstTouch": 12,
         "heading": 20,
@@ -17677,7 +17677,7 @@
       "mental": {
         "vision": 10,
         "decisions": 13,
-        "composure": 19,
+        "composure": 20,
         "anticipation": 12,
         "offTheBall": 18,
         "aggression": 9,
@@ -17687,14 +17687,14 @@
         "pace": 18,
         "acceleration": 8,
         "strength": 12,
-        "stamina": 16,
-        "agility": 17,
+        "stamina": 20,
+        "agility": 20,
         "balance": 15,
         "jumping": 18
       },
       "goalkeeping": null
     },
-    "overall": 88
+    "overall": 90
   },
   {
     "id": "4ebfdb68-1dee-47c5-8472-dca377f44703",
@@ -20819,14 +20819,14 @@
       },
       "goalkeeping": {
         "reflexes": 20,
-        "handling": 19,
-        "aerial": 17,
+        "handling": 20,
+        "aerial": 20,
         "oneOnOne": 18,
-        "kicking": 14,
-        "throwing": 17
+        "kicking": 20,
+        "throwing": 20
       }
     },
-    "overall": 85
+    "overall": 90
   },
   {
     "id": "0b54a063-2522-44ae-8e7b-232a27db1e88",
