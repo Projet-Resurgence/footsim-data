@@ -22,6 +22,29 @@
   "playerCount": 500,
   "formation": "4-3-3",
   "managerDiscordId": "1214007771620577311",
-  "publishedAt": "2026-06-20T22:37:05.983Z",
-  "compHistory": []
+  "publishedAt": "2026-06-22T19:30:26.733Z",
+  "compHistory": [],
+  "coach": {
+    "id": "3c022f16-4591-47a7-8a30-7b6a871ca085",
+    "firstName": "Caden",
+    "lastName": "Turner",
+    "culture": "anglo-americain",
+    "stats": {
+      "motivation": 17,
+      "tactique": 9,
+      "offensive": 11,
+      "defensif": 16,
+      "mentalite": 18,
+      "gestion": 14
+    },
+    "positiveTraits": [
+      "analyste",
+      "defensif"
+    ],
+    "negativeTraits": [
+      "alcoolique",
+      "passif"
+    ],
+    "overall": 73
+  }
 }
