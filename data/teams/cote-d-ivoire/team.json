@@ -42,5 +42,15 @@
     "overall": 76
   },
   "jerseyColor": "#f9a006",
-  "publishedAt": "2026-06-21T13:06:30.292Z"
+  "publishedAt": "2026-06-21T13:06:30.292Z",
+  "compHistory": [
+    {
+      "compId": "64u4wu9yt9jmqpdvrnr",
+      "compName": "Global Friendship Cup",
+      "year": 2308,
+      "format": "groups_knockout",
+      "result": "participant",
+      "phase": "QF"
+    }
+  ]
 }
