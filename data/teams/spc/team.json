@@ -18,7 +18,7 @@
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-21T09:28:03.152Z",
+  "publishedAt": "2026-06-22T13:24:15.657Z",
   "tactics": {
     "style": "ultra-defensif",
     "formation": "5-4-1",
@@ -57,26 +57,24 @@
     }
   ],
   "coach": {
-    "id": "586b7899-187a-4617-8eb0-a078fdb3318e",
-    "firstName": "Ji",
-    "lastName": "Wang",
+    "id": "78a31f38-d8b0-4011-88f4-b883a085805d",
+    "firstName": "Fang",
+    "lastName": "Fu",
     "culture": "chinois",
     "stats": {
-      "motivation": 16,
-      "tactique": 15,
-      "offensive": 15,
-      "defensif": 13,
-      "mentalite": 13,
-      "gestion": 11
+      "motivation": 18,
+      "tactique": 8,
+      "offensive": 20,
+      "defensif": 9,
+      "mentalite": 18,
+      "gestion": 14
     },
     "positiveTraits": [
-      "opportuniste"
+      "gestionnaire",
+      "meneur"
     ],
-    "negativeTraits": [
-      "drogue",
-      "conflictuel"
-    ],
-    "overall": 68
+    "negativeTraits": [],
+    "overall": 79
   },
   "savedTactics": [
     {
