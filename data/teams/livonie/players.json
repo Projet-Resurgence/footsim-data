@@ -2168,7 +2168,7 @@
     "preferredFoot": "right",
     "stats": {
       "technical": {
-        "passing": 8,
+        "passing": 14,
         "crossing": 13,
         "dribbling": 8,
         "finishing": 20,
@@ -2180,15 +2180,15 @@
       },
       "mental": {
         "vision": 6,
-        "decisions": 17,
+        "decisions": 20,
         "composure": 20,
         "anticipation": 8,
-        "offTheBall": 18,
+        "offTheBall": 20,
         "aggression": 12,
-        "workRate": 16
+        "workRate": 18
       },
       "physical": {
-        "pace": 14,
+        "pace": 17,
         "acceleration": 16,
         "strength": 14,
         "stamina": 13,
@@ -2198,7 +2198,7 @@
       },
       "goalkeeping": null
     },
-    "overall": 87
+    "overall": 91
   },
   {
     "id": "3a3a59db-32f4-4445-a8b3-89174468f49b",
@@ -10111,37 +10111,37 @@
     "preferredFoot": "right",
     "stats": {
       "technical": {
-        "passing": 10,
-        "crossing": 6,
-        "dribbling": 18,
-        "finishing": 15,
+        "passing": 20,
+        "crossing": 15,
+        "dribbling": 20,
+        "finishing": 20,
         "firstTouch": 18,
         "heading": 10,
-        "longShots": 18,
+        "longShots": 20,
         "tackling": 10,
         "marking": 11
       },
       "mental": {
         "vision": 16,
         "decisions": 20,
-        "composure": 13,
+        "composure": 20,
         "anticipation": 14,
         "offTheBall": 12,
         "aggression": 12,
-        "workRate": 18
+        "workRate": 20
       },
       "physical": {
-        "pace": 12,
-        "acceleration": 9,
-        "strength": 15,
-        "stamina": 9,
-        "agility": 15,
-        "balance": 8,
-        "jumping": 14
+        "pace": 19,
+        "acceleration": 12,
+        "strength": 12,
+        "stamina": 13,
+        "agility": 20,
+        "balance": 13,
+        "jumping": 16
       },
       "goalkeeping": null
     },
-    "overall": 82
+    "overall": 94
   },
   {
     "id": "be6a392b-3d38-4224-9c73-ce4a613b8317",
