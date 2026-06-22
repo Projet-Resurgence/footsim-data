@@ -190,7 +190,7 @@
       "89a0086b-0ff0-489e-a845-ca7b750f7403"
     ]
   },
-  "publishedAt": "2026-06-20T23:52:22.490Z",
+  "publishedAt": "2026-06-22T16:52:37.730Z",
   "cultures": [
     {
       "culture": "arabe",
@@ -216,25 +216,22 @@
   ],
   "managerDiscordId": "772821169664426025",
   "coach": {
-    "id": "728b585d-6121-469c-829a-9b82ebd0e354",
-    "firstName": "Adel",
-    "lastName": "Zerouali",
+    "id": "ca092bfd-96a9-49bd-97bc-9284bfb15953",
+    "firstName": "Khaled",
+    "lastName": "Tantawi",
     "culture": "egyptien",
     "stats": {
-      "motivation": 16,
-      "tactique": 11,
-      "offensive": 11,
-      "defensif": 17,
-      "mentalite": 17,
-      "gestion": 8
+      "motivation": 11,
+      "tactique": 17,
+      "offensive": 20,
+      "defensif": 12,
+      "mentalite": 12,
+      "gestion": 9
     },
     "positiveTraits": [
-      "tacticien",
-      "meneur"
+      "motivateur"
     ],
-    "negativeTraits": [
-      "desorganise"
-    ],
+    "negativeTraits": [],
     "overall": 71
   },
   "compHistory": []
