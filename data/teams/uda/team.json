@@ -27,7 +27,16 @@
   "formation": "4-3-3",
   "publishedAt": "2026-06-22T19:57:45.698Z",
   "managerDiscordId": "1477619366890573926",
-  "compHistory": [],
+  "compHistory": [
+    {
+      "compId": "qtebnbbpzeomqpngrdv",
+      "compName": "Global Friendship Cup",
+      "year": 2308,
+      "format": "groups_knockout",
+      "result": "semi",
+      "phase": "SF"
+    }
+  ],
   "coach": {
     "id": "096b5646-0b70-409a-a8b8-777294071794",
     "firstName": "He",

@@ -234,7 +234,16 @@
     "negativeTraits": [],
     "overall": 71
   },
-  "compHistory": [],
+  "compHistory": [
+    {
+      "compId": "qtebnbbpzeomqpngrdv",
+      "compName": "Global Friendship Cup",
+      "year": 2308,
+      "format": "groups_knockout",
+      "result": "winner",
+      "phase": "F"
+    }
+  ],
   "savedTactics": [
     {
       "style": "possession",

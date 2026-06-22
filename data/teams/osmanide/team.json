@@ -102,5 +102,15 @@
   ],
   "activeTacticId": "ecc87acd-3f5a-4500-8d38-630b3e208067",
   "managerDiscordId": "701088457514287152",
-  "jerseyColor": "#f00000"
+  "jerseyColor": "#f00000",
+  "compHistory": [
+    {
+      "compId": "qtebnbbpzeomqpngrdv",
+      "compName": "Global Friendship Cup",
+      "year": 2308,
+      "format": "groups_knockout",
+      "result": "participant",
+      "phase": "group"
+    }
+  ]
 }

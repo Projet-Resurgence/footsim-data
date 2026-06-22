@@ -60,5 +60,15 @@
     ],
     "overall": 76
   },
-  "jerseyColor": "#a11753"
+  "jerseyColor": "#a11753",
+  "compHistory": [
+    {
+      "compId": "qtebnbbpzeomqpngrdv",
+      "compName": "Global Friendship Cup",
+      "year": 2308,
+      "format": "groups_knockout",
+      "result": "participant",
+      "phase": "group"
+    }
+  ]
 }

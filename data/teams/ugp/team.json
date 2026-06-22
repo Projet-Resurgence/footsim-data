@@ -96,5 +96,15 @@
       "imprevoyant"
     ],
     "overall": 62
-  }
+  },
+  "compHistory": [
+    {
+      "compId": "qtebnbbpzeomqpngrdv",
+      "compName": "Global Friendship Cup",
+      "year": 2308,
+      "format": "groups_knockout",
+      "result": "finalist",
+      "phase": "F"
+    }
+  ]
 }
