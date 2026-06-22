@@ -25,7 +25,7 @@
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-22T19:43:13.090Z",
+  "publishedAt": "2026-06-22T19:57:45.698Z",
   "managerDiscordId": "1477619366890573926",
   "compHistory": [],
   "coach": {
@@ -94,5 +94,6 @@
       "name": "Tactique 2"
     }
   ],
-  "jerseyColor": "#b10606"
+  "jerseyColor": "#b10606",
+  "activeTacticId": "71b96e4c-2fcf-440c-8750-77a795e36e5c"
 }
