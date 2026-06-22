@@ -17,7 +17,7 @@
     }
   ],
   "continent": "europe",
-  "publishedAt": "2026-06-22T19:23:31.549Z",
+  "publishedAt": "2026-06-22T19:35:41.646Z",
   "recentMatches": [
     {
       "matchId": "82b97dce-7c7e-4d50-9cf4-1b10500494a5",
@@ -39,27 +39,28 @@
     }
   ],
   "coach": {
-    "id": "11b86ff6-73b9-41c6-906a-07a93deea30a",
-    "firstName": "Charles",
-    "lastName": "André",
+    "id": "ed8ee065-aff7-42d8-b507-483c0981a5bd",
+    "firstName": "Benjamin",
+    "lastName": "Martinez",
     "culture": "francais",
     "stats": {
-      "motivation": 13,
-      "tactique": 11,
-      "offensive": 17,
-      "defensif": 14,
-      "mentalite": 9,
-      "gestion": 18
+      "motivation": 17,
+      "tactique": 10,
+      "offensive": 19,
+      "defensif": 19,
+      "mentalite": 15,
+      "gestion": 12
     },
     "positiveTraits": [
-      "disciplinaire",
-      "motivateur"
+      "opportuniste",
+      "tacticien"
     ],
     "negativeTraits": [
+      "conflictuel",
       "imprevoyant",
-      "alcoolique"
+      "passif"
     ],
-    "overall": 70
+    "overall": 77
   },
   "compHistory": [],
   "continents": [
