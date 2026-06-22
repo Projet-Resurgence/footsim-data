@@ -18,7 +18,7 @@
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-22T13:56:45.466Z",
+  "publishedAt": "2026-06-22T18:45:39.932Z",
   "tactics": {
     "style": "ultra-defensif",
     "formation": "5-4-1",
@@ -126,5 +126,10 @@
     }
   ],
   "activeTacticId": "8a463537-621c-42cf-ad6c-e09006a4eeca",
-  "compHistory": []
+  "compHistory": [],
+  "continents": [
+    "asie"
+  ],
+  "managerDiscordId": "1302403450566610944",
+  "jerseyColor": "#e63c3c"
 }
