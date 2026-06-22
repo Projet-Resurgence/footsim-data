@@ -172,7 +172,7 @@
       "892948fc-f22f-48f4-b6af-6ebeaa6db607"
     ]
   },
-  "publishedAt": "2026-06-22T01:45:20.574Z",
+  "publishedAt": "2026-06-22T02:10:52.250Z",
   "cultures": [
     {
       "culture": "cubain",
@@ -272,8 +272,41 @@
       "customStyles": [],
       "id": "63cc8f3b-960d-4d36-89a8-fd23b8659cd9",
       "name": "Mother Anarchy Loves her sons and daughters"
+    },
+    {
+      "style": "contre-attaque",
+      "formation": "4-4-1-1",
+      "lineup": [
+        "e87a5851-81ce-485c-83fe-194209656715",
+        "92ec6bdc-708a-4530-9e31-33a671942604",
+        "0537ad7c-740a-4fce-b710-d816befa3b8e",
+        "e3e1ec99-423f-475d-b4d9-e5a7b9bbb145",
+        "0a3b965e-04a0-4994-b513-7c71996ae867",
+        "2745c3e9-6503-4baf-9a01-eb85f9179853",
+        "aca08af0-9097-4f69-99df-b10b11993d02",
+        "d1f33281-0c4a-44f2-8485-bd164cce0749",
+        "6d4723cd-61d8-4edc-bfd6-0151191371d0",
+        "e6f510db-f16b-483f-9f1f-d671bff0ccd5",
+        "5f32168a-14df-4d52-a989-1b39439b3517"
+      ],
+      "customStyles": [
+        {
+          "id": "0283ed77-e404-4c7e-93ca-d7dac1f42180",
+          "name": "Contre-Attaque Directe",
+          "mods": {
+            "shotFreqMult": 1.3,
+            "foulRateMult": 1,
+            "midfieldMult": 0.7,
+            "attackMult": 0.7,
+            "defenseMult": 1.3
+          }
+        }
+      ],
+      "activeCustomStyleId": "0283ed77-e404-4c7e-93ca-d7dac1f42180",
+      "id": "cd670fa9-7fad-437f-aa0f-c56b7dfdfd3b",
+      "name": "Attaque défensive"
     }
   ],
-  "activeTacticId": "63cc8f3b-960d-4d36-89a8-fd23b8659cd9",
+  "activeTacticId": "cd670fa9-7fad-437f-aa0f-c56b7dfdfd3b",
   "ownerId": "772821169664426025"
 }
