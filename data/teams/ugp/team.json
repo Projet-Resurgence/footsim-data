@@ -27,7 +27,7 @@
       "63cba1c6-27e5-4311-91d8-92b5f3fde740"
     ]
   },
-  "publishedAt": "2026-06-22T17:31:20.650Z",
+  "publishedAt": "2026-06-22T17:32:25.992Z",
   "recentMatches": [
     {
       "matchId": "f4ba5acc-38f9-434d-a204-e68f1d9c7124",
@@ -78,22 +78,25 @@
   ],
   "managerDiscordId": "293869524091142144",
   "coach": {
-    "id": "22a15549-6355-48be-a826-e8d2e6ecc6db",
-    "firstName": "Vincenzo",
-    "lastName": "Ferrari",
+    "id": "45eaf761-f8ed-42b0-8b5f-d15662abf312",
+    "firstName": "Marcello",
+    "lastName": "De Santis",
     "culture": "italien",
     "stats": {
-      "motivation": 8,
-      "tactique": 11,
-      "offensive": 19,
-      "defensif": 12,
-      "mentalite": 10,
-      "gestion": 9
+      "motivation": 17,
+      "tactique": 17,
+      "offensive": 13,
+      "defensif": 15,
+      "mentalite": 14,
+      "gestion": 19
     },
     "positiveTraits": [
-      "motivateur"
+      "offensif"
     ],
-    "negativeTraits": [],
-    "overall": 61
+    "negativeTraits": [
+      "conservateur",
+      "impatient"
+    ],
+    "overall": 78
   }
 }
