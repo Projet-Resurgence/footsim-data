@@ -50,9 +50,32 @@
   "playerCount": 500,
   "formation": "4-3-3",
   "managerDiscordId": "723669328267968582",
-  "publishedAt": "2026-06-22T00:46:08.454Z",
+  "publishedAt": "2026-06-22T23:52:04.169Z",
   "actionFoot": {
     "rating": 2,
     "funding": 300
+  },
+  "coach": {
+    "id": "1465e05a-6173-4bfe-8a8d-8a0bf6536e4d",
+    "firstName": "Emma",
+    "lastName": "Dupont",
+    "culture": "allemand",
+    "stats": {
+      "motivation": 14,
+      "tactique": 18,
+      "offensive": 17,
+      "defensif": 11,
+      "mentalite": 12,
+      "gestion": 15
+    },
+    "positiveTraits": [
+      "meneur"
+    ],
+    "negativeTraits": [
+      "impulsif",
+      "drogue",
+      "passif"
+    ],
+    "overall": 70
   }
 }
