@@ -27,7 +27,7 @@
       "63cba1c6-27e5-4311-91d8-92b5f3fde740"
     ]
   },
-  "publishedAt": "2026-06-22T17:32:25.992Z",
+  "publishedAt": "2026-06-22T19:52:56.413Z",
   "recentMatches": [
     {
       "matchId": "f4ba5acc-38f9-434d-a204-e68f1d9c7124",
@@ -78,25 +78,23 @@
   ],
   "managerDiscordId": "293869524091142144",
   "coach": {
-    "id": "45eaf761-f8ed-42b0-8b5f-d15662abf312",
-    "firstName": "Marcello",
-    "lastName": "De Santis",
+    "id": "1464e814-1606-4fff-bbb7-cd923dce4434",
+    "firstName": "Riccardo",
+    "lastName": "Conte",
     "culture": "italien",
     "stats": {
-      "motivation": 17,
-      "tactique": 17,
-      "offensive": 13,
-      "defensif": 15,
-      "mentalite": 14,
-      "gestion": 19
+      "motivation": 15,
+      "tactique": 18,
+      "offensive": 9,
+      "defensif": 10,
+      "mentalite": 18,
+      "gestion": 9
     },
-    "positiveTraits": [
-      "offensif"
-    ],
+    "positiveTraits": [],
     "negativeTraits": [
-      "conservateur",
-      "impatient"
+      "conflictuel",
+      "imprevoyant"
     ],
-    "overall": 78
+    "overall": 62
   }
 }
