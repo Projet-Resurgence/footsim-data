@@ -190,7 +190,7 @@
       "89a0086b-0ff0-489e-a845-ca7b750f7403"
     ]
   },
-  "publishedAt": "2026-06-22T16:52:37.730Z",
+  "publishedAt": "2026-06-22T16:54:14.414Z",
   "cultures": [
     {
       "culture": "arabe",
@@ -234,5 +234,55 @@
     "negativeTraits": [],
     "overall": 71
   },
-  "compHistory": []
+  "compHistory": [],
+  "savedTactics": [
+    {
+      "style": "possession",
+      "formation": "3-4-3",
+      "lineup": [
+        "07aeab5b-061d-4600-8666-34b83f575da1",
+        "408ffe60-4bad-461b-adf3-43ac1ed96add",
+        "d64558c3-8433-4001-a794-7bb6d8c2fb33",
+        "522546bb-fc82-4ff4-8c92-86e4f4de381d",
+        "52a454a3-b7b5-4396-b444-334daf5ad37e",
+        "dc90057b-82df-4168-8204-a6e87d643d0a",
+        "29bbc6be-5ead-4dc6-a4ce-0bc08d730468",
+        "7b19b67e-c651-4290-86dc-65a0b182c617",
+        "1c999b90-da69-4d38-a0c2-b11dcd550957",
+        "89a0086b-0ff0-489e-a845-ca7b750f7403",
+        "935e4e9a-b8e6-4409-99ad-7f224f7b4593"
+      ],
+      "bench": [
+        "1fe2ac16-ed19-4a78-b54c-dc83d2b23032",
+        "45c54192-9691-4007-b681-befb290dcc93",
+        "45fbc582-798f-4b73-be62-98a32e0bd250",
+        "17ddb492-fc0b-4531-b55b-948928f486d3",
+        "fc265c58-5fca-404e-9490-c43cc465c69a",
+        "1bdc5d76-47b9-4afa-9600-a14e122290bb",
+        "3e0d0cc9-8252-430d-ab33-8efac83ea04e",
+        "331607f1-03a4-47f0-956f-5a4d4b008f1c",
+        "87a3d930-9ef4-44df-8e69-213fc8402fcd",
+        "9f59c484-b157-48a2-aa8b-8013d2e7994b",
+        "51cf728a-e491-43fc-bfdb-2889ba84463d",
+        "d144a70a-8042-4db2-af29-50dac602ce77"
+      ],
+      "customStyles": [
+        {
+          "id": "56821bea-9871-481e-ae3b-29a39f1178da",
+          "name": "Attaque Mahdiste",
+          "mods": {
+            "shotFreqMult": 1,
+            "foulRateMult": 1,
+            "midfieldMult": 1,
+            "attackMult": 1.3,
+            "defenseMult": 1
+          }
+        }
+      ],
+      "activeCustomStyleId": "56821bea-9871-481e-ae3b-29a39f1178da",
+      "id": "550fca06-0510-4f63-8042-3657cf0da87e",
+      "name": "Tactique Khaled"
+    }
+  ],
+  "activeTacticId": "550fca06-0510-4f63-8042-3657cf0da87e"
 }
