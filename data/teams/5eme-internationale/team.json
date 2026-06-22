@@ -60,5 +60,15 @@
       "alcoolique"
     ],
     "overall": 70
-  }
+  },
+  "compHistory": [
+    {
+      "compId": "64u4wu9yt9jmqpdvrnr",
+      "compName": "Global Friendship Cup",
+      "year": 2308,
+      "format": "groups_knockout",
+      "result": "participant",
+      "phase": "group"
+    }
+  ]
 }
