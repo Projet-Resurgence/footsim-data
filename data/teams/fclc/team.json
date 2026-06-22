@@ -172,7 +172,7 @@
       "892948fc-f22f-48f4-b6af-6ebeaa6db607"
     ]
   },
-  "publishedAt": "2026-06-22T13:12:10.891Z",
+  "publishedAt": "2026-06-22T13:13:43.073Z",
   "cultures": [
     {
       "culture": "cubain",
@@ -278,6 +278,28 @@
         "92ec6bdc-708a-4530-9e31-33a671942604",
         "1ee98c54-d49e-4195-a7d7-013321c6d36c",
         "80b98380-75da-4cfd-a4b2-9839c6bb9586"
+      ],
+      "plannedSubs": [
+        {
+          "outId": "e87a5851-81ce-485c-83fe-194209656715",
+          "inId": "f506d14a-2cb6-4a8e-a850-b4de9a3e366a"
+        },
+        {
+          "outId": "8e6ca1f6-ba3e-431b-8b80-2cc45318e0a9",
+          "inId": "764cef2c-abbe-4dfc-b480-fd9151030b21"
+        },
+        {
+          "outId": "154edfa8-6176-460e-bc7d-9264ee047feb",
+          "inId": "0bed9f5f-41ab-468b-87f7-5372a81470dc"
+        },
+        {
+          "outId": "d1f33281-0c4a-44f2-8485-bd164cce0749",
+          "inId": "34913eb7-c685-47f4-9276-331f470037f2"
+        },
+        {
+          "outId": "54d7addc-5e5b-4199-8b7e-49026fcbc861",
+          "inId": "85b910bf-81ea-4680-8995-60a5418302dc"
+        }
       ]
     }
   ],
