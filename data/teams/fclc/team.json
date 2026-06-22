@@ -172,7 +172,7 @@
       "892948fc-f22f-48f4-b6af-6ebeaa6db607"
     ]
   },
-  "publishedAt": "2026-06-22T13:13:43.073Z",
+  "publishedAt": "2026-06-22T23:43:01.894Z",
   "cultures": [
     {
       "culture": "cubain",
@@ -209,26 +209,23 @@
   ],
   "managerDiscordId": "928291843958014014",
   "coach": {
-    "id": "2a93a25b-010a-409f-b8b0-7fd9709f784a",
-    "firstName": "Odrisamer",
-    "lastName": "González",
+    "id": "73c46874-d1d6-4028-8582-1c0f9db75d2f",
+    "firstName": "Wahkan",
+    "lastName": "Greenleaf",
     "culture": "cubain",
     "stats": {
-      "motivation": 15,
-      "tactique": 18,
-      "offensive": 9,
-      "defensif": 19,
-      "mentalite": 14,
-      "gestion": 9
+      "motivation": 17,
+      "tactique": 20,
+      "offensive": 19,
+      "defensif": 18,
+      "mentalite": 13,
+      "gestion": 15
     },
     "positiveTraits": [
-      "gestionnaire"
+      "charismatique"
     ],
-    "negativeTraits": [
-      "passif",
-      "conservateur"
-    ],
-    "overall": 69
+    "negativeTraits": [],
+    "overall": 88
   },
   "coachSuspended": false,
   "jerseyColor": "#c20000",
