@@ -187,14 +187,5 @@
     }
   ],
   "activeTacticId": "c289f641-1581-4b54-9203-76a4fca7c347",
-  "compHistory": [
-    {
-      "compId": "64u4wu9yt9jmqpdvrnr",
-      "compName": "Global Friendship Cup",
-      "year": 2308,
-      "format": "groups_knockout",
-      "result": "participant",
-      "phase": "group"
-    }
-  ]
+  "compHistory": []
 }
