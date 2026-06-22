@@ -3,9 +3,10 @@
     "id": "qtebnbbpzeomqpngrdv",
     "name": "Global Friendship Cup",
     "format": "groups_knockout",
-    "status": "ongoing",
+    "status": "completed",
     "teamCount": 16,
     "createdAt": "2026-06-22T20:10:18.403Z",
+    "winner": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
     "year": 2308,
     "teamIds": [
       "d03fc060-b23b-4a41-9c1f-248b931809e1",
