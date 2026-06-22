@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "64u4wu9yt9jmqpdvrnr",
+    "name": "Global Friendship Cup",
+    "format": "groups_knockout",
+    "status": "completed",
+    "teamCount": 16,
+    "createdAt": "2026-06-22T15:42:02.439Z",
+    "winner": "292037a2-3b7a-40e7-b9fa-37a11d157341",
+    "year": 2308,
+    "teamIds": [
+      "4050e7b8-0b32-4225-b936-2947890e501c",
+      "a4339c19-4507-45d0-a8e7-ab33c8fe64c0",
+      "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "45002df1-cafe-4c04-814c-660868b56d95",
+      "b88bacc7-be39-4426-9106-7263eec6a6e9",
+      "914986ba-db7a-4f47-aa7e-5edae17cbc8a",
+      "292037a2-3b7a-40e7-b9fa-37a11d157341",
+      "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "a4056618-29f2-4bc3-9e67-89e75f8f6b8b",
+      "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "495d8db0-d1b7-49fd-bb3d-dcecda27eb95"
+    ]
+  }
+]
