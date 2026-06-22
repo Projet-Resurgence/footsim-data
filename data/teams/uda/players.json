@@ -307,17 +307,17 @@
       "technical": {
         "passing": 10,
         "crossing": 6,
-        "dribbling": 10,
+        "dribbling": 17,
         "finishing": 17,
-        "firstTouch": 10,
+        "firstTouch": 15,
         "heading": 16,
         "longShots": 13,
         "tackling": 13,
         "marking": 14
       },
       "mental": {
-        "vision": 14,
-        "decisions": 13,
+        "vision": 16,
+        "decisions": 14,
         "composure": 19,
         "anticipation": 9,
         "offTheBall": 20,
@@ -325,17 +325,17 @@
         "workRate": 11
       },
       "physical": {
-        "pace": 16,
+        "pace": 20,
         "acceleration": 13,
         "strength": 15,
         "stamina": 15,
-        "agility": 11,
+        "agility": 15,
         "balance": 15,
         "jumping": 17
       },
       "goalkeeping": null
     },
-    "overall": 85
+    "overall": 89
   },
   {
     "id": "8ba90e05-fd97-4efe-9c03-cb1c18848767",
@@ -5189,13 +5189,13 @@
     "preferredFoot": "both",
     "stats": {
       "technical": {
-        "passing": 12,
-        "crossing": 12,
-        "dribbling": 11,
+        "passing": 15,
+        "crossing": 14,
+        "dribbling": 20,
         "finishing": 20,
-        "firstTouch": 14,
+        "firstTouch": 20,
         "heading": 20,
-        "longShots": 10,
+        "longShots": 16,
         "tackling": 12,
         "marking": 13
       },
@@ -5209,7 +5209,7 @@
         "workRate": 15
       },
       "physical": {
-        "pace": 12,
+        "pace": 20,
         "acceleration": 14,
         "strength": 14,
         "stamina": 14,
@@ -5219,7 +5219,7 @@
       },
       "goalkeeping": null
     },
-    "overall": 85
+    "overall": 92
   },
   {
     "id": "bd784a53-f91f-466c-b65c-1c1774770d43",
