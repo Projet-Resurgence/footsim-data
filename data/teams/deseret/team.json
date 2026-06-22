@@ -22,29 +22,23 @@
   "playerCount": 500,
   "formation": "4-3-3",
   "managerDiscordId": "1214007771620577311",
-  "publishedAt": "2026-06-22T19:30:26.733Z",
+  "publishedAt": "2026-06-22T19:37:56.500Z",
   "compHistory": [],
   "coach": {
-    "id": "3c022f16-4591-47a7-8a30-7b6a871ca085",
-    "firstName": "Caden",
-    "lastName": "Turner",
+    "id": "2466aae7-2a12-4eb2-848a-3786a58fe0f8",
+    "firstName": "Parker",
+    "lastName": "Young",
     "culture": "anglo-americain",
     "stats": {
-      "motivation": 17,
-      "tactique": 9,
-      "offensive": 11,
-      "defensif": 16,
+      "motivation": 16,
+      "tactique": 14,
+      "offensive": 18,
+      "defensif": 18,
       "mentalite": 18,
-      "gestion": 14
+      "gestion": 20
     },
-    "positiveTraits": [
-      "analyste",
-      "defensif"
-    ],
-    "negativeTraits": [
-      "alcoolique",
-      "passif"
-    ],
-    "overall": 73
+    "positiveTraits": [],
+    "negativeTraits": [],
+    "overall": 87
   }
 }
