@@ -15,7 +15,7 @@
     "europe"
   ],
   "kind": "national",
-  "globalStrength": 60,
+  "globalStrength": 61,
   "createdAt": "2026-06-21T12:56:29.612Z",
   "createdBy": "772821169664426025",
   "ownerId": "772821169664426025",
@@ -46,7 +46,7 @@
     "overall": 71
   },
   "jerseyColor": "#ab4949",
-  "publishedAt": "2026-06-21T21:42:33.815Z",
+  "publishedAt": "2026-06-22T22:31:57.440Z",
   "compHistory": [
     {
       "compId": "qtebnbbpzeomqpngrdv",
@@ -56,5 +56,9 @@
       "result": "semi",
       "phase": "SF"
     }
-  ]
+  ],
+  "actionFoot": {
+    "rating": 5,
+    "funding": 135
+  }
 }
