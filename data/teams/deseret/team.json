@@ -23,14 +23,5 @@
   "formation": "4-3-3",
   "managerDiscordId": "1214007771620577311",
   "publishedAt": "2026-06-20T22:37:05.983Z",
-  "compHistory": [
-    {
-      "compId": "64u4wu9yt9jmqpdvrnr",
-      "compName": "Global Friendship Cup",
-      "year": 2308,
-      "format": "groups_knockout",
-      "result": "semi",
-      "phase": "SF"
-    }
-  ]
+  "compHistory": []
 }
