@@ -34,7 +34,7 @@
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-22T02:09:51.008Z",
+  "publishedAt": "2026-06-22T18:55:48.107Z",
   "tactics": {
     "style": "chaos",
     "formation": "3-4-1-2",
@@ -175,8 +175,8 @@
           "id": "6bf54d23-d28a-428f-9348-e593960d3a47",
           "name": "Anti-faute",
           "mods": {
-            "shotFreqMult": 1.05,
-            "foulRateMult": 1.1,
+            "shotFreqMult": 1,
+            "foulRateMult": 1.15,
             "midfieldMult": 1.05,
             "attackMult": 1.1,
             "defenseMult": 1
