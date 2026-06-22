@@ -172,7 +172,7 @@
       "892948fc-f22f-48f4-b6af-6ebeaa6db607"
     ]
   },
-  "publishedAt": "2026-06-21T22:52:37.353Z",
+  "publishedAt": "2026-06-22T01:45:20.574Z",
   "cultures": [
     {
       "culture": "cubain",
@@ -252,8 +252,28 @@
       "customStyles": [],
       "id": "3822cfd1-58db-46e2-92d2-ec0ef994d813",
       "name": "Tactique 1"
+    },
+    {
+      "style": "tiki-taka",
+      "formation": "4-3-3",
+      "lineup": [
+        "e87a5851-81ce-485c-83fe-194209656715",
+        "92ec6bdc-708a-4530-9e31-33a671942604",
+        "0537ad7c-740a-4fce-b710-d816befa3b8e",
+        "e3e1ec99-423f-475d-b4d9-e5a7b9bbb145",
+        "0a3b965e-04a0-4994-b513-7c71996ae867",
+        "aca08af0-9097-4f69-99df-b10b11993d02",
+        "0734c0f9-3313-473d-8514-1465958da988",
+        "d1f33281-0c4a-44f2-8485-bd164cce0749",
+        "0cde6afa-5371-4d50-84b0-42c5dce8e58c",
+        "5f32168a-14df-4d52-a989-1b39439b3517",
+        "154edfa8-6176-460e-bc7d-9264ee047feb"
+      ],
+      "customStyles": [],
+      "id": "63cc8f3b-960d-4d36-89a8-fd23b8659cd9",
+      "name": "Mother Anarchy Loves her sons and daughters"
     }
   ],
-  "activeTacticId": "3822cfd1-58db-46e2-92d2-ec0ef994d813",
+  "activeTacticId": "63cc8f3b-960d-4d36-89a8-fd23b8659cd9",
   "ownerId": "772821169664426025"
 }
