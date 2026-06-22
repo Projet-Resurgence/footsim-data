@@ -26,5 +26,15 @@
   "playerCount": 500,
   "formation": "4-3-3",
   "publishedAt": "2026-06-20T19:58:34.823Z",
-  "managerDiscordId": "1477619366890573926"
+  "managerDiscordId": "1477619366890573926",
+  "compHistory": [
+    {
+      "compId": "64u4wu9yt9jmqpdvrnr",
+      "compName": "Global Friendship Cup",
+      "year": 2308,
+      "format": "groups_knockout",
+      "result": "participant",
+      "phase": "QF"
+    }
+  ]
 }
