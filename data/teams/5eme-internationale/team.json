@@ -17,7 +17,7 @@
     }
   ],
   "continent": "europe",
-  "publishedAt": "2026-06-21T12:42:01.258Z",
+  "publishedAt": "2026-06-22T19:23:31.549Z",
   "recentMatches": [
     {
       "matchId": "82b97dce-7c7e-4d50-9cf4-1b10500494a5",
@@ -61,5 +61,10 @@
     ],
     "overall": 70
   },
-  "compHistory": []
+  "compHistory": [],
+  "continents": [
+    "europe"
+  ],
+  "managerDiscordId": "868399385149579274",
+  "jerseyColor": "#d10000"
 }
