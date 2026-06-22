@@ -181,7 +181,7 @@
       "scoreAgainst": 1
     }
   ],
-  "publishedAt": "2026-06-22T00:49:12.537Z",
+  "publishedAt": "2026-06-22T00:53:18.021Z",
   "cultures": [
     {
       "culture": "japonais",
@@ -217,5 +217,28 @@
   "actionFoot": {
     "rating": 6,
     "funding": 250
-  }
+  },
+  "savedTactics": [
+    {
+      "style": "chaos",
+      "formation": "5-4-1",
+      "lineup": [
+        "b65abc0b-6260-458c-876e-eaec8e306cc4",
+        "e8ae461c-cf7a-439e-adfe-424a0b978e4b",
+        "e109e444-3cc0-4127-8e88-af5f814041a0",
+        "914a99d0-fba6-4cfd-8574-e9633e42e344",
+        "ccb0de26-34b2-4afc-a2b0-23943f792584",
+        "83eed85d-d7dc-4d54-9d7c-990a2a0ebe75",
+        "fe784dff-113a-45f2-af62-b0572790d7d6",
+        "efab1044-6e12-4ab5-8353-5b9f7b0facab",
+        "83382722-ee55-4bb1-86bb-b7f9dc4dc0a2",
+        "80783928-6b47-476b-81cb-9310e7e07072",
+        "862eeced-2bf5-4be5-966b-56639fe66d10"
+      ],
+      "id": "24b14827-146e-487a-ae70-cb2140455885",
+      "name": "Tactique de base",
+      "customStyles": []
+    }
+  ],
+  "activeTacticId": "24b14827-146e-487a-ae70-cb2140455885"
 }
