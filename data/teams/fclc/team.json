@@ -172,7 +172,7 @@
       "892948fc-f22f-48f4-b6af-6ebeaa6db607"
     ]
   },
-  "publishedAt": "2026-06-22T23:43:01.894Z",
+  "publishedAt": "2026-06-22T23:56:01.080Z",
   "cultures": [
     {
       "culture": "cubain",
@@ -210,8 +210,8 @@
   "managerDiscordId": "928291843958014014",
   "coach": {
     "id": "73c46874-d1d6-4028-8582-1c0f9db75d2f",
-    "firstName": "Wahkan",
-    "lastName": "Greenleaf",
+    "firstName": "Isabel",
+    "lastName": "Valdes",
     "culture": "cubain",
     "stats": {
       "motivation": 17,
@@ -225,7 +225,7 @@
       "charismatique"
     ],
     "negativeTraits": [],
-    "overall": 88
+    "overall": 85
   },
   "coachSuspended": false,
   "jerseyColor": "#c20000",
