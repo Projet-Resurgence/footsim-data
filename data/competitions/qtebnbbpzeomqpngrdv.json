@@ -2493,7 +2493,80 @@
       "round": 6,
       "phase": "F",
       "leg": 1,
-      "status": "pending"
+      "status": "completed",
+      "result": {
+        "home": 5,
+        "away": 0
+      },
+      "matchSummary": {
+        "motm": {
+          "playerId": "89a0086b-0ff0-489e-a845-ca7b750f7403",
+          "playerName": "Hussein El-Amrani",
+          "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+          "teamName": "Empire Hussein",
+          "rating": 10
+        },
+        "stats": {
+          "shots": {
+            "home": 16,
+            "away": 15
+          },
+          "shotsOnTarget": {
+            "home": 9,
+            "away": 8
+          },
+          "saves": {
+            "home": 5,
+            "away": 4
+          },
+          "passes": {
+            "home": 246,
+            "away": 324
+          },
+          "fouls": {
+            "home": 5,
+            "away": 3
+          },
+          "corners": {
+            "home": 2,
+            "away": 3
+          },
+          "offsides": {
+            "home": 1,
+            "away": 1
+          },
+          "freekicks": {
+            "home": 2,
+            "away": 3
+          },
+          "dribbles": {
+            "home": 3,
+            "away": 8
+          },
+          "clearances": {
+            "home": 0,
+            "away": 0
+          },
+          "keyPasses": {
+            "home": 8,
+            "away": 9
+          },
+          "possession": {
+            "home": 43,
+            "away": 57
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 0
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        }
+      },
+      "matchFileId": "comp-qtebnbbpzeomqpngrdv-jlkj0et9mqpngrdv",
+      "simulatedAt": "2026-06-22T20:30:16.784Z"
     }
   ],
   "groups": [
@@ -4054,7 +4127,8 @@
         6.6,
         6.2,
         6.2,
-        7.8
+        7.8,
+        6.2
       ],
       "avgRating": 6.5
     },
@@ -4253,9 +4327,10 @@
         8,
         8.9,
         8.3,
-        7.5
+        7.5,
+        6.6
       ],
-      "avgRating": 7.7
+      "avgRating": 7.5
     },
     "edd4bb45-d83c-4421-8f10-63bba4605082": {
       "playerId": "edd4bb45-d83c-4421-8f10-63bba4605082",
@@ -4274,9 +4349,10 @@
         6.4,
         6.4,
         6.7,
-        6
+        6,
+        5.7
       ],
-      "avgRating": 6.2
+      "avgRating": 6.1
     },
     "88a0a7bc-90fd-407d-adc0-7c8d3a2e837d": {
       "playerId": "88a0a7bc-90fd-407d-adc0-7c8d3a2e837d",
@@ -4295,9 +4371,10 @@
         6.6,
         6.6,
         6.4,
+        5.7,
         5.7
       ],
-      "avgRating": 6.2
+      "avgRating": 6.1
     },
     "46274d60-60cb-4d62-b5ba-063a08adda21": {
       "playerId": "46274d60-60cb-4d62-b5ba-063a08adda21",
@@ -4316,9 +4393,10 @@
         6.1,
         6.1,
         6.1,
-        5.9
+        5.9,
+        5.4
       ],
-      "avgRating": 5.9
+      "avgRating": 5.8
     },
     "720e2681-c6f2-46e5-b610-9604d3a9e92c": {
       "playerId": "720e2681-c6f2-46e5-b610-9604d3a9e92c",
@@ -4337,7 +4415,8 @@
         5.7,
         5.7,
         5.7,
-        7.4
+        7.4,
+        5.8
       ],
       "avgRating": 6
     },
@@ -4358,9 +4437,10 @@
         7.2,
         6.2,
         6.6,
-        9.9
+        9.9,
+        6.6
       ],
-      "avgRating": 7.3
+      "avgRating": 7.2
     },
     "442b01e6-c161-4845-8c2b-3261255abcdb": {
       "playerId": "442b01e6-c161-4845-8c2b-3261255abcdb",
@@ -4379,7 +4459,8 @@
         6.6,
         6.3,
         6.3,
-        6.6
+        6.6,
+        6.5
       ],
       "avgRating": 6.4
     },
@@ -4400,9 +4481,10 @@
         6.6,
         6.1,
         5.5,
-        6.5
+        6.5,
+        6.6
       ],
-      "avgRating": 6.2
+      "avgRating": 6.3
     },
     "c6663d52-24a7-4d5a-aaea-b02fd24652d6": {
       "playerId": "c6663d52-24a7-4d5a-aaea-b02fd24652d6",
@@ -4421,9 +4503,10 @@
         7.5,
         6.1,
         7.5,
-        6.2
+        6.2,
+        6
       ],
-      "avgRating": 6.7
+      "avgRating": 6.6
     },
     "63cba1c6-27e5-4311-91d8-92b5f3fde740": {
       "playerId": "63cba1c6-27e5-4311-91d8-92b5f3fde740",
@@ -4442,9 +4525,10 @@
         6.4,
         7.5,
         6.4,
-        9.1
+        9.1,
+        6.2
       ],
-      "avgRating": 7.1
+      "avgRating": 7
     },
     "30c48de3-bd45-4195-a6d3-e7f59257bc2d": {
       "playerId": "30c48de3-bd45-4195-a6d3-e7f59257bc2d",
@@ -5737,9 +5821,10 @@
         8.7,
         8.2,
         7,
-        5.7
+        5.7,
+        6.4
       ],
-      "avgRating": 7.5
+      "avgRating": 7.3
     },
     "52a454a3-b7b5-4396-b444-334daf5ad37e": {
       "playerId": "52a454a3-b7b5-4396-b444-334daf5ad37e",
@@ -5758,9 +5843,10 @@
         6.8,
         6.2,
         6.6,
-        7.8
+        7.8,
+        6.6
       ],
-      "avgRating": 7
+      "avgRating": 6.9
     },
     "350b2fe9-291e-4271-a852-a061784deeda": {
       "playerId": "350b2fe9-291e-4271-a852-a061784deeda",
@@ -5999,7 +6085,7 @@
       "position": "GK",
       "goals": 0,
       "assists": 0,
-      "cleanSheets": 3,
+      "cleanSheets": 4,
       "yellowCards": 0,
       "redCards": 0,
       "matchRatings": [
@@ -6007,9 +6093,10 @@
         6.9,
         8,
         8,
-        7.7
+        7.7,
+        8.3
       ],
-      "avgRating": 7.4
+      "avgRating": 7.5
     },
     "408ffe60-4bad-461b-adf3-43ac1ed96add": {
       "playerId": "408ffe60-4bad-461b-adf3-43ac1ed96add",
@@ -6026,6 +6113,7 @@
       "matchRatings": [
         6,
         5.7,
+        6.4,
         6.4,
         6.4,
         6.4
@@ -6049,7 +6137,8 @@
         5.7,
         6.4,
         6.6,
-        6.6
+        6.6,
+        6.4
       ],
       "avgRating": 6.3
     },
@@ -6070,6 +6159,7 @@
         5.4,
         6.1,
         6.1,
+        6.1,
         6.1
       ],
       "avgRating": 5.9
@@ -6082,7 +6172,7 @@
       "overall": 80,
       "position": "DM",
       "goals": 0,
-      "assists": 0,
+      "assists": 1,
       "cleanSheets": 0,
       "yellowCards": 0,
       "redCards": 0,
@@ -6091,9 +6181,10 @@
         5.4,
         6.1,
         6.1,
-        6.1
+        6.1,
+        7.1
       ],
-      "avgRating": 5.9
+      "avgRating": 6.1
     },
     "7b19b67e-c651-4290-86dc-65a0b182c617": {
       "playerId": "7b19b67e-c651-4290-86dc-65a0b182c617",
@@ -6112,9 +6203,10 @@
         6.4,
         6.6,
         6.8,
-        6.6
+        6.6,
+        6.2
       ],
-      "avgRating": 6.7
+      "avgRating": 6.6
     },
     "1c999b90-da69-4d38-a0c2-b11dcd550957": {
       "playerId": "1c999b90-da69-4d38-a0c2-b11dcd550957",
@@ -6123,7 +6215,7 @@
       "teamName": "Empire Hussein",
       "overall": 87,
       "position": "LW",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
       "cleanSheets": 0,
       "yellowCards": 0,
@@ -6133,9 +6225,10 @@
         6.3,
         6.1,
         6.3,
-        6.4
+        6.4,
+        7.7
       ],
-      "avgRating": 6.2
+      "avgRating": 6.5
     },
     "89a0086b-0ff0-489e-a845-ca7b750f7403": {
       "playerId": "89a0086b-0ff0-489e-a845-ca7b750f7403",
@@ -6144,7 +6237,7 @@
       "teamName": "Empire Hussein",
       "overall": 87,
       "position": "ST",
-      "goals": 4,
+      "goals": 7,
       "assists": 0,
       "cleanSheets": 0,
       "yellowCards": 0,
@@ -6154,9 +6247,10 @@
         6.6,
         10,
         6.2,
-        7.8
+        7.8,
+        10
       ],
-      "avgRating": 7.4
+      "avgRating": 7.8
     },
     "935e4e9a-b8e6-4409-99ad-7f224f7b4593": {
       "playerId": "935e4e9a-b8e6-4409-99ad-7f224f7b4593",
@@ -6175,9 +6269,10 @@
         6.1,
         6.2,
         5.6,
-        5.6
+        5.6,
+        6
       ],
-      "avgRating": 5.9
+      "avgRating": 6
     },
     "f85ddf37-2eb9-4f98-817e-010fff3ec06d": {
       "playerId": "f85ddf37-2eb9-4f98-817e-010fff3ec06d",
@@ -6359,6 +6454,21 @@
         5.7
       ],
       "avgRating": 5.7
+    },
+    "29bbc6be-5ead-4dc6-a4ce-0bc08d730468": {
+      "playerId": "29bbc6be-5ead-4dc6-a4ce-0bc08d730468",
+      "playerName": "Fatah Wahby",
+      "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "teamName": "Empire Hussein",
+      "overall": 78,
+      "position": "CM",
+      "goals": 1,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [],
+      "avgRating": 0
     }
   },
   "config": {
@@ -6382,7 +6492,7 @@
     }
   },
   "currentRound": 6,
-  "status": "ongoing",
+  "status": "completed",
   "createdAt": "2026-06-22T20:10:18.403Z",
   "teamSnapshot": {
     "d03fc060-b23b-4a41-9c1f-248b931809e1": {
@@ -6473,7 +6583,7 @@
     "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a": 20,
     "c1a00454-3cc7-46dd-8ec3-a2abb527eba9": 24,
     "8893e441-b5b6-49ea-b439-9c327b38d7c5": 95,
-    "110159bd-411c-409a-ba07-95216b092ba4": 43,
+    "110159bd-411c-409a-ba07-95216b092ba4": 37,
     "e5af0153-73d2-40eb-b1d4-c45e9f53df07": 40,
     "8451e643-10d4-48bc-a4e6-4c12255695f4": 26,
     "4050e7b8-0b32-4225-b936-2947890e501c": 37,
@@ -6481,7 +6591,7 @@
     "da633c6d-88ad-40f5-9ab5-6437d77c3797": 47,
     "31dbe023-a8f1-4325-9813-afa3d8e217fa": 38,
     "6c4e5ecf-662a-43d5-9795-b038fe6e2072": 60,
-    "ca9439ef-f9f3-4ec5-8073-0f62660aa497": 54,
+    "ca9439ef-f9f3-4ec5-8073-0f62660aa497": 75,
     "e5bac765-f354-41a2-b940-1e97fba04c20": 42
   },
   "pressItems": [
@@ -8847,6 +8957,105 @@
           ]
         }
       ]
+    },
+    {
+      "id": "b91ad70f-a0da-4f3e-8aa1-b97ded5d56d9",
+      "round": 6,
+      "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "category": "exploit",
+      "headline": "LE TITRE ! Empire Hussein réalise son rêve et entre dans la légende !",
+      "body": "Empire Hussein champion. Le sélectionneur, les joueurs, le staff — tous épuisés, tous heureux, tous ensemble. Ce groupe restera dans les mémoires pour longtemps. La préparation méticuleuse de Khaled Tantawi se voit dans chaque action de son équipe. Tarek Hafez a éclaboussé ce match de son talent.",
+      "moraleBefore": 54,
+      "moraleAfter": 61,
+      "moraleBoost": 14,
+      "createdAt": "2026-06-22T20:30:16.785Z",
+      "mentions": [
+        {
+          "type": "coach",
+          "name": "Khaled Tantawi",
+          "overall": 71,
+          "stats": {
+            "motivation": 11,
+            "tactique": 17,
+            "offensive": 20,
+            "defensif": 12,
+            "mentalite": 12,
+            "gestion": 9
+          },
+          "positiveTraits": [
+            "motivateur"
+          ],
+          "negativeTraits": []
+        },
+        {
+          "type": "player",
+          "name": "Tarek Hafez",
+          "overall": 87,
+          "position": "LW",
+          "stats": {
+            "technical": {
+              "passing": 11,
+              "crossing": 17,
+              "dribbling": 18,
+              "finishing": 13,
+              "firstTouch": 6,
+              "heading": 15,
+              "longShots": 13,
+              "tackling": 13,
+              "marking": 20
+            },
+            "mental": {
+              "vision": 14,
+              "decisions": 10,
+              "composure": 15,
+              "anticipation": 14,
+              "offTheBall": 13,
+              "aggression": 15,
+              "workRate": 8
+            },
+            "physical": {
+              "pace": 18,
+              "acceleration": 20,
+              "strength": 13,
+              "stamina": 11,
+              "agility": 16,
+              "balance": 7,
+              "jumping": 13
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "55452ab7-b24c-485d-bd03-c41947f63573",
+      "round": 6,
+      "teamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "category": "crise",
+      "headline": "UGP battu en finale — la douleur de l'argent",
+      "body": "Perdre une finale, c'est une douleur à part. UGP en fera l'expérience amère. Les larmes dans le vestiaire résument tout : l'ambition était là, la détermination aussi. Il manquait juste ce rien qui fait les champions. L'avenir de Riccardo Conte à la tête du groupe est sérieusement en question.",
+      "moraleBefore": 43,
+      "moraleAfter": 37,
+      "createdAt": "2026-06-22T20:30:16.785Z",
+      "mentions": [
+        {
+          "type": "coach",
+          "name": "Riccardo Conte",
+          "overall": 62,
+          "stats": {
+            "motivation": 15,
+            "tactique": 18,
+            "offensive": 9,
+            "defensif": 10,
+            "mentalite": 18,
+            "gestion": 9
+          },
+          "positiveTraits": [],
+          "negativeTraits": [
+            "conflictuel",
+            "imprevoyant"
+          ]
+        }
+      ]
     }
   ],
   "injuries": [
@@ -8857,30 +9066,8 @@
       "teamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
       "cause": "match",
       "severity": "grave",
-      "matchesRemaining": 2,
+      "matchesRemaining": 1,
       "description": "Déchirure totale des ischio-jambiers — longue convalescence.",
-      "roundOccurred": 3
-    },
-    {
-      "id": "2dca36f2-f748-4570-bd4d-326e7a18b9c8",
-      "playerId": "89f75ad1-d901-4839-81c6-240a311c715e",
-      "playerName": "Peng Yao",
-      "teamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
-      "cause": "match",
-      "severity": "modérée",
-      "matchesRemaining": 1,
-      "description": "Contusion sévère à la hanche — soins intensifs en cours.",
-      "roundOccurred": 3
-    },
-    {
-      "id": "40bd240d-feb3-4d98-ac52-52ddc03802a0",
-      "playerId": "cf5314bf-53e1-4a3e-af24-ccc2d3c45afb",
-      "playerName": "Kyle Scott",
-      "teamId": "8893e441-b5b6-49ea-b439-9c327b38d7c5",
-      "cause": "match",
-      "severity": "modérée",
-      "matchesRemaining": 1,
-      "description": "Contusion sévère à la hanche — soins intensifs en cours.",
       "roundOccurred": 3
     },
     {
@@ -8890,7 +9077,7 @@
       "teamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
       "cause": "match",
       "severity": "modérée",
-      "matchesRemaining": 2,
+      "matchesRemaining": 1,
       "description": "Contusion sévère à la hanche — soins intensifs en cours.",
       "roundOccurred": 4
     },
@@ -8901,10 +9088,17 @@
       "teamId": "6c4e5ecf-662a-43d5-9795-b038fe6e2072",
       "cause": "match",
       "severity": "grave",
-      "matchesRemaining": 5,
+      "matchesRemaining": 4,
       "description": "Déchirure totale des ischio-jambiers — longue convalescence.",
       "roundOccurred": 5
     }
   ],
-  "suspensions": []
+  "suspensions": [],
+  "awards": {
+    "topScorer": "ff67131f-2280-43ab-92d8-5691a2b3119d",
+    "topAssister": "ddd4e196-c90d-4557-8a87-c918c1129904",
+    "bestGK": "07aeab5b-061d-4600-8666-34b83f575da1",
+    "bestPlayer": "ff67131f-2280-43ab-92d8-5691a2b3119d"
+  },
+  "winner": "ca9439ef-f9f3-4ec5-8073-0f62660aa497"
 }
