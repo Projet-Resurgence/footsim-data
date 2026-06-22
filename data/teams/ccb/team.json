@@ -34,7 +34,7 @@
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-20T23:47:38.922Z",
+  "publishedAt": "2026-06-22T02:09:51.008Z",
   "tactics": {
     "style": "chaos",
     "formation": "3-4-1-2",
@@ -150,5 +150,41 @@
       "desorganise"
     ],
     "overall": 73
-  }
+  },
+  "savedTactics": [
+    {
+      "style": "contre-attaque",
+      "formation": "3-4-1-2",
+      "lineup": [
+        "44e712fb-26e6-4278-9d9f-0de27edfe5d5",
+        "c0f12e8b-929e-4763-af2c-947b54ec973d",
+        "2bb42de2-8ff9-4e03-9a38-7b6e004ba097",
+        "12e33eae-cfd1-4431-91e6-73b0ac72e99d",
+        "7c2053ae-79ce-4101-950e-ddb262ad7601",
+        "3485a9f3-c86e-4378-a689-d66274d56746",
+        "afb3247a-c91a-4352-9008-b30a1fb17733",
+        "df174198-b31b-4257-a876-3c2ddc3f7711",
+        "67059fa1-f80e-4ba9-818e-cd713dd00299",
+        "7c185c3b-b756-4e27-a573-b4ff397a3821",
+        "0b81ab16-beb5-4b65-bd06-525976aa8160"
+      ],
+      "id": "c289f641-1581-4b54-9203-76a4fca7c347",
+      "name": "Tactique de base",
+      "customStyles": [
+        {
+          "id": "6bf54d23-d28a-428f-9348-e593960d3a47",
+          "name": "Anti-faute",
+          "mods": {
+            "shotFreqMult": 1.05,
+            "foulRateMult": 1.1,
+            "midfieldMult": 1.05,
+            "attackMult": 1.1,
+            "defenseMult": 1
+          }
+        }
+      ],
+      "activeCustomStyleId": "6bf54d23-d28a-428f-9348-e593960d3a47"
+    }
+  ],
+  "activeTacticId": "c289f641-1581-4b54-9203-76a4fca7c347"
 }
