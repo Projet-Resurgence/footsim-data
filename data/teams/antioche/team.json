@@ -25,7 +25,7 @@
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-20T23:54:01.492Z",
+  "publishedAt": "2026-06-22T18:47:00.667Z",
   "managerDiscordId": "1473103141728944171",
   "recentMatches": [
     {
@@ -59,5 +59,6 @@
       "conflictuel"
     ],
     "overall": 76
-  }
+  },
+  "jerseyColor": "#a11753"
 }
