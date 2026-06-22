@@ -181,7 +181,7 @@
       "scoreAgainst": 1
     }
   ],
-  "publishedAt": "2026-06-22T00:54:22.592Z",
+  "publishedAt": "2026-06-22T01:37:10.931Z",
   "cultures": [
     {
       "culture": "japonais",
@@ -221,7 +221,7 @@
   "savedTactics": [
     {
       "style": "chaos",
-      "formation": "3-4-3",
+      "formation": "5-3-2",
       "lineup": [
         "b65abc0b-6260-458c-876e-eaec8e306cc4",
         "e109e444-3cc0-4127-8e88-af5f814041a0",
@@ -237,7 +237,8 @@
       ],
       "id": "24b14827-146e-487a-ae70-cb2140455885",
       "name": "Tactique de base",
-      "customStyles": []
+      "customStyles": [],
+      "formationLabel": "10-0-0"
     }
   ],
   "activeTacticId": "24b14827-146e-487a-ae70-cb2140455885"
