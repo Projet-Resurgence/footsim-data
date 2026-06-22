@@ -27,7 +27,7 @@
       "63cba1c6-27e5-4311-91d8-92b5f3fde740"
     ]
   },
-  "publishedAt": "2026-06-20T20:51:00.300Z",
+  "publishedAt": "2026-06-22T17:31:20.650Z",
   "recentMatches": [
     {
       "matchId": "f4ba5acc-38f9-434d-a204-e68f1d9c7124",
@@ -76,5 +76,24 @@
   "continents": [
     "europe"
   ],
-  "managerDiscordId": "293869524091142144"
+  "managerDiscordId": "293869524091142144",
+  "coach": {
+    "id": "22a15549-6355-48be-a826-e8d2e6ecc6db",
+    "firstName": "Vincenzo",
+    "lastName": "Ferrari",
+    "culture": "italien",
+    "stats": {
+      "motivation": 8,
+      "tactique": 11,
+      "offensive": 19,
+      "defensif": 12,
+      "mentalite": 10,
+      "gestion": 9
+    },
+    "positiveTraits": [
+      "motivateur"
+    ],
+    "negativeTraits": [],
+    "overall": 61
+  }
 }
