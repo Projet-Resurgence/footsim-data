@@ -125,5 +125,15 @@
       "name": "Tactique 1"
     }
   ],
-  "activeTacticId": "8a463537-621c-42cf-ad6c-e09006a4eeca"
+  "activeTacticId": "8a463537-621c-42cf-ad6c-e09006a4eeca",
+  "compHistory": [
+    {
+      "compId": "64u4wu9yt9jmqpdvrnr",
+      "compName": "Global Friendship Cup",
+      "year": 2308,
+      "format": "groups_knockout",
+      "result": "finalist",
+      "phase": "F"
+    }
+  ]
 }
