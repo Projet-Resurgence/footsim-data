@@ -41,7 +41,7 @@
       "compKind": "amicale",
       "compScope": "internationale",
       "compImportance": "mineur",
-      "cmfPoints": 0
+      "cmfPoints": -1.5
     },
     {
       "matchId": "4mn60z5pmqpngrdv",
@@ -57,7 +57,7 @@
       "compKind": "amicale",
       "compScope": "internationale",
       "compImportance": "mineur",
-      "cmfPoints": 0
+      "cmfPoints": -0.5
     },
     {
       "matchId": "w9l3euq4mqpngrdv",
@@ -73,7 +73,7 @@
       "compKind": "amicale",
       "compScope": "internationale",
       "compImportance": "mineur",
-      "cmfPoints": 0
+      "cmfPoints": -1
     }
   ],
   "publishedAt": "2026-06-23T15:24:48.188Z",
