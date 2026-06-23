@@ -22,7 +22,7 @@
   "playerCount": 500,
   "formation": "4-3-3",
   "managerDiscordId": "1214007771620577311",
-  "publishedAt": "2026-06-22T19:37:56.500Z",
+  "publishedAt": "2026-06-23T16:40:51.705Z",
   "compHistory": [
     {
       "compId": "qtebnbbpzeomqpngrdv",
@@ -99,5 +99,28 @@
       "compImportance": "mineur",
       "cmfPoints": 2.9
     }
-  ]
+  ],
+  "savedTactics": [
+    {
+      "style": "contre-attaque",
+      "formation": "4-3-3",
+      "lineup": [
+        "c396afd9-975e-4f0a-93bb-cadf6ba5a3a9",
+        "ea268443-4d5d-4c84-bf2a-2b69fdc7d352",
+        "484dcf4b-43d4-424d-911e-79227783d582",
+        "40daaade-1892-415e-a625-8889de0c0099",
+        "0daed997-0e22-4c9b-ba72-d8f1ad45d1a9",
+        "4e44c8f6-ea9f-470c-a3a3-ea4f1fa82662",
+        "2004a2c8-8bee-4dc6-a1cc-4f93dd846ea2",
+        "60812871-655a-4d99-8cf6-b47be478b3d2",
+        "262568b4-1d7b-48fe-8f03-1bf32a4e6915",
+        "470e4f61-dc93-4005-92a5-7dc9ed642d61",
+        "51734e56-6364-48ce-aa7b-470b5a778a0b"
+      ],
+      "customStyles": [],
+      "id": "62a90306-d852-4283-8205-ed0f137c6121",
+      "name": "Tactique 1"
+    }
+  ],
+  "activeTacticId": "62a90306-d852-4283-8205-ed0f137c6121"
 }
