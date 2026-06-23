@@ -67,7 +67,7 @@
       "compKind": "amicale",
       "compScope": "internationale",
       "compImportance": "mineur",
-      "cmfPoints": 0
+      "cmfPoints": -0.5
     },
     {
       "matchId": "8zd3xipfmqpngrdv",
@@ -83,7 +83,7 @@
       "compKind": "amicale",
       "compScope": "internationale",
       "compImportance": "mineur",
-      "cmfPoints": 2.9
+      "cmfPoints": 1
     },
     {
       "matchId": "t49tqcubmqpngrdv",
@@ -99,7 +99,7 @@
       "compKind": "amicale",
       "compScope": "internationale",
       "compImportance": "mineur",
-      "cmfPoints": 0
+      "cmfPoints": -0.5
     }
   ],
   "continents": [
