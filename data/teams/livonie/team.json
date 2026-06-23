@@ -23,30 +23,26 @@
   "formation": "4-3-3",
   "managerDiscordId": "824609856177569828",
   "coach": {
-    "id": "3fc5873e-734c-4b56-b8de-01fdfa121fbb",
-    "firstName": "Erwan",
-    "lastName": "Sanchez",
-    "culture": "francais",
+    "id": "dc8f808c-e1d0-4997-bcf5-3a7b9c9bf216",
+    "firstName": "Gunta",
+    "lastName": "Rubenis",
+    "culture": "letton",
     "stats": {
-      "motivation": 13,
-      "tactique": 14,
-      "offensive": 11,
-      "defensif": 13,
-      "mentalite": 19,
-      "gestion": 13
+      "motivation": 16,
+      "tactique": 19,
+      "offensive": 12,
+      "defensif": 17,
+      "mentalite": 17,
+      "gestion": 11
     },
-    "positiveTraits": [
-      "tacticien",
-      "disciplinaire"
-    ],
+    "positiveTraits": [],
     "negativeTraits": [
-      "conflictuel",
-      "conservateur"
+      "conflictuel"
     ],
-    "overall": 71
+    "overall": 75
   },
   "jerseyColor": "#ab4949",
-  "publishedAt": "2026-06-23T12:28:09.282Z",
+  "publishedAt": "2026-06-23T16:12:56.095Z",
   "compHistory": [
     {
       "compId": "qtebnbbpzeomqpngrdv",
