@@ -3,9 +3,10 @@
     "id": "mxznxeedy1pmqr3u9k5",
     "name": "Coupe de la prospérité",
     "format": "groups_knockout",
-    "status": "ongoing",
+    "status": "completed",
     "teamCount": 8,
     "createdAt": "2026-06-23T20:36:28.518Z",
+    "winner": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
     "year": 2308,
     "teamIds": [
       "110159bd-411c-409a-ba07-95216b092ba4",
