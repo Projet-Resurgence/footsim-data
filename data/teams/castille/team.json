@@ -18,7 +18,7 @@
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-20T23:52:41.932Z",
+  "publishedAt": "2026-06-23T12:26:58.881Z",
   "coach": {
     "id": "af4c31ac-8e43-4b85-9eac-444156c07127",
     "firstName": "Álvaro",
@@ -35,5 +35,10 @@
     "positiveTraits": [],
     "negativeTraits": [],
     "overall": 68
-  }
+  },
+  "continents": [
+    "europe"
+  ],
+  "managerDiscordId": "1510313174853746771",
+  "jerseyColor": "#eae1e1"
 }
