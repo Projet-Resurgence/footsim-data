@@ -219,5 +219,7 @@
       "name": "Possession"
     }
   ],
-  "activeTacticId": "72d6a066-9b6c-4162-b724-3abce6703a17"
+  "activeTacticId": "72d6a066-9b6c-4162-b724-3abce6703a17",
+  "injuries": [],
+  "suspensions": []
 }

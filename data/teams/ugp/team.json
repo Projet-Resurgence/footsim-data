@@ -170,5 +170,7 @@
   "actionFoot": {
     "rating": 5,
     "funding": 170
-  }
+  },
+  "injuries": [],
+  "suspensions": []
 }

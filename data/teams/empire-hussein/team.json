@@ -232,5 +232,7 @@
     "rating": 5,
     "funding": 270
   },
-  "coachSuspended": false
+  "coachSuspended": false,
+  "injuries": [],
+  "suspensions": []
 }

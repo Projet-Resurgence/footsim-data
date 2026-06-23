@@ -121,5 +121,19 @@
       "compImportance": "mineur",
       "cmfPoints": 2.9
     }
-  ]
+  ],
+  "injuries": [
+    {
+      "id": "7612574f-88f0-4ae5-9878-c3828cdbdd4b",
+      "playerId": "cff29621-0d97-4df2-8eda-e5794b15e4e0",
+      "playerName": "Franco Barbieri",
+      "teamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "cause": "match",
+      "severity": "grave",
+      "matchesRemaining": 1,
+      "description": "Déchirure totale des ischio-jambiers — longue convalescence.",
+      "roundOccurred": 3
+    }
+  ],
+  "suspensions": []
 }

@@ -128,5 +128,7 @@
       "name": "Tactique 1"
     }
   ],
-  "activeTacticId": "4cad7a29-4292-49ae-a98a-353f3483d580"
+  "activeTacticId": "4cad7a29-4292-49ae-a98a-353f3483d580",
+  "injuries": [],
+  "suspensions": []
 }
