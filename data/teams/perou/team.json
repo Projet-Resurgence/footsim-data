@@ -15,7 +15,7 @@
     "amerique"
   ],
   "kind": "national",
-  "globalStrength": 60,
+  "globalStrength": 61,
   "createdAt": "2026-06-21T13:30:55.958Z",
   "createdBy": "772821169664426025",
   "ownerId": "772821169664426025",
@@ -45,7 +45,7 @@
     "overall": 75
   },
   "jerseyColor": "#e80202",
-  "publishedAt": "2026-06-21T13:30:56.763Z",
+  "publishedAt": "2026-06-23T23:10:08.338Z",
   "injuries": [],
   "suspensions": [],
   "recentMatches": [
@@ -142,5 +142,9 @@
       "result": "finalist",
       "phase": "F"
     }
-  ]
+  ],
+  "actionFoot": {
+    "rating": 5,
+    "funding": 60
+  }
 }
