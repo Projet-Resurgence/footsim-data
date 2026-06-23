@@ -22,7 +22,7 @@
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-22T21:43:21.882Z",
+  "publishedAt": "2026-06-23T22:06:06.753Z",
   "tactics": {
     "style": "pressing",
     "formation": "3-5-2",
@@ -41,23 +41,28 @@
     ]
   },
   "coach": {
-    "id": "8d4e9aa0-68e1-4ccb-80c3-c7936cd20e4b",
-    "firstName": "İlker",
-    "lastName": "Sezer",
+    "id": "3e5d76e9-8bcc-42c9-b910-ac487f9ff379",
+    "firstName": "Çağrı",
+    "lastName": "Demir",
     "culture": "turc",
     "stats": {
-      "motivation": 12,
-      "tactique": 9,
-      "offensive": 13,
-      "defensif": 19,
-      "mentalite": 12,
-      "gestion": 10
+      "motivation": 18,
+      "tactique": 19,
+      "offensive": 9,
+      "defensif": 11,
+      "mentalite": 11,
+      "gestion": 9
     },
     "positiveTraits": [
-      "disciplinaire"
+      "defensif",
+      "charismatique"
     ],
-    "negativeTraits": [],
-    "overall": 66
+    "negativeTraits": [
+      "conflictuel",
+      "alcoolique",
+      "impatient"
+    ],
+    "overall": 64
   },
   "savedTactics": [
     {
