@@ -58,7 +58,7 @@
     "afrique"
   ],
   "managerDiscordId": "327726564748034050",
-  "publishedAt": "2026-06-23T10:50:22.248Z",
+  "publishedAt": "2026-06-23T11:15:56.430Z",
   "coach": {
     "id": "479b6de4-f4fc-4952-98a2-db2be30d5aec",
     "firstName": "Omari",
@@ -78,5 +78,48 @@
     ],
     "negativeTraits": [],
     "overall": 80
-  }
+  },
+  "savedTactics": [
+    {
+      "style": "contre-attaque",
+      "formation": "4-3-3",
+      "lineup": [
+        "483d73b9-e6a5-4e7f-8ef3-0cd0c2837ec4",
+        "4dfd2a45-1b7c-4129-abae-f149f85aa458",
+        "feacf042-11f7-416b-b4ce-b6635ffd6caf",
+        "99d9426f-6812-47ea-b210-871def28ad79",
+        "e15ade18-4bf0-4414-b414-29d956cc0fe5",
+        "2f7b6b71-8e62-40ca-8e15-04954d39c835",
+        "0d76b8fe-76c5-4c18-88ac-565369944291",
+        "48c23223-9363-4a29-a7d0-d04b8be6bfde",
+        "dbc0de06-7355-4358-afa9-ca2200500ea7",
+        "3ad7f7fc-6c82-4c2e-a421-e0c60a674725",
+        "f957270c-e47a-471d-8390-43df1e7264ea"
+      ],
+      "id": "d153d071-6669-46f1-8110-28735902294f",
+      "name": "Tactique de base",
+      "customStyles": []
+    },
+    {
+      "style": "possession",
+      "formation": "4-3-3",
+      "lineup": [
+        "483d73b9-e6a5-4e7f-8ef3-0cd0c2837ec4",
+        "0932d91d-e305-4390-a0cf-788d09033da6",
+        "feacf042-11f7-416b-b4ce-b6635ffd6caf",
+        "99d9426f-6812-47ea-b210-871def28ad79",
+        "e15ade18-4bf0-4414-b414-29d956cc0fe5",
+        "48c23223-9363-4a29-a7d0-d04b8be6bfde",
+        "2f7b6b71-8e62-40ca-8e15-04954d39c835",
+        "0d76b8fe-76c5-4c18-88ac-565369944291",
+        "dbc0de06-7355-4358-afa9-ca2200500ea7",
+        "3ad7f7fc-6c82-4c2e-a421-e0c60a674725",
+        "f957270c-e47a-471d-8390-43df1e7264ea"
+      ],
+      "customStyles": [],
+      "id": "89171b0e-5400-4e85-a443-2e2482a34b1c",
+      "name": "Tactique 2"
+    }
+  ],
+  "activeTacticId": "89171b0e-5400-4e85-a443-2e2482a34b1c"
 }
