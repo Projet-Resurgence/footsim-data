@@ -194,18 +194,6 @@
       "cmfPoints": 1
     }
   ],
-  "injuries": [
-    {
-      "id": "64df66bd-c2fa-4621-8440-aa858ae00d5f",
-      "playerId": "cf5ae32b-a107-4824-a8e7-2089a93cad9f",
-      "playerName": "Kaspars Zariņš",
-      "teamId": "6c4e5ecf-662a-43d5-9795-b038fe6e2072",
-      "cause": "match",
-      "severity": "grave",
-      "matchesRemaining": 4,
-      "description": "Déchirure totale des ischio-jambiers — longue convalescence.",
-      "roundOccurred": 5
-    }
-  ],
+  "injuries": [],
   "suspensions": []
 }

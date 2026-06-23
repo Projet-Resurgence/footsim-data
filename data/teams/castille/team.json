@@ -63,5 +63,7 @@
       "name": "Tactique 4"
     }
   ],
-  "activeTacticId": "e59b7ebd-610b-4593-8cdb-6dc7c3984f12"
+  "activeTacticId": "e59b7ebd-610b-4593-8cdb-6dc7c3984f12",
+  "injuries": [],
+  "suspensions": []
 }

@@ -65,5 +65,7 @@
       "name": "Tactique 2"
     }
   ],
-  "activeTacticId": "0251f630-4dc5-406d-ac82-1a08d04fb692"
+  "activeTacticId": "0251f630-4dc5-406d-ac82-1a08d04fb692",
+  "injuries": [],
+  "suspensions": []
 }

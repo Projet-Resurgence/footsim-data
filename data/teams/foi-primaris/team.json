@@ -100,5 +100,19 @@
       "name": "Tactique 2"
     }
   ],
-  "activeTacticId": "89171b0e-5400-4e85-a443-2e2482a34b1c"
+  "activeTacticId": "89171b0e-5400-4e85-a443-2e2482a34b1c",
+  "injuries": [
+    {
+      "id": "ed149303-b40b-4e94-9972-1c1c7966c0f5",
+      "playerId": "dbc0de06-7355-4358-afa9-ca2200500ea7",
+      "playerName": "Omar Jumanne",
+      "teamId": "7db62a2a-b398-4a35-9c11-4d5b4bf4570c",
+      "cause": "match",
+      "severity": "grave",
+      "matchesRemaining": 3,
+      "description": "Fracture de la cheville — opération chirurgicale probable.",
+      "roundOccurred": 4
+    }
+  ],
+  "suspensions": []
 }

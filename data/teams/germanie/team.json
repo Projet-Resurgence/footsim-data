@@ -77,5 +77,30 @@
       "passif"
     ],
     "overall": 73
-  }
+  },
+  "injuries": [
+    {
+      "id": "c873d1f9-7c32-4391-bf07-9a7e802c7b69",
+      "playerId": "ce6edb53-b562-4047-a841-c2712658f714",
+      "playerName": "Lukas Weber",
+      "teamId": "6377412c-0d4c-47e7-ba24-52745e83cfaa",
+      "cause": "match",
+      "severity": "modérée",
+      "matchesRemaining": 3,
+      "description": "Fracture de fatigue détectée — mise au repos forcée.",
+      "roundOccurred": 6
+    },
+    {
+      "id": "d619b9f3-71c2-4152-92cd-e263b8630d7b",
+      "playerId": "6b2442dd-168b-4f8a-884f-19b5fc5b1355",
+      "playerName": "Erik Roth",
+      "teamId": "6377412c-0d4c-47e7-ba24-52745e83cfaa",
+      "cause": "match",
+      "severity": "légère",
+      "matchesRemaining": 1,
+      "description": "Cheville tordue légèrement — réévaluation avant le prochain match.",
+      "roundOccurred": 6
+    }
+  ],
+  "suspensions": []
 }
