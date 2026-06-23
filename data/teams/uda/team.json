@@ -25,7 +25,7 @@
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-23T23:03:21.615Z",
+  "publishedAt": "2026-06-23T23:16:47.665Z",
   "managerDiscordId": "1477619366890573926",
   "compHistory": [
     {
@@ -63,28 +63,24 @@
     }
   ],
   "coach": {
-    "id": "096b5646-0b70-409a-a8b8-777294071794",
-    "firstName": "He",
-    "lastName": "Peng",
+    "id": "ab1acc86-6fb5-4454-91d6-3e25c2caa5b5",
+    "firstName": "Tian",
+    "lastName": "Xiao",
     "culture": "chinois",
     "stats": {
-      "motivation": 9,
-      "tactique": 11,
-      "offensive": 17,
-      "defensif": 15,
-      "mentalite": 9,
-      "gestion": 20
+      "motivation": 16,
+      "tactique": 13,
+      "offensive": 16,
+      "defensif": 13,
+      "mentalite": 13,
+      "gestion": 12
     },
     "positiveTraits": [
-      "defensif",
-      "offensif"
+      "opportuniste",
+      "charismatique"
     ],
-    "negativeTraits": [
-      "rigide",
-      "drogue",
-      "impulsif"
-    ],
-    "overall": 68
+    "negativeTraits": [],
+    "overall": 69
   },
   "savedTactics": [
     {
