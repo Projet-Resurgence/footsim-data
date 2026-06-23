@@ -27,7 +27,7 @@
       "63cba1c6-27e5-4311-91d8-92b5f3fde740"
     ]
   },
-  "publishedAt": "2026-06-22T22:27:31.889Z",
+  "publishedAt": "2026-06-23T18:44:23.219Z",
   "recentMatches": [
     {
       "matchId": "jlkj0et9mqpngrdv",
@@ -124,42 +124,6 @@
       "compScope": "internationale",
       "compImportance": "mineur",
       "cmfPoints": 0
-    },
-    {
-      "matchId": "f4ba5acc-38f9-434d-a204-e68f1d9c7124",
-      "playedAt": "2026-06-20T18:48:01.068Z",
-      "opponentSlug": "antioche",
-      "opponentName": "Antioche",
-      "homeAway": "home",
-      "scoreFor": 0,
-      "scoreAgainst": 0
-    },
-    {
-      "matchId": "e96d81ed-8ef5-4d6c-a4a0-32635ab56eb7",
-      "playedAt": "2026-06-20T18:46:51.422Z",
-      "opponentSlug": "fclc",
-      "opponentName": "FCLC",
-      "homeAway": "home",
-      "scoreFor": 4,
-      "scoreAgainst": 1
-    },
-    {
-      "matchId": "2f54bf44-dbfd-4da7-8590-2fd068d2e331",
-      "playedAt": "2026-06-20T18:46:08.058Z",
-      "opponentSlug": "ccb",
-      "opponentName": "CCB",
-      "homeAway": "home",
-      "scoreFor": 1,
-      "scoreAgainst": 0
-    },
-    {
-      "matchId": "281ac094-5c0b-4913-9b80-dceac2726f37",
-      "playedAt": "2026-06-20T18:44:37.616Z",
-      "opponentSlug": "foi-primaris",
-      "opponentName": "Foi Primaris",
-      "homeAway": "home",
-      "scoreFor": 0,
-      "scoreAgainst": 3
     }
   ],
   "cultures": [
