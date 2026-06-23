@@ -190,7 +190,7 @@
       "89a0086b-0ff0-489e-a845-ca7b750f7403"
     ]
   },
-  "publishedAt": "2026-06-22T22:22:56.071Z",
+  "publishedAt": "2026-06-23T00:01:08.125Z",
   "cultures": [
     {
       "culture": "arabe",
@@ -218,7 +218,7 @@
   "coach": {
     "id": "ca092bfd-96a9-49bd-97bc-9284bfb15953",
     "firstName": "Khaled",
-    "lastName": "Tantawi",
+    "lastName": "Hussein2",
     "culture": "egyptien",
     "stats": {
       "motivation": 11,
@@ -232,7 +232,7 @@
       "motivateur"
     ],
     "negativeTraits": [],
-    "overall": 71
+    "overall": 68
   },
   "compHistory": [
     {
@@ -297,5 +297,6 @@
   "actionFoot": {
     "rating": 5,
     "funding": 270
-  }
+  },
+  "coachSuspended": false
 }
