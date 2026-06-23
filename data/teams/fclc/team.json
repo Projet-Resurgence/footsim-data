@@ -23,7 +23,8 @@
       "opponentStrength": 50,
       "compKind": "amicale",
       "compScope": "internationale",
-      "cmfPoints": 4.8
+      "compImportance": "mineur",
+      "cmfPoints": 2.9
     },
     {
       "matchId": "tew34f37mqpngrdv",
@@ -38,6 +39,7 @@
       "opponentStrength": 50,
       "compKind": "amicale",
       "compScope": "internationale",
+      "compImportance": "mineur",
       "cmfPoints": 0
     },
     {
@@ -53,6 +55,7 @@
       "opponentStrength": 50,
       "compKind": "amicale",
       "compScope": "internationale",
+      "compImportance": "mineur",
       "cmfPoints": 0
     },
     {
