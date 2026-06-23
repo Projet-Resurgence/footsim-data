@@ -1046,11 +1046,11 @@
       "technical": {
         "passing": 11,
         "crossing": 17,
-        "dribbling": 10,
+        "dribbling": 20,
         "finishing": 20,
-        "firstTouch": 16,
-        "heading": 15,
-        "longShots": 13,
+        "firstTouch": 17,
+        "heading": 17,
+        "longShots": 14,
         "tackling": 11,
         "marking": 15
       },
@@ -1074,7 +1074,7 @@
       },
       "goalkeeping": null
     },
-    "overall": 86
+    "overall": 90
   },
   {
     "id": "f00421cb-ee93-477d-886e-2680298f6571",
