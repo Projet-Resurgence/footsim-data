@@ -18,7 +18,7 @@
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-22T20:58:13.406Z",
+  "publishedAt": "2026-06-23T15:24:19.705Z",
   "tactics": {
     "style": "ultra-defensif",
     "formation": "5-4-1",
@@ -84,24 +84,6 @@
       "compScope": "internationale",
       "compImportance": "mineur",
       "cmfPoints": 0
-    },
-    {
-      "matchId": "a817f681-2793-42f0-bfa6-e6a88ab2defa",
-      "playedAt": "2026-06-20T13:41:12.468Z",
-      "opponentSlug": "ccb",
-      "opponentName": "CCB",
-      "homeAway": "home",
-      "scoreFor": 0,
-      "scoreAgainst": 0
-    },
-    {
-      "matchId": "2dba230f-6941-43b9-9508-11a46862648b",
-      "playedAt": "2026-06-20T13:29:13.713Z",
-      "opponentSlug": "yamatai",
-      "opponentName": "Yamatai",
-      "homeAway": "away",
-      "scoreFor": 0,
-      "scoreAgainst": 0
     }
   ],
   "coach": {
