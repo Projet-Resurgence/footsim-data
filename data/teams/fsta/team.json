@@ -63,5 +63,71 @@
     "overall": 65
   },
   "injuries": [],
-  "suspensions": []
+  "suspensions": [],
+  "recentMatches": [
+    {
+      "matchId": "ziud6wrkmqraflph",
+      "playedAt": "2026-06-23T23:45:14.849Z",
+      "opponentSlug": "ccb",
+      "opponentName": "CCB",
+      "homeTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "awayTeamId": "4ba08162-cd67-4fe4-98d0-92064194885b",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 3,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "cmfPoints": -1
+    },
+    {
+      "matchId": "nwox02mxmqraflpg",
+      "playedAt": "2026-06-23T23:43:23.550Z",
+      "opponentSlug": "antioche",
+      "opponentName": "Antioche",
+      "homeTeamId": "4ba08162-cd67-4fe4-98d0-92064194885b",
+      "awayTeamId": "8451e643-10d4-48bc-a4e6-4c12255695f4",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "cmfPoints": 1.1
+    },
+    {
+      "matchId": "c93wdfyzmqraflpg",
+      "playedAt": "2026-06-23T23:42:29.046Z",
+      "opponentSlug": "empire-hussein",
+      "opponentName": "Empire Hussein",
+      "homeTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "awayTeamId": "4ba08162-cd67-4fe4-98d0-92064194885b",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 2,
+      "opponentStrength": 63,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "cmfPoints": 0.4
+    },
+    {
+      "matchId": "onm5v4jamqraflpg",
+      "playedAt": "2026-06-23T23:41:40.769Z",
+      "opponentSlug": "italie",
+      "opponentName": "Italie",
+      "homeTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "awayTeamId": "4ba08162-cd67-4fe4-98d0-92064194885b",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 4,
+      "opponentStrength": 61,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "cmfPoints": -1
+    }
+  ]
 }
