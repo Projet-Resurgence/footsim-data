@@ -24,7 +24,7 @@
       "compKind": "amicale",
       "compScope": "internationale",
       "compImportance": "mineur",
-      "cmfPoints": 2.9
+      "cmfPoints": 1
     },
     {
       "matchId": "tew34f37mqpngrdv",
@@ -40,7 +40,7 @@
       "compKind": "amicale",
       "compScope": "internationale",
       "compImportance": "mineur",
-      "cmfPoints": 0
+      "cmfPoints": -0.5
     },
     {
       "matchId": "8mdn4xz7mqpngrdv",
@@ -56,7 +56,7 @@
       "compKind": "amicale",
       "compScope": "internationale",
       "compImportance": "mineur",
-      "cmfPoints": 0
+      "cmfPoints": -0.5
     }
   ],
   "tactics": {
