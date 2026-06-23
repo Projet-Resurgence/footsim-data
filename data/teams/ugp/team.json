@@ -323,6 +323,17 @@
       "importance": "mineur",
       "result": "semi",
       "phase": "3rd"
+    },
+    {
+      "compId": "2sd2h5joerwmqraflpg",
+      "compName": "Global Friendship Cup",
+      "year": 2309,
+      "format": "groups_knockout",
+      "kind": "amicale",
+      "scope": "internationale",
+      "importance": "mineur",
+      "result": "participant",
+      "phase": "QF"
     }
   ],
   "actionFoot": {
