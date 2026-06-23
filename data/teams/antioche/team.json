@@ -25,7 +25,7 @@
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-22T18:47:00.667Z",
+  "publishedAt": "2026-06-23T15:22:59.905Z",
   "managerDiscordId": "1473103141728944171",
   "recentMatches": [
     {
@@ -75,15 +75,6 @@
       "compScope": "internationale",
       "compImportance": "mineur",
       "cmfPoints": 0
-    },
-    {
-      "matchId": "f4ba5acc-38f9-434d-a204-e68f1d9c7124",
-      "playedAt": "2026-06-20T18:48:01.068Z",
-      "opponentSlug": "ugp",
-      "opponentName": "UGP",
-      "homeAway": "away",
-      "scoreFor": 0,
-      "scoreAgainst": 0
     }
   ],
   "coach": {
