@@ -9102,5 +9102,6 @@
   },
   "winner": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
   "kind": "amicale",
-  "scope": "internationale"
+  "scope": "internationale",
+  "importance": "mineur"
 }
