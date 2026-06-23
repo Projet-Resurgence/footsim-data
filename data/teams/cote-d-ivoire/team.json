@@ -80,7 +80,17 @@
   ],
   "activeTacticId": "65ef9a7b-31aa-462f-a76a-0a2cd9c9f020",
   "injuries": [],
-  "suspensions": [],
+  "suspensions": [
+    {
+      "id": "cec949fd-41c1-4427-9914-ce03dab86ba9",
+      "subjectId": "1f2b7e31-8ff2-4bb3-b9e5-42ab5282bbb3",
+      "subjectName": "Pascal Bamba",
+      "teamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "matchesRemaining": 1,
+      "reason": "Carton rouge",
+      "roundOccurred": 6
+    }
+  ],
   "recentMatches": [
     {
       "matchId": "bot328i0mqr3u9k5",
