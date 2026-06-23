@@ -3385,5 +3385,55 @@
     }
   },
   "hostTeamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
-  "drawRevealed": true
+  "drawRevealed": true,
+  "cmfDebutGenerated": true,
+  "pressItems": [
+    {
+      "id": "4c611b7c-6277-425d-a4fd-3ffbf1874099",
+      "round": 0,
+      "teamId": null,
+      "category": "cmf",
+      "headline": "La Ligue Préliminaire Mondiale est lancée — présentation des favoris",
+      "body": "La compétition démarre. Sur la base des effectifs recensés, nos analystes ont établi une hiérarchie préliminaire. Mais dans ce sport, les surprises font partie du jeu.",
+      "createdAt": "2026-06-23T10:34:53.420Z",
+      "cmfSnapshot": {
+        "phase": "league",
+        "moment": "debut",
+        "favoriteTeams": [
+          {
+            "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+            "teamName": "Empire Hussein",
+            "overall": 63,
+            "cote": 43.88
+          },
+          {
+            "teamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+            "teamName": "Yamatai",
+            "overall": 63,
+            "cote": 43.88
+          },
+          {
+            "teamId": "110159bd-411c-409a-ba07-95216b092ba4",
+            "teamName": "UGP",
+            "overall": 62,
+            "cote": 45.3
+          }
+        ]
+      }
+    },
+    {
+      "id": "c5dc4507-dd5b-47f9-92ac-0135dc98b93b",
+      "round": 0,
+      "teamId": null,
+      "category": "cmf",
+      "headline": "Pronostics CMF — Phase de championnat de la Ligue Préliminaire Mondiale",
+      "body": "La CMF livrera ses pronostics individuels au fil de la compétition. Nos favoris initiaux sont basés sur les effectifs recensés.",
+      "createdAt": "2026-06-23T10:34:53.420Z",
+      "cmfSnapshot": {
+        "phase": "league",
+        "moment": "debut",
+        "favoriteTeams": []
+      }
+    }
+  ]
 }
