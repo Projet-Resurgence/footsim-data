@@ -18,7 +18,7 @@
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-23T12:26:58.881Z",
+  "publishedAt": "2026-06-23T12:38:04.513Z",
   "coach": {
     "id": "af4c31ac-8e43-4b85-9eac-444156c07127",
     "firstName": "Álvaro",
@@ -40,5 +40,28 @@
     "europe"
   ],
   "managerDiscordId": "1510313174853746771",
-  "jerseyColor": "#eae1e1"
+  "jerseyColor": "#eae1e1",
+  "savedTactics": [
+    {
+      "style": "possession",
+      "formation": "4-3-3",
+      "lineup": [
+        "83aa9570-1f8a-4927-9205-10adaeb5012e",
+        "a058740a-a19b-4ec5-8245-d00f6d110c52",
+        "fdc14393-1f4e-4ce4-a705-d56019c36ad3",
+        "df23e187-01db-4b2f-9baa-c64547bb0f59",
+        "f7b96c62-3e2b-4bad-a76c-e349c7494b68",
+        "c9f49304-5259-4417-89ab-17969f32b4c4",
+        "201e2880-3d06-44ef-bed5-811150a0b73f",
+        "b7a82456-230f-4003-b4b2-6e561552946b",
+        "765a1931-cb21-463c-b54e-968c193fdc0a",
+        "8e1495b9-e574-4b61-a7d1-90a16e9956d6",
+        "ee6ed1a4-5d2e-4b22-b508-4af846e588ad"
+      ],
+      "customStyles": [],
+      "id": "e59b7ebd-610b-4593-8cdb-6dc7c3984f12",
+      "name": "Tactique 4"
+    }
+  ],
+  "activeTacticId": "e59b7ebd-610b-4593-8cdb-6dc7c3984f12"
 }
