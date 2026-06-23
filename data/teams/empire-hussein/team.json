@@ -24,7 +24,7 @@
       "compKind": "amicale",
       "compScope": "internationale",
       "compImportance": "mineur",
-      "cmfPoints": 2.9
+      "cmfPoints": 1
     },
     {
       "matchId": "we22d8w7mqpngrdv",
@@ -40,7 +40,7 @@
       "compKind": "amicale",
       "compScope": "internationale",
       "compImportance": "mineur",
-      "cmfPoints": 2.9
+      "cmfPoints": 1
     },
     {
       "matchId": "ppghf0lumqpngrdv",
@@ -56,7 +56,7 @@
       "compKind": "amicale",
       "compScope": "internationale",
       "compImportance": "mineur",
-      "cmfPoints": 1
+      "cmfPoints": 0.3
     },
     {
       "matchId": "b3k1wa0amqpngrdv",
@@ -72,7 +72,7 @@
       "compKind": "amicale",
       "compScope": "internationale",
       "compImportance": "mineur",
-      "cmfPoints": 2.9
+      "cmfPoints": 1
     },
     {
       "matchId": "xik1enu3mqpngrdv",
@@ -88,7 +88,7 @@
       "compKind": "amicale",
       "compScope": "internationale",
       "compImportance": "mineur",
-      "cmfPoints": 0
+      "cmfPoints": -0.5
     },
     {
       "matchId": "bebbrkb8mqpngrdv",
@@ -104,7 +104,7 @@
       "compKind": "amicale",
       "compScope": "internationale",
       "compImportance": "mineur",
-      "cmfPoints": 1
+      "cmfPoints": 0.3
     }
   ],
   "tactics": {
