@@ -42,6 +42,7 @@
       "opponentStrength": 50,
       "compKind": "amicale",
       "compScope": "internationale",
+      "compImportance": "mineur",
       "cmfPoints": 0
     },
     {
@@ -57,7 +58,8 @@
       "opponentStrength": 50,
       "compKind": "amicale",
       "compScope": "internationale",
-      "cmfPoints": 4.8
+      "compImportance": "mineur",
+      "cmfPoints": 2.9
     },
     {
       "matchId": "vju318vdmqpngrdv",
@@ -72,7 +74,8 @@
       "opponentStrength": 50,
       "compKind": "amicale",
       "compScope": "internationale",
-      "cmfPoints": 4.8
+      "compImportance": "mineur",
+      "cmfPoints": 2.9
     },
     {
       "matchId": "ski80nehmqpngrdv",
@@ -87,7 +90,8 @@
       "opponentStrength": 50,
       "compKind": "amicale",
       "compScope": "internationale",
-      "cmfPoints": 4.8
+      "compImportance": "mineur",
+      "cmfPoints": 2.9
     },
     {
       "matchId": "4mn60z5pmqpngrdv",
@@ -102,7 +106,8 @@
       "opponentStrength": 50,
       "compKind": "amicale",
       "compScope": "internationale",
-      "cmfPoints": 4.8
+      "compImportance": "mineur",
+      "cmfPoints": 2.9
     },
     {
       "matchId": "p5x9u9k2mqpngrdv",
@@ -117,6 +122,7 @@
       "opponentStrength": 50,
       "compKind": "amicale",
       "compScope": "internationale",
+      "compImportance": "mineur",
       "cmfPoints": 0
     },
     {
