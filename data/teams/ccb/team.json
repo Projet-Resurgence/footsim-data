@@ -34,7 +34,7 @@
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-22T23:49:26.041Z",
+  "publishedAt": "2026-06-23T15:26:54.428Z",
   "tactics": {
     "style": "chaos",
     "formation": "3-4-1-2",
@@ -100,78 +100,6 @@
       "compScope": "internationale",
       "compImportance": "mineur",
       "cmfPoints": 0
-    },
-    {
-      "matchId": "2f54bf44-dbfd-4da7-8590-2fd068d2e331",
-      "playedAt": "2026-06-20T18:46:08.058Z",
-      "opponentSlug": "ugp",
-      "opponentName": "UGP",
-      "homeAway": "away",
-      "scoreFor": 0,
-      "scoreAgainst": 1
-    },
-    {
-      "matchId": "90affd96-10ea-40d0-890a-0f9680e670a0",
-      "playedAt": "2026-06-20T15:17:29.079Z",
-      "opponentSlug": "5eme-internationale",
-      "opponentName": "5ème Internationale",
-      "homeAway": "home",
-      "scoreFor": 3,
-      "scoreAgainst": 1
-    },
-    {
-      "matchId": "f251a9c7-b202-414b-b960-03d770cafc7c",
-      "playedAt": "2026-06-20T14:07:31.738Z",
-      "opponentSlug": "yamatai",
-      "opponentName": "Yamatai",
-      "homeAway": "away",
-      "scoreFor": 2,
-      "scoreAgainst": 1
-    },
-    {
-      "matchId": "b661c740-ece2-4e79-9a9c-837dac4091d3",
-      "playedAt": "2026-06-20T13:45:50.463Z",
-      "opponentSlug": "yamatai",
-      "opponentName": "Yamatai",
-      "homeAway": "away",
-      "scoreFor": 0,
-      "scoreAgainst": 0
-    },
-    {
-      "matchId": "15e6052d-da5f-4803-aae0-0ecab96aad02",
-      "playedAt": "2026-06-20T13:44:25.047Z",
-      "opponentSlug": "fclc",
-      "opponentName": "FCLC",
-      "homeAway": "away",
-      "scoreFor": 3,
-      "scoreAgainst": 1
-    },
-    {
-      "matchId": "b0ee98fe-82e0-4d7a-8217-5b05e7237a2d",
-      "playedAt": "2026-06-20T13:42:45.933Z",
-      "opponentSlug": "yamatai",
-      "opponentName": "Yamatai",
-      "homeAway": "away",
-      "scoreFor": 1,
-      "scoreAgainst": 0
-    },
-    {
-      "matchId": "a817f681-2793-42f0-bfa6-e6a88ab2defa",
-      "playedAt": "2026-06-20T13:41:12.468Z",
-      "opponentSlug": "spc",
-      "opponentName": "SPC",
-      "homeAway": "away",
-      "scoreFor": 0,
-      "scoreAgainst": 0
-    },
-    {
-      "matchId": "ad54334e-6624-42b7-9d3c-a32a6e736551",
-      "playedAt": "2026-06-20T13:34:27.270Z",
-      "opponentSlug": "empire-hussein",
-      "opponentName": "Empire Hussein",
-      "homeAway": "away",
-      "scoreFor": 2,
-      "scoreAgainst": 3
     }
   ],
   "continents": [
