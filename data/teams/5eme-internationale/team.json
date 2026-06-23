@@ -17,7 +17,7 @@
     }
   ],
   "continent": "europe",
-  "publishedAt": "2026-06-23T15:18:25.726Z",
+  "publishedAt": "2026-06-23T15:54:54.323Z",
   "recentMatches": [
     {
       "matchId": "aecllfz3mqpngrdv",
@@ -122,5 +122,102 @@
     "europe"
   ],
   "managerDiscordId": "868399385149579274",
-  "jerseyColor": "#d10000"
+  "jerseyColor": "#d10000",
+  "savedTactics": [
+    {
+      "style": "tiki-taka",
+      "formation": "3-4-3",
+      "lineup": [
+        "8dfe3c1b-ad91-4c62-a9c6-5ae0265bcc34",
+        "54b229fc-a2a8-4458-9b88-ff8cbccf565d",
+        "b7c754a8-a3e9-4d74-98d9-0f527ffa5c83",
+        "c23f3eb9-049b-4834-b371-619985d3ef86",
+        "3d6cf962-adf4-482b-b391-e55e0e29714e",
+        "30f29f34-1db2-4515-90d0-a533ad38fa0e",
+        "b2d3034a-7398-4715-88ad-1943b28927eb",
+        "1a6dcc48-0a86-44da-a1fa-4aa0028f6161",
+        "0f37e5f2-34b6-42eb-a40d-a1cbed31548a",
+        "30c48de3-bd45-4195-a6d3-e7f59257bc2d",
+        "f75dc5fe-ff5c-474d-92dc-2ec670d9a600"
+      ],
+      "bench": [
+        "07a9712e-c5b6-4a90-b9c0-feebe7c8c3a7",
+        "c7eaf356-87db-4e94-86a6-731bbd30516a",
+        "d6871d50-ead9-404a-ab10-c2a26df6bded",
+        "c4dfd3c2-2e37-4d66-b68c-63a153576142",
+        "1d7892d9-f47f-47a3-b41e-8622049075b2",
+        "6ef59b0c-96ac-459b-8c5a-2080e923ce78",
+        "88a7347f-b2c3-4083-a5c6-bbac6e71ab76",
+        "008dddcd-95bf-48a1-9939-449b73992b5c",
+        "13f99950-3044-427d-862e-43eda51afedc",
+        "99b6d1d4-a819-4195-9bfc-8f0918ec7dda",
+        "609de258-0ecd-46cb-aa38-645b1e005f4d",
+        "5493bcc8-38dd-4e90-bb15-eb5298c23f05"
+      ],
+      "customStyles": [],
+      "id": "72d6a066-9b6c-4162-b724-3abce6703a17",
+      "name": "Babibel Atomique Paléoisraélien",
+      "plannedSubs": [
+        {
+          "outId": "1a6dcc48-0a86-44da-a1fa-4aa0028f6161",
+          "inId": "88a7347f-b2c3-4083-a5c6-bbac6e71ab76",
+          "minute": 60
+        },
+        {
+          "outId": "0f37e5f2-34b6-42eb-a40d-a1cbed31548a",
+          "inId": "008dddcd-95bf-48a1-9939-449b73992b5c",
+          "minute": 85
+        },
+        {
+          "outId": "30c48de3-bd45-4195-a6d3-e7f59257bc2d",
+          "inId": "99b6d1d4-a819-4195-9bfc-8f0918ec7dda",
+          "minute": 70
+        },
+        {
+          "outId": "30f29f34-1db2-4515-90d0-a533ad38fa0e",
+          "inId": "1d7892d9-f47f-47a3-b41e-8622049075b2",
+          "minute": 70
+        },
+        {
+          "outId": "b7c754a8-a3e9-4d74-98d9-0f527ffa5c83",
+          "inId": "c4dfd3c2-2e37-4d66-b68c-63a153576142"
+        }
+      ]
+    },
+    {
+      "style": "gegenpressing",
+      "formation": "4-2-3-1",
+      "lineup": [
+        "8dfe3c1b-ad91-4c62-a9c6-5ae0265bcc34",
+        "609de258-0ecd-46cb-aa38-645b1e005f4d",
+        "54b229fc-a2a8-4458-9b88-ff8cbccf565d",
+        "c23f3eb9-049b-4834-b371-619985d3ef86",
+        "d6871d50-ead9-404a-ab10-c2a26df6bded",
+        "6ef59b0c-96ac-459b-8c5a-2080e923ce78",
+        "1d7892d9-f47f-47a3-b41e-8622049075b2",
+        "0f37e5f2-34b6-42eb-a40d-a1cbed31548a",
+        "c7eaf356-87db-4e94-86a6-731bbd30516a",
+        "f75dc5fe-ff5c-474d-92dc-2ec670d9a600",
+        "30c48de3-bd45-4195-a6d3-e7f59257bc2d"
+      ],
+      "bench": [
+        "07a9712e-c5b6-4a90-b9c0-feebe7c8c3a7",
+        "c4dfd3c2-2e37-4d66-b68c-63a153576142",
+        "88a7347f-b2c3-4083-a5c6-bbac6e71ab76",
+        "008dddcd-95bf-48a1-9939-449b73992b5c",
+        "13f99950-3044-427d-862e-43eda51afedc",
+        "99b6d1d4-a819-4195-9bfc-8f0918ec7dda",
+        "5493bcc8-38dd-4e90-bb15-eb5298c23f05",
+        "8834d85a-a079-45ea-a3c2-4d0f0cde3277",
+        "30f29f34-1db2-4515-90d0-a533ad38fa0e",
+        "b7c754a8-a3e9-4d74-98d9-0f527ffa5c83",
+        "1a6dcc48-0a86-44da-a1fa-4aa0028f6161",
+        "3d6cf962-adf4-482b-b391-e55e0e29714e"
+      ],
+      "customStyles": [],
+      "id": "67609d39-194c-4447-8c83-973749cebdfa",
+      "name": "Possession"
+    }
+  ],
+  "activeTacticId": "72d6a066-9b6c-4162-b724-3abce6703a17"
 }
