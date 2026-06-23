@@ -7896,7 +7896,7 @@
       "technical": {
         "passing": 17,
         "crossing": 20,
-        "dribbling": 13,
+        "dribbling": 18,
         "finishing": 14,
         "firstTouch": 11,
         "heading": 12,
@@ -7924,7 +7924,7 @@
       },
       "goalkeeping": null
     },
-    "overall": 85
+    "overall": 88
   },
   {
     "id": "59c523c8-c14f-4b99-90b3-e3e05804b829",
