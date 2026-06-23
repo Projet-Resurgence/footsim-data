@@ -15,7 +15,7 @@
     "afrique"
   ],
   "kind": "national",
-  "globalStrength": 60,
+  "globalStrength": 62,
   "createdAt": "2026-06-21T13:06:29.189Z",
   "createdBy": "772821169664426025",
   "ownerId": "772821169664426025",
@@ -42,7 +42,7 @@
     "overall": 76
   },
   "jerseyColor": "#f9a006",
-  "publishedAt": "2026-06-23T19:59:40.173Z",
+  "publishedAt": "2026-06-23T22:58:53.734Z",
   "compHistory": [
     {
       "compId": "ifernu3ytbmqr3areq",
@@ -247,5 +247,9 @@
       "compImportance": "mineur",
       "cmfPoints": 1.1
     }
-  ]
+  ],
+  "actionFoot": {
+    "rating": 5,
+    "funding": 165
+  }
 }
