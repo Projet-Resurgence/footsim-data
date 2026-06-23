@@ -1,5 +1,32 @@
 [
   {
+    "id": "0d9teq72i4e9mqr1yrod",
+    "name": "Coppa di Re Massimiliano",
+    "format": "groups_knockout",
+    "status": "ongoing",
+    "teamCount": 16,
+    "createdAt": "2026-06-23T19:43:59.389Z",
+    "year": 2308,
+    "teamIds": [
+      "6377412c-0d4c-47e7-ba24-52745e83cfaa",
+      "8451e643-10d4-48bc-a4e6-4c12255695f4",
+      "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "55c94018-aa17-477e-86d3-722caf57df20",
+      "7db62a2a-b398-4a35-9c11-4d5b4bf4570c",
+      "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "8893e441-b5b6-49ea-b439-9c327b38d7c5",
+      "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "6c4e5ecf-662a-43d5-9795-b038fe6e2072",
+      "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "4050e7b8-0b32-4225-b936-2947890e501c",
+      "31dbe023-a8f1-4325-9813-afa3d8e217fa"
+    ]
+  },
+  {
     "id": "qtebnbbpzeomqpngrdv",
     "name": "Global Friendship Cup",
     "format": "groups_knockout",
