@@ -9100,5 +9100,7 @@
     "bestGK": "07aeab5b-061d-4600-8666-34b83f575da1",
     "bestPlayer": "ff67131f-2280-43ab-92d8-5691a2b3119d"
   },
-  "winner": "ca9439ef-f9f3-4ec5-8073-0f62660aa497"
+  "winner": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+  "kind": "amicale",
+  "scope": "internationale"
 }
