@@ -156,6 +156,7 @@
       "opponentStrength": 50,
       "compKind": "amicale",
       "compScope": "internationale",
+      "compImportance": "mineur",
       "cmfPoints": 0
     },
     {
@@ -171,7 +172,8 @@
       "opponentStrength": 50,
       "compKind": "amicale",
       "compScope": "internationale",
-      "cmfPoints": 4.8
+      "compImportance": "mineur",
+      "cmfPoints": 2.9
     },
     {
       "matchId": "g9i6tv9hmqpngrdv",
@@ -186,7 +188,8 @@
       "opponentStrength": 50,
       "compKind": "amicale",
       "compScope": "internationale",
-      "cmfPoints": 1.6
+      "compImportance": "mineur",
+      "cmfPoints": 1
     },
     {
       "matchId": "8mdn4xz7mqpngrdv",
@@ -201,7 +204,8 @@
       "opponentStrength": 50,
       "compKind": "amicale",
       "compScope": "internationale",
-      "cmfPoints": 4.8
+      "compImportance": "mineur",
+      "cmfPoints": 2.9
     }
   ]
 }
