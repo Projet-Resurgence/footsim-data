@@ -3,9 +3,10 @@
     "id": "ifernu3ytbmqr3areq",
     "name": "Coppa di Re Massimiliano",
     "format": "groups_knockout",
-    "status": "ongoing",
+    "status": "completed",
     "teamCount": 16,
     "createdAt": "2026-06-23T20:21:18.531Z",
+    "winner": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
     "year": 2308,
     "teamIds": [
       "6c4e5ecf-662a-43d5-9795-b038fe6e2072",
