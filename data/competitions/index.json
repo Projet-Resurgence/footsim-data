@@ -1,5 +1,23 @@
 [
   {
+    "id": "fs29brcs3imqqvlwxs",
+    "name": "Coupe",
+    "format": "groups_knockout",
+    "status": "ongoing",
+    "teamCount": 8,
+    "createdAt": "2026-06-23T16:46:01.985Z",
+    "teamIds": [
+      "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "6c4e5ecf-662a-43d5-9795-b038fe6e2072",
+      "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "6377412c-0d4c-47e7-ba24-52745e83cfaa",
+      "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "45002df1-cafe-4c04-814c-660868b56d95"
+    ]
+  },
+  {
     "id": "qtebnbbpzeomqpngrdv",
     "name": "Global Friendship Cup",
     "format": "groups_knockout",
