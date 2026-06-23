@@ -46,7 +46,7 @@
     "overall": 71
   },
   "jerseyColor": "#ab4949",
-  "publishedAt": "2026-06-22T22:31:57.440Z",
+  "publishedAt": "2026-06-23T12:28:09.282Z",
   "compHistory": [
     {
       "compId": "qtebnbbpzeomqpngrdv",
@@ -60,5 +60,60 @@
   "actionFoot": {
     "rating": 5,
     "funding": 135
-  }
+  },
+  "savedTactics": [
+    {
+      "style": "possession",
+      "formation": "3-4-1-2",
+      "lineup": [
+        "706eb6ae-5250-4f51-ada6-a7d7be967fc9",
+        "b804c0b0-9e9b-4a29-9f67-fd6d463ef0e1",
+        "01fdf5bd-185d-4214-8318-231760c32a5c",
+        "df01cae2-3c51-4947-b42c-e7ddf06b0fc8",
+        "f4f32b11-652a-44b9-b78a-f3c22bdc640c",
+        "3c4665d8-66af-459e-942e-d0d67cf26412",
+        "8e3974f2-ad78-4d66-bb64-9774c8779854",
+        "341e0373-5485-494d-a425-c275b2cfa390",
+        "ad17b3d4-b7cc-4e7f-ad90-c952e017613f",
+        "eeb1842d-c4f4-496c-95b0-3de164928f61",
+        "9e097b78-7d82-4de8-be52-255472133750"
+      ],
+      "customStyles": [],
+      "id": "607f8431-049a-45b5-b7ab-0ba0efa242be",
+      "name": "Tactique 1"
+    },
+    {
+      "style": "tiki-taka",
+      "formation": "3-4-1-2",
+      "lineup": [
+        "706eb6ae-5250-4f51-ada6-a7d7be967fc9",
+        "b804c0b0-9e9b-4a29-9f67-fd6d463ef0e1",
+        "01fdf5bd-185d-4214-8318-231760c32a5c",
+        "df01cae2-3c51-4947-b42c-e7ddf06b0fc8",
+        "f4f32b11-652a-44b9-b78a-f3c22bdc640c",
+        "3c4665d8-66af-459e-942e-d0d67cf26412",
+        "8e3974f2-ad78-4d66-bb64-9774c8779854",
+        "341e0373-5485-494d-a425-c275b2cfa390",
+        "ad17b3d4-b7cc-4e7f-ad90-c952e017613f",
+        "eeb1842d-c4f4-496c-95b0-3de164928f61",
+        "9e097b78-7d82-4de8-be52-255472133750"
+      ],
+      "customStyles": [
+        {
+          "id": "e8f04501-00b7-4aaf-bff0-427f2d7449f7",
+          "name": "milieu offensif",
+          "mods": {
+            "shotFreqMult": 1.05,
+            "foulRateMult": 0.75,
+            "midfieldMult": 1.25,
+            "attackMult": 1.1,
+            "defenseMult": 1
+          }
+        }
+      ],
+      "id": "1f138af8-84c0-40a4-a0b6-ca1f214c37f9",
+      "name": "Tactique 2"
+    }
+  ],
+  "activeTacticId": "607f8431-049a-45b5-b7ab-0ba0efa242be"
 }
