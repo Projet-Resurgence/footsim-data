@@ -102,5 +102,18 @@
       "roundOccurred": 6
     }
   ],
-  "suspensions": []
+  "suspensions": [],
+  "compHistory": [
+    {
+      "compId": "ifernu3ytbmqr3areq",
+      "compName": "Coppa di Re Massimiliano",
+      "year": 2308,
+      "format": "groups_knockout",
+      "kind": "amicale",
+      "scope": "internationale",
+      "importance": "mineur",
+      "result": "finalist",
+      "phase": "F"
+    }
+  ]
 }

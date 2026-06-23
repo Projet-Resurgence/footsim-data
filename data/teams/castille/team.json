@@ -65,5 +65,18 @@
   ],
   "activeTacticId": "e59b7ebd-610b-4593-8cdb-6dc7c3984f12",
   "injuries": [],
-  "suspensions": []
+  "suspensions": [],
+  "compHistory": [
+    {
+      "compId": "ifernu3ytbmqr3areq",
+      "compName": "Coppa di Re Massimiliano",
+      "year": 2308,
+      "format": "groups_knockout",
+      "kind": "amicale",
+      "scope": "internationale",
+      "importance": "mineur",
+      "result": "participant",
+      "phase": "group"
+    }
+  ]
 }

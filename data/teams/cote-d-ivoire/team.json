@@ -43,7 +43,19 @@
   },
   "jerseyColor": "#f9a006",
   "publishedAt": "2026-06-23T19:59:40.173Z",
-  "compHistory": [],
+  "compHistory": [
+    {
+      "compId": "ifernu3ytbmqr3areq",
+      "compName": "Coppa di Re Massimiliano",
+      "year": 2308,
+      "format": "groups_knockout",
+      "kind": "amicale",
+      "scope": "internationale",
+      "importance": "mineur",
+      "result": "winner",
+      "phase": "F"
+    }
+  ],
   "savedTactics": [
     {
       "style": "direct",

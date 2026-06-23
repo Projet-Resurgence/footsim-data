@@ -54,6 +54,17 @@
       "format": "groups_knockout",
       "result": "participant",
       "phase": "QF"
+    },
+    {
+      "compId": "ifernu3ytbmqr3areq",
+      "compName": "Coppa di Re Massimiliano",
+      "year": 2308,
+      "format": "groups_knockout",
+      "kind": "amicale",
+      "scope": "internationale",
+      "importance": "mineur",
+      "result": "third",
+      "phase": "3rd"
     }
   ],
   "recentMatches": [
