@@ -86,5 +86,18 @@
       "compImportance": "mineur",
       "cmfPoints": -1
     }
+  ],
+  "compHistory": [
+    {
+      "compId": "mxznxeedy1pmqr3u9k5",
+      "compName": "Coupe de la prospérité",
+      "year": 2308,
+      "format": "groups_knockout",
+      "kind": "amicale",
+      "scope": "internationale",
+      "importance": "mineur",
+      "result": "participant",
+      "phase": "group"
+    }
   ]
 }
