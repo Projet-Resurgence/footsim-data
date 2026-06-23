@@ -55,7 +55,7 @@
     "overall": 85
   },
   "jerseyColor": "#5dd8da",
-  "publishedAt": "2026-06-23T11:38:35.256Z",
+  "publishedAt": "2026-06-23T11:51:31.251Z",
   "compHistory": [
     {
       "compId": "qtebnbbpzeomqpngrdv",
@@ -107,7 +107,39 @@
       "activeCustomStyleId": "7bd779ad-9780-4f4f-805c-d22294fe7b4c",
       "id": "a1de91f5-3f54-4b61-b7a6-81b845a28817",
       "name": "Cavalerie"
+    },
+    {
+      "style": "contre-attaque",
+      "formation": "3-4-3",
+      "lineup": [
+        "b931fea4-56ac-483b-99a0-3f3179059a66",
+        "660f3f28-ba1d-4407-9797-cefb198b0ebe",
+        "6e29c960-c3c3-4f22-a33d-8cfe8926399c",
+        "c84ce852-8076-4620-bccb-b7f17f780be0",
+        "cb24125f-ea8d-48bc-9db2-d65308c08bc9",
+        "7349dfc9-098e-49b1-beaf-36e1218e7c31",
+        "f158da6b-6aab-4a2c-9eca-a30214525e78",
+        "53f0236a-ead3-4585-9453-ea7be4bc2776",
+        "e9d777cb-bfb4-47cc-ae7a-e4469220646d",
+        "613c2771-c3d9-44a0-b3ad-3476e39f55fc",
+        "44dd0a8e-e330-4c81-84f1-4b7975880da4"
+      ],
+      "customStyles": [
+        {
+          "id": "2ed0be5f-b21b-48a6-a258-b924e5eb764c",
+          "name": "Style Confédéral",
+          "mods": {
+            "shotFreqMult": 1,
+            "foulRateMult": 0.9,
+            "midfieldMult": 1.1,
+            "attackMult": 1.25,
+            "defenseMult": 1
+          }
+        }
+      ],
+      "id": "0591aee1-c35a-436f-b91c-70cdeef15de1",
+      "name": "Tactique 1"
     }
   ],
-  "activeTacticId": "a1de91f5-3f54-4b61-b7a6-81b845a28817"
+  "activeTacticId": "0591aee1-c35a-436f-b91c-70cdeef15de1"
 }
