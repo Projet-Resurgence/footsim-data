@@ -190,7 +190,7 @@
       "89a0086b-0ff0-489e-a845-ca7b750f7403"
     ]
   },
-  "publishedAt": "2026-06-23T00:01:08.125Z",
+  "publishedAt": "2026-06-23T01:23:45.331Z",
   "cultures": [
     {
       "culture": "arabe",
@@ -217,8 +217,8 @@
   "managerDiscordId": "772821169664426025",
   "coach": {
     "id": "ca092bfd-96a9-49bd-97bc-9284bfb15953",
-    "firstName": "Khaled",
-    "lastName": "Hussein2",
+    "firstName": "Khaaled",
+    "lastName": "Hussain",
     "culture": "egyptien",
     "stats": {
       "motivation": 11,
