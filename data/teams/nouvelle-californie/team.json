@@ -43,7 +43,7 @@
     "overall": 82
   },
   "jerseyColor": "#e63c3c",
-  "publishedAt": "2026-06-24T21:12:22.808Z",
+  "publishedAt": "2026-06-24T21:30:11.555Z",
   "compHistory": [
     {
       "compId": "qtebnbbpzeomqpngrdv",
@@ -108,9 +108,42 @@
       "customStyles": [],
       "id": "f50b3c82-4882-4858-9ea8-bd9ebbe88777",
       "name": "Tactique 2"
+    },
+    {
+      "style": "possession",
+      "formation": "4-3-3",
+      "lineup": [
+        "4442233d-a219-4e3a-b0aa-184ef02d7c88",
+        "1b4e221c-0b1a-4268-9ff4-649b3bd15f7d",
+        "0bc06914-db75-4b40-886a-cf1dbeeb7321",
+        "02e246e1-70a1-4064-91c4-ee0b9f44e908",
+        "02cf6c4e-0714-43f9-a4c0-dd855cb27e8f",
+        "cf5314bf-53e1-4a3e-af24-ccc2d3c45afb",
+        "ddd4e196-c90d-4557-8a87-c918c1129904",
+        "774f7bdf-306b-4175-a2ad-9684f15b70f1",
+        "1a9632e2-73d1-4104-b48e-cea93a0570f4",
+        "ff67131f-2280-43ab-92d8-5691a2b3119d",
+        "a65feb8f-59b8-400f-9384-653435b3d0f8"
+      ],
+      "customStyles": [
+        {
+          "id": "c0d08d70-159f-4589-9d57-6b32e352072d",
+          "name": "Foudroie l’ennemi, blc des fautes",
+          "mods": {
+            "shotFreqMult": 1.3,
+            "foulRateMult": 0.7,
+            "midfieldMult": 1,
+            "attackMult": 1.1,
+            "defenseMult": 1.05
+          }
+        }
+      ],
+      "activeCustomStyleId": "c0d08d70-159f-4589-9d57-6b32e352072d",
+      "id": "031d6158-d043-4678-842b-3dc5b311cb58",
+      "name": "Tactique 3"
     }
   ],
-  "activeTacticId": "f50b3c82-4882-4858-9ea8-bd9ebbe88777",
+  "activeTacticId": "031d6158-d043-4678-842b-3dc5b311cb58",
   "recentMatches": [
     {
       "matchId": "ucl65kxwmqskotcz",
