@@ -66,54 +66,6 @@
   },
   "recentMatches": [
     {
-      "matchId": "ski80nehmqpngrdv",
-      "playedAt": "2026-06-22T20:20:42.019Z",
-      "opponentSlug": "ugp",
-      "opponentName": "UGP",
-      "homeTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
-      "awayTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
-      "homeAway": "away",
-      "scoreFor": 0,
-      "scoreAgainst": 1,
-      "opponentStrength": 50,
-      "compKind": "amicale",
-      "compScope": "internationale",
-      "compImportance": "mineur",
-      "cmfPoints": -0.5
-    },
-    {
-      "matchId": "1wwxcxhxmqpngrdv",
-      "playedAt": "2026-06-22T20:18:12.339Z",
-      "opponentSlug": "nouvelle-californie",
-      "opponentName": "Nouvelle Californie",
-      "homeTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
-      "awayTeamId": "8893e441-b5b6-49ea-b439-9c327b38d7c5",
-      "homeAway": "home",
-      "scoreFor": 1,
-      "scoreAgainst": 3,
-      "opponentStrength": 50,
-      "compKind": "amicale",
-      "compScope": "internationale",
-      "compImportance": "mineur",
-      "cmfPoints": -0.5
-    },
-    {
-      "matchId": "w9l3euq4mqpngrdv",
-      "playedAt": "2026-06-22T20:14:38.819Z",
-      "opponentSlug": "yamatai",
-      "opponentName": "Yamatai",
-      "homeTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
-      "awayTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
-      "homeAway": "away",
-      "scoreFor": 4,
-      "scoreAgainst": 1,
-      "opponentStrength": 50,
-      "compKind": "amicale",
-      "compScope": "internationale",
-      "compImportance": "mineur",
-      "cmfPoints": 1
-    },
-    {
       "matchId": "gtifb5n3mqr3areq",
       "playedAt": "2026-06-23T20:28:49.541Z",
       "opponentSlug": "italie",
@@ -159,7 +111,7 @@
       "compKind": "amicale",
       "compScope": "internationale",
       "compImportance": "mineur",
-      "cmfPoints": 1.1
+      "cmfPoints": 1.2
     },
     {
       "matchId": "5j06nkdzmqr3areq",
@@ -207,7 +159,55 @@
       "compKind": "amicale",
       "compScope": "internationale",
       "compImportance": "mineur",
-      "cmfPoints": 1.1
+      "cmfPoints": 1.2
+    },
+    {
+      "matchId": "ski80nehmqpngrdv",
+      "playedAt": "2026-06-22T20:20:42.019Z",
+      "opponentSlug": "ugp",
+      "opponentName": "UGP",
+      "homeTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "awayTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 1,
+      "opponentStrength": 50,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "cmfPoints": -0.5
+    },
+    {
+      "matchId": "1wwxcxhxmqpngrdv",
+      "playedAt": "2026-06-22T20:18:12.339Z",
+      "opponentSlug": "nouvelle-californie",
+      "opponentName": "Nouvelle Californie",
+      "homeTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "awayTeamId": "8893e441-b5b6-49ea-b439-9c327b38d7c5",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 3,
+      "opponentStrength": 50,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "cmfPoints": -0.5
+    },
+    {
+      "matchId": "w9l3euq4mqpngrdv",
+      "playedAt": "2026-06-22T20:14:38.819Z",
+      "opponentSlug": "yamatai",
+      "opponentName": "Yamatai",
+      "homeTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "awayTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "homeAway": "away",
+      "scoreFor": 4,
+      "scoreAgainst": 1,
+      "opponentStrength": 50,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "cmfPoints": 1
     }
   ],
   "savedTactics": [
