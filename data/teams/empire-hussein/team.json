@@ -124,7 +124,7 @@
       "89a0086b-0ff0-489e-a845-ca7b750f7403"
     ]
   },
-  "publishedAt": "2026-06-24T18:55:02.649Z",
+  "publishedAt": "2026-06-24T19:00:44.790Z",
   "cultures": [
     {
       "culture": "arabe",
@@ -259,11 +259,12 @@
           }
         }
       ],
-      "id": "4e68a4a6-0b59-4472-9d8b-53a90b5ac157",
+      "activeCustomStyleId": "e02f57a3-aed6-482e-8e24-26fae34048ff",
+      "id": "06ee2f2b-5998-4d94-840f-351a98e81559",
       "name": "Haramball Tactic"
     }
   ],
-  "activeTacticId": "4e68a4a6-0b59-4472-9d8b-53a90b5ac157",
+  "activeTacticId": "06ee2f2b-5998-4d94-840f-351a98e81559",
   "actionFoot": {
     "rating": 5,
     "funding": 270
