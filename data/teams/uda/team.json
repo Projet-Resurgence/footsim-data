@@ -25,7 +25,7 @@
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-23T23:16:47.665Z",
+  "publishedAt": "2026-06-24T07:29:31.127Z",
   "managerDiscordId": "1477619366890573926",
   "compHistory": [
     {
@@ -64,8 +64,8 @@
   ],
   "coach": {
     "id": "ab1acc86-6fb5-4454-91d6-3e25c2caa5b5",
-    "firstName": "Tian",
-    "lastName": "Xiao",
+    "firstName": "Mai",
+    "lastName": "Nage",
     "culture": "chinois",
     "stats": {
       "motivation": 16,
