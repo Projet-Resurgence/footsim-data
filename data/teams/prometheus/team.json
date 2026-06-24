@@ -41,7 +41,7 @@
     "overall": 82
   },
   "jerseyColor": "#150404",
-  "publishedAt": "2026-06-22T23:37:06.308Z",
+  "publishedAt": "2026-06-24T00:07:16.743Z",
   "compHistory": [
     {
       "compId": "ifernu3ytbmqr3areq",
@@ -92,54 +92,6 @@
   "injuries": [],
   "suspensions": [],
   "recentMatches": [
-    {
-      "matchId": "u7a3motjmqraflpg",
-      "playedAt": "2026-06-23T23:43:23.551Z",
-      "opponentSlug": "ccb",
-      "opponentName": "CCB",
-      "homeTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
-      "awayTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
-      "homeAway": "home",
-      "scoreFor": 0,
-      "scoreAgainst": 3,
-      "opponentStrength": 60,
-      "compKind": "amicale",
-      "compScope": "internationale",
-      "compImportance": "mineur",
-      "cmfPoints": -1
-    },
-    {
-      "matchId": "c1cac9t1mqraflpg",
-      "playedAt": "2026-06-23T23:42:29.047Z",
-      "opponentSlug": "yamatai",
-      "opponentName": "Yamatai",
-      "homeTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
-      "awayTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
-      "homeAway": "away",
-      "scoreFor": 0,
-      "scoreAgainst": 2,
-      "opponentStrength": 63,
-      "compKind": "amicale",
-      "compScope": "internationale",
-      "compImportance": "mineur",
-      "cmfPoints": -0.5
-    },
-    {
-      "matchId": "n67s9d1bmqraflpg",
-      "playedAt": "2026-06-23T23:41:40.770Z",
-      "opponentSlug": "uda",
-      "opponentName": "UDA",
-      "homeTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
-      "awayTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
-      "homeAway": "away",
-      "scoreFor": 3,
-      "scoreAgainst": 2,
-      "opponentStrength": 62,
-      "compKind": "amicale",
-      "compScope": "internationale",
-      "compImportance": "mineur",
-      "cmfPoints": 1.1
-    },
     {
       "matchId": "21diav9hmqr3u9k5",
       "playedAt": "2026-06-23T20:45:47.952Z",
