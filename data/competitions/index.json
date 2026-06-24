@@ -1,5 +1,24 @@
 [
   {
+    "id": "oeg5lcqmbfmqslop80",
+    "name": "Coppa de Napoli",
+    "format": "groups_knockout",
+    "status": "ongoing",
+    "teamCount": 8,
+    "createdAt": "2026-06-24T21:43:48.145Z",
+    "year": 2308,
+    "teamIds": [
+      "110159bd-411c-409a-ba07-95216b092ba4",
+      "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "69b55842-3c2d-4eaa-b133-7dc8c90bcfff"
+    ]
+  },
+  {
     "id": "0wj8ukun6dkmqskotcz",
     "name": "Unity Cup",
     "format": "groups_knockout",
