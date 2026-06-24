@@ -397,6 +397,17 @@
       "importance": "mineur",
       "result": "participant",
       "phase": "group"
+    },
+    {
+      "compId": "oeg5lcqmbfmqslop80",
+      "compName": "Coppa de Napoli",
+      "year": 2308,
+      "format": "groups_knockout",
+      "kind": "amicale",
+      "scope": "internationale",
+      "importance": "mineur",
+      "result": "third",
+      "phase": "3rd"
     }
   ],
   "actionFoot": {
