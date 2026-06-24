@@ -436,18 +436,6 @@
     "funding": 270
   },
   "coachSuspended": false,
-  "injuries": [
-    {
-      "id": "14fcc8b5-fdf9-40e4-a3a2-8e25f803574f",
-      "playerId": "ed7eb980-155d-4aee-9cbf-092a44bfc8c1",
-      "playerName": "Nabil Hariri",
-      "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
-      "cause": "match",
-      "severity": "grave",
-      "matchesRemaining": 3,
-      "description": "Traumatisme crânien léger — protocole commotion déclenché, indisponibilité prolongée.",
-      "roundOccurred": 4
-    }
-  ],
+  "injuries": [],
   "suspensions": []
 }
