@@ -11,54 +11,6 @@
   "formation": "4-3-3",
   "recentMatches": [
     {
-      "matchId": "934w5kx4mqraflpg",
-      "playedAt": "2026-06-23T23:43:23.549Z",
-      "opponentSlug": "osmanide",
-      "opponentName": "Osmanide",
-      "homeTeamId": "4050e7b8-0b32-4225-b936-2947890e501c",
-      "awayTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
-      "homeAway": "home",
-      "scoreFor": 2,
-      "scoreAgainst": 1,
-      "opponentStrength": 60,
-      "compKind": "amicale",
-      "compScope": "internationale",
-      "compImportance": "mineur",
-      "cmfPoints": 1.1
-    },
-    {
-      "matchId": "hz1m2t2fmqraflpg",
-      "playedAt": "2026-06-23T23:42:29.045Z",
-      "opponentSlug": "ugp",
-      "opponentName": "UGP",
-      "homeTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
-      "awayTeamId": "4050e7b8-0b32-4225-b936-2947890e501c",
-      "homeAway": "away",
-      "scoreFor": 1,
-      "scoreAgainst": 2,
-      "opponentStrength": 62,
-      "compKind": "amicale",
-      "compScope": "internationale",
-      "compImportance": "mineur",
-      "cmfPoints": -0.5
-    },
-    {
-      "matchId": "ab7duyoxmqraflpg",
-      "playedAt": "2026-06-23T23:41:40.767Z",
-      "opponentSlug": "spc",
-      "opponentName": "SPC",
-      "homeTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
-      "awayTeamId": "4050e7b8-0b32-4225-b936-2947890e501c",
-      "homeAway": "away",
-      "scoreFor": 0,
-      "scoreAgainst": 2,
-      "opponentStrength": 61,
-      "compKind": "amicale",
-      "compScope": "internationale",
-      "compImportance": "mineur",
-      "cmfPoints": -0.5
-    },
-    {
       "matchId": "vmx7p61hmqpngrdv",
       "playedAt": "2026-06-22T20:20:42.019Z",
       "opponentSlug": "antioche",
@@ -124,7 +76,7 @@
       "892948fc-f22f-48f4-b6af-6ebeaa6db607"
     ]
   },
-  "publishedAt": "2026-06-23T15:20:25.872Z",
+  "publishedAt": "2026-06-24T00:04:59.188Z",
   "cultures": [
     {
       "culture": "cubain",
