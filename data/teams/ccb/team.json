@@ -34,7 +34,7 @@
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-24T00:01:44.193Z",
+  "publishedAt": "2026-06-24T01:50:41.165Z",
   "tactics": {
     "style": "chaos",
     "formation": "3-4-1-2",
@@ -179,5 +179,6 @@
     }
   ],
   "injuries": [],
-  "suspensions": []
+  "suspensions": [],
+  "jerseyColor": "#0264e3"
 }
