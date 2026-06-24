@@ -3,9 +3,10 @@
     "id": "0wj8ukun6dkmqskotcz",
     "name": "Unity Cup",
     "format": "groups_knockout",
-    "status": "ongoing",
+    "status": "completed",
     "teamCount": 24,
     "createdAt": "2026-06-24T21:15:53.891Z",
+    "winner": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
     "year": 2308,
     "teamIds": [
       "6377412c-0d4c-47e7-ba24-52745e83cfaa",
