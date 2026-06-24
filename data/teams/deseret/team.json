@@ -15,14 +15,14 @@
     "amerique"
   ],
   "kind": "national",
-  "globalStrength": 60,
+  "globalStrength": 63,
   "createdAt": "2026-06-20T22:37:05.066Z",
   "createdBy": "772821169664426025",
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
   "managerDiscordId": "1214007771620577311",
-  "publishedAt": "2026-06-23T16:40:51.705Z",
+  "publishedAt": "2026-06-24T22:07:32.296Z",
   "compHistory": [
     {
       "compId": "qtebnbbpzeomqpngrdv",
@@ -341,5 +341,9 @@
   ],
   "activeTacticId": "62a90306-d852-4283-8205-ed0f137c6121",
   "injuries": [],
-  "suspensions": []
+  "suspensions": [],
+  "actionFoot": {
+    "rating": 5,
+    "funding": 265
+  }
 }
