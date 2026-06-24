@@ -76,7 +76,7 @@
       "cmfPoints": -1
     }
   ],
-  "publishedAt": "2026-06-24T00:12:26.668Z",
+  "publishedAt": "2026-06-24T12:07:53.939Z",
   "cultures": [
     {
       "culture": "japonais",
@@ -115,28 +115,37 @@
   },
   "savedTactics": [
     {
-      "style": "ultra-defensif",
-      "formation": "5-3-2",
+      "style": "tiki-taka",
+      "formation": "4-3-3",
       "lineup": [
         "b65abc0b-6260-458c-876e-eaec8e306cc4",
+        "e8ae461c-cf7a-439e-adfe-424a0b978e4b",
         "e109e444-3cc0-4127-8e88-af5f814041a0",
         "914a99d0-fba6-4cfd-8574-e9633e42e344",
-        "ccb0de26-34b2-4afc-a2b0-23943f792584",
-        "fe784dff-113a-45f2-af62-b0572790d7d6",
+        "83eed85d-d7dc-4d54-9d7c-990a2a0ebe75",
         "efab1044-6e12-4ab5-8353-5b9f7b0facab",
         "83382722-ee55-4bb1-86bb-b7f9dc4dc0a2",
-        "80783928-6b47-476b-81cb-9310e7e07072",
+        "e43f8cb6-5b88-4154-ac5b-d1285f15d8f1",
         "324470fc-f9a6-4d99-a563-da0262006553",
         "862eeced-2bf5-4be5-966b-56639fe66d10",
         "45a62f33-b3f7-403d-8b43-a21924df4a63"
       ],
-      "id": "24b14827-146e-487a-ae70-cb2140455885",
-      "name": "Tactique de base",
+      "bench": [
+        "b560868e-bc38-40da-8041-17c9d8879881",
+        "a6a67c1f-ef9c-4cd4-880b-7a93c0e7cde6",
+        "85bc5d08-e215-436d-8a1b-a7a5478cdc65",
+        "a576b423-7e81-4c96-8a04-6fed6153847b",
+        "eeb24dfe-371b-4845-a7ab-a2e058d52403",
+        "47cfb17d-65a3-4584-8fc1-b79867b8b901",
+        "f6515736-ff79-42a2-bdcd-91f521bcf904",
+        "e7d8d8b7-e3ed-4f37-a052-556ec006bfce"
+      ],
       "customStyles": [],
-      "formationLabel": "10-0-0"
+      "id": "c367c2fc-6c2f-411d-b9ba-42da9e2e0d1c",
+      "name": "Tactique 1"
     }
   ],
-  "activeTacticId": "24b14827-146e-487a-ae70-cb2140455885",
+  "activeTacticId": "c367c2fc-6c2f-411d-b9ba-42da9e2e0d1c",
   "compHistory": [
     {
       "compId": "qtebnbbpzeomqpngrdv",
