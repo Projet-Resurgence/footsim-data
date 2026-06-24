@@ -841,8 +841,8 @@
     "stats": {
       "technical": {
         "passing": 7,
-        "crossing": 20,
-        "dribbling": 17,
+        "crossing": 18,
+        "dribbling": 14,
         "finishing": 16,
         "firstTouch": 9,
         "heading": 14,
@@ -870,7 +870,7 @@
       },
       "goalkeeping": null
     },
-    "overall": 90
+    "overall": 85
   },
   {
     "id": "80e2bfd2-a530-48a6-9711-be3c127e3528",
