@@ -43,7 +43,7 @@
     "overall": 82
   },
   "jerseyColor": "#e63c3c",
-  "publishedAt": "2026-06-23T23:07:28.080Z",
+  "publishedAt": "2026-06-24T00:06:46.680Z",
   "compHistory": [
     {
       "compId": "qtebnbbpzeomqpngrdv",
@@ -92,54 +92,6 @@
   ],
   "activeTacticId": "be6260d4-ae7d-40a7-bc6d-228ccb6c77e3",
   "recentMatches": [
-    {
-      "matchId": "g4dc81r2mqraflpg",
-      "playedAt": "2026-06-23T23:43:23.548Z",
-      "opponentSlug": "5eme-internationale",
-      "opponentName": "5ème Internationale",
-      "homeTeamId": "8893e441-b5b6-49ea-b439-9c327b38d7c5",
-      "awayTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
-      "homeAway": "home",
-      "scoreFor": 0,
-      "scoreAgainst": 3,
-      "opponentStrength": 60,
-      "compKind": "amicale",
-      "compScope": "internationale",
-      "compImportance": "mineur",
-      "cmfPoints": -1
-    },
-    {
-      "matchId": "didpghfvmqraflpg",
-      "playedAt": "2026-06-23T23:42:29.044Z",
-      "opponentSlug": "germanie",
-      "opponentName": "Germanie",
-      "homeTeamId": "6377412c-0d4c-47e7-ba24-52745e83cfaa",
-      "awayTeamId": "8893e441-b5b6-49ea-b439-9c327b38d7c5",
-      "homeAway": "away",
-      "scoreFor": 0,
-      "scoreAgainst": 2,
-      "opponentStrength": 62,
-      "compKind": "amicale",
-      "compScope": "internationale",
-      "compImportance": "mineur",
-      "cmfPoints": -0.5
-    },
-    {
-      "matchId": "0gp3rv5wmqraflpg",
-      "playedAt": "2026-06-23T23:41:40.766Z",
-      "opponentSlug": "livonie",
-      "opponentName": "Livonie",
-      "homeTeamId": "6c4e5ecf-662a-43d5-9795-b038fe6e2072",
-      "awayTeamId": "8893e441-b5b6-49ea-b439-9c327b38d7c5",
-      "homeAway": "away",
-      "scoreFor": 1,
-      "scoreAgainst": 5,
-      "opponentStrength": 61,
-      "compKind": "amicale",
-      "compScope": "internationale",
-      "compImportance": "mineur",
-      "cmfPoints": -1
-    },
     {
       "matchId": "ckqf25qsmqpngrdv",
       "playedAt": "2026-06-22T20:23:57.120Z",
