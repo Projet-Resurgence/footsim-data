@@ -27,7 +27,7 @@
       "63cba1c6-27e5-4311-91d8-92b5f3fde740"
     ]
   },
-  "publishedAt": "2026-06-24T00:07:32.281Z",
+  "publishedAt": "2026-06-24T21:28:49.872Z",
   "recentMatches": [
     {
       "matchId": "umc1wq0omqskotcz",
@@ -266,24 +266,23 @@
   ],
   "managerDiscordId": "293869524091142144",
   "coach": {
-    "id": "1464e814-1606-4fff-bbb7-cd923dce4434",
-    "firstName": "Riccardo",
-    "lastName": "Conte",
+    "id": "af6204ad-a84f-4d26-afd1-eb0dc8a6887f",
+    "firstName": "Luigi",
+    "lastName": "Fontana",
     "culture": "italien",
     "stats": {
-      "motivation": 15,
-      "tactique": 18,
-      "offensive": 9,
-      "defensif": 10,
-      "mentalite": 18,
-      "gestion": 9
+      "motivation": 17,
+      "tactique": 16,
+      "offensive": 12,
+      "defensif": 9,
+      "mentalite": 15,
+      "gestion": 12
     },
-    "positiveTraits": [],
-    "negativeTraits": [
-      "conflictuel",
-      "imprevoyant"
+    "positiveTraits": [
+      "defensif"
     ],
-    "overall": 62
+    "negativeTraits": [],
+    "overall": 71
   },
   "compHistory": [
     {
