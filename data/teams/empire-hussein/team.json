@@ -124,7 +124,7 @@
       "89a0086b-0ff0-489e-a845-ca7b750f7403"
     ]
   },
-  "publishedAt": "2026-06-24T19:00:44.790Z",
+  "publishedAt": "2026-06-24T19:23:51.848Z",
   "cultures": [
     {
       "culture": "arabe",
@@ -231,7 +231,7 @@
     },
     {
       "style": "possession",
-      "formation": "5-3-2",
+      "formation": "4-3-3",
       "lineup": [
         "aff7b68e-f32e-47eb-ab8e-96007c9b2a38",
         "235a908b-765d-4f6b-8d22-9bac5aae1521",
@@ -245,7 +245,7 @@
         "ed7eb980-155d-4aee-9cbf-092a44bfc8c1",
         "2dbba1eb-d4d2-4efa-995a-29734486a8c9"
       ],
-      "formationLabel": "6-3-1",
+      "formationLabel": "5-2-3",
       "customStyles": [
         {
           "id": "e02f57a3-aed6-482e-8e24-26fae34048ff",
@@ -261,7 +261,66 @@
       ],
       "activeCustomStyleId": "e02f57a3-aed6-482e-8e24-26fae34048ff",
       "id": "06ee2f2b-5998-4d94-840f-351a98e81559",
-      "name": "Haramball Tactic"
+      "name": "Haramball Tactic",
+      "positionMap": {
+        "235a908b-765d-4f6b-8d22-9bac5aae1521": "LB",
+        "4da3fb23-004e-4bc2-b23d-54eb6e91ca6e": "CB",
+        "7f6136f7-cfc9-406b-b5c7-5af79cc74bdc": "CB",
+        "762e0d61-56e7-4a82-9f09-a156c1a37e0a": "RB",
+        "e3571e6e-3b8e-4472-9a38-ea4c81fa2e6d": "CM",
+        "8745a1a2-e456-4d0e-8ddd-610658c8a559": "CM",
+        "5080dc49-1bd4-49dc-bc86-7003e4d1e911": "CB",
+        "698a3b66-bffb-494b-822d-68025a22deac": "LW",
+        "ed7eb980-155d-4aee-9cbf-092a44bfc8c1": "ST",
+        "2dbba1eb-d4d2-4efa-995a-29734486a8c9": "RW",
+        "aff7b68e-f32e-47eb-ab8e-96007c9b2a38": "GK"
+      },
+      "tokenPositions": {
+        "aff7b68e-f32e-47eb-ab8e-96007c9b2a38": {
+          "x": 50,
+          "y": 88
+        },
+        "235a908b-765d-4f6b-8d22-9bac5aae1521": {
+          "x": 12,
+          "y": 70
+        },
+        "4da3fb23-004e-4bc2-b23d-54eb6e91ca6e": {
+          "x": 34,
+          "y": 72
+        },
+        "7f6136f7-cfc9-406b-b5c7-5af79cc74bdc": {
+          "x": 49.095238095238095,
+          "y": 75.83333333333333
+        },
+        "762e0d61-56e7-4a82-9f09-a156c1a37e0a": {
+          "x": 88,
+          "y": 70
+        },
+        "e3571e6e-3b8e-4472-9a38-ea4c81fa2e6d": {
+          "x": 35.333333333333336,
+          "y": 48
+        },
+        "8745a1a2-e456-4d0e-8ddd-610658c8a559": {
+          "x": 64.04761904761904,
+          "y": 47.833333333333336
+        },
+        "5080dc49-1bd4-49dc-bc86-7003e4d1e911": {
+          "x": 64.42857142857143,
+          "y": 73
+        },
+        "698a3b66-bffb-494b-822d-68025a22deac": {
+          "x": 16.28571428571429,
+          "y": 17.833333333333336
+        },
+        "ed7eb980-155d-4aee-9cbf-092a44bfc8c1": {
+          "x": 49.28571428571429,
+          "y": 16.333333333333332
+        },
+        "2dbba1eb-d4d2-4efa-995a-29734486a8c9": {
+          "x": 85.14285714285717,
+          "y": 19.166666666666668
+        }
+      }
     }
   ],
   "activeTacticId": "06ee2f2b-5998-4d94-840f-351a98e81559",
