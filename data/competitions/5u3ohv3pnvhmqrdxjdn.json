@@ -3413,5 +3413,69 @@
       "roundOccurred": 6
     }
   ],
-  "drawRevealed": true
+  "drawRevealed": true,
+  "cmfDebutGenerated": true,
+  "pressItems": [
+    {
+      "id": "acf6f845-36ff-4cb0-91db-d046405cee0d",
+      "round": 0,
+      "teamId": null,
+      "category": "cmf",
+      "headline": "Ligue Préliminaire Mondiale — le coup d'envoi de la compétition !",
+      "body": "La Ligue Préliminaire Mondiale débute officiellement. Les équipes ont terminé leurs préparations, les effectifs sont au complet, et les premières rencontres s'annoncent serrées. Qui prendra les devants dès cette première journée ?",
+      "createdAt": "2026-06-24T01:19:09.886Z",
+      "cmfSnapshot": {
+        "phase": "league",
+        "moment": "debut",
+        "favoriteTeams": [
+          {
+            "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+            "teamName": "Empire Hussein",
+            "overall": 63,
+            "cote": 44.09
+          },
+          {
+            "teamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+            "teamName": "Yamatai",
+            "overall": 63,
+            "cote": 44.09
+          },
+          {
+            "teamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+            "teamName": "Côte d'Ivoire",
+            "overall": 62,
+            "cote": 45.52
+          }
+        ]
+      }
+    },
+    {
+      "id": "a34e10d6-dd45-4715-a7ef-191c28bdb4a2",
+      "round": 0,
+      "teamId": null,
+      "category": "cmf",
+      "headline": "Pronostics CMF — Phase de championnat de la Ligue Préliminaire Mondiale",
+      "body": "La CMF livrera ses pronostics individuels au fil de la compétition. Nos favoris initiaux sont basés sur les effectifs recensés.",
+      "createdAt": "2026-06-24T01:19:09.886Z",
+      "cmfSnapshot": {
+        "phase": "league",
+        "moment": "debut",
+        "favoriteTeams": []
+      }
+    },
+    {
+      "id": "08799d23-29de-41b9-bd17-e448c06498af",
+      "round": 0,
+      "teamId": null,
+      "category": "cmf",
+      "headline": "Format LPM — tout ce qu'il faut savoir",
+      "body": "La LPM (Ligue Préliminaire Mondiale) est le tournoi qualificatif pour la Coupe du Monde. Les 24 premières équipes du classement final décrocheront leur billet. Les places 25 à 40 disputeront des barrages aller-retour. Pour les 16 dernières, c'est l'élimination directe.",
+      "createdAt": "2026-06-24T01:19:09.886Z",
+      "cmfSnapshot": {
+        "phase": "league",
+        "moment": "debut",
+        "favoriteTeams": []
+      }
+    }
+  ]
 }
