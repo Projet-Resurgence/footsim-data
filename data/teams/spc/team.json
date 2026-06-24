@@ -430,6 +430,17 @@
       "importance": "mineur",
       "result": "winner",
       "phase": "F"
+    },
+    {
+      "compId": "0wj8ukun6dkmqskotcz",
+      "compName": "Unity Cup",
+      "year": 2308,
+      "format": "groups_knockout",
+      "kind": "amicale",
+      "scope": "internationale",
+      "importance": "mineur",
+      "result": "participant",
+      "phase": "group"
     }
   ],
   "continents": [
