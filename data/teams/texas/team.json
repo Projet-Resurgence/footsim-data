@@ -66,7 +66,7 @@
       "compKind": "amicale",
       "compScope": "internationale",
       "compImportance": "mineur",
-      "cmfPoints": -0.5
+      "cmfPoints": -0.8
     },
     {
       "matchId": "3vsmtgk0mqskotcz",
@@ -82,7 +82,7 @@
       "compKind": "amicale",
       "compScope": "internationale",
       "compImportance": "mineur",
-      "cmfPoints": 1.4
+      "cmfPoints": 3
     },
     {
       "matchId": "lxvkzdpvmqskotcz",
@@ -98,7 +98,7 @@
       "compKind": "amicale",
       "compScope": "internationale",
       "compImportance": "mineur",
-      "cmfPoints": 0.5
+      "cmfPoints": 0.9
     },
     {
       "matchId": "q517cgsamqskotcz",
@@ -114,7 +114,7 @@
       "compKind": "amicale",
       "compScope": "internationale",
       "compImportance": "mineur",
-      "cmfPoints": -0.5
+      "cmfPoints": -0.8
     }
   ],
   "compHistory": [
