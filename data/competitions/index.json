@@ -1,5 +1,32 @@
 [
   {
+    "id": "rz1qemn56rmmqtyr6yf",
+    "name": "Kebab World Cup",
+    "format": "groups_knockout",
+    "status": "ongoing",
+    "teamCount": 16,
+    "createdAt": "2026-06-25T20:37:25.623Z",
+    "year": 2308,
+    "teamIds": [
+      "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "6377412c-0d4c-47e7-ba24-52745e83cfaa",
+      "6c4e5ecf-662a-43d5-9795-b038fe6e2072",
+      "8893e441-b5b6-49ea-b439-9c327b38d7c5",
+      "110159bd-411c-409a-ba07-95216b092ba4",
+      "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "e5bac765-f354-41a2-b940-1e97fba04c20",
+      "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "45002df1-cafe-4c04-814c-660868b56d95",
+      "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "8451e643-10d4-48bc-a4e6-4c12255695f4"
+    ]
+  },
+  {
     "id": "uevrnvlpnvmqty1zqg",
     "name": "Amitié, Paix et Prospérité",
     "format": "groups_knockout",
