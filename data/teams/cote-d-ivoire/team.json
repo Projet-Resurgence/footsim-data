@@ -152,7 +152,17 @@
   ],
   "activeTacticId": "65ef9a7b-31aa-462f-a76a-0a2cd9c9f020",
   "injuries": [],
-  "suspensions": [],
+  "suspensions": [
+    {
+      "id": "e627a3c8-5248-4b4a-b389-791ae9541a94",
+      "subjectId": "341c2d91-99fc-4fee-8f22-02f672169c4d",
+      "subjectName": "Kolo Gbagbo",
+      "teamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "matchesRemaining": 1,
+      "reason": "Carton rouge",
+      "roundOccurred": 3
+    }
+  ],
   "recentMatches": [
     {
       "matchId": "ayis0nvdmqtxfrh1",
