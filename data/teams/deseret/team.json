@@ -80,6 +80,18 @@
       "result": "participant",
       "phase": "group",
       "participantCount": 16
+    },
+    {
+      "compId": "rz1qemn56rmmqtyr6yf",
+      "compName": "Kebab World Cup",
+      "year": 2308,
+      "format": "groups_knockout",
+      "kind": "amicale",
+      "scope": "internationale",
+      "importance": "mineur",
+      "result": "finalist",
+      "phase": "F",
+      "participantCount": 16
     }
   ],
   "coach": {
