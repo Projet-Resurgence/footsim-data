@@ -392,6 +392,18 @@
       "importance": "mineur",
       "result": "participant",
       "phase": "group"
+    },
+    {
+      "compId": "p6587rda4smqtxfrh1",
+      "compName": "Nakata Kinen",
+      "year": 2308,
+      "format": "groups_knockout",
+      "kind": "amicale",
+      "scope": "internationale",
+      "importance": "mineur",
+      "result": "quarter",
+      "phase": "QF",
+      "participantCount": 16
     }
   ],
   "injuries": [],

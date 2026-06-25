@@ -425,6 +425,18 @@
       "importance": "mineur",
       "result": "finalist",
       "phase": "F"
+    },
+    {
+      "compId": "p6587rda4smqtxfrh1",
+      "compName": "Nakata Kinen",
+      "year": 2308,
+      "format": "groups_knockout",
+      "kind": "amicale",
+      "scope": "internationale",
+      "importance": "mineur",
+      "result": "winner",
+      "phase": "F",
+      "participantCount": 16
     }
   ],
   "savedTactics": [
