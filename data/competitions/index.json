@@ -3,9 +3,10 @@
     "id": "rz1qemn56rmmqtyr6yf",
     "name": "Kebab World Cup",
     "format": "groups_knockout",
-    "status": "ongoing",
+    "status": "completed",
     "teamCount": 16,
     "createdAt": "2026-06-25T20:37:25.623Z",
+    "winner": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
     "year": 2308,
     "teamIds": [
       "31dbe023-a8f1-4325-9813-afa3d8e217fa",
