@@ -41,7 +41,7 @@
     "overall": 82
   },
   "jerseyColor": "#150404",
-  "publishedAt": "2026-06-24T00:07:16.743Z",
+  "publishedAt": "2026-06-25T10:36:56.222Z",
   "compHistory": [
     {
       "compId": "ifernu3ytbmqr3areq",
@@ -108,9 +108,43 @@
       "customStyles": [],
       "id": "0251f630-4dc5-406d-ac82-1a08d04fb692",
       "name": "Tactique 2"
+    },
+    {
+      "style": "gegenpressing",
+      "formation": "3-4-1-2",
+      "lineup": [
+        "14b168e6-876e-429e-ba87-cbfcb7d8dec8",
+        "8de90201-5f15-4595-9340-e7f4d0c7c845",
+        "7211bf85-8014-4722-afbe-988f20006315",
+        "583bc92f-9710-4786-99b3-cde0063bc207",
+        "787dbb6a-4a5e-45fb-9fe1-231c5e47fb5c",
+        "60342249-23bb-4564-9620-91c2a141b9ad",
+        "688b0471-9199-4c65-9d73-a408fa96f582",
+        "da579017-cf8b-482c-b9d5-ec411cd825ff",
+        "b57ca962-753d-4797-bf41-a7b0fa40ae61",
+        "4d38741c-7eaa-48e6-9239-632e339aa1cc",
+        "83d77c6f-a467-4aac-a746-fb82f51b6195"
+      ],
+      "bench": [
+        "56fca899-5ef1-456a-9f70-0157bc9b9697",
+        "e5199025-f3b7-41f4-a7af-f5a483925d1a",
+        "cd656e28-0934-4413-8cb1-0809775ecd50",
+        "72a76262-a1b2-4ef9-bb84-7bc100cf3199",
+        "1e0470a8-b280-4175-a997-fa49568f8830",
+        "999ec3de-d44a-4290-934d-2d601066ce23",
+        "c9f5220a-1681-4d8a-a488-c3e72a9cd0cd",
+        "bd261488-ab1c-4317-988f-a37a2af5dc9a",
+        "5946c9d4-ed43-4254-93c2-1357d67ab86d",
+        "f2774872-5dd0-4a8b-88a9-de579fadc0fa",
+        "fb925445-54d4-423a-ae2e-cb39095ae2ce",
+        "b3624587-f65b-4349-9c05-2700a2caeb26"
+      ],
+      "customStyles": [],
+      "id": "ffb1d7f8-7f58-466f-b09a-f10cdd37aef2",
+      "name": "WAGNER"
     }
   ],
-  "activeTacticId": "0251f630-4dc5-406d-ac82-1a08d04fb692",
+  "activeTacticId": "ffb1d7f8-7f58-466f-b09a-f10cdd37aef2",
   "injuries": [],
   "suspensions": [],
   "recentMatches": [
