@@ -1,0 +1,429 @@
+{
+  "id": "bece8d5f-67ce-4a3a-9c7b-48389402df33",
+  "slug": "cmf",
+  "name": "CMF",
+  "flag": "data:image/png;base64,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",
+  "culture": "francais",
+  "cultures": [
+    {
+      "culture": "francais",
+      "weight": 1
+    },
+    {
+      "culture": "anglais",
+      "weight": 1
+    },
+    {
+      "culture": "allemand",
+      "weight": 1
+    },
+    {
+      "culture": "italien",
+      "weight": 1
+    },
+    {
+      "culture": "grec",
+      "weight": 1
+    },
+    {
+      "culture": "espagnol",
+      "weight": 1
+    },
+    {
+      "culture": "hongrois",
+      "weight": 1
+    },
+    {
+      "culture": "portugais",
+      "weight": 1
+    },
+    {
+      "culture": "tcheque",
+      "weight": 1
+    },
+    {
+      "culture": "ukrainien",
+      "weight": 1
+    },
+    {
+      "culture": "russe",
+      "weight": 1
+    },
+    {
+      "culture": "polonais",
+      "weight": 1
+    },
+    {
+      "culture": "suedois",
+      "weight": 1
+    },
+    {
+      "culture": "finlandais",
+      "weight": 1
+    },
+    {
+      "culture": "norvegien",
+      "weight": 1
+    },
+    {
+      "culture": "islandais",
+      "weight": 1
+    },
+    {
+      "culture": "danois",
+      "weight": 1
+    },
+    {
+      "culture": "groenlandais",
+      "weight": 1
+    },
+    {
+      "culture": "belge",
+      "weight": 1
+    },
+    {
+      "culture": "roumain",
+      "weight": 1
+    },
+    {
+      "culture": "turc",
+      "weight": 1
+    },
+    {
+      "culture": "lituanien",
+      "weight": 1
+    },
+    {
+      "culture": "letton",
+      "weight": 1
+    },
+    {
+      "culture": "croate",
+      "weight": 1
+    },
+    {
+      "culture": "autrichien",
+      "weight": 1
+    },
+    {
+      "culture": "neerlandais",
+      "weight": 1
+    },
+    {
+      "culture": "inuit",
+      "weight": 1
+    },
+    {
+      "culture": "luxembourgeois",
+      "weight": 1
+    },
+    {
+      "culture": "serbe",
+      "weight": 1
+    },
+    {
+      "culture": "estonien",
+      "weight": 1
+    },
+    {
+      "culture": "japonais",
+      "weight": 1
+    },
+    {
+      "culture": "vietnamien",
+      "weight": 1
+    },
+    {
+      "culture": "philippin",
+      "weight": 1
+    },
+    {
+      "culture": "mongol",
+      "weight": 1
+    },
+    {
+      "culture": "indien",
+      "weight": 1
+    },
+    {
+      "culture": "coreen",
+      "weight": 1
+    },
+    {
+      "culture": "thai",
+      "weight": 1
+    },
+    {
+      "culture": "cambodgien",
+      "weight": 1
+    },
+    {
+      "culture": "malaisien",
+      "weight": 1
+    },
+    {
+      "culture": "siberien",
+      "weight": 1
+    },
+    {
+      "culture": "ouighour",
+      "weight": 1
+    },
+    {
+      "culture": "birman",
+      "weight": 1
+    },
+    {
+      "culture": "indonesien",
+      "weight": 1
+    },
+    {
+      "culture": "chinois",
+      "weight": 1
+    },
+    {
+      "culture": "kirghiz",
+      "weight": 1
+    },
+    {
+      "culture": "azeri",
+      "weight": 1
+    },
+    {
+      "culture": "turkmene",
+      "weight": 1
+    },
+    {
+      "culture": "ouzbek",
+      "weight": 1
+    },
+    {
+      "culture": "kazakh",
+      "weight": 1
+    },
+    {
+      "culture": "tadjik",
+      "weight": 1
+    },
+    {
+      "culture": "arabe",
+      "weight": 1
+    },
+    {
+      "culture": "persan",
+      "weight": 1
+    },
+    {
+      "culture": "israelien",
+      "weight": 1
+    },
+    {
+      "culture": "levantin",
+      "weight": 1
+    },
+    {
+      "culture": "golfe",
+      "weight": 1
+    },
+    {
+      "culture": "soudanais",
+      "weight": 1
+    },
+    {
+      "culture": "egyptien",
+      "weight": 1
+    },
+    {
+      "culture": "maghrebin",
+      "weight": 1
+    },
+    {
+      "culture": "nigerian",
+      "weight": 1
+    },
+    {
+      "culture": "ghaneen",
+      "weight": 1
+    },
+    {
+      "culture": "ivoirien",
+      "weight": 1
+    },
+    {
+      "culture": "burkinabe",
+      "weight": 1
+    },
+    {
+      "culture": "malien",
+      "weight": 1
+    },
+    {
+      "culture": "camerounais",
+      "weight": 1
+    },
+    {
+      "culture": "guineens",
+      "weight": 1
+    },
+    {
+      "culture": "senegalais",
+      "weight": 1
+    },
+    {
+      "culture": "congolais",
+      "weight": 1
+    },
+    {
+      "culture": "ugandais",
+      "weight": 1
+    },
+    {
+      "culture": "kenyan",
+      "weight": 1
+    },
+    {
+      "culture": "ethiopien",
+      "weight": 1
+    },
+    {
+      "culture": "tanzanien",
+      "weight": 1
+    },
+    {
+      "culture": "rwandais",
+      "weight": 1
+    },
+    {
+      "culture": "angolais",
+      "weight": 1
+    },
+    {
+      "culture": "somalien",
+      "weight": 1
+    },
+    {
+      "culture": "zoulou",
+      "weight": 1
+    },
+    {
+      "culture": "mozambicain",
+      "weight": 1
+    },
+    {
+      "culture": "zimbabween",
+      "weight": 1
+    },
+    {
+      "culture": "bresilien",
+      "weight": 1
+    },
+    {
+      "culture": "argentin",
+      "weight": 1
+    },
+    {
+      "culture": "mexicain",
+      "weight": 1
+    },
+    {
+      "culture": "quebecois",
+      "weight": 1
+    },
+    {
+      "culture": "amerindien",
+      "weight": 1
+    },
+    {
+      "culture": "cubain",
+      "weight": 1
+    },
+    {
+      "culture": "uruguayen",
+      "weight": 1
+    },
+    {
+      "culture": "haitien",
+      "weight": 1
+    },
+    {
+      "culture": "paraguayen",
+      "weight": 1
+    },
+    {
+      "culture": "trinidadien",
+      "weight": 1
+    },
+    {
+      "culture": "venezuelien",
+      "weight": 1
+    },
+    {
+      "culture": "chilien",
+      "weight": 1
+    },
+    {
+      "culture": "anglo-americain",
+      "weight": 1
+    },
+    {
+      "culture": "peruvien",
+      "weight": 1
+    },
+    {
+      "culture": "colombien",
+      "weight": 1
+    },
+    {
+      "culture": "bolivien",
+      "weight": 1
+    },
+    {
+      "culture": "jamaicain",
+      "weight": 1
+    },
+    {
+      "culture": "australien",
+      "weight": 1
+    },
+    {
+      "culture": "caledonien",
+      "weight": 1
+    },
+    {
+      "culture": "neo-zelandais",
+      "weight": 4
+    }
+  ],
+  "continent": "asiecentrale",
+  "continents": [
+    "asiecentrale"
+  ],
+  "kind": "national",
+  "globalStrength": 100,
+  "createdAt": "2026-06-25T13:13:22.190Z",
+  "createdBy": "772821169664426025",
+  "ownerId": "772821169664426025",
+  "playerCount": 100,
+  "formation": "4-3-3",
+  "coach": {
+    "id": "1c32a9d8-4a47-439b-8c05-4b7dc5b29ad6",
+    "firstName": "Rahul",
+    "lastName": "Mehta",
+    "culture": "neo-zelandais",
+    "stats": {
+      "motivation": 13,
+      "tactique": 17,
+      "offensive": 16,
+      "defensif": 12,
+      "mentalite": 15,
+      "gestion": 18
+    },
+    "positiveTraits": [],
+    "negativeTraits": [
+      "conservateur"
+    ],
+    "overall": 74
+  },
+  "jerseyColor": "#0065d1",
+  "publishedAt": "2026-06-25T13:13:23.365Z"
+}
