@@ -1,5 +1,32 @@
 [
   {
+    "id": "6tfnosgrxcpmqtt2ka1",
+    "name": "Nakata Kinen",
+    "format": "groups_knockout",
+    "status": "ongoing",
+    "teamCount": 16,
+    "createdAt": "2026-06-25T17:58:18.409Z",
+    "year": 2308,
+    "teamIds": [
+      "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "cc7eb9cc-9a93-44ee-89c7-f2c6e915a221",
+      "292037a2-3b7a-40e7-b9fa-37a11d157341",
+      "4050e7b8-0b32-4225-b936-2947890e501c",
+      "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "55c94018-aa17-477e-86d3-722caf57df20",
+      "e5bac765-f354-41a2-b940-1e97fba04c20",
+      "914986ba-db7a-4f47-aa7e-5edae17cbc8a",
+      "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "9aea33e4-a280-4ec7-8ad5-4852e3cf3439",
+      "495d8db0-d1b7-49fd-bb3d-dcecda27eb95",
+      "0fe98426-628d-4e12-a4c7-9a71e599160f",
+      "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "45002df1-cafe-4c04-814c-660868b56d95",
+      "8451e643-10d4-48bc-a4e6-4c12255695f4",
+      "d078bb55-7f06-4ed1-b048-1dd6524ecae9"
+    ]
+  },
+  {
     "id": "oeg5lcqmbfmqslop80",
     "name": "Coppa de Napoli",
     "format": "groups_knockout",
