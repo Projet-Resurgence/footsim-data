@@ -411,69 +411,17 @@
     "lastName": "Mehta",
     "culture": "neo-zelandais",
     "stats": {
-      "motivation": 13,
-      "tactique": 17,
-      "offensive": 16,
-      "defensif": 12,
-      "mentalite": 15,
-      "gestion": 18
+      "motivation": 20,
+      "tactique": 20,
+      "offensive": 20,
+      "defensif": 20,
+      "mentalite": 20,
+      "gestion": 20
     },
     "positiveTraits": [],
-    "negativeTraits": [
-      "conservateur"
-    ],
-    "overall": 74
+    "negativeTraits": [],
+    "overall": 100
   },
   "jerseyColor": "#0065d1",
-  "publishedAt": "2026-06-25T13:14:29.456Z",
-  "savedTactics": [
-    {
-      "style": "possession",
-      "formation": "3-4-3",
-      "lineup": [
-        "5a2b2746-cea7-40e7-80ee-884772b1879d",
-        "3b41d8f2-0724-4b27-ae10-4a203b69afa8",
-        "a412f5b7-d006-4cf1-9dc4-818f23e1f2cb",
-        "030881c3-64d1-4954-8c7e-91fd86570cf0",
-        "d6c28221-997a-4fc0-9ce2-ac1c99eedd5d",
-        "4a92981a-97a1-4a74-a594-c58a5aa3eb89",
-        "ef333ddf-0d0e-4267-8fac-660d61ecacab",
-        "9c10374f-83f6-42f8-a807-1363813df06c",
-        "ed993a41-bbe6-481d-b3a1-5c662daa03f0",
-        "440e726f-0648-42f8-a87f-6fe3286ccbb9",
-        "5e97c159-cfd2-4eba-8194-83cbd9689290"
-      ],
-      "bench": [
-        "77e3bd3a-6643-4451-8ced-0422ff27565f",
-        "2e49565f-4c8f-4bd9-bbb4-2142694697a7",
-        "54d1fc3f-817c-48d5-80ba-296c19956792",
-        "e935d970-06e3-45a7-92a8-a818b3db01e4",
-        "9c02b562-94f5-45f0-a8f8-a1070e98059e",
-        "ae92a244-5509-45b6-a40d-8a8ab2fc3644",
-        "331060dd-72fb-4b23-9fed-c41f4e55fd06",
-        "ce7fdd59-3828-4b47-a8d1-bc579d179791",
-        "17659f02-2d40-473b-8f35-775575d74279",
-        "93186230-c43e-4410-a5bb-f55685ca1e49",
-        "af656a66-edb4-400a-8bb9-0c3c9703d5b2",
-        "c9042433-d9cd-4c4f-9744-91218f8b747b"
-      ],
-      "customStyles": [
-        {
-          "id": "e70282fa-e838-4b90-9d23-c458bb43c8aa",
-          "name": "Offensif",
-          "mods": {
-            "shotFreqMult": 1.1,
-            "foulRateMult": 1,
-            "midfieldMult": 1,
-            "attackMult": 1.2,
-            "defenseMult": 1
-          }
-        }
-      ],
-      "activeCustomStyleId": "e70282fa-e838-4b90-9d23-c458bb43c8aa",
-      "id": "30bbf103-2561-410e-8d0c-ad17ce9f170d",
-      "name": "Tactique 1"
-    }
-  ],
-  "activeTacticId": "30bbf103-2561-410e-8d0c-ad17ce9f170d"
+  "publishedAt": "2026-06-25T13:15:34.673Z"
 }
