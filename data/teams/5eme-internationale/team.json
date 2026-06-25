@@ -333,6 +333,18 @@
       "importance": "mineur",
       "result": "participant",
       "phase": "group"
+    },
+    {
+      "compId": "uevrnvlpnvmqty1zqg",
+      "compName": "Amitié, Paix et Prospérité",
+      "year": 2308,
+      "format": "groups_knockout",
+      "kind": "amicale",
+      "scope": "internationale",
+      "importance": "mineur",
+      "result": "semi",
+      "phase": "3rd",
+      "participantCount": 16
     }
   ],
   "continents": [

@@ -68,6 +68,18 @@
       "result": "quarter",
       "phase": "QF",
       "participantCount": 16
+    },
+    {
+      "compId": "uevrnvlpnvmqty1zqg",
+      "compName": "Amitié, Paix et Prospérité",
+      "year": 2308,
+      "format": "groups_knockout",
+      "kind": "amicale",
+      "scope": "internationale",
+      "importance": "mineur",
+      "result": "participant",
+      "phase": "group",
+      "participantCount": 16
     }
   ],
   "coach": {
