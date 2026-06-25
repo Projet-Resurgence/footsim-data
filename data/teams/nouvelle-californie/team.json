@@ -53,8 +53,9 @@
       "kind": "amicale",
       "scope": "internationale",
       "importance": "mineur",
-      "result": "semi",
-      "phase": "QF"
+      "result": "quarter",
+      "phase": "QF",
+      "participantCount": 16
     },
     {
       "compId": "ifernu3ytbmqr3areq",
