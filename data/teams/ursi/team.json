@@ -145,7 +145,8 @@
       "scope": "internationale",
       "importance": "mineur",
       "result": "participant",
-      "phase": "group"
+      "phase": "group",
+      "participantCount": 8
     },
     {
       "compId": "0wj8ukun6dkmqskotcz",
