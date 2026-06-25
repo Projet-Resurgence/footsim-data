@@ -41,7 +41,7 @@
     "overall": 82
   },
   "jerseyColor": "#150404",
-  "publishedAt": "2026-06-25T12:38:07.041Z",
+  "publishedAt": "2026-06-25T12:48:57.788Z",
   "compHistory": [
     {
       "compId": "ifernu3ytbmqr3areq",
@@ -139,9 +139,22 @@
         "fb925445-54d4-423a-ae2e-cb39095ae2ce",
         "b3624587-f65b-4349-9c05-2700a2caeb26"
       ],
-      "customStyles": [],
+      "customStyles": [
+        {
+          "id": "1c73138d-6db4-4769-bcca-c3c2d429e2ac",
+          "name": "Pressing",
+          "mods": {
+            "shotFreqMult": 1,
+            "foulRateMult": 1,
+            "midfieldMult": 1.05,
+            "attackMult": 1.05,
+            "defenseMult": 1.2
+          }
+        }
+      ],
       "id": "ffb1d7f8-7f58-466f-b09a-f10cdd37aef2",
-      "name": "WAGNER"
+      "name": "WAGNER",
+      "activeCustomStyleId": "1c73138d-6db4-4769-bcca-c3c2d429e2ac"
     }
   ],
   "activeTacticId": "ffb1d7f8-7f58-466f-b09a-f10cdd37aef2",
