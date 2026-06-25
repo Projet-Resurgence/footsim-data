@@ -172,7 +172,7 @@
       "cmfPoints": -1.6
     }
   ],
-  "publishedAt": "2026-06-25T10:41:22.798Z",
+  "publishedAt": "2026-06-25T17:08:58.253Z",
   "cultures": [
     {
       "culture": "japonais",
@@ -185,25 +185,26 @@
   ],
   "managerDiscordId": "677663204960239666",
   "coach": {
-    "id": "5bc86b3a-b210-4fe8-bfff-9bca239f53af",
-    "firstName": "Ryota",
-    "lastName": "Takeda",
+    "id": "bcb415e4-2eed-4d86-be33-0148426a8cd1",
+    "firstName": "Yuki",
+    "lastName": "Taniguchi",
     "culture": "japonais",
     "stats": {
-      "motivation": 12,
-      "tactique": 9,
-      "offensive": 18,
-      "defensif": 10,
-      "mentalite": 9,
-      "gestion": 15
+      "motivation": 13,
+      "tactique": 17,
+      "offensive": 10,
+      "defensif": 15,
+      "mentalite": 17,
+      "gestion": 9
     },
     "positiveTraits": [
-      "tacticien"
+      "disciplinaire",
+      "meneur"
     ],
     "negativeTraits": [
-      "conservateur"
+      "imprevoyant"
     ],
-    "overall": 62
+    "overall": 68
   },
   "actionFoot": {
     "rating": 6,
