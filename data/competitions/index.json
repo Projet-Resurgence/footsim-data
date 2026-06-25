@@ -1,5 +1,32 @@
 [
   {
+    "id": "mpqg514t7kmqtvzx07",
+    "name": "Coupe de Test",
+    "format": "groups_knockout",
+    "status": "ongoing",
+    "teamCount": 16,
+    "createdAt": "2026-06-25T19:20:13.783Z",
+    "year": 2308,
+    "teamIds": [
+      "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "292037a2-3b7a-40e7-b9fa-37a11d157341",
+      "45002df1-cafe-4c04-814c-660868b56d95",
+      "8451e643-10d4-48bc-a4e6-4c12255695f4",
+      "4050e7b8-0b32-4225-b936-2947890e501c",
+      "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "e5bac765-f354-41a2-b940-1e97fba04c20",
+      "55c94018-aa17-477e-86d3-722caf57df20",
+      "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "9aea33e4-a280-4ec7-8ad5-4852e3cf3439",
+      "d078bb55-7f06-4ed1-b048-1dd6524ecae9",
+      "cc7eb9cc-9a93-44ee-89c7-f2c6e915a221",
+      "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "0fe98426-628d-4e12-a4c7-9a71e599160f",
+      "914986ba-db7a-4f47-aa7e-5edae17cbc8a",
+      "495d8db0-d1b7-49fd-bb3d-dcecda27eb95"
+    ]
+  },
+  {
     "id": "oeg5lcqmbfmqslop80",
     "name": "Coppa de Napoli",
     "format": "groups_knockout",
