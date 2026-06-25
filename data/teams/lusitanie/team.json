@@ -60,7 +60,7 @@
       "compKind": "amicale",
       "compScope": "internationale",
       "compImportance": "mineur",
-      "cmfPoints": -0.5
+      "cmfPoints": -0.9
     },
     {
       "matchId": "hxx5nr25mqskotcz",
@@ -76,7 +76,7 @@
       "compKind": "amicale",
       "compScope": "internationale",
       "compImportance": "mineur",
-      "cmfPoints": 1.4
+      "cmfPoints": 2.5
     },
     {
       "matchId": "tprwyeonmqskotcz",
@@ -92,7 +92,7 @@
       "compKind": "amicale",
       "compScope": "internationale",
       "compImportance": "mineur",
-      "cmfPoints": 0.5
+      "cmfPoints": 0.8
     },
     {
       "matchId": "zcjax7hjmqskotcz",
@@ -108,7 +108,7 @@
       "compKind": "amicale",
       "compScope": "internationale",
       "compImportance": "mineur",
-      "cmfPoints": 1.4
+      "cmfPoints": 2.5
     },
     {
       "matchId": "0rsi0rg1mqskotcz",
@@ -124,7 +124,7 @@
       "compKind": "amicale",
       "compScope": "internationale",
       "compImportance": "mineur",
-      "cmfPoints": 1.4
+      "cmfPoints": 3
     }
   ],
   "compHistory": [
