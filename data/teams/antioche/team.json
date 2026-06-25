@@ -25,7 +25,7 @@
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-24T00:03:33.827Z",
+  "publishedAt": "2026-06-25T00:24:20.027Z",
   "managerDiscordId": "1473103141728944171",
   "recentMatches": [
     {
@@ -179,11 +179,11 @@
     "lastName": "Roux",
     "culture": "turc",
     "stats": {
-      "motivation": 11,
+      "motivation": 15,
       "tactique": 16,
-      "offensive": 14,
-      "defensif": 15,
-      "mentalite": 12,
+      "offensive": 18,
+      "defensif": 20,
+      "mentalite": 18,
       "gestion": 18
     },
     "positiveTraits": [
@@ -193,7 +193,7 @@
     "negativeTraits": [
       "conflictuel"
     ],
-    "overall": 76
+    "overall": 88
   },
   "jerseyColor": "#a11753",
   "compHistory": [
