@@ -18,7 +18,7 @@
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-25T22:09:55.740Z",
+  "publishedAt": "2026-06-25T22:22:25.720Z",
   "tactics": {
     "style": "ultra-defensif",
     "formation": "5-4-1",
@@ -560,9 +560,116 @@
       "activeCustomStyleId": "1410d092-79a8-4283-960a-d215dc29a1c1",
       "id": "2e5c038d-91bc-48d8-b62e-93c7de0ef906",
       "name": "Si dieu le veut test de fdp"
+    },
+    {
+      "style": "possession",
+      "formation": "4-3-3",
+      "lineup": [
+        "0663f1b8-69bb-449e-8716-a18823b621f5",
+        "01e7b72d-76f6-4c65-b15b-a800baafbfce",
+        "ffa861cb-7634-46c1-b96e-231a8ac43aec",
+        "d67a8844-1344-4fb1-8591-041530e2623c",
+        "91d1ad6f-2a74-44d8-8cf9-276014c0fbdd",
+        "4ef345a9-c2fd-4920-ab92-5124797d4e7d",
+        "b922c816-b6dd-47bd-9306-89ee6209ae7d",
+        "2caa7860-2d4a-42f0-a5cf-7763cd065ab7",
+        "2a40f2a8-21e7-4d78-a889-fce6f644ca00",
+        "1eb6cdb3-28c8-4792-8b45-f820be065dd9",
+        "c89cab4b-9bd1-43bc-ae5a-3cde76da38e8"
+      ],
+      "bench": [
+        "d7312229-3c51-4aec-9f46-a337f5d1df37",
+        "fe671d26-7632-4846-b692-d40f587298dd",
+        "5b96935e-2e6f-40e4-81d1-f4a2586f6f2c",
+        "ca9c5a39-cb56-48f5-aa79-1e74ddd5c510",
+        "ccafa0b4-e913-4624-91a5-f2467c269be8",
+        "d09f1ca0-e7a2-44bd-8ea8-9051c5834b7c",
+        "253194cb-3dcd-4632-a72e-e462def8a66b",
+        "93dfe857-da61-4a31-acc4-cc6a8f57b9ea",
+        "bb6f1b5f-707a-4b14-8605-43359faeafc1",
+        "9711a972-e8f1-4190-bcd0-91b108d1d510",
+        "0a0375f8-9b6b-43ba-8459-df2a8115097c",
+        "bc803dbd-6da7-4fa9-ba88-cd72134539aa"
+      ],
+      "formationLabel": "4-2-4",
+      "positionMap": {
+        "2caa7860-2d4a-42f0-a5cf-7763cd065ab7": "CM",
+        "d67a8844-1344-4fb1-8591-041530e2623c": "CB",
+        "ffa861cb-7634-46c1-b96e-231a8ac43aec": "CB",
+        "91d1ad6f-2a74-44d8-8cf9-276014c0fbdd": "RB",
+        "1eb6cdb3-28c8-4792-8b45-f820be065dd9": "RW",
+        "b922c816-b6dd-47bd-9306-89ee6209ae7d": "ST",
+        "2a40f2a8-21e7-4d78-a889-fce6f644ca00": "ST",
+        "01e7b72d-76f6-4c65-b15b-a800baafbfce": "LB",
+        "c89cab4b-9bd1-43bc-ae5a-3cde76da38e8": "LW",
+        "4ef345a9-c2fd-4920-ab92-5124797d4e7d": "LM",
+        "0663f1b8-69bb-449e-8716-a18823b621f5": "GK"
+      },
+      "tokenPositions": {
+        "2caa7860-2d4a-42f0-a5cf-7763cd065ab7": {
+          "x": 51.012221937328576,
+          "y": 47.34522701797158
+        },
+        "d67a8844-1344-4fb1-8591-041530e2623c": {
+          "x": 66,
+          "y": 72
+        },
+        "ffa861cb-7634-46c1-b96e-231a8ac43aec": {
+          "x": 34,
+          "y": 72
+        },
+        "91d1ad6f-2a74-44d8-8cf9-276014c0fbdd": {
+          "x": 88,
+          "y": 70
+        },
+        "1eb6cdb3-28c8-4792-8b45-f820be065dd9": {
+          "x": 88,
+          "y": 23
+        },
+        "b922c816-b6dd-47bd-9306-89ee6209ae7d": {
+          "x": 59.83398988368569,
+          "y": 18.521526192785913
+        },
+        "2a40f2a8-21e7-4d78-a889-fce6f644ca00": {
+          "x": 41.40719330551735,
+          "y": 18.24134299836622
+        },
+        "01e7b72d-76f6-4c65-b15b-a800baafbfce": {
+          "x": 12,
+          "y": 70
+        },
+        "c89cab4b-9bd1-43bc-ae5a-3cde76da38e8": {
+          "x": 16.806305991313334,
+          "y": 19.928662403568858
+        },
+        "4ef345a9-c2fd-4920-ab92-5124797d4e7d": {
+          "x": 22,
+          "y": 50
+        },
+        "0663f1b8-69bb-449e-8716-a18823b621f5": {
+          "x": 50,
+          "y": 88
+        }
+      },
+      "customStyles": [
+        {
+          "id": "771cf0bb-bb12-4b9e-9241-5477e0dac07e",
+          "name": "Si sa marche je merite des bifles",
+          "mods": {
+            "shotFreqMult": 1.15,
+            "foulRateMult": 0.8,
+            "midfieldMult": 1.05,
+            "attackMult": 1,
+            "defenseMult": 1.2
+          }
+        }
+      ],
+      "activeCustomStyleId": "771cf0bb-bb12-4b9e-9241-5477e0dac07e",
+      "id": "ad08db03-5d38-451c-a339-0f3d7152fcd4",
+      "name": "Beeeeelek"
     }
   ],
-  "activeTacticId": "2e5c038d-91bc-48d8-b62e-93c7de0ef906",
+  "activeTacticId": "ad08db03-5d38-451c-a339-0f3d7152fcd4",
   "compHistory": [
     {
       "compId": "qtebnbbpzeomqpngrdv",
