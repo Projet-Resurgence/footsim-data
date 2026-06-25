@@ -25,7 +25,7 @@
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-25T00:24:20.027Z",
+  "publishedAt": "2026-06-25T17:12:40.785Z",
   "managerDiscordId": "1473103141728944171",
   "recentMatches": [
     {
@@ -232,5 +232,123 @@
     }
   ],
   "injuries": [],
-  "suspensions": []
+  "suspensions": [],
+  "savedTactics": [
+    {
+      "style": "possession",
+      "formation": "4-4-2",
+      "lineup": [
+        "873922d5-9cb4-4a7e-9385-6cee1cccb1d0",
+        "b2263499-6f7d-48d4-b559-1bab5ab20ea1",
+        "e6d878ba-8d77-4fb1-a0cb-b0fbc4c15dcb",
+        "cd7b6b4b-540d-4749-9f91-e9723d3048b8",
+        "b73b8a3b-bc0f-461a-9f42-7a7d5c115a94",
+        "f9e60e6a-0703-4810-9238-253fa3eb04a8",
+        "88f29f4d-3a3c-4fae-8a07-30276733ccf1",
+        "878bd360-c46e-492a-9214-de5da09ea87a",
+        "5061bf51-aaf6-4bed-8cac-a37afbc16344",
+        "b54932e1-c5be-4b37-8d4c-707b35b5d81d",
+        "2d105f15-6085-4c10-a990-0a81180604de"
+      ],
+      "customStyles": [
+        {
+          "id": "d5fc3d21-1a3d-4928-84d5-22fc4bdcc17d",
+          "name": "Muraille d'Acre",
+          "mods": {
+            "shotFreqMult": 0.95,
+            "foulRateMult": 0.95,
+            "midfieldMult": 1.25,
+            "attackMult": 1.05,
+            "defenseMult": 1.05
+          }
+        }
+      ],
+      "id": "cd8fc365-9683-4574-9c2f-545a73d7ee0b",
+      "name": "Tactique de Tancrède",
+      "bench": [
+        "137933e5-16d0-46f9-9f35-47af8bb5e7e4",
+        "32318623-934b-491f-a86c-9d236ae81b5b",
+        "5bec18d9-d8fb-4a01-84b6-a358066114c5",
+        "e6254156-b321-44a3-8c2d-1c6909329996",
+        "a500150c-cd16-4bf5-9f2e-c2ced9e00920",
+        "c830358d-2dd0-4d72-a4ff-547b77d0cdc8",
+        "b0a7ac2c-483d-4dc6-8a71-63aa3a42d47d",
+        "18b129b1-24c1-4ab0-bb8c-7e7e3dbaffa8",
+        "0ea2235a-a4c5-4772-8cfd-db7cc568c8e6",
+        "b1ed3126-87c3-4a52-b046-ea96f129efc6",
+        "271891b3-958c-491e-804c-9e7224f7772c",
+        "7b59d16c-915c-4eda-8fe3-e5ac6c43c86b"
+      ],
+      "plannedSubs": [
+        {
+          "outId": "5061bf51-aaf6-4bed-8cac-a37afbc16344",
+          "inId": "c830358d-2dd0-4d72-a4ff-547b77d0cdc8"
+        },
+        {
+          "outId": "b54932e1-c5be-4b37-8d4c-707b35b5d81d",
+          "inId": "7b59d16c-915c-4eda-8fe3-e5ac6c43c86b",
+          "minute": 60
+        },
+        {
+          "outId": "b2263499-6f7d-48d4-b559-1bab5ab20ea1",
+          "inId": "e6254156-b321-44a3-8c2d-1c6909329996",
+          "minute": 75
+        },
+        {
+          "outId": "f9e60e6a-0703-4810-9238-253fa3eb04a8",
+          "inId": "b0a7ac2c-483d-4dc6-8a71-63aa3a42d47d",
+          "minute": 85
+        }
+      ],
+      "activeCustomStyleId": "d5fc3d21-1a3d-4928-84d5-22fc4bdcc17d"
+    },
+    {
+      "style": "possession",
+      "formation": "4-2-3-1",
+      "lineup": [
+        "873922d5-9cb4-4a7e-9385-6cee1cccb1d0",
+        "b2263499-6f7d-48d4-b559-1bab5ab20ea1",
+        "cd7b6b4b-540d-4749-9f91-e9723d3048b8",
+        "e6d878ba-8d77-4fb1-a0cb-b0fbc4c15dcb",
+        "b73b8a3b-bc0f-461a-9f42-7a7d5c115a94",
+        "88f29f4d-3a3c-4fae-8a07-30276733ccf1",
+        "3efcb2b4-8391-4d92-8e0e-5ea5bf777a9a",
+        "f9e60e6a-0703-4810-9238-253fa3eb04a8",
+        "99de34fb-855e-4efc-9feb-942b0d39db99",
+        "271891b3-958c-491e-804c-9e7224f7772c",
+        "2d105f15-6085-4c10-a990-0a81180604de"
+      ],
+      "bench": [
+        "137933e5-16d0-46f9-9f35-47af8bb5e7e4",
+        "e6254156-b321-44a3-8c2d-1c6909329996",
+        "5bec18d9-d8fb-4a01-84b6-a358066114c5",
+        "32318623-934b-491f-a86c-9d236ae81b5b",
+        "a500150c-cd16-4bf5-9f2e-c2ced9e00920",
+        "5061bf51-aaf6-4bed-8cac-a37afbc16344",
+        "c830358d-2dd0-4d72-a4ff-547b77d0cdc8",
+        "02d5c31a-d8b1-4374-80ee-b6cf0d324b7e",
+        "f5ac906e-f117-446b-926b-3d626b6ecca3",
+        "b1ed3126-87c3-4a52-b046-ea96f129efc6",
+        "b54932e1-c5be-4b37-8d4c-707b35b5d81d",
+        "7dda0f9c-ee35-48fc-b3de-a9ef6bbb338a"
+      ],
+      "customStyles": [
+        {
+          "id": "40642640-fe1c-4f11-9bbb-9bd4d056032a",
+          "name": "Percée Offensive",
+          "mods": {
+            "shotFreqMult": 1.05,
+            "foulRateMult": 0.95,
+            "midfieldMult": 1.05,
+            "attackMult": 1.25,
+            "defenseMult": 0.95
+          }
+        }
+      ],
+      "activeCustomStyleId": "40642640-fe1c-4f11-9bbb-9bd4d056032a",
+      "id": "b7ff91a3-b5e9-4063-9b22-c04ee81f81e0",
+      "name": "Tactique de Baudouin"
+    }
+  ],
+  "activeTacticId": "cd8fc365-9683-4574-9c2f-545a73d7ee0b"
 }
