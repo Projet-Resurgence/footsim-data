@@ -2496,7 +2496,111 @@
       "round": 6,
       "phase": "F",
       "leg": 1,
-      "status": "pending"
+      "status": "completed",
+      "result": {
+        "home": 0,
+        "away": 3
+      },
+      "matchSummary": {
+        "motm": {
+          "playerId": "aff7b68e-f32e-47eb-ab8e-96007c9b2a38",
+          "playerName": "Rabah Lado",
+          "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+          "teamName": "Empire Hussein",
+          "rating": 8
+        },
+        "stats": {
+          "shots": {
+            "home": 12,
+            "away": 14
+          },
+          "shotsOnTarget": {
+            "home": 4,
+            "away": 7
+          },
+          "saves": {
+            "home": 4,
+            "away": 4
+          },
+          "passes": {
+            "home": 276,
+            "away": 282
+          },
+          "fouls": {
+            "home": 10,
+            "away": 1
+          },
+          "corners": {
+            "home": 1,
+            "away": 0
+          },
+          "offsides": {
+            "home": 1,
+            "away": 2
+          },
+          "freekicks": {
+            "home": 1,
+            "away": 4
+          },
+          "dribbles": {
+            "home": 6,
+            "away": 9
+          },
+          "clearances": {
+            "home": 1,
+            "away": 0
+          },
+          "keyPasses": {
+            "home": 11,
+            "away": 7
+          },
+          "possession": {
+            "home": 49,
+            "away": 51
+          },
+          "yellowCards": {
+            "home": 1,
+            "away": 0
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "awayGoals": [
+          {
+            "minute": 4,
+            "playerId": "ed7eb980-155d-4aee-9cbf-092a44bfc8c1",
+            "playerName": "Nabil Hariri",
+            "assistId": "698a3b66-bffb-494b-822d-68025a22deac",
+            "assistName": "Jad Zakhour"
+          },
+          {
+            "minute": 7,
+            "playerId": "8745a1a2-e456-4d0e-8ddd-610658c8a559",
+            "playerName": "Magdy El-Baz",
+            "assistId": "2dbba1eb-d4d2-4efa-995a-29734486a8c9",
+            "assistName": "Mounir Othman"
+          },
+          {
+            "minute": 56,
+            "playerId": "2dbba1eb-d4d2-4efa-995a-29734486a8c9",
+            "playerName": "Mounir Othman",
+            "assistId": "698a3b66-bffb-494b-822d-68025a22deac",
+            "assistName": "Jad Zakhour"
+          }
+        ],
+        "homeCards": [
+          {
+            "minute": 87,
+            "playerId": "8de90201-5f15-4595-9340-e7f4d0c7c845",
+            "playerName": "Roman Borisov",
+            "type": "yellow"
+          }
+        ]
+      },
+      "matchFileId": "comp-p6587rda4smqtxfrh1-9742zzqnmqtxfrh2",
+      "simulatedAt": "2026-06-25T20:12:55.563Z"
     },
     {
       "id": "e3hg91yqmqtxfrh2",
@@ -3754,9 +3858,10 @@
         7.5,
         9,
         7.5,
+        6,
         6
       ],
-      "avgRating": 8,
+      "avgRating": 7.7,
       "motmCount": 1
     },
     "60342249-23bb-4564-9620-91c2a141b9ad": {
@@ -3776,9 +3881,10 @@
         9.6,
         9.6,
         6.8,
+        6.4,
         6.4
       ],
-      "avgRating": 8,
+      "avgRating": 7.7,
       "motmCount": 2
     },
     "d58d678c-09a1-4228-923f-7ebfc1a2411c": {
@@ -3798,9 +3904,10 @@
         6.2,
         6.3,
         5.7,
+        5.7,
         5.7
       ],
-      "avgRating": 6.3,
+      "avgRating": 6.2,
       "motmCount": 0
     },
     "688b0471-9199-4c65-9d73-a408fa96f582": {
@@ -3820,7 +3927,8 @@
         6.4,
         7.9,
         6.4,
-        6.7
+        6.7,
+        6.9
       ],
       "avgRating": 7,
       "motmCount": 0
@@ -3832,7 +3940,7 @@
       "teamName": "Empire Hussein",
       "overall": 86,
       "position": "ST",
-      "goals": 5,
+      "goals": 6,
       "assists": 0,
       "cleanSheets": 0,
       "yellowCards": 0,
@@ -3842,7 +3950,8 @@
         6,
         10,
         6.1,
-        7.9
+        7.9,
+        7.6
       ],
       "avgRating": 7.5,
       "motmCount": 1
@@ -3864,9 +3973,10 @@
         5.7,
         5.7,
         7.2,
-        7.2
+        7.2,
+        5.7
       ],
-      "avgRating": 6.9,
+      "avgRating": 6.7,
       "motmCount": 0
     },
     "da579017-cf8b-482c-b9d5-ec411cd825ff": {
@@ -3886,9 +3996,10 @@
         6,
         6.4,
         6.2,
-        8.3
+        8.3,
+        6.1
       ],
-      "avgRating": 6.9,
+      "avgRating": 6.8,
       "motmCount": 0
     },
     "1e0470a8-b280-4175-a997-fa49568f8830": {
@@ -3908,9 +4019,10 @@
         5.7,
         5.2,
         5.6,
-        5.9
+        5.9,
+        6.3
       ],
-      "avgRating": 5.9,
+      "avgRating": 6,
       "motmCount": 0
     },
     "8745a1a2-e456-4d0e-8ddd-610658c8a559": {
@@ -3920,7 +4032,7 @@
       "teamName": "Empire Hussein",
       "overall": 85,
       "position": "CM",
-      "goals": 1,
+      "goals": 2,
       "assists": 2,
       "cleanSheets": 0,
       "yellowCards": 0,
@@ -3930,7 +4042,8 @@
         8.9,
         6.8,
         6.9,
-        8
+        8,
+        7.8
       ],
       "avgRating": 7.6,
       "motmCount": 1
@@ -3944,7 +4057,7 @@
       "position": "GK",
       "goals": 0,
       "assists": 0,
-      "cleanSheets": 0,
+      "cleanSheets": 1,
       "yellowCards": 0,
       "redCards": 0,
       "matchRatings": [
@@ -3952,10 +4065,11 @@
         6.3,
         9.3,
         7.5,
-        6.6
+        6.6,
+        8
       ],
-      "avgRating": 7.1,
-      "motmCount": 0
+      "avgRating": 7.2,
+      "motmCount": 1
     },
     "16c65b71-fb58-4e95-a4ba-2c1ee6079633": {
       "playerId": "16c65b71-fb58-4e95-a4ba-2c1ee6079633",
@@ -3994,9 +4108,10 @@
         6.2,
         5.5,
         6.2,
-        6
+        6,
+        6.4
       ],
-      "avgRating": 5.9,
+      "avgRating": 6,
       "motmCount": 0
     },
     "e3571e6e-3b8e-4472-9a38-ea4c81fa2e6d": {
@@ -4016,9 +4131,10 @@
         6,
         6.2,
         5.5,
-        6
+        6,
+        6.4
       ],
-      "avgRating": 5.9,
+      "avgRating": 6,
       "motmCount": 0
     },
     "698a3b66-bffb-494b-822d-68025a22deac": {
@@ -4029,7 +4145,7 @@
       "overall": 83,
       "position": "CM",
       "goals": 0,
-      "assists": 2,
+      "assists": 3,
       "cleanSheets": 0,
       "yellowCards": 0,
       "redCards": 0,
@@ -4038,9 +4154,10 @@
         7.6,
         6.6,
         6.4,
-        8.5
+        8.5,
+        7.8
       ],
-      "avgRating": 7,
+      "avgRating": 7.2,
       "motmCount": 0
     },
     "2f13674a-aee2-4333-b7de-903e4d80b20c": {
@@ -4100,9 +4217,10 @@
         6.9,
         7.7,
         8.7,
-        9.8
+        9.8,
+        6.6
       ],
-      "avgRating": 8,
+      "avgRating": 7.8,
       "motmCount": 0
     },
     "8de90201-5f15-4595-9340-e7f4d0c7c845": {
@@ -4115,16 +4233,17 @@
       "goals": 0,
       "assists": 0,
       "cleanSheets": 0,
-      "yellowCards": 1,
+      "yellowCards": 2,
       "redCards": 0,
       "matchRatings": [
         5.7,
         6,
         6.4,
         6.2,
-        5.9
+        5.9,
+        5.2
       ],
-      "avgRating": 6,
+      "avgRating": 5.9,
       "motmCount": 0
     },
     "7211bf85-8014-4722-afbe-988f20006315": {
@@ -4144,7 +4263,8 @@
         6,
         6.4,
         6,
-        6.4
+        6.4,
+        5.9
       ],
       "avgRating": 6.1,
       "motmCount": 0
@@ -4166,9 +4286,10 @@
         5.9,
         6.1,
         5.9,
-        6.1
+        6.1,
+        5.4
       ],
-      "avgRating": 5.9,
+      "avgRating": 5.8,
       "motmCount": 0
     },
     "b57ca962-753d-4797-bf41-a7b0fa40ae61": {
@@ -4188,9 +4309,10 @@
         7.7,
         9.2,
         6.9,
-        6.3
+        6.3,
+        6.1
       ],
-      "avgRating": 7.2,
+      "avgRating": 7,
       "motmCount": 0
     },
     "4d38741c-7eaa-48e6-9239-632e339aa1cc": {
@@ -4210,9 +4332,10 @@
         7.9,
         7.5,
         6.7,
-        10
+        10,
+        6.3
       ],
-      "avgRating": 7.7,
+      "avgRating": 7.4,
       "motmCount": 1
     },
     "077e30cd-6094-44fd-b93c-e30b75837090": {
@@ -6803,16 +6926,17 @@
       "teamName": "Empire Hussein",
       "overall": 93,
       "position": "ST",
-      "goals": 4,
+      "goals": 5,
       "assists": 0,
       "cleanSheets": 0,
       "yellowCards": 0,
       "redCards": 0,
       "matchRatings": [
         9,
-        9
+        9,
+        7.6
       ],
-      "avgRating": 9,
+      "avgRating": 8.5,
       "motmCount": 2
     },
     "5080dc49-1bd4-49dc-bc86-7003e4d1e911": {
@@ -6829,9 +6953,10 @@
       "redCards": 0,
       "matchRatings": [
         8,
-        6
+        6,
+        6.4
       ],
-      "avgRating": 7,
+      "avgRating": 6.8,
       "motmCount": 0
     },
     "235a908b-765d-4f6b-8d22-9bac5aae1521": {
@@ -6848,9 +6973,10 @@
       "redCards": 0,
       "matchRatings": [
         6.2,
-        6
+        6,
+        6.4
       ],
-      "avgRating": 6.1,
+      "avgRating": 6.2,
       "motmCount": 0
     },
     "92ec6bdc-708a-4530-9e31-33a671942604": {
@@ -7017,7 +7143,7 @@
     }
   },
   "currentRound": 6,
-  "status": "ongoing",
+  "status": "completed",
   "createdAt": "2026-06-25T20:00:32.726Z",
   "teamSnapshot": {
     "c1a00454-3cc7-46dd-8ec3-a2abb527eba9": {
@@ -13354,6 +13480,395 @@
         "moment": "fin",
         "favoriteTeams": []
       }
+    },
+    {
+      "id": "c4c67446-aec6-4d73-b044-7b21d38823da",
+      "round": 6,
+      "teamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "category": "crise",
+      "headline": "Prometheus battu en finale — la douleur de l'argent",
+      "body": "Perdre une finale, c'est une douleur à part. Prometheus en fera l'expérience amère. Les larmes dans le vestiaire résument tout : l'ambition était là, la détermination aussi. Il manquait juste ce rien qui fait les champions. Evgueni Prigojine a reconnu ses erreurs — trop tard pour changer le cours du match. Le match de Ruslan Kuznetsov illustre les difficultés traversées par l'ensemble du groupe.",
+      "moraleBefore": 89,
+      "moraleAfter": 84,
+      "createdAt": "2026-06-25T20:12:55.564Z",
+      "mentions": [
+        {
+          "type": "coach",
+          "name": "Evgueni Prigojine",
+          "overall": 82,
+          "stats": {
+            "motivation": 17,
+            "tactique": 17,
+            "offensive": 16,
+            "defensif": 16,
+            "mentalite": 16,
+            "gestion": 16
+          },
+          "positiveTraits": [],
+          "negativeTraits": []
+        },
+        {
+          "type": "player",
+          "name": "Ruslan Kuznetsov",
+          "overall": 85,
+          "position": "ST",
+          "stats": {
+            "technical": {
+              "passing": 9,
+              "crossing": 12,
+              "dribbling": 17,
+              "finishing": 18,
+              "firstTouch": 17,
+              "heading": 20,
+              "longShots": 12,
+              "tackling": 8,
+              "marking": 13
+            },
+            "mental": {
+              "vision": 12,
+              "decisions": 13,
+              "composure": 16,
+              "anticipation": 10,
+              "offTheBall": 14,
+              "aggression": 11,
+              "workRate": 14
+            },
+            "physical": {
+              "pace": 19,
+              "acceleration": 9,
+              "strength": 15,
+              "stamina": 10,
+              "agility": 4,
+              "balance": 13,
+              "jumping": 10
+            }
+          }
+        }
+      ],
+      "matchId": "9742zzqnmqtxfrh2",
+      "matchSnapshot": {
+        "homeTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+        "awayTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+        "homeTeamName": "Prometheus",
+        "awayTeamName": "Empire Hussein",
+        "homeScore": 0,
+        "awayScore": 3,
+        "stats": {
+          "shots": {
+            "home": 12,
+            "away": 14
+          },
+          "possession": {
+            "home": 49,
+            "away": 51
+          },
+          "shotsOnTarget": {
+            "home": 4,
+            "away": 7
+          },
+          "corners": {
+            "home": 1,
+            "away": 0
+          },
+          "fouls": {
+            "home": 10,
+            "away": 1
+          },
+          "yellowCards": {
+            "home": 1,
+            "away": 0
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "aff7b68e-f32e-47eb-ab8e-96007c9b2a38",
+          "playerName": "Rabah Lado",
+          "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+          "teamName": "Empire Hussein",
+          "rating": 8
+        }
+      }
+    },
+    {
+      "id": "e115fe5f-419e-47e4-82ae-fcb01bba480f",
+      "round": 6,
+      "teamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "category": "forme",
+      "headline": "La machine Prometheus est bien huilée : confiance, cohésion, efficacité",
+      "body": "Chaque entraînement est une fête. Chaque match est un défi accepté avec sérénité. Prometheus est dans cet état rare où tout paraît possible — et les adversaires le sentent.",
+      "moraleAfter": 84,
+      "createdAt": "2026-06-25T20:12:55.564Z"
+    },
+    {
+      "id": "1965cffc-1255-4679-945b-e3c12009e585",
+      "round": 6,
+      "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "category": "exploit",
+      "headline": "LE TITRE ! Empire Hussein réalise son rêve et entre dans la légende !",
+      "body": "La finale était un chef-d'œuvre de tension. Empire Hussein a su tenir, souffrir, puis frapper. Un titre qui résume parfaitement cette incroyable aventure collective.",
+      "moraleBefore": 75,
+      "moraleAfter": 81,
+      "moraleBoost": 11,
+      "createdAt": "2026-06-25T20:12:55.564Z",
+      "matchId": "9742zzqnmqtxfrh2",
+      "matchSnapshot": {
+        "homeTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+        "awayTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+        "homeTeamName": "Prometheus",
+        "awayTeamName": "Empire Hussein",
+        "homeScore": 0,
+        "awayScore": 3,
+        "stats": {
+          "shots": {
+            "home": 12,
+            "away": 14
+          },
+          "possession": {
+            "home": 49,
+            "away": 51
+          },
+          "shotsOnTarget": {
+            "home": 4,
+            "away": 7
+          },
+          "corners": {
+            "home": 1,
+            "away": 0
+          },
+          "fouls": {
+            "home": 10,
+            "away": 1
+          },
+          "yellowCards": {
+            "home": 1,
+            "away": 0
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "aff7b68e-f32e-47eb-ab8e-96007c9b2a38",
+          "playerName": "Rabah Lado",
+          "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+          "teamName": "Empire Hussein",
+          "rating": 8
+        }
+      }
+    },
+    {
+      "id": "7341a07f-526c-4f88-8ee0-63b61ef23744",
+      "round": 6,
+      "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "category": "forme",
+      "headline": "Empire Hussein : trois victoires de suite — la série est lancée",
+      "body": "Depuis trois journées, Empire Hussein ne connaît pas la défaite. La série est courte, mais la tendance est claire : ce groupe monte en puissance. Les prochains adversaires sont prévenus. Le travail de Khaaled Hussain mérite d'être salué : la tactique est claire, le groupe est soudé, les résultats suivent.",
+      "createdAt": "2026-06-25T20:12:55.564Z",
+      "mentions": [
+        {
+          "type": "coach",
+          "name": "Khaaled Hussain",
+          "overall": 68,
+          "stats": {
+            "motivation": 11,
+            "tactique": 17,
+            "offensive": 20,
+            "defensif": 12,
+            "mentalite": 12,
+            "gestion": 9
+          },
+          "positiveTraits": [
+            "motivateur"
+          ],
+          "negativeTraits": []
+        }
+      ],
+      "matchSnapshot": {
+        "homeTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+        "awayTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+        "homeTeamName": "Prometheus",
+        "awayTeamName": "Empire Hussein",
+        "homeScore": 0,
+        "awayScore": 3
+      },
+      "extraMatchSnapshots": [
+        {
+          "homeTeamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+          "awayTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+          "homeTeamName": "FCLC",
+          "awayTeamName": "Empire Hussein",
+          "homeScore": 1,
+          "awayScore": 4,
+          "stats": {
+            "shots": {
+              "home": 10,
+              "away": 13
+            },
+            "possession": {
+              "home": 50,
+              "away": 50
+            },
+            "shotsOnTarget": {
+              "home": 4,
+              "away": 10
+            },
+            "corners": {
+              "home": 2,
+              "away": 2
+            },
+            "fouls": {
+              "home": 5,
+              "away": 2
+            },
+            "yellowCards": {
+              "home": 1,
+              "away": 0
+            },
+            "redCards": {
+              "home": 0,
+              "away": 0
+            }
+          },
+          "motm": {
+            "playerId": "ed7eb980-155d-4aee-9cbf-092a44bfc8c1",
+            "playerName": "Nabil Hariri",
+            "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+            "teamName": "Empire Hussein",
+            "rating": 9
+          }
+        },
+        {
+          "homeTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+          "awayTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+          "homeTeamName": "Deseret",
+          "awayTeamName": "Empire Hussein",
+          "homeScore": 2,
+          "awayScore": 3,
+          "stats": {
+            "shots": {
+              "home": 19,
+              "away": 11
+            },
+            "possession": {
+              "home": 47,
+              "away": 53
+            },
+            "shotsOnTarget": {
+              "home": 9,
+              "away": 8
+            },
+            "corners": {
+              "home": 0,
+              "away": 2
+            },
+            "fouls": {
+              "home": 4,
+              "away": 5
+            },
+            "yellowCards": {
+              "home": 0,
+              "away": 1
+            },
+            "redCards": {
+              "home": 0,
+              "away": 0
+            }
+          },
+          "motm": {
+            "playerId": "ed7eb980-155d-4aee-9cbf-092a44bfc8c1",
+            "playerName": "Nabil Hariri",
+            "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+            "teamName": "Empire Hussein",
+            "rating": 9
+          }
+        }
+      ]
+    },
+    {
+      "id": "cc6c99f0-c419-4a7c-8e0a-33547b800202",
+      "round": 6,
+      "teamId": null,
+      "category": "cmf",
+      "headline": "LA GLOIRE POUR Empire Hussein — palmarès de la Nakata Kinen",
+      "body": "Le titre est décerné. Empire Hussein entre dans l'histoire de la Nakata Kinen. La cérémonie de clôture a célébré les meilleurs acteurs de cette édition.",
+      "createdAt": "2026-06-25T20:12:55.565Z",
+      "cmfSnapshot": {
+        "phase": "F",
+        "moment": "palmares",
+        "favoriteTeams": [],
+        "winner": {
+          "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+          "teamName": "Empire Hussein"
+        }
+      }
+    },
+    {
+      "id": "5f44abc5-2882-49a5-9cad-10614ae2cae3",
+      "round": 6,
+      "teamId": null,
+      "category": "cmf",
+      "headline": "Trophées individuels CMF — Nakata Kinen",
+      "body": "La CMF a décerné ses trophées individuels pour cette édition de la Nakata Kinen :",
+      "createdAt": "2026-06-25T20:12:55.565Z",
+      "cmfSnapshot": {
+        "phase": "F",
+        "moment": "palmares",
+        "favoriteTeams": [],
+        "topScorer": {
+          "playerName": "Samuele De Angelis",
+          "teamId": "110159bd-411c-409a-ba07-95216b092ba4",
+          "teamName": "UGP",
+          "goals": 7,
+          "overall": 95
+        },
+        "topAssister": {
+          "playerName": "Barry Grant",
+          "teamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+          "teamName": "FCLC",
+          "assists": 5,
+          "overall": 82
+        },
+        "bestPlayer": {
+          "playerName": "Yuki Okamoto",
+          "teamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+          "teamName": "Yamatai",
+          "avgRating": 8.9,
+          "overall": 84
+        },
+        "bestGK": {
+          "playerName": "Yermolay Petrov",
+          "teamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+          "teamName": "Prometheus",
+          "cleanSheets": 2,
+          "overall": 83
+        },
+        "winner": {
+          "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+          "teamName": "Empire Hussein"
+        }
+      }
+    },
+    {
+      "id": "fbfa31e9-6f74-41e8-b277-d556863f634f",
+      "round": 6,
+      "teamId": null,
+      "category": "cmf",
+      "headline": "Épilogue — la Nakata Kinen referme ses portes",
+      "body": "La compétition s'achève. Un vainqueur, des regrets, et la promesse que la prochaine édition sera encore plus belle. La CMF remercie toutes les équipes participantes pour leur engagement.",
+      "createdAt": "2026-06-25T20:12:55.565Z",
+      "cmfSnapshot": {
+        "phase": "F",
+        "moment": "palmares",
+        "favoriteTeams": [],
+        "winner": {
+          "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+          "teamName": "Empire Hussein"
+        }
+      }
     }
   ],
   "morale": {
@@ -13361,10 +13876,10 @@
     "d03fc060-b23b-4a41-9c1f-248b931809e1": 50,
     "2256fe5a-993b-4007-8191-47ebe93a3e70": 1,
     "7db62a2a-b398-4a35-9c11-4d5b4bf4570c": 83,
-    "ca9439ef-f9f3-4ec5-8073-0f62660aa497": 75,
+    "ca9439ef-f9f3-4ec5-8073-0f62660aa497": 92,
     "28c0b086-2c03-4d18-b943-90ffdcf68fcc": 14,
     "df16509b-c6c2-43ce-abae-7c077e85ba22": 40,
-    "69b55842-3c2d-4eaa-b133-7dc8c90bcfff": 89,
+    "69b55842-3c2d-4eaa-b133-7dc8c90bcfff": 84,
     "110159bd-411c-409a-ba07-95216b092ba4": 73,
     "6c4e5ecf-662a-43d5-9795-b038fe6e2072": 42,
     "31dbe023-a8f1-4325-9813-afa3d8e217fa": 26,
@@ -13374,5 +13889,12 @@
     "8893e441-b5b6-49ea-b439-9c327b38d7c5": 30,
     "8451e643-10d4-48bc-a4e6-4c12255695f4": 29
   },
-  "suspensions": []
+  "suspensions": [],
+  "awards": {
+    "topScorer": "c6663d52-24a7-4d5a-aaea-b02fd24652d6",
+    "topAssister": "d1f33281-0c4a-44f2-8485-bd164cce0749",
+    "bestGK": "14b168e6-876e-429e-ba87-cbfcb7d8dec8",
+    "bestPlayer": "862eeced-2bf5-4be5-966b-56639fe66d10"
+  },
+  "winner": "ca9439ef-f9f3-4ec5-8073-0f62660aa497"
 }
