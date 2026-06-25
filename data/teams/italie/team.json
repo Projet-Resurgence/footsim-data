@@ -340,17 +340,7 @@
     }
   ],
   "injuries": [],
-  "suspensions": [
-    {
-      "id": "0d3deb36-13df-4c89-9e4a-1dd7bd7f0674",
-      "subjectId": "coach",
-      "subjectName": "Pietro Fontana",
-      "teamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
-      "matchesRemaining": 1,
-      "reason": "Expulsion en match",
-      "roundOccurred": 6
-    }
-  ],
+  "suspensions": [],
   "actionFoot": {
     "rating": 5,
     "funding": 105

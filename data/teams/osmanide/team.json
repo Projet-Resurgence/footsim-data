@@ -753,5 +753,15 @@
     }
   ],
   "injuries": [],
-  "suspensions": []
+  "suspensions": [
+    {
+      "id": "1fb10915-4ef8-4963-a7cb-72f05d3a6141",
+      "subjectId": "209b7955-f460-488e-9eac-61580e6cd175",
+      "subjectName": "Aykut Koç",
+      "teamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "matchesRemaining": 1,
+      "reason": "Carton rouge",
+      "roundOccurred": 3
+    }
+  ]
 }
