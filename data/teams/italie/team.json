@@ -45,7 +45,7 @@
     "overall": 72
   },
   "jerseyColor": "#f7dd59",
-  "publishedAt": "2026-06-24T00:06:05.970Z",
+  "publishedAt": "2026-06-25T12:21:33.912Z",
   "compHistory": [
     {
       "compId": "qtebnbbpzeomqpngrdv",
@@ -296,5 +296,40 @@
   "actionFoot": {
     "rating": 5,
     "funding": 105
-  }
+  },
+  "savedTactics": [
+    {
+      "style": "contre-attaque",
+      "formation": "3-4-3",
+      "lineup": [
+        "77b41aa4-9124-493b-979c-2cf608e62882",
+        "c56d1d29-8131-43f3-934e-3128d5651b25",
+        "825639c6-47a2-4c0c-b400-711891a83d56",
+        "3c6f3035-1ea4-4d2a-91a5-cfb6d4e089a1",
+        "f38ac7a8-6588-434f-a9d6-5dd503c1dc44",
+        "cff29621-0d97-4df2-8eda-e5794b15e4e0",
+        "9adf7857-617e-441c-bd7b-8b06912b9e7b",
+        "5f427fb1-e23a-453a-acf7-a4e8a7aa8db0",
+        "6279380c-2ca6-4327-aabb-c1c3dbcf92f8",
+        "cf861f67-c8bc-4f53-9f04-2e22fc880308",
+        "e21eba70-7de4-45dc-8bf5-952b0aede9ee"
+      ],
+      "customStyles": [
+        {
+          "id": "4f6fd9f7-d448-41db-9c4a-e099ccdbd9a9",
+          "name": "Italien",
+          "mods": {
+            "shotFreqMult": 1.1,
+            "foulRateMult": 0.7,
+            "midfieldMult": 1.2,
+            "attackMult": 1.15,
+            "defenseMult": 1
+          }
+        }
+      ],
+      "id": "b78bed21-23e5-45ff-8a8e-0fab2f2ec8a1",
+      "name": "Tactique 1"
+    }
+  ],
+  "activeTacticId": "b78bed21-23e5-45ff-8a8e-0fab2f2ec8a1"
 }
