@@ -421,7 +421,28 @@
       "compScope": "internationale",
       "compImportance": "prestige",
       "participantCount": 48,
-      "cmfPoints": 17
+      "cmfPoints": 17,
+      "scorers": [
+        {
+          "minute": 84,
+          "playerId": "edfd7424-ec03-4090-9bae-efc4014f4955",
+          "playerName": "Scott Moore"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 4,
+          "playerId": "c396afd9-975e-4f0a-93bb-cadf6ba5a3a9",
+          "playerName": "Spencer Brown",
+          "type": "yellow"
+        },
+        {
+          "minute": 65,
+          "playerId": "f90767f1-3aa2-4675-92cb-321d82273fa8",
+          "playerName": "Liam White",
+          "type": "yellow"
+        }
+      ]
     },
     {
       "matchId": "9e1vjo7nmqtyr6yf",
