@@ -45,5 +45,24 @@
     "overall": 73
   },
   "jerseyColor": "#242775",
-  "publishedAt": "2026-06-21T13:17:24.029Z"
+  "publishedAt": "2026-06-21T13:17:24.029Z",
+  "recentMatches": [
+    {
+      "matchId": "asxs3tg0mquxei3l",
+      "playedAt": "2026-06-26T13:27:58.668Z",
+      "opponentSlug": "uda",
+      "opponentName": "UDA",
+      "homeTeamId": "e601e0d9-7e45-4c53-bb41-16ccd12e9a06",
+      "awayTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "homeAway": "home",
+      "scoreFor": 3,
+      "scoreAgainst": 1,
+      "opponentStrength": 63,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 18.2
+    }
+  ]
 }
