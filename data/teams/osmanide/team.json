@@ -22,7 +22,7 @@
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-25T21:24:42.823Z",
+  "publishedAt": "2026-06-26T00:42:28.090Z",
   "tactics": {
     "style": "pressing",
     "formation": "3-5-2",
@@ -229,108 +229,6 @@
     },
     {
       "style": "possession",
-      "formation": "4-3-3",
-      "lineup": [
-        "14a63c3a-81a5-4a90-8380-bdaec515b3ab",
-        "6061a302-ddf9-4363-b86b-9059f1a42e3f",
-        "dfd96ece-49d6-40cf-b462-f6b6690e3a84",
-        "8150ff0f-0f74-462b-8b0a-9929c6835200",
-        "6131aba5-07e2-4a04-921c-d38045156955",
-        "b40e2635-39a2-4c0f-8f43-ef8530d8caac",
-        "50e184d9-7277-46a5-ad24-f626500784ef",
-        "760ccc01-0d36-4e6b-b535-81b5070567bc",
-        "c8ce0f44-f254-4cf4-8acd-939678b433fd",
-        "209b7955-f460-488e-9eac-61580e6cd175",
-        "9d7fb4c5-31ca-4b0a-b8b9-fc8434e2cdd0"
-      ],
-      "bench": [
-        "72830681-0e0d-4371-9f87-fa2108e6a353",
-        "ac7c4ae7-2b67-4aa7-9542-000a59b15d9e",
-        "f8811dc5-6d12-477e-b05a-9e682bd66f43",
-        "50226e8a-674c-45bb-9578-077e7d4106e2",
-        "4952064b-7803-41b8-902d-7c1d62f00ae4",
-        "61f5c289-5b37-450a-84f7-d6a42fd1c8fc",
-        "1a30b091-8b3a-4b6e-b213-db4722ba7902",
-        "db5ac720-630a-4981-ba7a-756ace33a821",
-        "86016c66-2d50-4726-9ba8-aa7528a3cc84",
-        "54cd0042-b65c-4f11-83ff-893f5b7ea988",
-        "8acb3baf-ddd3-43db-9c49-b69c52dbfbff",
-        "ff1b751e-f10f-49ec-b58f-ddc5abd7e310"
-      ],
-      "customStyles": [],
-      "id": "fd3a9697-af00-488d-88eb-5a416e739102",
-      "name": "Tactique 6"
-    },
-    {
-      "style": "possession",
-      "formation": "4-3-3",
-      "lineup": [
-        "14a63c3a-81a5-4a90-8380-bdaec515b3ab",
-        "6061a302-ddf9-4363-b86b-9059f1a42e3f",
-        "dfd96ece-49d6-40cf-b462-f6b6690e3a84",
-        "8150ff0f-0f74-462b-8b0a-9929c6835200",
-        "6131aba5-07e2-4a04-921c-d38045156955",
-        "b40e2635-39a2-4c0f-8f43-ef8530d8caac",
-        "50e184d9-7277-46a5-ad24-f626500784ef",
-        "760ccc01-0d36-4e6b-b535-81b5070567bc",
-        "c8ce0f44-f254-4cf4-8acd-939678b433fd",
-        "209b7955-f460-488e-9eac-61580e6cd175",
-        "9d7fb4c5-31ca-4b0a-b8b9-fc8434e2cdd0"
-      ],
-      "bench": [
-        "72830681-0e0d-4371-9f87-fa2108e6a353",
-        "ac7c4ae7-2b67-4aa7-9542-000a59b15d9e",
-        "f8811dc5-6d12-477e-b05a-9e682bd66f43",
-        "50226e8a-674c-45bb-9578-077e7d4106e2",
-        "4952064b-7803-41b8-902d-7c1d62f00ae4",
-        "61f5c289-5b37-450a-84f7-d6a42fd1c8fc",
-        "1a30b091-8b3a-4b6e-b213-db4722ba7902",
-        "db5ac720-630a-4981-ba7a-756ace33a821",
-        "86016c66-2d50-4726-9ba8-aa7528a3cc84",
-        "54cd0042-b65c-4f11-83ff-893f5b7ea988",
-        "8acb3baf-ddd3-43db-9c49-b69c52dbfbff",
-        "ff1b751e-f10f-49ec-b58f-ddc5abd7e310"
-      ],
-      "customStyles": [],
-      "id": "d4ba816e-67d8-4b16-b0a6-439599962d61",
-      "name": "Tactique 7"
-    },
-    {
-      "style": "possession",
-      "formation": "4-3-3",
-      "lineup": [
-        "14a63c3a-81a5-4a90-8380-bdaec515b3ab",
-        "6061a302-ddf9-4363-b86b-9059f1a42e3f",
-        "dfd96ece-49d6-40cf-b462-f6b6690e3a84",
-        "8150ff0f-0f74-462b-8b0a-9929c6835200",
-        "6131aba5-07e2-4a04-921c-d38045156955",
-        "b40e2635-39a2-4c0f-8f43-ef8530d8caac",
-        "50e184d9-7277-46a5-ad24-f626500784ef",
-        "760ccc01-0d36-4e6b-b535-81b5070567bc",
-        "c8ce0f44-f254-4cf4-8acd-939678b433fd",
-        "209b7955-f460-488e-9eac-61580e6cd175",
-        "9d7fb4c5-31ca-4b0a-b8b9-fc8434e2cdd0"
-      ],
-      "bench": [
-        "72830681-0e0d-4371-9f87-fa2108e6a353",
-        "ac7c4ae7-2b67-4aa7-9542-000a59b15d9e",
-        "f8811dc5-6d12-477e-b05a-9e682bd66f43",
-        "50226e8a-674c-45bb-9578-077e7d4106e2",
-        "4952064b-7803-41b8-902d-7c1d62f00ae4",
-        "61f5c289-5b37-450a-84f7-d6a42fd1c8fc",
-        "1a30b091-8b3a-4b6e-b213-db4722ba7902",
-        "db5ac720-630a-4981-ba7a-756ace33a821",
-        "86016c66-2d50-4726-9ba8-aa7528a3cc84",
-        "54cd0042-b65c-4f11-83ff-893f5b7ea988",
-        "8acb3baf-ddd3-43db-9c49-b69c52dbfbff",
-        "ff1b751e-f10f-49ec-b58f-ddc5abd7e310"
-      ],
-      "customStyles": [],
-      "id": "94ee562a-995b-40a4-ace5-1435847f8949",
-      "name": "Tactique 8"
-    },
-    {
-      "style": "possession",
       "formation": "3-5-2",
       "lineup": [
         "df8606ca-eef6-422b-a41b-eed4535fdce3",
@@ -375,9 +273,116 @@
       "activeCustomStyleId": "ac3ae079-f52a-45d1-a67c-f3fabc5487be",
       "id": "841b71ee-8cca-42ed-8ae7-aa0e0469d7a7",
       "name": "Tactique 2"
+    },
+    {
+      "style": "possession",
+      "formation": "4-3-3",
+      "lineup": [
+        "14a63c3a-81a5-4a90-8380-bdaec515b3ab",
+        "4952064b-7803-41b8-902d-7c1d62f00ae4",
+        "dfd96ece-49d6-40cf-b462-f6b6690e3a84",
+        "f8811dc5-6d12-477e-b05a-9e682bd66f43",
+        "8acb3baf-ddd3-43db-9c49-b69c52dbfbff",
+        "50e184d9-7277-46a5-ad24-f626500784ef",
+        "b40e2635-39a2-4c0f-8f43-ef8530d8caac",
+        "61f5c289-5b37-450a-84f7-d6a42fd1c8fc",
+        "c8ce0f44-f254-4cf4-8acd-939678b433fd",
+        "209b7955-f460-488e-9eac-61580e6cd175",
+        "9d7fb4c5-31ca-4b0a-b8b9-fc8434e2cdd0"
+      ],
+      "bench": [
+        "72830681-0e0d-4371-9f87-fa2108e6a353",
+        "6131aba5-07e2-4a04-921c-d38045156955",
+        "8150ff0f-0f74-462b-8b0a-9929c6835200",
+        "ac7c4ae7-2b67-4aa7-9542-000a59b15d9e",
+        "1a30b091-8b3a-4b6e-b213-db4722ba7902",
+        "db5ac720-630a-4981-ba7a-756ace33a821",
+        "86016c66-2d50-4726-9ba8-aa7528a3cc84",
+        "ede13b76-4f1b-466f-a570-d2782bc0fb70",
+        "54cd0042-b65c-4f11-83ff-893f5b7ea988",
+        "ff1b751e-f10f-49ec-b58f-ddc5abd7e310",
+        "eb5cc491-48b1-449b-80fe-ac7cf8a54d29",
+        "9d50f93c-53ed-4fa0-bc42-2af0b9f0bda7"
+      ],
+      "formationLabel": "3-3-4",
+      "positionMap": {
+        "61f5c289-5b37-450a-84f7-d6a42fd1c8fc": "RM",
+        "9d7fb4c5-31ca-4b0a-b8b9-fc8434e2cdd0": "RW",
+        "209b7955-f460-488e-9eac-61580e6cd175": "ST",
+        "8acb3baf-ddd3-43db-9c49-b69c52dbfbff": "ST",
+        "c8ce0f44-f254-4cf4-8acd-939678b433fd": "LW",
+        "b40e2635-39a2-4c0f-8f43-ef8530d8caac": "CM",
+        "50e184d9-7277-46a5-ad24-f626500784ef": "CM",
+        "dfd96ece-49d6-40cf-b462-f6b6690e3a84": "CB",
+        "f8811dc5-6d12-477e-b05a-9e682bd66f43": "CB",
+        "4952064b-7803-41b8-902d-7c1d62f00ae4": "CB",
+        "14a63c3a-81a5-4a90-8380-bdaec515b3ab": "GK"
+      },
+      "tokenPositions": {
+        "61f5c289-5b37-450a-84f7-d6a42fd1c8fc": {
+          "x": 72.01960784313725,
+          "y": 50.06862902793414
+        },
+        "9d7fb4c5-31ca-4b0a-b8b9-fc8434e2cdd0": {
+          "x": 96.72549019607844,
+          "y": 29.313870569942647
+        },
+        "209b7955-f460-488e-9eac-61580e6cd175": {
+          "x": 65.68627450980392,
+          "y": 24.245241542008454
+        },
+        "8acb3baf-ddd3-43db-9c49-b69c52dbfbff": {
+          "x": 38.09803921568628,
+          "y": 16.881132378960867
+        },
+        "c8ce0f44-f254-4cf4-8acd-939678b433fd": {
+          "x": 4.45098039215686,
+          "y": 29.039354458205974
+        },
+        "b40e2635-39a2-4c0f-8f43-ef8530d8caac": {
+          "x": 49.90196078431372,
+          "y": 40.54887137418902
+        },
+        "50e184d9-7277-46a5-ad24-f626500784ef": {
+          "x": 32.88235294117647,
+          "y": 50.34314513967081
+        },
+        "dfd96ece-49d6-40cf-b462-f6b6690e3a84": {
+          "x": 32.92156862745099,
+          "y": 69.46072596643613
+        },
+        "f8811dc5-6d12-477e-b05a-9e682bd66f43": {
+          "x": 70.60784313725492,
+          "y": 69.32346791056784
+        },
+        "4952064b-7803-41b8-902d-7c1d62f00ae4": {
+          "x": 51.50980392156862,
+          "y": 76.17661251407426
+        },
+        "14a63c3a-81a5-4a90-8380-bdaec515b3ab": {
+          "x": 50,
+          "y": 88
+        }
+      },
+      "customStyles": [
+        {
+          "id": "292a8cbe-a7da-4677-be87-bb161c5531f7",
+          "name": "Osmanid ball",
+          "mods": {
+            "shotFreqMult": 1.1,
+            "foulRateMult": 1,
+            "midfieldMult": 1.05,
+            "attackMult": 1.1,
+            "defenseMult": 1.05
+          }
+        }
+      ],
+      "activeCustomStyleId": "292a8cbe-a7da-4677-be87-bb161c5531f7",
+      "id": "c0f7c8f3-e4bc-4d76-ab99-13ed8684ab37",
+      "name": "Tactique 1"
     }
   ],
-  "activeTacticId": "841b71ee-8cca-42ed-8ae7-aa0e0469d7a7",
+  "activeTacticId": "c0f7c8f3-e4bc-4d76-ab99-13ed8684ab37",
   "managerDiscordId": "701088457514287152",
   "jerseyColor": "#f00000",
   "compHistory": [
