@@ -22,7 +22,7 @@
   "playerCount": 500,
   "formation": "4-3-3",
   "managerDiscordId": "914202704723738634",
-  "publishedAt": "2026-06-22T23:53:00.910Z",
+  "publishedAt": "2026-06-26T18:44:24.468Z",
   "coach": {
     "id": "65e766ec-6899-4d65-b614-0138f963a779",
     "firstName": "Lewis",
@@ -44,5 +44,28 @@
     ],
     "overall": 76
   },
-  "recentMatches": []
+  "recentMatches": [],
+  "savedTactics": [
+    {
+      "style": "possession",
+      "formation": "4-3-3",
+      "lineup": [
+        "f78ca84e-9e30-4de4-a742-77cbc204b692",
+        "bb125072-9321-40af-9f20-0eefd63fa1d8",
+        "157f3f89-53f4-4925-9a53-22098a0bd45f",
+        "90f64f0e-03e4-43c2-9b51-cd19e89b9e54",
+        "2779340f-8acd-433b-b9f9-8a25cf9e1430",
+        "39f461df-de86-48dd-814f-0372b28b4071",
+        "8b853939-0ef7-4be5-8e3b-2b503e433c81",
+        "186915d9-49f7-4fde-92bd-3833a213880b",
+        "3c42d211-0730-4392-bdb1-a9f6b34d3d6d",
+        "2fab3c6b-4e76-41e7-a219-f3a5acb7c78f",
+        "cce85483-8d2a-4f10-9bf0-9b0e64296476"
+      ],
+      "customStyles": [],
+      "id": "4653f637-fcf1-42a3-b765-51b6c6dbee22",
+      "name": "Tactique 1"
+    }
+  ],
+  "activeTacticId": "4653f637-fcf1-42a3-b765-51b6c6dbee22"
 }
