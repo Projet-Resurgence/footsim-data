@@ -44,5 +44,24 @@
     "overall": 75
   },
   "jerseyColor": "#ff0a0a",
-  "publishedAt": "2026-06-25T11:21:35.763Z"
+  "publishedAt": "2026-06-25T11:21:35.763Z",
+  "recentMatches": [
+    {
+      "matchId": "3hsm5ud6mquxei3l",
+      "playedAt": "2026-06-26T13:27:58.667Z",
+      "opponentSlug": "rhodesie",
+      "opponentName": "Rhodésie",
+      "homeTeamId": "3b7016ec-ba5d-4b54-9f1f-95d2e3ff84bf",
+      "awayTeamId": "49938bc7-e78d-441e-907b-75a788e98216",
+      "homeAway": "home",
+      "scoreFor": 4,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.5
+    }
+  ]
 }
