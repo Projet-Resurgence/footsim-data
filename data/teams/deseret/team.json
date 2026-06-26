@@ -268,7 +268,24 @@
       "compScope": "internationale",
       "compImportance": "mineur",
       "participantCount": 16,
-      "cmfPoints": 2
+      "cmfPoints": 2,
+      "scorers": [
+        {
+          "minute": 94,
+          "playerId": "edfd7424-ec03-4090-9bae-efc4014f4955",
+          "playerName": "Scott Moore",
+          "assistId": "262568b4-1d7b-48fe-8f03-1bf32a4e6915",
+          "assistName": "Chase Walker"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 84,
+          "playerId": "c396afd9-975e-4f0a-93bb-cadf6ba5a3a9",
+          "playerName": "Spencer Brown",
+          "type": "yellow"
+        }
+      ]
     },
     {
       "matchId": "5drjcaq7mqvdpc6g",
