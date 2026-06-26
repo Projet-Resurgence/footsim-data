@@ -470,7 +470,7 @@
       "89a0086b-0ff0-489e-a845-ca7b750f7403"
     ]
   },
-  "publishedAt": "2026-06-25T22:16:05.431Z",
+  "publishedAt": "2026-06-26T19:11:45.527Z",
   "cultures": [
     {
       "culture": "arabe",
@@ -678,5 +678,6 @@
   },
   "coachSuspended": false,
   "injuries": [],
-  "suspensions": []
+  "suspensions": [],
+  "jerseyColor": "#8e6d48"
 }
