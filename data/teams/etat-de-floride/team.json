@@ -42,5 +42,57 @@
     ],
     "overall": 77
   },
-  "recentMatches": []
+  "recentMatches": [
+    {
+      "matchId": "z92esg8hmqvcmc3w",
+      "playedAt": "2026-06-26T20:10:31.130Z",
+      "opponentSlug": "voivodine",
+      "opponentName": "Voïvodine",
+      "homeTeamId": "d078bb55-7f06-4ed1-b048-1dd6524ecae9",
+      "awayTeamId": "28274f9a-bff0-42da-ac99-a6e3a9812a34",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -5.7
+    },
+    {
+      "matchId": "ir6wvrmhmqvcmc3w",
+      "playedAt": "2026-06-26T20:04:53.075Z",
+      "opponentSlug": "nova-orbis",
+      "opponentName": "Nova Orbis",
+      "homeTeamId": "d078bb55-7f06-4ed1-b048-1dd6524ecae9",
+      "awayTeamId": "28f82804-8005-450a-b6d8-740533bf82b0",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.2
+    },
+    {
+      "matchId": "cb2lubramqvcmc3w",
+      "playedAt": "2026-06-26T19:59:42.825Z",
+      "opponentSlug": "ksuta",
+      "opponentName": "Ksuta",
+      "homeTeamId": "d078bb55-7f06-4ed1-b048-1dd6524ecae9",
+      "awayTeamId": "940ca331-c4a1-4b47-9124-47f1f0c0111b",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 5.7
+    }
+  ]
 }
