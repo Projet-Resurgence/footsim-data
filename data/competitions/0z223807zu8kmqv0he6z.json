@@ -3412,5 +3412,6 @@
       "description": "Fracture de fatigue détectée — mise au repos forcée.",
       "roundOccurred": 4
     }
-  ]
+  ],
+  "drawRevealed": true
 }
