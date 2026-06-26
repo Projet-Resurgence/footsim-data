@@ -469,6 +469,18 @@
       "result": "participant",
       "phase": "group",
       "participantCount": 16
+    },
+    {
+      "compId": "r5oe13uebmmquugzu5",
+      "compName": "Coupe Homa",
+      "year": 2308,
+      "format": "groups_knockout",
+      "kind": "amicale",
+      "scope": "internationale",
+      "importance": "mineur",
+      "result": "semi",
+      "phase": "3rd",
+      "participantCount": 8
     }
   ],
   "recentMatches": [
