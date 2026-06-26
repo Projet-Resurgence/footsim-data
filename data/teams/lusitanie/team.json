@@ -42,7 +42,7 @@
     "overall": 79
   },
   "jerseyColor": "#148f3f",
-  "publishedAt": "2026-06-24T11:46:00.382Z",
+  "publishedAt": "2026-06-26T18:41:46.504Z",
   "injuries": [],
   "suspensions": [],
   "recentMatches": [
@@ -334,5 +334,28 @@
       "phase": "group",
       "participantCount": 8
     }
-  ]
+  ],
+  "savedTactics": [
+    {
+      "style": "possession",
+      "formation": "4-3-3",
+      "lineup": [
+        "f6948377-073c-4172-b8c7-a7c5065c0ed0",
+        "6f29bb78-acf7-4b79-9a85-4d5a3044bc99",
+        "a4f42db1-b68e-4250-9144-ba2c0fea8bcc",
+        "16556a65-d477-411a-b00a-e98f6937128b",
+        "d5e30191-1f20-4738-a8fc-81677d6930b5",
+        "6c8e6b14-46e7-4a7a-a519-8849b32a74fb",
+        "1c1883fd-1641-4a76-b8ae-12d74403e211",
+        "2037c282-da8e-4cd1-a0ad-01f282a53e9d",
+        "a9512eea-4eca-4aca-9bb3-01f275cc17dc",
+        "661827df-7602-47ac-bfea-a7a3d9199e8a",
+        "0cfa77f9-a743-4efd-97fb-ee6b05b458f5"
+      ],
+      "customStyles": [],
+      "id": "81ac9834-2072-4b18-a376-44d7f3ad553e",
+      "name": "Tactique 1"
+    }
+  ],
+  "activeTacticId": "81ac9834-2072-4b18-a376-44d7f3ad553e"
 }
