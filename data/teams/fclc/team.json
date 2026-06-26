@@ -127,7 +127,33 @@
       "compScope": "internationale",
       "compImportance": "prestige",
       "participantCount": 48,
-      "cmfPoints": 18
+      "cmfPoints": 18,
+      "scorers": [
+        {
+          "minute": 2,
+          "playerId": "0cde6afa-5371-4d50-84b0-42c5dce8e58c",
+          "playerName": "Ricot Moise"
+        },
+        {
+          "minute": 30,
+          "playerId": "5f32168a-14df-4d52-a989-1b39439b3517",
+          "playerName": "Jhon Torres",
+          "assistId": "d1f33281-0c4a-44f2-8485-bd164cce0749",
+          "assistName": "Barry Grant"
+        },
+        {
+          "minute": 42,
+          "playerId": "8e6ca1f6-ba3e-431b-8b80-2cc45318e0a9",
+          "playerName": "Gustavo Romero"
+        },
+        {
+          "minute": 73,
+          "playerId": "5f32168a-14df-4d52-a989-1b39439b3517",
+          "playerName": "Jhon Torres",
+          "assistId": "aca08af0-9097-4f69-99df-b10b11993d02",
+          "assistName": "Tomás Martínez"
+        }
+      ]
     },
     {
       "matchId": "vlbhpe8ymqvcmc3w",
