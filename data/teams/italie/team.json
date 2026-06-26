@@ -255,7 +255,29 @@
       "compScope": "internationale",
       "compImportance": "mineur",
       "participantCount": 16,
-      "cmfPoints": 2
+      "cmfPoints": 2,
+      "scorers": [
+        {
+          "minute": 17,
+          "playerId": "cff29621-0d97-4df2-8eda-e5794b15e4e0",
+          "playerName": "Franco Barbieri",
+          "assistId": "9adf7857-617e-441c-bd7b-8b06912b9e7b",
+          "assistName": "Marco Sala"
+        },
+        {
+          "minute": 99,
+          "playerId": "cf861f67-c8bc-4f53-9f04-2e22fc880308",
+          "playerName": "Mario Santoro"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 39,
+          "playerId": "f38ac7a8-6588-434f-a9d6-5dd503c1dc44",
+          "playerName": "Giuseppe Costa",
+          "type": "yellow"
+        }
+      ]
     },
     {
       "matchId": "vf3ldfh0mqty1zqg",
