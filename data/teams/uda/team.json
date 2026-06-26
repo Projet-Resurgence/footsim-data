@@ -518,6 +518,23 @@
       "cmfPoints": 0.4
     },
     {
+      "matchId": "g1pydh4amqr3u9k5",
+      "playedAt": "2026-06-23T20:42:38.519Z",
+      "opponentSlug": "prometheus",
+      "opponentName": "Prometheus",
+      "homeTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "awayTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 8,
+      "cmfPoints": 1.8
+    },
+    {
       "matchId": "jnwl5tegmqr3areq",
       "playedAt": "2026-06-23T20:25:19.998Z",
       "opponentSlug": "spc",
