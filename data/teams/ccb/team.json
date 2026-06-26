@@ -28,13 +28,13 @@
   ],
   "continent": "amerique",
   "kind": "national",
-  "globalStrength": 60,
+  "globalStrength": 61,
   "createdAt": "2026-06-20T13:15:04.675Z",
   "createdBy": "772821169664426025",
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-24T19:53:40.856Z",
+  "publishedAt": "2026-06-26T16:14:09.213Z",
   "tactics": {
     "style": "chaos",
     "formation": "3-4-1-2",
@@ -407,5 +407,9 @@
   ],
   "injuries": [],
   "suspensions": [],
-  "jerseyColor": "#0264e3"
+  "jerseyColor": "#0264e3",
+  "actionFoot": {
+    "rating": 5,
+    "funding": 130
+  }
 }
