@@ -42,7 +42,7 @@
     "overall": 75
   },
   "jerseyColor": "#ab4949",
-  "publishedAt": "2026-06-24T00:02:41.718Z",
+  "publishedAt": "2026-06-26T11:31:40.938Z",
   "compHistory": [
     {
       "compId": "qtebnbbpzeomqpngrdv",
@@ -173,9 +173,29 @@
       ],
       "id": "1f138af8-84c0-40a4-a0b6-ca1f214c37f9",
       "name": "Tactique 2"
+    },
+    {
+      "style": "gegenpressing",
+      "formation": "4-4-1-1",
+      "lineup": [
+        "706eb6ae-5250-4f51-ada6-a7d7be967fc9",
+        "aeb99d48-8235-4fdf-9a3c-935ce9548b3e",
+        "01fdf5bd-185d-4214-8318-231760c32a5c",
+        "b804c0b0-9e9b-4a29-9f67-fd6d463ef0e1",
+        "f007bdc7-23e1-4660-8649-d987e52c624e",
+        "f4f32b11-652a-44b9-b78a-f3c22bdc640c",
+        "3c4665d8-66af-459e-942e-d0d67cf26412",
+        "8e3974f2-ad78-4d66-bb64-9774c8779854",
+        "341e0373-5485-494d-a425-c275b2cfa390",
+        "ad17b3d4-b7cc-4e7f-ad90-c952e017613f",
+        "9e097b78-7d82-4de8-be52-255472133750"
+      ],
+      "customStyles": [],
+      "id": "cea688e4-4263-4d8a-b859-eedfe2f31c41",
+      "name": "Tactique 2"
     }
   ],
-  "activeTacticId": "607f8431-049a-45b5-b7ab-0ba0efa242be",
+  "activeTacticId": "cea688e4-4263-4d8a-b859-eedfe2f31c41",
   "recentMatches": [
     {
       "matchId": "bv98h17omqtyr6yf",
