@@ -262,7 +262,16 @@
       "compScope": "internationale",
       "compImportance": "mineur",
       "participantCount": 16,
-      "cmfPoints": -0.7
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 2,
+          "playerId": "b2d3034a-7398-4715-88ad-1943b28927eb",
+          "playerName": "Florian Lopez",
+          "assistId": "0f37e5f2-34b6-42eb-a40d-a1cbed31548a",
+          "assistName": "Paul Marchand"
+        }
+      ]
     },
     {
       "matchId": "8c6g1z9mmqty1zqg",
