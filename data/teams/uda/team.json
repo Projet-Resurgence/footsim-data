@@ -669,7 +669,15 @@
       "compScope": "internationale",
       "compImportance": "mineur",
       "participantCount": 16,
-      "cmfPoints": -0.7
+      "cmfPoints": -0.7,
+      "cards": [
+        {
+          "minute": 33,
+          "playerId": "85083795-e4c9-4c40-84a9-9e310531f7bc",
+          "playerName": "Jun Pan",
+          "type": "yellow"
+        }
+      ]
     },
     {
       "matchId": "8c6g1z9mmqty1zqg",
