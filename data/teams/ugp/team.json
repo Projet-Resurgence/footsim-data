@@ -214,7 +214,30 @@
       "compScope": "internationale",
       "compImportance": "mineur",
       "participantCount": 16,
-      "cmfPoints": 0.7
+      "cmfPoints": 0.7,
+      "scorers": [
+        {
+          "minute": 67,
+          "playerId": "63cba1c6-27e5-4311-91d8-92b5f3fde740",
+          "playerName": "Cristian Lombardo",
+          "assistId": "c0b175e4-3ae0-4184-9118-b1c25aef5498",
+          "assistName": "Marcello Bruno"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 86,
+          "playerId": "e8cb564f-f280-44e9-aaa1-7515af4c2b9a",
+          "playerName": "Fabrizio Bruno",
+          "type": "yellow"
+        },
+        {
+          "minute": 115,
+          "playerId": "e8cb564f-f280-44e9-aaa1-7515af4c2b9a",
+          "playerName": "Fabrizio Bruno",
+          "type": "red"
+        }
+      ]
     },
     {
       "matchId": "rlqvkqcmmqvdpc6g",
