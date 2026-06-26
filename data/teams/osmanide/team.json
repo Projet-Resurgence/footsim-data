@@ -516,7 +516,30 @@
       "compScope": "internationale",
       "compImportance": "prestige",
       "participantCount": 48,
-      "cmfPoints": 18.1
+      "cmfPoints": 18.1,
+      "scorers": [
+        {
+          "minute": 84,
+          "playerId": "209b7955-f460-488e-9eac-61580e6cd175",
+          "playerName": "Aykut Koç",
+          "assistId": "ede13b76-4f1b-466f-a570-d2782bc0fb70",
+          "assistName": "Ömer Güneş"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 51,
+          "playerId": "e514f94f-3494-4f1b-9212-f6930a72411e",
+          "playerName": "Emir Pamuk",
+          "type": "yellow"
+        },
+        {
+          "minute": 94,
+          "playerId": "61f5c289-5b37-450a-84f7-d6a42fd1c8fc",
+          "playerName": "Cağlar Tekin",
+          "type": "yellow"
+        }
+      ]
     },
     {
       "matchId": "tx022wr1mqvcmc3w",
@@ -533,7 +556,14 @@
       "compScope": "internationale",
       "compImportance": "prestige",
       "participantCount": 48,
-      "cmfPoints": -5.8
+      "cmfPoints": -5.8,
+      "scorers": [
+        {
+          "minute": 92,
+          "playerId": "209b7955-f460-488e-9eac-61580e6cd175",
+          "playerName": "Aykut Koç"
+        }
+      ]
     },
     {
       "matchId": "nvzhn129mquugzu5",
