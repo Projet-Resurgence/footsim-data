@@ -25,7 +25,83 @@
       "phase": "group",
       "groupId": "group_0",
       "leg": 1,
-      "status": "pending"
+      "status": "completed",
+      "result": {
+        "home": 2,
+        "away": 2
+      },
+      "matchSummary": {
+        "motm": {
+          "playerId": "2caa7860-2d4a-42f0-a5cf-7763cd065ab7",
+          "playerName": "Tian Cao",
+          "teamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+          "teamName": "SPC",
+          "rating": 9.1
+        },
+        "stats": {
+          "shots": {
+            "home": 15,
+            "away": 11
+          },
+          "shotsOnTarget": {
+            "home": 10,
+            "away": 4
+          },
+          "xg": {
+            "home": 3.93,
+            "away": 3.16
+          },
+          "saves": {
+            "home": 2,
+            "away": 6
+          },
+          "passes": {
+            "home": 288,
+            "away": 282
+          },
+          "fouls": {
+            "home": 6,
+            "away": 1
+          },
+          "corners": {
+            "home": 1,
+            "away": 3
+          },
+          "offsides": {
+            "home": 0,
+            "away": 2
+          },
+          "freekicks": {
+            "home": 2,
+            "away": 2
+          },
+          "dribbles": {
+            "home": 9,
+            "away": 6
+          },
+          "clearances": {
+            "home": 0,
+            "away": 1
+          },
+          "keyPasses": {
+            "home": 9,
+            "away": 12
+          },
+          "possession": {
+            "home": 51,
+            "away": 49
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 0
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        }
+      },
+      "simulatedAt": "2026-06-26T20:46:12.976Z"
     },
     {
       "id": "2wn5jmr7mqvegaw8",
@@ -35,7 +111,83 @@
       "phase": "group",
       "groupId": "group_0",
       "leg": 1,
-      "status": "pending"
+      "status": "completed",
+      "result": {
+        "home": 1,
+        "away": 4
+      },
+      "matchSummary": {
+        "motm": {
+          "playerId": "75811d88-67bf-455a-98de-a3469da03099",
+          "playerName": "Sheng Han",
+          "teamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+          "teamName": "UDA",
+          "rating": 9.1
+        },
+        "stats": {
+          "shots": {
+            "home": 16,
+            "away": 9
+          },
+          "shotsOnTarget": {
+            "home": 7,
+            "away": 5
+          },
+          "xg": {
+            "home": 4.11,
+            "away": 2.32
+          },
+          "saves": {
+            "home": 1,
+            "away": 5
+          },
+          "passes": {
+            "home": 312,
+            "away": 264
+          },
+          "fouls": {
+            "home": 4,
+            "away": 6
+          },
+          "corners": {
+            "home": 1,
+            "away": 1
+          },
+          "offsides": {
+            "home": 1,
+            "away": 1
+          },
+          "freekicks": {
+            "home": 3,
+            "away": 2
+          },
+          "dribbles": {
+            "home": 6,
+            "away": 8
+          },
+          "clearances": {
+            "home": 0,
+            "away": 0
+          },
+          "keyPasses": {
+            "home": 14,
+            "away": 2
+          },
+          "possession": {
+            "home": 54,
+            "away": 46
+          },
+          "yellowCards": {
+            "home": 1,
+            "away": 1
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        }
+      },
+      "simulatedAt": "2026-06-26T20:46:12.976Z"
     },
     {
       "id": "4nw6gfp7mqvegaw8",
@@ -45,7 +197,83 @@
       "phase": "group",
       "groupId": "group_0",
       "leg": 1,
-      "status": "pending"
+      "status": "completed",
+      "result": {
+        "home": 2,
+        "away": 4
+      },
+      "matchSummary": {
+        "motm": {
+          "playerId": "dbef5bfc-f6f6-4693-9c47-0566d870f06e",
+          "playerName": "Ou Lu",
+          "teamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+          "teamName": "UDA",
+          "rating": 9.5
+        },
+        "stats": {
+          "shots": {
+            "home": 20,
+            "away": 15
+          },
+          "shotsOnTarget": {
+            "home": 11,
+            "away": 11
+          },
+          "xg": {
+            "home": 4.49,
+            "away": 5.73
+          },
+          "saves": {
+            "home": 6,
+            "away": 9
+          },
+          "passes": {
+            "home": 354,
+            "away": 222
+          },
+          "fouls": {
+            "home": 4,
+            "away": 8
+          },
+          "corners": {
+            "home": 1,
+            "away": 0
+          },
+          "offsides": {
+            "home": 1,
+            "away": 1
+          },
+          "freekicks": {
+            "home": 1,
+            "away": 2
+          },
+          "dribbles": {
+            "home": 10,
+            "away": 10
+          },
+          "clearances": {
+            "home": 1,
+            "away": 1
+          },
+          "keyPasses": {
+            "home": 8,
+            "away": 8
+          },
+          "possession": {
+            "home": 61,
+            "away": 39
+          },
+          "yellowCards": {
+            "home": 1,
+            "away": 2
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        }
+      },
+      "simulatedAt": "2026-06-26T20:47:48.168Z"
     },
     {
       "id": "i18gba3vmqvegaw8",
@@ -55,7 +283,83 @@
       "phase": "group",
       "groupId": "group_0",
       "leg": 1,
-      "status": "pending"
+      "status": "completed",
+      "result": {
+        "home": 1,
+        "away": 2
+      },
+      "matchSummary": {
+        "motm": {
+          "playerId": "0663f1b8-69bb-449e-8716-a18823b621f5",
+          "playerName": "Wen Fu",
+          "teamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+          "teamName": "SPC",
+          "rating": 8.4
+        },
+        "stats": {
+          "shots": {
+            "home": 10,
+            "away": 18
+          },
+          "shotsOnTarget": {
+            "home": 10,
+            "away": 11
+          },
+          "xg": {
+            "home": 1.94,
+            "away": 4.83
+          },
+          "saves": {
+            "home": 8,
+            "away": 6
+          },
+          "passes": {
+            "home": 222,
+            "away": 366
+          },
+          "fouls": {
+            "home": 2,
+            "away": 6
+          },
+          "corners": {
+            "home": 2,
+            "away": 6
+          },
+          "offsides": {
+            "home": 0,
+            "away": 1
+          },
+          "freekicks": {
+            "home": 0,
+            "away": 0
+          },
+          "dribbles": {
+            "home": 2,
+            "away": 9
+          },
+          "clearances": {
+            "home": 0,
+            "away": 0
+          },
+          "keyPasses": {
+            "home": 4,
+            "away": 13
+          },
+          "possession": {
+            "home": 38,
+            "away": 62
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 0
+          },
+          "redCards": {
+            "home": 0,
+            "away": 1
+          }
+        }
+      },
+      "simulatedAt": "2026-06-26T20:47:48.169Z"
     },
     {
       "id": "5a92cafymqvegaw8",
@@ -65,7 +369,83 @@
       "phase": "group",
       "groupId": "group_0",
       "leg": 1,
-      "status": "pending"
+      "status": "completed",
+      "result": {
+        "home": 1,
+        "away": 2
+      },
+      "matchSummary": {
+        "motm": {
+          "playerId": "ec26f1ad-227f-4f13-8712-c03e1b38d135",
+          "playerName": "Maxime Richard",
+          "teamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+          "teamName": "5ème Internationale",
+          "rating": 9.3
+        },
+        "stats": {
+          "shots": {
+            "home": 3,
+            "away": 22
+          },
+          "shotsOnTarget": {
+            "home": 3,
+            "away": 13
+          },
+          "xg": {
+            "home": 0.36,
+            "away": 6.82
+          },
+          "saves": {
+            "home": 11,
+            "away": 2
+          },
+          "passes": {
+            "home": 264,
+            "away": 306
+          },
+          "fouls": {
+            "home": 1,
+            "away": 6
+          },
+          "corners": {
+            "home": 0,
+            "away": 0
+          },
+          "offsides": {
+            "home": 2,
+            "away": 3
+          },
+          "freekicks": {
+            "home": 2,
+            "away": 3
+          },
+          "dribbles": {
+            "home": 7,
+            "away": 9
+          },
+          "clearances": {
+            "home": 1,
+            "away": 1
+          },
+          "keyPasses": {
+            "home": 7,
+            "away": 17
+          },
+          "possession": {
+            "home": 46,
+            "away": 54
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 2
+          },
+          "redCards": {
+            "home": 0,
+            "away": 1
+          }
+        }
+      },
+      "simulatedAt": "2026-06-26T20:49:16.323Z"
     },
     {
       "id": "jzrs3c3cmqvegaw8",
@@ -75,7 +455,83 @@
       "phase": "group",
       "groupId": "group_0",
       "leg": 1,
-      "status": "pending"
+      "status": "completed",
+      "result": {
+        "home": 1,
+        "away": 2
+      },
+      "matchSummary": {
+        "motm": {
+          "playerId": "dbef5bfc-f6f6-4693-9c47-0566d870f06e",
+          "playerName": "Ou Lu",
+          "teamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+          "teamName": "UDA",
+          "rating": 7.9
+        },
+        "stats": {
+          "shots": {
+            "home": 13,
+            "away": 16
+          },
+          "shotsOnTarget": {
+            "home": 7,
+            "away": 9
+          },
+          "xg": {
+            "home": 3.31,
+            "away": 3.16
+          },
+          "saves": {
+            "home": 5,
+            "away": 6
+          },
+          "passes": {
+            "home": 330,
+            "away": 240
+          },
+          "fouls": {
+            "home": 3,
+            "away": 0
+          },
+          "corners": {
+            "home": 3,
+            "away": 0
+          },
+          "offsides": {
+            "home": 4,
+            "away": 2
+          },
+          "freekicks": {
+            "home": 3,
+            "away": 1
+          },
+          "dribbles": {
+            "home": 9,
+            "away": 6
+          },
+          "clearances": {
+            "home": 0,
+            "away": 0
+          },
+          "keyPasses": {
+            "home": 8,
+            "away": 7
+          },
+          "possession": {
+            "home": 58,
+            "away": 42
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 0
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        }
+      },
+      "simulatedAt": "2026-06-26T20:49:16.325Z"
     },
     {
       "id": "nvuj1a2wmqvegaw8",
@@ -85,7 +541,83 @@
       "phase": "group",
       "groupId": "group_1",
       "leg": 1,
-      "status": "pending"
+      "status": "completed",
+      "result": {
+        "home": 3,
+        "away": 0
+      },
+      "matchSummary": {
+        "motm": {
+          "playerId": "aff7b68e-f32e-47eb-ab8e-96007c9b2a38",
+          "playerName": "Rabah Lado",
+          "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+          "teamName": "Empire Hussein",
+          "rating": 9.8
+        },
+        "stats": {
+          "shots": {
+            "home": 10,
+            "away": 22
+          },
+          "shotsOnTarget": {
+            "home": 6,
+            "away": 10
+          },
+          "xg": {
+            "home": 2.36,
+            "away": 3.18
+          },
+          "saves": {
+            "home": 10,
+            "away": 2
+          },
+          "passes": {
+            "home": 198,
+            "away": 366
+          },
+          "fouls": {
+            "home": 3,
+            "away": 2
+          },
+          "corners": {
+            "home": 1,
+            "away": 2
+          },
+          "offsides": {
+            "home": 0,
+            "away": 3
+          },
+          "freekicks": {
+            "home": 1,
+            "away": 1
+          },
+          "dribbles": {
+            "home": 5,
+            "away": 12
+          },
+          "clearances": {
+            "home": 1,
+            "away": 0
+          },
+          "keyPasses": {
+            "home": 5,
+            "away": 13
+          },
+          "possession": {
+            "home": 35,
+            "away": 65
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 0
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        }
+      },
+      "simulatedAt": "2026-06-26T20:46:12.977Z"
     },
     {
       "id": "zrvpb6remqvegaw8",
@@ -95,7 +627,83 @@
       "phase": "group",
       "groupId": "group_1",
       "leg": 1,
-      "status": "pending"
+      "status": "completed",
+      "result": {
+        "home": 0,
+        "away": 2
+      },
+      "matchSummary": {
+        "motm": {
+          "playerId": "c396afd9-975e-4f0a-93bb-cadf6ba5a3a9",
+          "playerName": "Spencer Brown",
+          "teamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+          "teamName": "Deseret",
+          "rating": 8.7
+        },
+        "stats": {
+          "shots": {
+            "home": 9,
+            "away": 19
+          },
+          "shotsOnTarget": {
+            "home": 5,
+            "away": 14
+          },
+          "xg": {
+            "home": 1.66,
+            "away": 4.02
+          },
+          "saves": {
+            "home": 9,
+            "away": 5
+          },
+          "passes": {
+            "home": 282,
+            "away": 300
+          },
+          "fouls": {
+            "home": 8,
+            "away": 6
+          },
+          "corners": {
+            "home": 1,
+            "away": 1
+          },
+          "offsides": {
+            "home": 1,
+            "away": 0
+          },
+          "freekicks": {
+            "home": 1,
+            "away": 0
+          },
+          "dribbles": {
+            "home": 9,
+            "away": 11
+          },
+          "clearances": {
+            "home": 2,
+            "away": 2
+          },
+          "keyPasses": {
+            "home": 6,
+            "away": 10
+          },
+          "possession": {
+            "home": 48,
+            "away": 52
+          },
+          "yellowCards": {
+            "home": 1,
+            "away": 1
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        }
+      },
+      "simulatedAt": "2026-06-26T20:46:12.977Z"
     },
     {
       "id": "9l2vmizimqvegaw8",
@@ -105,7 +713,83 @@
       "phase": "group",
       "groupId": "group_1",
       "leg": 1,
-      "status": "pending"
+      "status": "completed",
+      "result": {
+        "home": 1,
+        "away": 0
+      },
+      "matchSummary": {
+        "motm": {
+          "playerId": "aff7b68e-f32e-47eb-ab8e-96007c9b2a38",
+          "playerName": "Rabah Lado",
+          "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+          "teamName": "Empire Hussein",
+          "rating": 8.9
+        },
+        "stats": {
+          "shots": {
+            "home": 13,
+            "away": 21
+          },
+          "shotsOnTarget": {
+            "home": 10,
+            "away": 7
+          },
+          "xg": {
+            "home": 3.39,
+            "away": 4.35
+          },
+          "saves": {
+            "home": 7,
+            "away": 9
+          },
+          "passes": {
+            "home": 282,
+            "away": 294
+          },
+          "fouls": {
+            "home": 2,
+            "away": 5
+          },
+          "corners": {
+            "home": 0,
+            "away": 1
+          },
+          "offsides": {
+            "home": 1,
+            "away": 1
+          },
+          "freekicks": {
+            "home": 2,
+            "away": 1
+          },
+          "dribbles": {
+            "home": 9,
+            "away": 7
+          },
+          "clearances": {
+            "home": 1,
+            "away": 0
+          },
+          "keyPasses": {
+            "home": 9,
+            "away": 11
+          },
+          "possession": {
+            "home": 49,
+            "away": 51
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 0
+          },
+          "redCards": {
+            "home": 1,
+            "away": 0
+          }
+        }
+      },
+      "simulatedAt": "2026-06-26T20:47:48.170Z"
     },
     {
       "id": "hlrugkvcmqvegaw8",
@@ -115,7 +799,83 @@
       "phase": "group",
       "groupId": "group_1",
       "leg": 1,
-      "status": "pending"
+      "status": "completed",
+      "result": {
+        "home": 0,
+        "away": 1
+      },
+      "matchSummary": {
+        "motm": {
+          "playerId": "c396afd9-975e-4f0a-93bb-cadf6ba5a3a9",
+          "playerName": "Spencer Brown",
+          "teamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+          "teamName": "Deseret",
+          "rating": 8.9
+        },
+        "stats": {
+          "shots": {
+            "home": 17,
+            "away": 11
+          },
+          "shotsOnTarget": {
+            "home": 7,
+            "away": 5
+          },
+          "xg": {
+            "home": 2.75,
+            "away": 2.72
+          },
+          "saves": {
+            "home": 3,
+            "away": 7
+          },
+          "passes": {
+            "home": 318,
+            "away": 270
+          },
+          "fouls": {
+            "home": 5,
+            "away": 3
+          },
+          "corners": {
+            "home": 4,
+            "away": 2
+          },
+          "offsides": {
+            "home": 1,
+            "away": 1
+          },
+          "freekicks": {
+            "home": 4,
+            "away": 2
+          },
+          "dribbles": {
+            "home": 4,
+            "away": 4
+          },
+          "clearances": {
+            "home": 0,
+            "away": 1
+          },
+          "keyPasses": {
+            "home": 17,
+            "away": 8
+          },
+          "possession": {
+            "home": 54,
+            "away": 46
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 0
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        }
+      },
+      "simulatedAt": "2026-06-26T20:47:48.171Z"
     },
     {
       "id": "dkgsdwa5mqvegaw8",
@@ -125,7 +885,11 @@
       "phase": "group",
       "groupId": "group_1",
       "leg": 1,
-      "status": "pending"
+      "status": "completed",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
     },
     {
       "id": "vaxm2ns0mqvegaw8",
@@ -135,47 +899,475 @@
       "phase": "group",
       "groupId": "group_1",
       "leg": 1,
-      "status": "pending"
+      "status": "completed",
+      "result": {
+        "home": 2,
+        "away": 2
+      },
+      "matchSummary": {
+        "motm": {
+          "playerId": "2e2f29f9-653b-4528-a87b-b4003dca2f4b",
+          "playerName": "Wague Ibrahimovic",
+          "teamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+          "teamName": "Côte d'Ivoire",
+          "rating": 8
+        },
+        "stats": {
+          "shots": {
+            "home": 19,
+            "away": 14
+          },
+          "shotsOnTarget": {
+            "home": 9,
+            "away": 6
+          },
+          "xg": {
+            "home": 3.71,
+            "away": 2.64
+          },
+          "saves": {
+            "home": 4,
+            "away": 6
+          },
+          "passes": {
+            "home": 276,
+            "away": 288
+          },
+          "fouls": {
+            "home": 7,
+            "away": 3
+          },
+          "corners": {
+            "home": 1,
+            "away": 3
+          },
+          "offsides": {
+            "home": 1,
+            "away": 1
+          },
+          "freekicks": {
+            "home": 0,
+            "away": 2
+          },
+          "dribbles": {
+            "home": 10,
+            "away": 7
+          },
+          "clearances": {
+            "home": 1,
+            "away": 0
+          },
+          "keyPasses": {
+            "home": 7,
+            "away": 8
+          },
+          "possession": {
+            "home": 49,
+            "away": 51
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 0
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        }
+      },
+      "simulatedAt": "2026-06-26T20:49:16.326Z"
     },
     {
       "id": "i1koh10fmqvegaw8",
-      "homeTeamId": null,
-      "awayTeamId": null,
+      "homeTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "awayTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
       "round": 4,
       "phase": "SF",
       "leg": 1,
-      "status": "pending"
+      "status": "completed",
+      "result": {
+        "home": 3,
+        "away": 1
+      },
+      "matchSummary": {
+        "motm": {
+          "playerId": "6fcb834b-f8d5-452b-b759-dc9e0ae2317a",
+          "playerName": "Kai Liang",
+          "teamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+          "teamName": "UDA",
+          "rating": 8.3
+        },
+        "stats": {
+          "shots": {
+            "home": 17,
+            "away": 9
+          },
+          "shotsOnTarget": {
+            "home": 8,
+            "away": 5
+          },
+          "xg": {
+            "home": 5.92,
+            "away": 1.99
+          },
+          "saves": {
+            "home": 2,
+            "away": 5
+          },
+          "passes": {
+            "home": 336,
+            "away": 234
+          },
+          "fouls": {
+            "home": 0,
+            "away": 12
+          },
+          "corners": {
+            "home": 1,
+            "away": 6
+          },
+          "offsides": {
+            "home": 1,
+            "away": 2
+          },
+          "freekicks": {
+            "home": 1,
+            "away": 0
+          },
+          "dribbles": {
+            "home": 12,
+            "away": 5
+          },
+          "clearances": {
+            "home": 0,
+            "away": 0
+          },
+          "keyPasses": {
+            "home": 11,
+            "away": 10
+          },
+          "possession": {
+            "home": 59,
+            "away": 41
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 3
+          },
+          "redCards": {
+            "home": 0,
+            "away": 2
+          }
+        }
+      },
+      "simulatedAt": "2026-06-26T20:51:22.524Z"
     },
     {
       "id": "pvg05000mqvegaw8",
-      "homeTeamId": null,
-      "awayTeamId": null,
+      "homeTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "awayTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
       "round": 4,
       "phase": "SF",
       "leg": 1,
-      "status": "pending"
+      "status": "completed",
+      "result": {
+        "home": 1,
+        "away": 0
+      },
+      "matchSummary": {
+        "motm": {
+          "playerId": "aff7b68e-f32e-47eb-ab8e-96007c9b2a38",
+          "playerName": "Rabah Lado",
+          "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+          "teamName": "Empire Hussein",
+          "rating": 8.9
+        },
+        "stats": {
+          "shots": {
+            "home": 11,
+            "away": 14
+          },
+          "shotsOnTarget": {
+            "home": 6,
+            "away": 8
+          },
+          "xg": {
+            "home": 1.68,
+            "away": 2.11
+          },
+          "saves": {
+            "home": 7,
+            "away": 4
+          },
+          "passes": {
+            "home": 228,
+            "away": 342
+          },
+          "fouls": {
+            "home": 6,
+            "away": 3
+          },
+          "corners": {
+            "home": 1,
+            "away": 5
+          },
+          "offsides": {
+            "home": 2,
+            "away": 2
+          },
+          "freekicks": {
+            "home": 3,
+            "away": 4
+          },
+          "dribbles": {
+            "home": 7,
+            "away": 3
+          },
+          "clearances": {
+            "home": 1,
+            "away": 1
+          },
+          "keyPasses": {
+            "home": 8,
+            "away": 14
+          },
+          "possession": {
+            "home": 40,
+            "away": 60
+          },
+          "yellowCards": {
+            "home": 1,
+            "away": 0
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        }
+      },
+      "simulatedAt": "2026-06-26T20:51:22.526Z"
     },
     {
       "id": "wvfixvivmqvegaw8",
-      "homeTeamId": null,
-      "awayTeamId": null,
+      "homeTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "awayTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
       "homeFromMatch": "i1koh10fmqvegaw8",
       "awayFromMatch": "pvg05000mqvegaw8",
       "round": 5,
       "phase": "F",
       "leg": 1,
-      "status": "pending"
+      "status": "completed",
+      "result": {
+        "home": 0,
+        "away": 3
+      },
+      "matchSummary": {
+        "motm": {
+          "playerId": "8745a1a2-e456-4d0e-8ddd-610658c8a559",
+          "playerName": "Magdy El-Baz",
+          "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+          "teamName": "Empire Hussein",
+          "rating": 10
+        },
+        "stats": {
+          "shots": {
+            "home": 11,
+            "away": 10
+          },
+          "shotsOnTarget": {
+            "home": 6,
+            "away": 7
+          },
+          "saves": {
+            "home": 4,
+            "away": 6
+          },
+          "passes": {
+            "home": 330,
+            "away": 234
+          },
+          "fouls": {
+            "home": 5,
+            "away": 2
+          },
+          "corners": {
+            "home": 0,
+            "away": 3
+          },
+          "offsides": {
+            "home": 2,
+            "away": 0
+          },
+          "freekicks": {
+            "home": 2,
+            "away": 2
+          },
+          "dribbles": {
+            "home": 8,
+            "away": 6
+          },
+          "clearances": {
+            "home": 0,
+            "away": 1
+          },
+          "keyPasses": {
+            "home": 11,
+            "away": 8
+          },
+          "possession": {
+            "home": 59,
+            "away": 41
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 0
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "awayGoals": [
+          {
+            "minute": 43,
+            "playerId": "d58d678c-09a1-4228-923f-7ebfc1a2411c",
+            "playerName": "Abdallah El-Meniawy"
+          },
+          {
+            "minute": 56,
+            "playerId": "8745a1a2-e456-4d0e-8ddd-610658c8a559",
+            "playerName": "Magdy El-Baz"
+          },
+          {
+            "minute": 65,
+            "playerId": "ed16332a-25e3-4919-b479-a6810362efb9",
+            "playerName": "Essam Lamlom",
+            "assistId": "ed7eb980-155d-4aee-9cbf-092a44bfc8c1",
+            "assistName": "Nabil Hariri"
+          }
+        ]
+      },
+      "matchFileId": "comp-wrqunwescfgmqvegaw8-wvfixvivmqvegaw8",
+      "simulatedAt": "2026-06-26T20:53:38.014Z"
     },
     {
       "id": "eq8vqv4omqvegaw8",
-      "homeTeamId": null,
-      "awayTeamId": null,
+      "homeTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "awayTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
       "homeFromMatch": "i1koh10fmqvegaw8",
       "awayFromMatch": "pvg05000mqvegaw8",
       "round": 5,
       "phase": "3rd",
       "leg": 1,
-      "status": "pending"
+      "status": "completed",
+      "result": {
+        "home": 0,
+        "away": 3
+      },
+      "matchSummary": {
+        "motm": {
+          "playerId": "63cba1c6-27e5-4311-91d8-92b5f3fde740",
+          "playerName": "Cristian Lombardo",
+          "teamId": "110159bd-411c-409a-ba07-95216b092ba4",
+          "teamName": "UGP",
+          "rating": 10
+        },
+        "stats": {
+          "shots": {
+            "home": 5,
+            "away": 18
+          },
+          "shotsOnTarget": {
+            "home": 4,
+            "away": 8
+          },
+          "saves": {
+            "home": 5,
+            "away": 3
+          },
+          "passes": {
+            "home": 246,
+            "away": 324
+          },
+          "fouls": {
+            "home": 9,
+            "away": 4
+          },
+          "corners": {
+            "home": 5,
+            "away": 2
+          },
+          "offsides": {
+            "home": 0,
+            "away": 1
+          },
+          "freekicks": {
+            "home": 1,
+            "away": 1
+          },
+          "dribbles": {
+            "home": 5,
+            "away": 13
+          },
+          "clearances": {
+            "home": 0,
+            "away": 0
+          },
+          "keyPasses": {
+            "home": 2,
+            "away": 10
+          },
+          "possession": {
+            "home": 43,
+            "away": 57
+          },
+          "yellowCards": {
+            "home": 1,
+            "away": 1
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "awayGoals": [
+          {
+            "minute": 8,
+            "playerId": "63cba1c6-27e5-4311-91d8-92b5f3fde740",
+            "playerName": "Cristian Lombardo",
+            "assistId": "b7b01260-368c-4f4e-9640-837c0bc13d27",
+            "assistName": "Fabio Morelli"
+          },
+          {
+            "minute": 27,
+            "playerId": "63cba1c6-27e5-4311-91d8-92b5f3fde740",
+            "playerName": "Cristian Lombardo"
+          },
+          {
+            "minute": 79,
+            "playerId": "63cba1c6-27e5-4311-91d8-92b5f3fde740",
+            "playerName": "Cristian Lombardo"
+          }
+        ],
+        "homeCards": [
+          {
+            "minute": 23,
+            "playerId": "14259458-87a1-4f2c-9ac8-a884be29ea29",
+            "playerName": "Issiaka Diomandé",
+            "type": "yellow"
+          }
+        ],
+        "awayCards": [
+          {
+            "minute": 47,
+            "playerId": "b7b01260-368c-4f4e-9640-837c0bc13d27",
+            "playerName": "Fabio Morelli",
+            "type": "yellow"
+          }
+        ]
+      },
+      "matchFileId": "comp-wrqunwescfgmqvegaw8-eq8vqv4omqvegaw8",
+      "simulatedAt": "2026-06-26T20:52:22.162Z"
     }
   ],
   "groups": [
@@ -203,86 +1395,2279 @@
   "standings": {
     "da633c6d-88ad-40f5-9ab5-6437d77c3797": {
       "teamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
-      "played": 0,
+      "played": 3,
       "won": 0,
-      "drawn": 0,
-      "lost": 0,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
-      "points": 0
+      "drawn": 1,
+      "lost": 2,
+      "goalsFor": 5,
+      "goalsAgainst": 8,
+      "points": 1
     },
     "110159bd-411c-409a-ba07-95216b092ba4": {
       "teamId": "110159bd-411c-409a-ba07-95216b092ba4",
-      "played": 0,
-      "won": 0,
+      "played": 3,
+      "won": 2,
       "drawn": 0,
-      "lost": 0,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
-      "points": 0
+      "lost": 1,
+      "goalsFor": 5,
+      "goalsAgainst": 6,
+      "points": 6
     },
     "6f3d1170-2f22-4f74-905b-8cbb55058954": {
       "teamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
-      "played": 0,
-      "won": 0,
+      "played": 3,
+      "won": 2,
       "drawn": 0,
-      "lost": 0,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
-      "points": 0
+      "lost": 1,
+      "goalsFor": 9,
+      "goalsAgainst": 5,
+      "points": 6
     },
     "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a": {
       "teamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
-      "played": 0,
-      "won": 0,
-      "drawn": 0,
-      "lost": 0,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
-      "points": 0
+      "played": 3,
+      "won": 1,
+      "drawn": 1,
+      "lost": 1,
+      "goalsFor": 5,
+      "goalsAgainst": 5,
+      "points": 4
     },
     "ca9439ef-f9f3-4ec5-8073-0f62660aa497": {
       "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
-      "played": 0,
-      "won": 0,
+      "played": 2,
+      "won": 2,
       "drawn": 0,
       "lost": 0,
-      "goalsFor": 0,
+      "goalsFor": 4,
       "goalsAgainst": 0,
-      "points": 0
+      "points": 6
     },
     "e5af0153-73d2-40eb-b1d4-c45e9f53df07": {
       "teamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
-      "played": 0,
-      "won": 0,
+      "played": 2,
+      "won": 1,
       "drawn": 0,
-      "lost": 0,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
-      "points": 0
+      "lost": 1,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "points": 3
     },
     "28c0b086-2c03-4d18-b943-90ffdcf68fcc": {
       "teamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
-      "played": 0,
-      "won": 0,
-      "drawn": 0,
-      "lost": 0,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
-      "points": 0
+      "played": 3,
+      "won": 1,
+      "drawn": 1,
+      "lost": 1,
+      "goalsFor": 4,
+      "goalsAgainst": 3,
+      "points": 4
     },
     "4050e7b8-0b32-4225-b936-2947890e501c": {
       "teamId": "4050e7b8-0b32-4225-b936-2947890e501c",
-      "played": 0,
+      "played": 3,
       "won": 0,
-      "drawn": 0,
-      "lost": 0,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
-      "points": 0
+      "drawn": 1,
+      "lost": 2,
+      "goalsFor": 2,
+      "goalsAgainst": 6,
+      "points": 1
     }
   },
-  "playerStats": {},
+  "playerStats": {
+    "b922c816-b6dd-47bd-9306-89ee6209ae7d": {
+      "playerId": "b922c816-b6dd-47bd-9306-89ee6209ae7d",
+      "playerName": "Yang Wu",
+      "teamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "teamName": "SPC",
+      "overall": 90,
+      "position": "ST",
+      "goals": 3,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        7.6,
+        7.5,
+        7.6
+      ],
+      "avgRating": 7.6,
+      "motmCount": 0
+    },
+    "4ef345a9-c2fd-4920-ab92-5124797d4e7d": {
+      "playerId": "4ef345a9-c2fd-4920-ab92-5124797d4e7d",
+      "playerName": "Uo Yuan",
+      "teamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "teamName": "SPC",
+      "overall": 91,
+      "position": "LM",
+      "goals": 0,
+      "assists": 1,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        8.8,
+        6,
+        6.8
+      ],
+      "avgRating": 7.2,
+      "motmCount": 0
+    },
+    "008dddcd-95bf-48a1-9939-449b73992b5c": {
+      "playerId": "008dddcd-95bf-48a1-9939-449b73992b5c",
+      "playerName": "Lucas Simon",
+      "teamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "teamName": "5ème Internationale",
+      "overall": 83,
+      "position": "LW",
+      "goals": 1,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        7.7,
+        6.4,
+        5.9
+      ],
+      "avgRating": 6.7,
+      "motmCount": 0
+    },
+    "99b6d1d4-a819-4195-9bfc-8f0918ec7dda": {
+      "playerId": "99b6d1d4-a819-4195-9bfc-8f0918ec7dda",
+      "playerName": "Jonathan Mathieu",
+      "teamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "teamName": "5ème Internationale",
+      "overall": 82,
+      "position": "ST",
+      "goals": 3,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 1,
+      "redCards": 0,
+      "matchRatings": [
+        7.5,
+        7,
+        7.2
+      ],
+      "avgRating": 7.2,
+      "motmCount": 0
+    },
+    "2caa7860-2d4a-42f0-a5cf-7763cd065ab7": {
+      "playerId": "2caa7860-2d4a-42f0-a5cf-7763cd065ab7",
+      "playerName": "Tian Cao",
+      "teamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "teamName": "SPC",
+      "overall": 84,
+      "position": "CM",
+      "goals": 1,
+      "assists": 1,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        9.1,
+        6.5,
+        6.3
+      ],
+      "avgRating": 7.3,
+      "motmCount": 1
+    },
+    "ec26f1ad-227f-4f13-8712-c03e1b38d135": {
+      "playerId": "ec26f1ad-227f-4f13-8712-c03e1b38d135",
+      "playerName": "Maxime Richard",
+      "teamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "teamName": "5ème Internationale",
+      "overall": 79,
+      "position": "GK",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 19,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.6,
+        7.2,
+        9.3
+      ],
+      "avgRating": 7.7,
+      "motmCount": 1
+    },
+    "0663f1b8-69bb-449e-8716-a18823b621f5": {
+      "playerId": "0663f1b8-69bb-449e-8716-a18823b621f5",
+      "playerName": "Wen Fu",
+      "teamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "teamName": "SPC",
+      "overall": 85,
+      "position": "GK",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 20,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        7.8,
+        8.4,
+        7.8
+      ],
+      "avgRating": 8,
+      "motmCount": 1
+    },
+    "0aaf1ee4-fc64-4bf0-a867-368bc1c615ba": {
+      "playerId": "0aaf1ee4-fc64-4bf0-a867-368bc1c615ba",
+      "playerName": "Loïc Bonnet",
+      "teamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "teamName": "5ème Internationale",
+      "overall": 82,
+      "position": "LW",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        5.7,
+        5.9
+      ],
+      "avgRating": 5.8,
+      "motmCount": 0
+    },
+    "54b229fc-a2a8-4458-9b88-ff8cbccf565d": {
+      "playerId": "54b229fc-a2a8-4458-9b88-ff8cbccf565d",
+      "playerName": "Enzo Duval",
+      "teamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "teamName": "5ème Internationale",
+      "overall": 81,
+      "position": "CB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6,
+        5.7,
+        6.2
+      ],
+      "avgRating": 6,
+      "motmCount": 0
+    },
+    "88a7347f-b2c3-4083-a5c6-bbac6e71ab76": {
+      "playerId": "88a7347f-b2c3-4083-a5c6-bbac6e71ab76",
+      "playerName": "Liam Denis",
+      "teamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "teamName": "5ème Internationale",
+      "overall": 80,
+      "position": "RM",
+      "goals": 0,
+      "assists": 1,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        7.2,
+        7.6,
+        7.4
+      ],
+      "avgRating": 7.4,
+      "motmCount": 0
+    },
+    "1d7892d9-f47f-47a3-b41e-8622049075b2": {
+      "playerId": "1d7892d9-f47f-47a3-b41e-8622049075b2",
+      "playerName": "Henri Simon",
+      "teamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "teamName": "5ème Internationale",
+      "overall": 85,
+      "position": "DM",
+      "goals": 0,
+      "assists": 1,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6,
+        6.9,
+        6
+      ],
+      "avgRating": 6.3,
+      "motmCount": 0
+    },
+    "8834d85a-a079-45ea-a3c2-4d0f0cde3277": {
+      "playerId": "8834d85a-a079-45ea-a3c2-4d0f0cde3277",
+      "playerName": "Nicolas Muller",
+      "teamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "teamName": "5ème Internationale",
+      "overall": 79,
+      "position": "LB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        5.7,
+        5.4
+      ],
+      "avgRating": 5.6,
+      "motmCount": 0
+    },
+    "0f37e5f2-34b6-42eb-a40d-a1cbed31548a": {
+      "playerId": "0f37e5f2-34b6-42eb-a40d-a1cbed31548a",
+      "playerName": "Paul Marchand",
+      "teamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "teamName": "5ème Internationale",
+      "overall": 87,
+      "position": "LW",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.3,
+        6.3
+      ],
+      "avgRating": 6.3,
+      "motmCount": 0
+    },
+    "30c48de3-bd45-4195-a6d3-e7f59257bc2d": {
+      "playerId": "30c48de3-bd45-4195-a6d3-e7f59257bc2d",
+      "playerName": "Jérôme Achier",
+      "teamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "teamName": "5ème Internationale",
+      "overall": 87,
+      "position": "ST",
+      "goals": 1,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.1,
+        7.5
+      ],
+      "avgRating": 6.8,
+      "motmCount": 0
+    },
+    "f75dc5fe-ff5c-474d-92dc-2ec670d9a600": {
+      "playerId": "f75dc5fe-ff5c-474d-92dc-2ec670d9a600",
+      "playerName": "Sébastien Bernard",
+      "teamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "teamName": "5ème Internationale",
+      "overall": 82,
+      "position": "RW",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.3,
+        6.1,
+        6.3
+      ],
+      "avgRating": 6.2,
+      "motmCount": 0
+    },
+    "01e7b72d-76f6-4c65-b15b-a800baafbfce": {
+      "playerId": "01e7b72d-76f6-4c65-b15b-a800baafbfce",
+      "playerName": "Chen Tian",
+      "teamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "teamName": "SPC",
+      "overall": 81,
+      "position": "RB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        5.7,
+        5.7
+      ],
+      "avgRating": 5.7,
+      "motmCount": 0
+    },
+    "d67a8844-1344-4fb1-8591-041530e2623c": {
+      "playerId": "d67a8844-1344-4fb1-8591-041530e2623c",
+      "playerName": "Xiang Zhang",
+      "teamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "teamName": "SPC",
+      "overall": 89,
+      "position": "CB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6,
+        6,
+        6
+      ],
+      "avgRating": 6,
+      "motmCount": 0
+    },
+    "ffa861cb-7634-46c1-b96e-231a8ac43aec": {
+      "playerId": "ffa861cb-7634-46c1-b96e-231a8ac43aec",
+      "playerName": "De Liang",
+      "teamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "teamName": "SPC",
+      "overall": 86,
+      "position": "CB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6,
+        6,
+        6
+      ],
+      "avgRating": 6,
+      "motmCount": 0
+    },
+    "d7312229-3c51-4aec-9f46-a337f5d1df37": {
+      "playerId": "d7312229-3c51-4aec-9f46-a337f5d1df37",
+      "playerName": "En Feng",
+      "teamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "teamName": "SPC",
+      "overall": 83,
+      "position": "GK",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        5.7
+      ],
+      "avgRating": 5.7,
+      "motmCount": 0
+    },
+    "91d1ad6f-2a74-44d8-8cf9-276014c0fbdd": {
+      "playerId": "91d1ad6f-2a74-44d8-8cf9-276014c0fbdd",
+      "playerName": "Feng Luo",
+      "teamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "teamName": "SPC",
+      "overall": 84,
+      "position": "RB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.2,
+        5.7,
+        6
+      ],
+      "avgRating": 6,
+      "motmCount": 0
+    },
+    "1eb6cdb3-28c8-4792-8b45-f820be065dd9": {
+      "playerId": "1eb6cdb3-28c8-4792-8b45-f820be065dd9",
+      "playerName": "Ran Tian",
+      "teamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "teamName": "SPC",
+      "overall": 88,
+      "position": "RW",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.1,
+        6.3
+      ],
+      "avgRating": 6.2,
+      "motmCount": 0
+    },
+    "2a40f2a8-21e7-4d78-a889-fce6f644ca00": {
+      "playerId": "2a40f2a8-21e7-4d78-a889-fce6f644ca00",
+      "playerName": "Ping Cai",
+      "teamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "teamName": "SPC",
+      "overall": 86,
+      "position": "ST",
+      "goals": 1,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.1,
+        6,
+        7.6
+      ],
+      "avgRating": 6.6,
+      "motmCount": 0
+    },
+    "d09f1ca0-e7a2-44bd-8ea8-9051c5834b7c": {
+      "playerId": "d09f1ca0-e7a2-44bd-8ea8-9051c5834b7c",
+      "playerName": "Rui Yuan",
+      "teamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "teamName": "SPC",
+      "overall": 84,
+      "position": "AM",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.1,
+        5.7
+      ],
+      "avgRating": 5.9,
+      "motmCount": 0
+    },
+    "88a0a7bc-90fd-407d-adc0-7c8d3a2e837d": {
+      "playerId": "88a0a7bc-90fd-407d-adc0-7c8d3a2e837d",
+      "playerName": "Leonardo Grasso",
+      "teamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "teamName": "UGP",
+      "overall": 84,
+      "position": "CB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 1,
+      "redCards": 0,
+      "matchRatings": [
+        5.2,
+        6,
+        6
+      ],
+      "avgRating": 5.7,
+      "motmCount": 0
+    },
+    "c6663d52-24a7-4d5a-aaea-b02fd24652d6": {
+      "playerId": "c6663d52-24a7-4d5a-aaea-b02fd24652d6",
+      "playerName": "Samuele De Angelis",
+      "teamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "teamName": "UGP",
+      "overall": 95,
+      "position": "ST",
+      "goals": 3,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        7.6,
+        7.9,
+        8.1,
+        6.1,
+        6.3
+      ],
+      "avgRating": 7.2,
+      "motmCount": 0
+    },
+    "348fcc0d-a16d-4c67-b78c-04da4bccbd70": {
+      "playerId": "348fcc0d-a16d-4c67-b78c-04da4bccbd70",
+      "playerName": "Tian Han",
+      "teamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "teamName": "UDA",
+      "overall": 84,
+      "position": "LB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 2,
+      "redCards": 0,
+      "matchRatings": [
+        5.5,
+        5.5,
+        6,
+        6,
+        5.7
+      ],
+      "avgRating": 5.7,
+      "motmCount": 0
+    },
+    "75811d88-67bf-455a-98de-a3469da03099": {
+      "playerId": "75811d88-67bf-455a-98de-a3469da03099",
+      "playerName": "Sheng Han",
+      "teamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "teamName": "UDA",
+      "overall": 93,
+      "position": "ST",
+      "goals": 4,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        9.1,
+        7.6,
+        6,
+        7.6,
+        6.3
+      ],
+      "avgRating": 7.3,
+      "motmCount": 1
+    },
+    "043bd3ea-5b57-4c20-823d-adf11c7e3549": {
+      "playerId": "043bd3ea-5b57-4c20-823d-adf11c7e3549",
+      "playerName": "Rui Wang",
+      "teamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "teamName": "UDA",
+      "overall": 84,
+      "position": "LM",
+      "goals": 0,
+      "assists": 2,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        7.2,
+        7.2,
+        6.6,
+        7,
+        6.6
+      ],
+      "avgRating": 6.9,
+      "motmCount": 0
+    },
+    "9c29dc0b-4808-46d8-a9b8-f9e820d0050f": {
+      "playerId": "9c29dc0b-4808-46d8-a9b8-f9e820d0050f",
+      "playerName": "En Xu",
+      "teamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "teamName": "UDA",
+      "overall": 87,
+      "position": "ST",
+      "goals": 3,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        8.7,
+        5.7,
+        5.7,
+        7.2,
+        5.7
+      ],
+      "avgRating": 6.6,
+      "motmCount": 0
+    },
+    "6fcb834b-f8d5-452b-b759-dc9e0ae2317a": {
+      "playerId": "6fcb834b-f8d5-452b-b759-dc9e0ae2317a",
+      "playerName": "Kai Liang",
+      "teamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "teamName": "UDA",
+      "overall": 83,
+      "position": "CM",
+      "goals": 0,
+      "assists": 3,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        7.6,
+        7.6,
+        6.4,
+        8.3,
+        6.9
+      ],
+      "avgRating": 7.4,
+      "motmCount": 1
+    },
+    "85083795-e4c9-4c40-84a9-9e310531f7bc": {
+      "playerId": "85083795-e4c9-4c40-84a9-9e310531f7bc",
+      "playerName": "Jun Pan",
+      "teamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "teamName": "UDA",
+      "overall": 86,
+      "position": "GK",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 25,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        7.5,
+        8.7,
+        7.5,
+        6.6,
+        6.6
+      ],
+      "avgRating": 7.4,
+      "motmCount": 0
+    },
+    "88d6cf70-fc34-479f-8572-d789499e1984": {
+      "playerId": "88d6cf70-fc34-479f-8572-d789499e1984",
+      "playerName": "Italo Rizzi",
+      "teamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "teamName": "UGP",
+      "overall": 93,
+      "position": "GK",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 1,
+      "saves": 16,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        5.7,
+        7.8,
+        6.6,
+        7.2,
+        7.7
+      ],
+      "avgRating": 7,
+      "motmCount": 0
+    },
+    "edd4bb45-d83c-4421-8f10-63bba4605082": {
+      "playerId": "edd4bb45-d83c-4421-8f10-63bba4605082",
+      "playerName": "Pietro Romano",
+      "teamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "teamName": "UGP",
+      "overall": 86,
+      "position": "CB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 1,
+      "redCards": 1,
+      "matchRatings": [
+        5.7,
+        6,
+        6.4
+      ],
+      "avgRating": 6,
+      "motmCount": 0
+    },
+    "46274d60-60cb-4d62-b5ba-063a08adda21": {
+      "playerId": "46274d60-60cb-4d62-b5ba-063a08adda21",
+      "playerName": "Francesco De Santis",
+      "teamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "teamName": "UGP",
+      "overall": 88,
+      "position": "LB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        5.4,
+        5.7,
+        5.7,
+        5.7,
+        6.1
+      ],
+      "avgRating": 5.7,
+      "motmCount": 0
+    },
+    "09e3768b-d2b4-4ad9-8a05-a00a01d954e2": {
+      "playerId": "09e3768b-d2b4-4ad9-8a05-a00a01d954e2",
+      "playerName": "Donato De Angelis",
+      "teamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "teamName": "UGP",
+      "overall": 84,
+      "position": "LM",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 1,
+      "matchRatings": [
+        6.6,
+        6.8,
+        6.4
+      ],
+      "avgRating": 6.6,
+      "motmCount": 0
+    },
+    "c0b175e4-3ae0-4184-9118-b1c25aef5498": {
+      "playerId": "c0b175e4-3ae0-4184-9118-b1c25aef5498",
+      "playerName": "Marcello Bruno",
+      "teamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "teamName": "UGP",
+      "overall": 88,
+      "position": "CM",
+      "goals": 0,
+      "assists": 1,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        7.4,
+        6.6,
+        8.2,
+        6.6,
+        7.2
+      ],
+      "avgRating": 7.2,
+      "motmCount": 0
+    },
+    "442b01e6-c161-4845-8c2b-3261255abcdb": {
+      "playerId": "442b01e6-c161-4845-8c2b-3261255abcdb",
+      "playerName": "Luca Marini",
+      "teamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "teamName": "UGP",
+      "overall": 86,
+      "position": "CM",
+      "goals": 0,
+      "assists": 1,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.6,
+        8.2,
+        6.1,
+        7.4,
+        6.6
+      ],
+      "avgRating": 7,
+      "motmCount": 0
+    },
+    "720e2681-c6f2-46e5-b610-9604d3a9e92c": {
+      "playerId": "720e2681-c6f2-46e5-b610-9604d3a9e92c",
+      "playerName": "Davide Mancini",
+      "teamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "teamName": "UGP",
+      "overall": 93,
+      "position": "LW",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        5.9,
+        5.7,
+        5.8,
+        5.7,
+        5.8
+      ],
+      "avgRating": 5.8,
+      "motmCount": 0
+    },
+    "b7b01260-368c-4f4e-9640-837c0bc13d27": {
+      "playerId": "b7b01260-368c-4f4e-9640-837c0bc13d27",
+      "playerName": "Fabio Morelli",
+      "teamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "teamName": "UGP",
+      "overall": 84,
+      "position": "AM",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 1,
+      "redCards": 0,
+      "matchRatings": [
+        6.3,
+        6.2,
+        6.5,
+        6.1,
+        5.9
+      ],
+      "avgRating": 6.2,
+      "motmCount": 0
+    },
+    "63cba1c6-27e5-4311-91d8-92b5f3fde740": {
+      "playerId": "63cba1c6-27e5-4311-91d8-92b5f3fde740",
+      "playerName": "Cristian Lombardo",
+      "teamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "teamName": "UGP",
+      "overall": 91,
+      "position": "ST",
+      "goals": 5,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.2,
+        7.8,
+        7.5,
+        6.1,
+        10
+      ],
+      "avgRating": 7.5,
+      "motmCount": 1
+    },
+    "66936b5b-0953-4bae-bbd5-92aff2d774a0": {
+      "playerId": "66936b5b-0953-4bae-bbd5-92aff2d774a0",
+      "playerName": "Guo Hu",
+      "teamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "teamName": "UDA",
+      "overall": 84,
+      "position": "CB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6,
+        6,
+        6,
+        6,
+        5.7
+      ],
+      "avgRating": 5.9,
+      "motmCount": 0
+    },
+    "56d3b142-f548-4fad-9894-77cad156e7ac": {
+      "playerId": "56d3b142-f548-4fad-9894-77cad156e7ac",
+      "playerName": "Tao Ren",
+      "teamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "teamName": "UDA",
+      "overall": 85,
+      "position": "RB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 1,
+      "redCards": 0,
+      "matchRatings": [
+        6,
+        5.5,
+        6,
+        6,
+        5.7
+      ],
+      "avgRating": 5.8,
+      "motmCount": 0
+    },
+    "a9845c59-12ee-4a24-ae10-571725c54d42": {
+      "playerId": "a9845c59-12ee-4a24-ae10-571725c54d42",
+      "playerName": "Zhi Cai",
+      "teamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "teamName": "UDA",
+      "overall": 89,
+      "position": "LW",
+      "goals": 1,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        5.7,
+        7.6,
+        6,
+        5.8,
+        5.7
+      ],
+      "avgRating": 6.2,
+      "motmCount": 0
+    },
+    "1359ee0e-7555-453d-83fe-befe00c8a218": {
+      "playerId": "1359ee0e-7555-453d-83fe-befe00c8a218",
+      "playerName": "Zhen Yuan",
+      "teamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "teamName": "UDA",
+      "overall": 82,
+      "position": "RM",
+      "goals": 0,
+      "assists": 1,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6,
+        6.4,
+        6.2,
+        6.6
+      ],
+      "avgRating": 6.3,
+      "motmCount": 0
+    },
+    "dbef5bfc-f6f6-4693-9c47-0566d870f06e": {
+      "playerId": "dbef5bfc-f6f6-4693-9c47-0566d870f06e",
+      "playerName": "Ou Lu",
+      "teamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "teamName": "UDA",
+      "overall": 93,
+      "position": "ST",
+      "goals": 4,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.3,
+        9.5,
+        7.9,
+        8,
+        6.3
+      ],
+      "avgRating": 7.6,
+      "motmCount": 2
+    },
+    "ed7eb980-155d-4aee-9cbf-092a44bfc8c1": {
+      "playerId": "ed7eb980-155d-4aee-9cbf-092a44bfc8c1",
+      "playerName": "Nabil Hariri",
+      "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "teamName": "Empire Hussein",
+      "overall": 93,
+      "position": "ST",
+      "goals": 3,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 1,
+      "redCards": 0,
+      "matchRatings": [
+        9.1,
+        7.8,
+        5.7,
+        6.2
+      ],
+      "avgRating": 7.2,
+      "motmCount": 0
+    },
+    "8745a1a2-e456-4d0e-8ddd-610658c8a559": {
+      "playerId": "8745a1a2-e456-4d0e-8ddd-610658c8a559",
+      "playerName": "Magdy El-Baz",
+      "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "teamName": "Empire Hussein",
+      "overall": 85,
+      "position": "CM",
+      "goals": 1,
+      "assists": 3,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        7.8,
+        6.9,
+        6.6,
+        10
+      ],
+      "avgRating": 7.8,
+      "motmCount": 1
+    },
+    "ed16332a-25e3-4919-b479-a6810362efb9": {
+      "playerId": "ed16332a-25e3-4919-b479-a6810362efb9",
+      "playerName": "Essam Lamlom",
+      "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "teamName": "Empire Hussein",
+      "overall": 88,
+      "position": "LW",
+      "goals": 2,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        7.2,
+        6,
+        5.7,
+        7.2
+      ],
+      "avgRating": 6.5,
+      "motmCount": 0
+    },
+    "aff7b68e-f32e-47eb-ab8e-96007c9b2a38": {
+      "playerId": "aff7b68e-f32e-47eb-ab8e-96007c9b2a38",
+      "playerName": "Rabah Lado",
+      "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "teamName": "Empire Hussein",
+      "overall": 88,
+      "position": "GK",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 4,
+      "saves": 30,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        9.8,
+        8.9,
+        8.9,
+        8.6
+      ],
+      "avgRating": 9.1,
+      "motmCount": 3
+    },
+    "e87a5851-81ce-485c-83fe-194209656715": {
+      "playerId": "e87a5851-81ce-485c-83fe-194209656715",
+      "playerName": "Julián Cárdenas",
+      "teamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "teamName": "FCLC",
+      "overall": 86,
+      "position": "GK",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 11,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6,
+        6.9,
+        7.8
+      ],
+      "avgRating": 6.9,
+      "motmCount": 0
+    },
+    "235a908b-765d-4f6b-8d22-9bac5aae1521": {
+      "playerId": "235a908b-765d-4f6b-8d22-9bac5aae1521",
+      "playerName": "Abdallah Bilal",
+      "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "teamName": "Empire Hussein",
+      "overall": 82,
+      "position": "LB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.4,
+        6.4,
+        6.4,
+        6.4
+      ],
+      "avgRating": 6.4,
+      "motmCount": 0
+    },
+    "4da3fb23-004e-4bc2-b23d-54eb6e91ca6e": {
+      "playerId": "4da3fb23-004e-4bc2-b23d-54eb6e91ca6e",
+      "playerName": "Hamada Ezzat",
+      "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "teamName": "Empire Hussein",
+      "overall": 84,
+      "position": "CB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.6,
+        6.6,
+        6.4,
+        6.6
+      ],
+      "avgRating": 6.6,
+      "motmCount": 0
+    },
+    "e3571e6e-3b8e-4472-9a38-ea4c81fa2e6d": {
+      "playerId": "e3571e6e-3b8e-4472-9a38-ea4c81fa2e6d",
+      "playerName": "Walid El-Shafei",
+      "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "teamName": "Empire Hussein",
+      "overall": 83,
+      "position": "RB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.4,
+        6.4,
+        6.6,
+        6.4
+      ],
+      "avgRating": 6.5,
+      "motmCount": 0
+    },
+    "698a3b66-bffb-494b-822d-68025a22deac": {
+      "playerId": "698a3b66-bffb-494b-822d-68025a22deac",
+      "playerName": "Jad Zakhour",
+      "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "teamName": "Empire Hussein",
+      "overall": 83,
+      "position": "CM",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.2,
+        7.3,
+        7.1,
+        6.4
+      ],
+      "avgRating": 6.8,
+      "motmCount": 0
+    },
+    "16c65b71-fb58-4e95-a4ba-2c1ee6079633": {
+      "playerId": "16c65b71-fb58-4e95-a4ba-2c1ee6079633",
+      "playerName": "Bassem Salem",
+      "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "teamName": "Empire Hussein",
+      "overall": 87,
+      "position": "LW",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        5.7,
+        5.7,
+        5.9,
+        5.7
+      ],
+      "avgRating": 5.8,
+      "motmCount": 0
+    },
+    "d58d678c-09a1-4228-923f-7ebfc1a2411c": {
+      "playerId": "d58d678c-09a1-4228-923f-7ebfc1a2411c",
+      "playerName": "Abdallah El-Meniawy",
+      "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "teamName": "Empire Hussein",
+      "overall": 90,
+      "position": "LW",
+      "goals": 2,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.2,
+        6.2,
+        7.5,
+        7.5
+      ],
+      "avgRating": 6.9,
+      "motmCount": 0
+    },
+    "16f8645a-2a66-4763-8e71-ca6e9832d693": {
+      "playerId": "16f8645a-2a66-4763-8e71-ca6e9832d693",
+      "playerName": "Oussama Nasri",
+      "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "teamName": "Empire Hussein",
+      "overall": 87,
+      "position": "RW",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 1,
+      "matchRatings": [
+        6.2,
+        6.2,
+        6.4
+      ],
+      "avgRating": 6.3,
+      "motmCount": 0
+    },
+    "54d7addc-5e5b-4199-8b7e-49026fcbc861": {
+      "playerId": "54d7addc-5e5b-4199-8b7e-49026fcbc861",
+      "playerName": "Carlos Mendoza",
+      "teamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "teamName": "FCLC",
+      "overall": 82,
+      "position": "LB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        5.7,
+        6,
+        6
+      ],
+      "avgRating": 5.9,
+      "motmCount": 0
+    },
+    "1ee98c54-d49e-4195-a7d7-013321c6d36c": {
+      "playerId": "1ee98c54-d49e-4195-a7d7-013321c6d36c",
+      "playerName": "Carlos Molina",
+      "teamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "teamName": "FCLC",
+      "overall": 82,
+      "position": "CB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        5.7,
+        6,
+        6
+      ],
+      "avgRating": 5.9,
+      "motmCount": 0
+    },
+    "0537ad7c-740a-4fce-b710-d816befa3b8e": {
+      "playerId": "0537ad7c-740a-4fce-b710-d816befa3b8e",
+      "playerName": "Yeison Hernández",
+      "teamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "teamName": "FCLC",
+      "overall": 82,
+      "position": "CB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        5.7,
+        6,
+        6
+      ],
+      "avgRating": 5.9,
+      "motmCount": 0
+    },
+    "0a3b965e-04a0-4994-b513-7c71996ae867": {
+      "playerId": "0a3b965e-04a0-4994-b513-7c71996ae867",
+      "playerName": "Josimar Baker",
+      "teamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "teamName": "FCLC",
+      "overall": 84,
+      "position": "RB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        5.7,
+        6,
+        6
+      ],
+      "avgRating": 5.9,
+      "motmCount": 0
+    },
+    "aca08af0-9097-4f69-99df-b10b11993d02": {
+      "playerId": "aca08af0-9097-4f69-99df-b10b11993d02",
+      "playerName": "Tomás Martínez",
+      "teamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "teamName": "FCLC",
+      "overall": 90,
+      "position": "CM",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        7.3,
+        7.8,
+        7.1
+      ],
+      "avgRating": 7.4,
+      "motmCount": 0
+    },
+    "d1f33281-0c4a-44f2-8485-bd164cce0749": {
+      "playerId": "d1f33281-0c4a-44f2-8485-bd164cce0749",
+      "playerName": "Barry Grant",
+      "teamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "teamName": "FCLC",
+      "overall": 83,
+      "position": "CM",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        7,
+        7.8,
+        6.6
+      ],
+      "avgRating": 7.1,
+      "motmCount": 0
+    },
+    "0cde6afa-5371-4d50-84b0-42c5dce8e58c": {
+      "playerId": "0cde6afa-5371-4d50-84b0-42c5dce8e58c",
+      "playerName": "Ricot Moise",
+      "teamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "teamName": "FCLC",
+      "overall": 85,
+      "position": "LW",
+      "goals": 1,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.3
+      ],
+      "avgRating": 6.3,
+      "motmCount": 0
+    },
+    "34913eb7-c685-47f4-9276-331f470037f2": {
+      "playerId": "34913eb7-c685-47f4-9276-331f470037f2",
+      "playerName": "Joevin Morris",
+      "teamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "teamName": "FCLC",
+      "overall": 83,
+      "position": "AM",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.3
+      ],
+      "avgRating": 6.3,
+      "motmCount": 0
+    },
+    "0bed9f5f-41ab-468b-87f7-5372a81470dc": {
+      "playerId": "0bed9f5f-41ab-468b-87f7-5372a81470dc",
+      "playerName": "Antonio Hernández",
+      "teamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "teamName": "FCLC",
+      "overall": 84,
+      "position": "RW",
+      "goals": 1,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        5.7,
+        5.7,
+        7.2
+      ],
+      "avgRating": 6.2,
+      "motmCount": 0
+    },
+    "5f32168a-14df-4d52-a989-1b39439b3517": {
+      "playerId": "5f32168a-14df-4d52-a989-1b39439b3517",
+      "playerName": "Jhon Torres",
+      "teamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "teamName": "FCLC",
+      "overall": 87,
+      "position": "ST",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6,
+        6,
+        6
+      ],
+      "avgRating": 6,
+      "motmCount": 0
+    },
+    "484dcf4b-43d4-424d-911e-79227783d582": {
+      "playerId": "484dcf4b-43d4-424d-911e-79227783d582",
+      "playerName": "Quinn Wright",
+      "teamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "teamName": "Deseret",
+      "overall": 84,
+      "position": "CB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 1,
+      "redCards": 0,
+      "matchRatings": [
+        5.5,
+        6.4
+      ],
+      "avgRating": 6,
+      "motmCount": 0
+    },
+    "305ef8f4-3d72-4985-ac81-e47e5bc183af": {
+      "playerId": "305ef8f4-3d72-4985-ac81-e47e5bc183af",
+      "playerName": "Kolo Essy",
+      "teamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "teamName": "Côte d'Ivoire",
+      "overall": 86,
+      "position": "RW",
+      "goals": 2,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 1,
+      "matchRatings": [
+        8,
+        6,
+        7.9
+      ],
+      "avgRating": 7.3,
+      "motmCount": 0
+    },
+    "0636869a-f34f-4bc5-b141-979c31bfd66d": {
+      "playerId": "0636869a-f34f-4bc5-b141-979c31bfd66d",
+      "playerName": "Arouna N'Goran",
+      "teamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "teamName": "Côte d'Ivoire",
+      "overall": 88,
+      "position": "LW",
+      "goals": 1,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        7.2,
+        5.8,
+        5.7,
+        5.7,
+        6.3
+      ],
+      "avgRating": 6.1,
+      "motmCount": 0
+    },
+    "1f2b7e31-8ff2-4bb3-b9e5-42ab5282bbb3": {
+      "playerId": "1f2b7e31-8ff2-4bb3-b9e5-42ab5282bbb3",
+      "playerName": "Pascal Bamba",
+      "teamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "teamName": "Côte d'Ivoire",
+      "overall": 90,
+      "position": "ST",
+      "goals": 2,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 1,
+      "redCards": 0,
+      "matchRatings": [
+        5.5,
+        6,
+        7.5,
+        7.6,
+        6
+      ],
+      "avgRating": 6.5,
+      "motmCount": 0
+    },
+    "341c2d91-99fc-4fee-8f22-02f672169c4d": {
+      "playerId": "341c2d91-99fc-4fee-8f22-02f672169c4d",
+      "playerName": "Kolo Gbagbo",
+      "teamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "teamName": "Côte d'Ivoire",
+      "overall": 84,
+      "position": "GK",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 1,
+      "saves": 28,
+      "yellowCards": 1,
+      "redCards": 0,
+      "matchRatings": [
+        8.3,
+        8.7,
+        7.2,
+        6.4,
+        6.9
+      ],
+      "avgRating": 7.5,
+      "motmCount": 0
+    },
+    "c396afd9-975e-4f0a-93bb-cadf6ba5a3a9": {
+      "playerId": "c396afd9-975e-4f0a-93bb-cadf6ba5a3a9",
+      "playerName": "Spencer Brown",
+      "teamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "teamName": "Deseret",
+      "overall": 88,
+      "position": "GK",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 1,
+      "saves": 16,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        8.7,
+        8.9
+      ],
+      "avgRating": 8.8,
+      "motmCount": 2
+    },
+    "f90767f1-3aa2-4675-92cb-321d82273fa8": {
+      "playerId": "f90767f1-3aa2-4675-92cb-321d82273fa8",
+      "playerName": "Liam White",
+      "teamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "teamName": "Deseret",
+      "overall": 92,
+      "position": "DM",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        5.7,
+        6.1
+      ],
+      "avgRating": 5.9,
+      "motmCount": 0
+    },
+    "edfd7424-ec03-4090-9bae-efc4014f4955": {
+      "playerId": "edfd7424-ec03-4090-9bae-efc4014f4955",
+      "playerName": "Scott Moore",
+      "teamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "teamName": "Deseret",
+      "overall": 89,
+      "position": "LW",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        5.8,
+        6
+      ],
+      "avgRating": 5.9,
+      "motmCount": 0
+    },
+    "0daed997-0e22-4c9b-ba72-d8f1ad45d1a9": {
+      "playerId": "0daed997-0e22-4c9b-ba72-d8f1ad45d1a9",
+      "playerName": "Dylan Miller",
+      "teamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "teamName": "Deseret",
+      "overall": 85,
+      "position": "RB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.2,
+        6.4
+      ],
+      "avgRating": 6.3,
+      "motmCount": 0
+    },
+    "4e44c8f6-ea9f-470c-a3a3-ea4f1fa82662": {
+      "playerId": "4e44c8f6-ea9f-470c-a3a3-ea4f1fa82662",
+      "playerName": "Jordan Brown",
+      "teamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "teamName": "Deseret",
+      "overall": 85,
+      "position": "CM",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.3,
+        7.2
+      ],
+      "avgRating": 6.8,
+      "motmCount": 0
+    },
+    "60812871-655a-4d99-8cf6-b47be478b3d2": {
+      "playerId": "60812871-655a-4d99-8cf6-b47be478b3d2",
+      "playerName": "Austin Thomas",
+      "teamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "teamName": "Deseret",
+      "overall": 83,
+      "position": "CM",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.6,
+        6.3
+      ],
+      "avgRating": 6.5,
+      "motmCount": 0
+    },
+    "ce4994cb-40c4-4408-bdc8-f58e684cb398": {
+      "playerId": "ce4994cb-40c4-4408-bdc8-f58e684cb398",
+      "playerName": "Drake White",
+      "teamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "teamName": "Deseret",
+      "overall": 89,
+      "position": "AM",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        5.9,
+        5.7
+      ],
+      "avgRating": 5.8,
+      "motmCount": 0
+    },
+    "51734e56-6364-48ce-aa7b-470b5a778a0b": {
+      "playerId": "51734e56-6364-48ce-aa7b-470b5a778a0b",
+      "playerName": "Nathan Baker",
+      "teamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "teamName": "Deseret",
+      "overall": 93,
+      "position": "RW",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.3,
+        6.1
+      ],
+      "avgRating": 6.2,
+      "motmCount": 0
+    },
+    "ebdefbb6-1d7a-4a8c-b5f8-ecc8e13b115b": {
+      "playerId": "ebdefbb6-1d7a-4a8c-b5f8-ecc8e13b115b",
+      "playerName": "Jean Kalou",
+      "teamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "teamName": "Côte d'Ivoire",
+      "overall": 80,
+      "position": "CB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.1,
+        5.7,
+        5.7,
+        5.4
+      ],
+      "avgRating": 5.7,
+      "motmCount": 0
+    },
+    "2869ad75-2a38-4f4f-b46f-30d14c571450": {
+      "playerId": "2869ad75-2a38-4f4f-b46f-30d14c571450",
+      "playerName": "Herve Kalou",
+      "teamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "teamName": "Côte d'Ivoire",
+      "overall": 84,
+      "position": "CB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 1,
+      "redCards": 0,
+      "matchRatings": [
+        6.4,
+        6,
+        6,
+        5.2,
+        5.7
+      ],
+      "avgRating": 5.9,
+      "motmCount": 0
+    },
+    "99ea1531-0a21-4909-acde-5b29f578e981": {
+      "playerId": "99ea1531-0a21-4909-acde-5b29f578e981",
+      "playerName": "Eric Gbagbo",
+      "teamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "teamName": "Côte d'Ivoire",
+      "overall": 81,
+      "position": "CB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.6,
+        6,
+        6,
+        5.7,
+        5.7
+      ],
+      "avgRating": 6,
+      "motmCount": 0
+    },
+    "34aea6b4-2695-4cce-b75a-0c8cf85a8385": {
+      "playerId": "34aea6b4-2695-4cce-b75a-0c8cf85a8385",
+      "playerName": "Bassem Gradel",
+      "teamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "teamName": "Côte d'Ivoire",
+      "overall": 79,
+      "position": "CB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 1,
+      "matchRatings": [
+        6.1,
+        5.7,
+        5.7,
+        4.2
+      ],
+      "avgRating": 5.4,
+      "motmCount": 0
+    },
+    "2e2f29f9-653b-4528-a87b-b4003dca2f4b": {
+      "playerId": "2e2f29f9-653b-4528-a87b-b4003dca2f4b",
+      "playerName": "Wague Ibrahimovic",
+      "teamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "teamName": "Côte d'Ivoire",
+      "overall": 83,
+      "position": "CM",
+      "goals": 0,
+      "assists": 1,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.8,
+        6.8,
+        8,
+        6.6,
+        6.1
+      ],
+      "avgRating": 6.9,
+      "motmCount": 1
+    },
+    "e1afab4f-2e72-417f-990e-dbf3705beeed": {
+      "playerId": "e1afab4f-2e72-417f-990e-dbf3705beeed",
+      "playerName": "Kolo Niamké",
+      "teamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "teamName": "Côte d'Ivoire",
+      "overall": 81,
+      "position": "CM",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.7,
+        7.1,
+        6.4,
+        6.6,
+        6.2
+      ],
+      "avgRating": 6.6,
+      "motmCount": 0
+    },
+    "baccc6fb-0ec8-4dfb-b61e-521a85ef1fd8": {
+      "playerId": "baccc6fb-0ec8-4dfb-b61e-521a85ef1fd8",
+      "playerName": "Fernand Kalou",
+      "teamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "teamName": "Côte d'Ivoire",
+      "overall": 81,
+      "position": "CM",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        7,
+        6.8,
+        6.4,
+        7,
+        6.2
+      ],
+      "avgRating": 6.7,
+      "motmCount": 0
+    },
+    "4a9fc2df-0422-43e9-9335-7298cb4c0168": {
+      "playerId": "4a9fc2df-0422-43e9-9335-7298cb4c0168",
+      "playerName": "Lei Luo",
+      "teamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "teamName": "SPC",
+      "overall": 83,
+      "position": "CM",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.1
+      ],
+      "avgRating": 6.1,
+      "motmCount": 0
+    },
+    "253194cb-3dcd-4632-a72e-e462def8a66b": {
+      "playerId": "253194cb-3dcd-4632-a72e-e462def8a66b",
+      "playerName": "Gang Xiao",
+      "teamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "teamName": "SPC",
+      "overall": 84,
+      "position": "LM",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.1
+      ],
+      "avgRating": 6.1,
+      "motmCount": 0
+    },
+    "93dfe857-da61-4a31-acc4-cc6a8f57b9ea": {
+      "playerId": "93dfe857-da61-4a31-acc4-cc6a8f57b9ea",
+      "playerName": "En Ding",
+      "teamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "teamName": "SPC",
+      "overall": 83,
+      "position": "AM",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6
+      ],
+      "avgRating": 6,
+      "motmCount": 0
+    },
+    "e8cb564f-f280-44e9-aaa1-7515af4c2b9a": {
+      "playerId": "e8cb564f-f280-44e9-aaa1-7515af4c2b9a",
+      "playerName": "Fabrizio Bruno",
+      "teamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "teamName": "UGP",
+      "overall": 86,
+      "position": "RM",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 1,
+      "redCards": 0,
+      "matchRatings": [
+        6.8,
+        6.5,
+        6,
+        6
+      ],
+      "avgRating": 6.3,
+      "motmCount": 0
+    },
+    "d5b68063-dd51-4ad3-9682-37b3faf3a3c2": {
+      "playerId": "d5b68063-dd51-4ad3-9682-37b3faf3a3c2",
+      "playerName": "Ibrahim Faroug",
+      "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "teamName": "Empire Hussein",
+      "overall": 87,
+      "position": "LW",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        5.7
+      ],
+      "avgRating": 5.7,
+      "motmCount": 0
+    },
+    "aa1d0615-3bb7-4a6d-a440-7179a7fcd286": {
+      "playerId": "aa1d0615-3bb7-4a6d-a440-7179a7fcd286",
+      "playerName": "Kyle Phillips",
+      "teamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "teamName": "Deseret",
+      "overall": 87,
+      "position": "ST",
+      "goals": 1,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        7.5
+      ],
+      "avgRating": 7.5,
+      "motmCount": 0
+    },
+    "3202268e-ee1e-4b33-8a5a-91bf16b51619": {
+      "playerId": "3202268e-ee1e-4b33-8a5a-91bf16b51619",
+      "playerName": "Istas Zephyr",
+      "teamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "teamName": "FCLC",
+      "overall": 83,
+      "position": "LW",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        5.7,
+        5.8
+      ],
+      "avgRating": 5.8,
+      "motmCount": 0
+    },
+    "8e6ca1f6-ba3e-431b-8b80-2cc45318e0a9": {
+      "playerId": "8e6ca1f6-ba3e-431b-8b80-2cc45318e0a9",
+      "playerName": "Gustavo Romero",
+      "teamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "teamName": "FCLC",
+      "overall": 84,
+      "position": "ST",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6,
+        6
+      ],
+      "avgRating": 6,
+      "motmCount": 0
+    },
+    "2004a2c8-8bee-4dc6-a1cc-4f93dd846ea2": {
+      "playerId": "2004a2c8-8bee-4dc6-a1cc-4f93dd846ea2",
+      "playerName": "Parker Lee",
+      "teamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "teamName": "Deseret",
+      "overall": 83,
+      "position": "CM",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.4
+      ],
+      "avgRating": 6.4,
+      "motmCount": 0
+    },
+    "dd74fbf4-f964-410a-bde5-9e8947e3caf6": {
+      "playerId": "dd74fbf4-f964-410a-bde5-9e8947e3caf6",
+      "playerName": "Alberto De Angelis",
+      "teamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "teamName": "UGP",
+      "overall": 83,
+      "position": "LM",
+      "goals": 0,
+      "assists": 1,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [],
+      "avgRating": 0,
+      "motmCount": 0
+    },
+    "c4dfd3c2-2e37-4d66-b68c-63a153576142": {
+      "playerId": "c4dfd3c2-2e37-4d66-b68c-63a153576142",
+      "playerName": "Rémi Fournier",
+      "teamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "teamName": "5ème Internationale",
+      "overall": 78,
+      "position": "CB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        5.7
+      ],
+      "avgRating": 5.7,
+      "motmCount": 0
+    },
+    "609de258-0ecd-46cb-aa38-645b1e005f4d": {
+      "playerId": "609de258-0ecd-46cb-aa38-645b1e005f4d",
+      "playerName": "Nathan Martin",
+      "teamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "teamName": "5ème Internationale",
+      "overall": 80,
+      "position": "LB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6
+      ],
+      "avgRating": 6,
+      "motmCount": 0
+    },
+    "c8fb97c6-5a3d-4d8b-9ed0-57c81cccacd6": {
+      "playerId": "c8fb97c6-5a3d-4d8b-9ed0-57c81cccacd6",
+      "playerName": "Rui Pan",
+      "teamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "teamName": "SPC",
+      "overall": 82,
+      "position": "RM",
+      "goals": 0,
+      "assists": 1,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [],
+      "avgRating": 0,
+      "motmCount": 0
+    },
+    "091b8a84-5c2d-4bf9-97b8-3491632186ec": {
+      "playerId": "091b8a84-5c2d-4bf9-97b8-3491632186ec",
+      "playerName": "Gilles Niamké",
+      "teamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "teamName": "Côte d'Ivoire",
+      "overall": 88,
+      "position": "LW",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 1,
+      "redCards": 0,
+      "matchRatings": [
+        5.7
+      ],
+      "avgRating": 5.7,
+      "motmCount": 0
+    },
+    "14259458-87a1-4f2c-9ac8-a884be29ea29": {
+      "playerId": "14259458-87a1-4f2c-9ac8-a884be29ea29",
+      "playerName": "Issiaka Diomandé",
+      "teamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "teamName": "Côte d'Ivoire",
+      "overall": 78,
+      "position": "LB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 1,
+      "redCards": 0,
+      "matchRatings": [],
+      "avgRating": 0,
+      "motmCount": 0
+    },
+    "f7d4fa4e-d3fb-4f2c-a7c4-aed6dfccbcdb": {
+      "playerId": "f7d4fa4e-d3fb-4f2c-a7c4-aed6dfccbcdb",
+      "playerName": "Lacina Bony",
+      "teamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "teamName": "Côte d'Ivoire",
+      "overall": 86,
+      "position": "ST",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        5.7
+      ],
+      "avgRating": 5.7,
+      "motmCount": 0
+    },
+    "83ea9621-e62e-41d4-af61-139486a33ccb": {
+      "playerId": "83ea9621-e62e-41d4-af61-139486a33ccb",
+      "playerName": "Lacina Gradel",
+      "teamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "teamName": "Côte d'Ivoire",
+      "overall": 86,
+      "position": "RW",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "saves": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.1
+      ],
+      "avgRating": 6.1,
+      "motmCount": 0
+    }
+  },
   "config": {
     "legsPerMatch": 1,
     "thirdPlaceMatch": true,
@@ -303,8 +3688,8 @@
       "penalties": true
     }
   },
-  "currentRound": 1,
-  "status": "ongoing",
+  "currentRound": 5,
+  "status": "completed",
   "createdAt": "2026-06-26T20:44:37.544Z",
   "teamSnapshot": {
     "da633c6d-88ad-40f5-9ab5-6437d77c3797": {
@@ -357,17 +3742,7 @@
     }
   },
   "hostTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
-  "suspensions": [
-    {
-      "id": "b664491f-d8c9-4c25-a20d-8a811b60c58f",
-      "subjectId": "e8cb564f-f280-44e9-aaa1-7515af4c2b9a",
-      "subjectName": "Fabrizio Bruno",
-      "teamId": "110159bd-411c-409a-ba07-95216b092ba4",
-      "matchesRemaining": 1,
-      "reason": "Carton rouge",
-      "roundOccurred": 6
-    }
-  ],
+  "suspensions": [],
   "cmfDebutGenerated": true,
   "pressItems": [
     {
@@ -416,6 +3791,3417 @@
         "moment": "debut",
         "favoriteTeams": []
       }
+    },
+    {
+      "id": "d742455d-53e6-4e73-98de-541c5b358b7e",
+      "round": 1,
+      "teamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "category": "neutralite",
+      "headline": "Match nul frustrant pour 5ème Internationale",
+      "body": "Un point pris ou deux points perdus ? 5ème Internationale repart avec un sentiment mitigé.",
+      "moraleBefore": 50,
+      "moraleAfter": 51,
+      "createdAt": "2026-06-26T20:46:12.977Z",
+      "matchId": "20kc3ocwmqvegaw8",
+      "matchSnapshot": {
+        "homeTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+        "awayTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+        "homeTeamName": "5ème Internationale",
+        "awayTeamName": "SPC",
+        "homeScore": 2,
+        "awayScore": 2,
+        "stats": {
+          "shots": {
+            "home": 15,
+            "away": 11
+          },
+          "possession": {
+            "home": 51,
+            "away": 49
+          },
+          "shotsOnTarget": {
+            "home": 10,
+            "away": 4
+          },
+          "corners": {
+            "home": 1,
+            "away": 3
+          },
+          "fouls": {
+            "home": 6,
+            "away": 1
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 0
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "2caa7860-2d4a-42f0-a5cf-7763cd065ab7",
+          "playerName": "Tian Cao",
+          "teamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+          "teamName": "SPC",
+          "rating": 9.1
+        }
+      }
+    },
+    {
+      "id": "53fa04ec-d1bc-4d13-b443-198021f73aa3",
+      "round": 1,
+      "teamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "category": "neutralite",
+      "headline": "SPC s'arrache le point du nul in extremis",
+      "body": "Le vestiaire de SPC est partagé entre soulagement et déception. Un point dans ces conditions, c'est peu et beaucoup à la fois. Mais la tendance n'est pas idéale.",
+      "moraleBefore": 50,
+      "moraleAfter": 51,
+      "createdAt": "2026-06-26T20:46:12.978Z",
+      "matchId": "20kc3ocwmqvegaw8",
+      "matchSnapshot": {
+        "homeTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+        "awayTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+        "homeTeamName": "5ème Internationale",
+        "awayTeamName": "SPC",
+        "homeScore": 2,
+        "awayScore": 2,
+        "stats": {
+          "shots": {
+            "home": 15,
+            "away": 11
+          },
+          "possession": {
+            "home": 51,
+            "away": 49
+          },
+          "shotsOnTarget": {
+            "home": 10,
+            "away": 4
+          },
+          "corners": {
+            "home": 1,
+            "away": 3
+          },
+          "fouls": {
+            "home": 6,
+            "away": 1
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 0
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "2caa7860-2d4a-42f0-a5cf-7763cd065ab7",
+          "playerName": "Tian Cao",
+          "teamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+          "teamName": "SPC",
+          "rating": 9.1
+        }
+      }
+    },
+    {
+      "id": "fef37498-bce7-49ba-ac08-7b7f09a21668",
+      "round": 1,
+      "teamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "category": "critique",
+      "headline": "On a honte pour eux : UGP n'est plus une équipe",
+      "body": "UGP s'est couché dès la première mi-temps. Ces gars-là ont l'air de s'en foutre royalement. Pas de réaction, pas d'orgueil, pas de caractère. C'est une bande de joueurs sans couilles qui méritent exactement ce qu'ils récoltent ce soir. Comment Luigi Fontana peut encore aligner cette équipe dans cet état ? Mystère. Samuele De Angelis a été inexistant. Fantôme. Absent total.",
+      "moraleBefore": 50,
+      "moraleAfter": 45,
+      "moraleShock": -12,
+      "createdAt": "2026-06-26T20:46:12.978Z",
+      "mentions": [
+        {
+          "type": "coach",
+          "name": "Luigi Fontana",
+          "overall": 71,
+          "stats": {
+            "motivation": 17,
+            "tactique": 16,
+            "offensive": 12,
+            "defensif": 9,
+            "mentalite": 15,
+            "gestion": 12
+          },
+          "positiveTraits": [
+            "defensif"
+          ],
+          "negativeTraits": []
+        },
+        {
+          "type": "player",
+          "name": "Samuele De Angelis",
+          "overall": 95,
+          "position": "ST",
+          "stats": {
+            "technical": {
+              "passing": 10,
+              "crossing": 11,
+              "dribbling": 20,
+              "finishing": 20,
+              "firstTouch": 12,
+              "heading": 20,
+              "longShots": 9,
+              "tackling": 10,
+              "marking": 13
+            },
+            "mental": {
+              "vision": 10,
+              "decisions": 14,
+              "composure": 20,
+              "anticipation": 14,
+              "offTheBall": 20,
+              "aggression": 10,
+              "workRate": 11
+            },
+            "physical": {
+              "pace": 15,
+              "acceleration": 9,
+              "strength": 16,
+              "stamina": 20,
+              "agility": 20,
+              "balance": 15,
+              "jumping": 18
+            }
+          }
+        }
+      ],
+      "journalist": {
+        "name": "Marco Ferreira",
+        "outlet": "Gazette Sportive Mondiale"
+      },
+      "matchId": "2wn5jmr7mqvegaw8",
+      "matchSnapshot": {
+        "homeTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+        "awayTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+        "homeTeamName": "UGP",
+        "awayTeamName": "UDA",
+        "homeScore": 1,
+        "awayScore": 4,
+        "stats": {
+          "shots": {
+            "home": 16,
+            "away": 9
+          },
+          "possession": {
+            "home": 54,
+            "away": 46
+          },
+          "shotsOnTarget": {
+            "home": 7,
+            "away": 5
+          },
+          "corners": {
+            "home": 1,
+            "away": 1
+          },
+          "fouls": {
+            "home": 4,
+            "away": 6
+          },
+          "yellowCards": {
+            "home": 1,
+            "away": 1
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "75811d88-67bf-455a-98de-a3469da03099",
+          "playerName": "Sheng Han",
+          "teamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+          "teamName": "UDA",
+          "rating": 9.1
+        }
+      }
+    },
+    {
+      "id": "2acc699e-3d4f-4dab-b01a-595d3c9b97d2",
+      "round": 1,
+      "teamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "category": "exploit",
+      "headline": "Insolent de facilité : UDA écrase tout sur son passage",
+      "body": "Des vestiaires aux tribunes, l'euphorie est totale chez UDA. \"On a tout réussi ce soir. Tout\", soufflait un joueur du groupe, encore incrédule. Zhi Cai a été omniprésent — ses adversaires n'ont pas trouvé la parade.",
+      "moraleBefore": 50,
+      "moraleAfter": 56,
+      "moraleBoost": 9,
+      "createdAt": "2026-06-26T20:46:12.978Z",
+      "mentions": [
+        {
+          "type": "player",
+          "name": "Zhi Cai",
+          "overall": 89,
+          "position": "LW",
+          "stats": {
+            "technical": {
+              "passing": 20,
+              "crossing": 20,
+              "dribbling": 20,
+              "finishing": 14,
+              "firstTouch": 17,
+              "heading": 7,
+              "longShots": 14,
+              "tackling": 7,
+              "marking": 11
+            },
+            "mental": {
+              "vision": 17,
+              "decisions": 7,
+              "composure": 12,
+              "anticipation": 11,
+              "offTheBall": 16,
+              "aggression": 5,
+              "workRate": 15
+            },
+            "physical": {
+              "pace": 20,
+              "acceleration": 20,
+              "strength": 12,
+              "stamina": 11,
+              "agility": 7,
+              "balance": 17,
+              "jumping": 15
+            }
+          }
+        }
+      ],
+      "matchId": "2wn5jmr7mqvegaw8",
+      "matchSnapshot": {
+        "homeTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+        "awayTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+        "homeTeamName": "UGP",
+        "awayTeamName": "UDA",
+        "homeScore": 1,
+        "awayScore": 4,
+        "stats": {
+          "shots": {
+            "home": 16,
+            "away": 9
+          },
+          "possession": {
+            "home": 54,
+            "away": 46
+          },
+          "shotsOnTarget": {
+            "home": 7,
+            "away": 5
+          },
+          "corners": {
+            "home": 1,
+            "away": 1
+          },
+          "fouls": {
+            "home": 4,
+            "away": 6
+          },
+          "yellowCards": {
+            "home": 1,
+            "away": 1
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "75811d88-67bf-455a-98de-a3469da03099",
+          "playerName": "Sheng Han",
+          "teamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+          "teamName": "UDA",
+          "rating": 9.1
+        }
+      }
+    },
+    {
+      "id": "c2d80839-29bf-472f-9a14-eeee6a5c6142",
+      "round": 1,
+      "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "category": "exploit",
+      "headline": "EXPLOIT : Empire Hussein humilie son adversaire et fait trembler la compétition",
+      "body": "Le sélectionneur de Empire Hussein avait des larmes aux yeux au coup de sifflet final. \"Je n'ai jamais vu mon groupe aussi fort mentalement\", a-t-il confié. Trois points précieux qui changent la physionomie du groupe pour Empire Hussein. Khaaled Hussain a livré un chef-d'œuvre tactique ce soir.",
+      "moraleBefore": 50,
+      "moraleAfter": 56,
+      "moraleBoost": 13,
+      "createdAt": "2026-06-26T20:46:12.978Z",
+      "mentions": [
+        {
+          "type": "coach",
+          "name": "Khaaled Hussain",
+          "overall": 68,
+          "stats": {
+            "motivation": 11,
+            "tactique": 17,
+            "offensive": 20,
+            "defensif": 12,
+            "mentalite": 12,
+            "gestion": 9
+          },
+          "positiveTraits": [
+            "motivateur"
+          ],
+          "negativeTraits": []
+        }
+      ],
+      "matchId": "nvuj1a2wmqvegaw8",
+      "matchSnapshot": {
+        "homeTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+        "awayTeamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+        "homeTeamName": "Empire Hussein",
+        "awayTeamName": "FCLC",
+        "homeScore": 3,
+        "awayScore": 0,
+        "stats": {
+          "shots": {
+            "home": 10,
+            "away": 22
+          },
+          "possession": {
+            "home": 35,
+            "away": 65
+          },
+          "shotsOnTarget": {
+            "home": 6,
+            "away": 10
+          },
+          "corners": {
+            "home": 1,
+            "away": 2
+          },
+          "fouls": {
+            "home": 3,
+            "away": 2
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 0
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "aff7b68e-f32e-47eb-ab8e-96007c9b2a38",
+          "playerName": "Rabah Lado",
+          "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+          "teamName": "Empire Hussein",
+          "rating": 9.8
+        }
+      }
+    },
+    {
+      "id": "3ba6ef1b-06f6-4c17-a58f-3e3fb271ec8c",
+      "round": 1,
+      "teamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "category": "crise",
+      "headline": "Naufrage de FCLC : le moral est au plus bas",
+      "body": "La question de l'avenir du sélectionneur de FCLC se pose avec insistance. Les dirigeants auraient exigé une réunion d'urgence. Rien n'est officiel encore — mais rien n'est rassurant non plus. Mauvaise passe pour FCLC qui se retrouve dans les profondeurs du classement. La qualification est encore possible, mais le chemin va être long et douloureux. Il faut gagner, et vite.",
+      "moraleBefore": 50,
+      "moraleAfter": 45,
+      "createdAt": "2026-06-26T20:46:12.979Z",
+      "matchId": "nvuj1a2wmqvegaw8",
+      "matchSnapshot": {
+        "homeTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+        "awayTeamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+        "homeTeamName": "Empire Hussein",
+        "awayTeamName": "FCLC",
+        "homeScore": 3,
+        "awayScore": 0,
+        "stats": {
+          "shots": {
+            "home": 10,
+            "away": 22
+          },
+          "possession": {
+            "home": 35,
+            "away": 65
+          },
+          "shotsOnTarget": {
+            "home": 6,
+            "away": 10
+          },
+          "corners": {
+            "home": 1,
+            "away": 2
+          },
+          "fouls": {
+            "home": 3,
+            "away": 2
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 0
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "aff7b68e-f32e-47eb-ab8e-96007c9b2a38",
+          "playerName": "Rabah Lado",
+          "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+          "teamName": "Empire Hussein",
+          "rating": 9.8
+        }
+      }
+    },
+    {
+      "id": "3db41d34-cb90-46a2-b8c0-a969e88e23a1",
+      "round": 1,
+      "teamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "category": "defaite",
+      "headline": "Deseret ne confirme pas — la dynamique se brise",
+      "body": "Difficile soirée pour Deseret. Le staff réclame plus de solidité défensive et de concentration. On attendait plus de Kevin Anderson dans les moments décisifs.",
+      "moraleBefore": 50,
+      "moraleAfter": 45,
+      "createdAt": "2026-06-26T20:46:12.979Z",
+      "mentions": [
+        {
+          "type": "player",
+          "name": "Kevin Anderson",
+          "overall": 89,
+          "position": "RW",
+          "stats": {
+            "technical": {
+              "passing": 13,
+              "crossing": 20,
+              "dribbling": 18,
+              "finishing": 16,
+              "firstTouch": 10,
+              "heading": 6,
+              "longShots": 12,
+              "tackling": 7,
+              "marking": 14
+            },
+            "mental": {
+              "vision": 7,
+              "decisions": 9,
+              "composure": 8,
+              "anticipation": 11,
+              "offTheBall": 12,
+              "aggression": 13,
+              "workRate": 12
+            },
+            "physical": {
+              "pace": 15,
+              "acceleration": 19,
+              "strength": 15,
+              "stamina": 14,
+              "agility": 20,
+              "balance": 10,
+              "jumping": 10
+            }
+          }
+        }
+      ],
+      "matchId": "zrvpb6remqvegaw8",
+      "matchSnapshot": {
+        "homeTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+        "awayTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+        "homeTeamName": "Deseret",
+        "awayTeamName": "Côte d'Ivoire",
+        "homeScore": 0,
+        "awayScore": 2,
+        "stats": {
+          "shots": {
+            "home": 9,
+            "away": 19
+          },
+          "possession": {
+            "home": 48,
+            "away": 52
+          },
+          "shotsOnTarget": {
+            "home": 5,
+            "away": 14
+          },
+          "corners": {
+            "home": 1,
+            "away": 1
+          },
+          "fouls": {
+            "home": 8,
+            "away": 6
+          },
+          "yellowCards": {
+            "home": 1,
+            "away": 1
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "c396afd9-975e-4f0a-93bb-cadf6ba5a3a9",
+          "playerName": "Spencer Brown",
+          "teamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+          "teamName": "Deseret",
+          "rating": 8.7
+        }
+      }
+    },
+    {
+      "id": "45787406-c203-4749-aab1-367a18421f60",
+      "round": 1,
+      "teamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "category": "victoire",
+      "headline": "Victoire méritée pour Côte d'Ivoire qui ne lâche rien",
+      "body": "\"Victoire bonifiée ou pas, on s'en fiche — les points comptent\", a tranché le sélectionneur de Côte d'Ivoire avec un sourire de satisfaction.",
+      "moraleBefore": 50,
+      "moraleAfter": 56,
+      "moraleBoost": 8,
+      "createdAt": "2026-06-26T20:46:12.979Z",
+      "matchId": "zrvpb6remqvegaw8",
+      "matchSnapshot": {
+        "homeTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+        "awayTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+        "homeTeamName": "Deseret",
+        "awayTeamName": "Côte d'Ivoire",
+        "homeScore": 0,
+        "awayScore": 2,
+        "stats": {
+          "shots": {
+            "home": 9,
+            "away": 19
+          },
+          "possession": {
+            "home": 48,
+            "away": 52
+          },
+          "shotsOnTarget": {
+            "home": 5,
+            "away": 14
+          },
+          "corners": {
+            "home": 1,
+            "away": 1
+          },
+          "fouls": {
+            "home": 8,
+            "away": 6
+          },
+          "yellowCards": {
+            "home": 1,
+            "away": 1
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "c396afd9-975e-4f0a-93bb-cadf6ba5a3a9",
+          "playerName": "Spencer Brown",
+          "teamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+          "teamName": "Deseret",
+          "rating": 8.7
+        }
+      }
+    },
+    {
+      "id": "126d5122-e1a2-488e-8eb9-c689340c0d55",
+      "round": 2,
+      "teamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "category": "critique",
+      "headline": "Catastrophe 5ème Internationale : le niveau est alarmant",
+      "body": "On attendait un sursaut d'orgueil. On a eu droit à la même soupe tiède, molle et sans saveur. 5ème Internationale joue sans conviction, sans intensité, sans le moindre signe d'une équipe qui veut vraiment aller de l'avant. Alice Cosmette n'a pas les solutions. Ça commence à se voir. Lucas Simon en deçà de tout ce soir. Très en deçà.",
+      "moraleBefore": 51,
+      "moraleAfter": 46,
+      "moraleShock": -8,
+      "createdAt": "2026-06-26T20:47:48.172Z",
+      "mentions": [
+        {
+          "type": "coach",
+          "name": "Alice Cosmette",
+          "overall": 77,
+          "stats": {
+            "motivation": 17,
+            "tactique": 10,
+            "offensive": 19,
+            "defensif": 19,
+            "mentalite": 15,
+            "gestion": 12
+          },
+          "positiveTraits": [
+            "opportuniste",
+            "tacticien"
+          ],
+          "negativeTraits": [
+            "conflictuel",
+            "imprevoyant",
+            "alcoolique"
+          ]
+        },
+        {
+          "type": "player",
+          "name": "Lucas Simon",
+          "overall": 83,
+          "position": "LW",
+          "stats": {
+            "technical": {
+              "passing": 16,
+              "crossing": 16,
+              "dribbling": 15,
+              "finishing": 13,
+              "firstTouch": 13,
+              "heading": 12,
+              "longShots": 15,
+              "tackling": 10,
+              "marking": 6
+            },
+            "mental": {
+              "vision": 12,
+              "decisions": 18,
+              "composure": 14,
+              "anticipation": 15,
+              "offTheBall": 14,
+              "aggression": 12,
+              "workRate": 13
+            },
+            "physical": {
+              "pace": 20,
+              "acceleration": 20,
+              "strength": 15,
+              "stamina": 15,
+              "agility": 12,
+              "balance": 8,
+              "jumping": 9
+            }
+          }
+        }
+      ],
+      "journalist": {
+        "name": "Christophe Duval",
+        "outlet": "L'Observateur Sportif"
+      },
+      "matchId": "4nw6gfp7mqvegaw8",
+      "matchSnapshot": {
+        "homeTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+        "awayTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+        "homeTeamName": "5ème Internationale",
+        "awayTeamName": "UDA",
+        "homeScore": 2,
+        "awayScore": 4,
+        "stats": {
+          "shots": {
+            "home": 20,
+            "away": 15
+          },
+          "possession": {
+            "home": 61,
+            "away": 39
+          },
+          "shotsOnTarget": {
+            "home": 11,
+            "away": 11
+          },
+          "corners": {
+            "home": 1,
+            "away": 0
+          },
+          "fouls": {
+            "home": 4,
+            "away": 8
+          },
+          "yellowCards": {
+            "home": 1,
+            "away": 2
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "dbef5bfc-f6f6-4693-9c47-0566d870f06e",
+          "playerName": "Ou Lu",
+          "teamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+          "teamName": "UDA",
+          "rating": 9.5
+        }
+      }
+    },
+    {
+      "id": "b1f6b7a8-847c-4990-9e65-1791b9d9d1cc",
+      "round": 2,
+      "teamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "category": "victoire",
+      "headline": "UDA confirme ses ambitions avec une belle victoire",
+      "body": "Après la rencontre, le capitaine de UDA a réuni ses hommes au centre du terrain. Quelques mots, une accolade. Le groupe est là. En grande forme, En Xu a été l'un des artisans de ce succès.",
+      "moraleBefore": 65,
+      "moraleAfter": 71,
+      "moraleBoost": 6,
+      "createdAt": "2026-06-26T20:47:48.172Z",
+      "mentions": [
+        {
+          "type": "player",
+          "name": "En Xu",
+          "overall": 87,
+          "position": "ST",
+          "stats": {
+            "technical": {
+              "passing": 17,
+              "crossing": 12,
+              "dribbling": 10,
+              "finishing": 20,
+              "firstTouch": 9,
+              "heading": 16,
+              "longShots": 9,
+              "tackling": 14,
+              "marking": 7
+            },
+            "mental": {
+              "vision": 13,
+              "decisions": 11,
+              "composure": 18,
+              "anticipation": 18,
+              "offTheBall": 20,
+              "aggression": 14,
+              "workRate": 10
+            },
+            "physical": {
+              "pace": 12,
+              "acceleration": 12,
+              "strength": 17,
+              "stamina": 13,
+              "agility": 15,
+              "balance": 20,
+              "jumping": 12
+            }
+          }
+        }
+      ],
+      "matchId": "4nw6gfp7mqvegaw8",
+      "matchSnapshot": {
+        "homeTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+        "awayTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+        "homeTeamName": "5ème Internationale",
+        "awayTeamName": "UDA",
+        "homeScore": 2,
+        "awayScore": 4,
+        "stats": {
+          "shots": {
+            "home": 20,
+            "away": 15
+          },
+          "possession": {
+            "home": 61,
+            "away": 39
+          },
+          "shotsOnTarget": {
+            "home": 11,
+            "away": 11
+          },
+          "corners": {
+            "home": 1,
+            "away": 0
+          },
+          "fouls": {
+            "home": 4,
+            "away": 8
+          },
+          "yellowCards": {
+            "home": 1,
+            "away": 2
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "dbef5bfc-f6f6-4693-9c47-0566d870f06e",
+          "playerName": "Ou Lu",
+          "teamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+          "teamName": "UDA",
+          "rating": 9.5
+        }
+      }
+    },
+    {
+      "id": "97f176d8-24fb-4104-a5f5-2abca9c5e627",
+      "round": 2,
+      "teamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "category": "defaite",
+      "headline": "Soirée noire pour SPC : sans idées, sans efficacité",
+      "body": "Difficile soirée pour SPC. Le staff réclame plus de solidité défensive et de concentration.",
+      "moraleBefore": 51,
+      "moraleAfter": 47,
+      "createdAt": "2026-06-26T20:47:48.173Z",
+      "matchId": "i18gba3vmqvegaw8",
+      "matchSnapshot": {
+        "homeTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+        "awayTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+        "homeTeamName": "SPC",
+        "awayTeamName": "UGP",
+        "homeScore": 1,
+        "awayScore": 2,
+        "stats": {
+          "shots": {
+            "home": 10,
+            "away": 18
+          },
+          "possession": {
+            "home": 38,
+            "away": 62
+          },
+          "shotsOnTarget": {
+            "home": 10,
+            "away": 11
+          },
+          "corners": {
+            "home": 2,
+            "away": 6
+          },
+          "fouls": {
+            "home": 2,
+            "away": 6
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 0
+          },
+          "redCards": {
+            "home": 0,
+            "away": 1
+          }
+        },
+        "motm": {
+          "playerId": "0663f1b8-69bb-449e-8716-a18823b621f5",
+          "playerName": "Wen Fu",
+          "teamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+          "teamName": "SPC",
+          "rating": 8.4
+        }
+      }
+    },
+    {
+      "id": "3c535118-6c64-48f3-b3b9-0bcb6c2382d8",
+      "round": 2,
+      "teamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "category": "victoire",
+      "headline": "Nette victoire de UGP : la dynamique est là",
+      "body": "L'efficacité de UGP ce soir a épaté les observateurs. Peu de déchet, beaucoup d'intensité. Un schéma qui porte ses fruits. Trois points précieux qui changent la physionomie du groupe pour UGP. Samuele De Angelis s'est particulièrement distingué ce soir.",
+      "moraleBefore": 33,
+      "moraleAfter": 38,
+      "moraleBoost": 6,
+      "createdAt": "2026-06-26T20:47:48.173Z",
+      "mentions": [
+        {
+          "type": "player",
+          "name": "Samuele De Angelis",
+          "overall": 95,
+          "position": "ST",
+          "stats": {
+            "technical": {
+              "passing": 10,
+              "crossing": 11,
+              "dribbling": 20,
+              "finishing": 20,
+              "firstTouch": 12,
+              "heading": 20,
+              "longShots": 9,
+              "tackling": 10,
+              "marking": 13
+            },
+            "mental": {
+              "vision": 10,
+              "decisions": 14,
+              "composure": 20,
+              "anticipation": 14,
+              "offTheBall": 20,
+              "aggression": 10,
+              "workRate": 11
+            },
+            "physical": {
+              "pace": 15,
+              "acceleration": 9,
+              "strength": 16,
+              "stamina": 20,
+              "agility": 20,
+              "balance": 15,
+              "jumping": 18
+            }
+          }
+        }
+      ],
+      "matchId": "i18gba3vmqvegaw8",
+      "matchSnapshot": {
+        "homeTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+        "awayTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+        "homeTeamName": "SPC",
+        "awayTeamName": "UGP",
+        "homeScore": 1,
+        "awayScore": 2,
+        "stats": {
+          "shots": {
+            "home": 10,
+            "away": 18
+          },
+          "possession": {
+            "home": 38,
+            "away": 62
+          },
+          "shotsOnTarget": {
+            "home": 10,
+            "away": 11
+          },
+          "corners": {
+            "home": 2,
+            "away": 6
+          },
+          "fouls": {
+            "home": 2,
+            "away": 6
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 0
+          },
+          "redCards": {
+            "home": 0,
+            "away": 1
+          }
+        },
+        "motm": {
+          "playerId": "0663f1b8-69bb-449e-8716-a18823b621f5",
+          "playerName": "Wen Fu",
+          "teamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+          "teamName": "SPC",
+          "rating": 8.4
+        }
+      }
+    },
+    {
+      "id": "da4398a7-7f8b-462d-8c95-3640e9f195ae",
+      "round": 2,
+      "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "category": "victoire",
+      "headline": "Empire Hussein prend les trois points et envoie un signal fort",
+      "body": "La victoire fait du bien. L'ambiance dans le groupe Empire Hussein est au plus haut, et ça se voit à l'entraînement. Empire Hussein grimpe au classement et se replace dans la course. Les calculs se réajustent. Khaaled Hussain peut savourer — ses choix ont payé ce soir.",
+      "moraleBefore": 69,
+      "moraleAfter": 74,
+      "moraleBoost": 5,
+      "createdAt": "2026-06-26T20:47:48.173Z",
+      "mentions": [
+        {
+          "type": "coach",
+          "name": "Khaaled Hussain",
+          "overall": 68,
+          "stats": {
+            "motivation": 11,
+            "tactique": 17,
+            "offensive": 20,
+            "defensif": 12,
+            "mentalite": 12,
+            "gestion": 9
+          },
+          "positiveTraits": [
+            "motivateur"
+          ],
+          "negativeTraits": []
+        }
+      ],
+      "matchId": "9l2vmizimqvegaw8",
+      "matchSnapshot": {
+        "homeTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+        "awayTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+        "homeTeamName": "Empire Hussein",
+        "awayTeamName": "Côte d'Ivoire",
+        "homeScore": 1,
+        "awayScore": 0,
+        "stats": {
+          "shots": {
+            "home": 13,
+            "away": 21
+          },
+          "possession": {
+            "home": 49,
+            "away": 51
+          },
+          "shotsOnTarget": {
+            "home": 10,
+            "away": 7
+          },
+          "corners": {
+            "home": 0,
+            "away": 1
+          },
+          "fouls": {
+            "home": 2,
+            "away": 5
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 0
+          },
+          "redCards": {
+            "home": 1,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "aff7b68e-f32e-47eb-ab8e-96007c9b2a38",
+          "playerName": "Rabah Lado",
+          "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+          "teamName": "Empire Hussein",
+          "rating": 8.9
+        }
+      }
+    },
+    {
+      "id": "38ad480e-0046-400b-ab5f-2b08c96e1a25",
+      "round": 2,
+      "teamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "category": "defaite",
+      "headline": "\"On a été en-dessous\" — Côte d'Ivoire se flagelle après la défaite",
+      "body": "Dans les couloirs du stade, un membre du staff de Côte d'Ivoire chuchotait : \"On a perdu le fil au mauvais moment.\" Trouver ce fil avant le prochain match sera la priorité. Nicolas Digbeu n'a pas su trouver les mots pour relancer les siens. On attendait plus de Lacina Gradel dans les moments décisifs.",
+      "moraleBefore": 64,
+      "moraleAfter": 60,
+      "createdAt": "2026-06-26T20:47:48.174Z",
+      "mentions": [
+        {
+          "type": "coach",
+          "name": "Nicolas Digbeu",
+          "overall": 76,
+          "stats": {
+            "motivation": 10,
+            "tactique": 18,
+            "offensive": 13,
+            "defensif": 15,
+            "mentalite": 19,
+            "gestion": 18
+          },
+          "positiveTraits": [],
+          "negativeTraits": [
+            "impulsif"
+          ]
+        },
+        {
+          "type": "player",
+          "name": "Lacina Gradel",
+          "overall": 86,
+          "position": "RW",
+          "stats": {
+            "technical": {
+              "passing": 15,
+              "crossing": 17,
+              "dribbling": 20,
+              "finishing": 15,
+              "firstTouch": 12,
+              "heading": 16,
+              "longShots": 17,
+              "tackling": 9,
+              "marking": 15
+            },
+            "mental": {
+              "vision": 13,
+              "decisions": 10,
+              "composure": 15,
+              "anticipation": 13,
+              "offTheBall": 13,
+              "aggression": 9,
+              "workRate": 12
+            },
+            "physical": {
+              "pace": 17,
+              "acceleration": 16,
+              "strength": 11,
+              "stamina": 14,
+              "agility": 16,
+              "balance": 12,
+              "jumping": 12
+            }
+          }
+        }
+      ],
+      "matchId": "9l2vmizimqvegaw8",
+      "matchSnapshot": {
+        "homeTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+        "awayTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+        "homeTeamName": "Empire Hussein",
+        "awayTeamName": "Côte d'Ivoire",
+        "homeScore": 1,
+        "awayScore": 0,
+        "stats": {
+          "shots": {
+            "home": 13,
+            "away": 21
+          },
+          "possession": {
+            "home": 49,
+            "away": 51
+          },
+          "shotsOnTarget": {
+            "home": 10,
+            "away": 7
+          },
+          "corners": {
+            "home": 0,
+            "away": 1
+          },
+          "fouls": {
+            "home": 2,
+            "away": 5
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 0
+          },
+          "redCards": {
+            "home": 1,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "aff7b68e-f32e-47eb-ab8e-96007c9b2a38",
+          "playerName": "Rabah Lado",
+          "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+          "teamName": "Empire Hussein",
+          "rating": 8.9
+        }
+      }
+    },
+    {
+      "id": "e6db654b-9cfa-4183-bd62-e9d588a17318",
+      "round": 2,
+      "teamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "category": "critique",
+      "headline": "FCLC en mode figurant — encore une fois",
+      "body": "Les supporters de FCLC méritent mieux que ça. Beaucoup mieux. Ce groupe ne se bat pas, ne court pas, ne joue pas. Il subit. Et ce soir, tout le monde l'a vu. Isabel Valdes sort de ce match sans réponses et sans crédibilité. On attendait que Jhon Torres se lève — il est resté assis.",
+      "moraleBefore": 45,
+      "moraleAfter": 41,
+      "moraleShock": -11,
+      "createdAt": "2026-06-26T20:47:48.174Z",
+      "mentions": [
+        {
+          "type": "coach",
+          "name": "Isabel Valdes",
+          "overall": 85,
+          "stats": {
+            "motivation": 17,
+            "tactique": 20,
+            "offensive": 19,
+            "defensif": 18,
+            "mentalite": 13,
+            "gestion": 15
+          },
+          "positiveTraits": [
+            "charismatique"
+          ],
+          "negativeTraits": []
+        },
+        {
+          "type": "player",
+          "name": "Jhon Torres",
+          "overall": 87,
+          "position": "ST",
+          "stats": {
+            "technical": {
+              "passing": 15,
+              "crossing": 13,
+              "dribbling": 11,
+              "finishing": 20,
+              "firstTouch": 14,
+              "heading": 17,
+              "longShots": 8,
+              "tackling": 13,
+              "marking": 11
+            },
+            "mental": {
+              "vision": 13,
+              "decisions": 13,
+              "composure": 15,
+              "anticipation": 11,
+              "offTheBall": 20,
+              "aggression": 9,
+              "workRate": 12
+            },
+            "physical": {
+              "pace": 17,
+              "acceleration": 9,
+              "strength": 15,
+              "stamina": 16,
+              "agility": 8,
+              "balance": 7,
+              "jumping": 11
+            }
+          }
+        }
+      ],
+      "journalist": {
+        "name": "René Delacroix",
+        "outlet": "La Plume du Stade"
+      },
+      "matchId": "hlrugkvcmqvegaw8",
+      "matchSnapshot": {
+        "homeTeamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+        "awayTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+        "homeTeamName": "FCLC",
+        "awayTeamName": "Deseret",
+        "homeScore": 0,
+        "awayScore": 1,
+        "stats": {
+          "shots": {
+            "home": 17,
+            "away": 11
+          },
+          "possession": {
+            "home": 54,
+            "away": 46
+          },
+          "shotsOnTarget": {
+            "home": 7,
+            "away": 5
+          },
+          "corners": {
+            "home": 4,
+            "away": 2
+          },
+          "fouls": {
+            "home": 5,
+            "away": 3
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 0
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "c396afd9-975e-4f0a-93bb-cadf6ba5a3a9",
+          "playerName": "Spencer Brown",
+          "teamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+          "teamName": "Deseret",
+          "rating": 8.9
+        }
+      }
+    },
+    {
+      "id": "2ede003d-294f-41e4-bbf7-e988c149b758",
+      "round": 2,
+      "teamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "category": "victoire",
+      "headline": "Deseret s'impose avec maîtrise — un succès qui fait du bien",
+      "body": "Après ce succès convaincant, les joueurs de Deseret affichent une confiance retrouvée. Le vestiaire est soudé. En grande forme, Liam White a été l'un des artisans de ce succès.",
+      "moraleBefore": 45,
+      "moraleAfter": 50,
+      "moraleBoost": 4,
+      "createdAt": "2026-06-26T20:47:48.175Z",
+      "mentions": [
+        {
+          "type": "player",
+          "name": "Liam White",
+          "overall": 92,
+          "position": "DM",
+          "stats": {
+            "technical": {
+              "passing": 13,
+              "crossing": 14,
+              "dribbling": 11,
+              "finishing": 9,
+              "firstTouch": 13,
+              "heading": 10,
+              "longShots": 14,
+              "tackling": 20,
+              "marking": 19
+            },
+            "mental": {
+              "vision": 13,
+              "decisions": 20,
+              "composure": 18,
+              "anticipation": 20,
+              "offTheBall": 12,
+              "aggression": 14,
+              "workRate": 19
+            },
+            "physical": {
+              "pace": 12,
+              "acceleration": 10,
+              "strength": 14,
+              "stamina": 14,
+              "agility": 10,
+              "balance": 17,
+              "jumping": 12
+            }
+          }
+        }
+      ],
+      "matchId": "hlrugkvcmqvegaw8",
+      "matchSnapshot": {
+        "homeTeamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+        "awayTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+        "homeTeamName": "FCLC",
+        "awayTeamName": "Deseret",
+        "homeScore": 0,
+        "awayScore": 1,
+        "stats": {
+          "shots": {
+            "home": 17,
+            "away": 11
+          },
+          "possession": {
+            "home": 54,
+            "away": 46
+          },
+          "shotsOnTarget": {
+            "home": 7,
+            "away": 5
+          },
+          "corners": {
+            "home": 4,
+            "away": 2
+          },
+          "fouls": {
+            "home": 5,
+            "away": 3
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 0
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "c396afd9-975e-4f0a-93bb-cadf6ba5a3a9",
+          "playerName": "Spencer Brown",
+          "teamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+          "teamName": "Deseret",
+          "rating": 8.9
+        }
+      }
+    },
+    {
+      "id": "6d60a7a5-ed9a-4f6c-929c-2575f960ba7a",
+      "round": 3,
+      "teamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "category": "crise",
+      "headline": "5ème Internationale dit adieu à la compétition — l'heure du bilan",
+      "body": "C'est mathématiquement acté. 5ème Internationale ne peut plus se qualifier. Une compétition à oublier au plus vite, dont les leçons devront pourtant être tirées. Le bilan est lourd : manque de caractère, résultats insuffisants, prestation globale indigne des attentes. Alice Cosmette a reconnu ses erreurs — trop tard pour changer le cours du match.",
+      "moraleBefore": 38,
+      "moraleAfter": 34,
+      "moraleShock": -14,
+      "createdAt": "2026-06-26T20:49:16.329Z",
+      "mentions": [
+        {
+          "type": "coach",
+          "name": "Alice Cosmette",
+          "overall": 77,
+          "stats": {
+            "motivation": 17,
+            "tactique": 10,
+            "offensive": 19,
+            "defensif": 19,
+            "mentalite": 15,
+            "gestion": 12
+          },
+          "positiveTraits": [
+            "opportuniste",
+            "tacticien"
+          ],
+          "negativeTraits": [
+            "conflictuel",
+            "imprevoyant",
+            "alcoolique"
+          ]
+        }
+      ],
+      "matchId": "5a92cafymqvegaw8",
+      "matchSnapshot": {
+        "homeTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+        "awayTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+        "homeTeamName": "5ème Internationale",
+        "awayTeamName": "UGP",
+        "homeScore": 1,
+        "awayScore": 2,
+        "stats": {
+          "shots": {
+            "home": 3,
+            "away": 22
+          },
+          "possession": {
+            "home": 46,
+            "away": 54
+          },
+          "shotsOnTarget": {
+            "home": 3,
+            "away": 13
+          },
+          "corners": {
+            "home": 0,
+            "away": 0
+          },
+          "fouls": {
+            "home": 1,
+            "away": 6
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 2
+          },
+          "redCards": {
+            "home": 0,
+            "away": 1
+          }
+        },
+        "motm": {
+          "playerId": "ec26f1ad-227f-4f13-8712-c03e1b38d135",
+          "playerName": "Maxime Richard",
+          "teamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+          "teamName": "5ème Internationale",
+          "rating": 9.3
+        }
+      }
+    },
+    {
+      "id": "ac55968b-3f6f-4d7c-b324-55d81efcac59",
+      "round": 3,
+      "teamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "category": "crise",
+      "headline": "5ème Internationale en perdition morale — la compétition pourrait leur échapper",
+      "body": "Un joueur de 5ème Internationale aurait demandé à quitter le groupe après une dispute avec le staff. Sa demande aurait été refusée. L'ambiance reste explosive.",
+      "moraleAfter": 20,
+      "createdAt": "2026-06-26T20:49:16.329Z"
+    },
+    {
+      "id": "bb02b1d5-4f08-4cb7-ad78-c7572c934cff",
+      "round": 3,
+      "teamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "category": "victoire",
+      "headline": "UGP dans le bon sens — les résultats suivent enfin",
+      "body": "UGP marque des points, au sens propre comme au figuré. La cohérence collective commence à payer. Luigi Fontana peut savourer — ses choix ont payé ce soir.",
+      "moraleBefore": 44,
+      "moraleAfter": 49,
+      "moraleBoost": 6,
+      "createdAt": "2026-06-26T20:49:16.329Z",
+      "mentions": [
+        {
+          "type": "coach",
+          "name": "Luigi Fontana",
+          "overall": 71,
+          "stats": {
+            "motivation": 17,
+            "tactique": 16,
+            "offensive": 12,
+            "defensif": 9,
+            "mentalite": 15,
+            "gestion": 12
+          },
+          "positiveTraits": [
+            "defensif"
+          ],
+          "negativeTraits": []
+        }
+      ],
+      "matchId": "5a92cafymqvegaw8",
+      "matchSnapshot": {
+        "homeTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+        "awayTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+        "homeTeamName": "5ème Internationale",
+        "awayTeamName": "UGP",
+        "homeScore": 1,
+        "awayScore": 2,
+        "stats": {
+          "shots": {
+            "home": 3,
+            "away": 22
+          },
+          "possession": {
+            "home": 46,
+            "away": 54
+          },
+          "shotsOnTarget": {
+            "home": 3,
+            "away": 13
+          },
+          "corners": {
+            "home": 0,
+            "away": 0
+          },
+          "fouls": {
+            "home": 1,
+            "away": 6
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 2
+          },
+          "redCards": {
+            "home": 0,
+            "away": 1
+          }
+        },
+        "motm": {
+          "playerId": "ec26f1ad-227f-4f13-8712-c03e1b38d135",
+          "playerName": "Maxime Richard",
+          "teamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+          "teamName": "5ème Internationale",
+          "rating": 9.3
+        }
+      }
+    },
+    {
+      "id": "756ef3d1-2639-44ec-849d-c0f78ca6e688",
+      "round": 3,
+      "teamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "category": "defaite",
+      "headline": "UDA concède face à un adversaire au-dessus ce soir",
+      "body": "La défaite laisse des traces. UDA va devoir rapidement se remobiliser avant le prochain match. Mai Nage devra trouver des réponses rapidement. On attendait plus de Sheng Han dans les moments décisifs.",
+      "moraleBefore": 77,
+      "moraleAfter": 73,
+      "moraleShock": -10,
+      "createdAt": "2026-06-26T20:49:16.330Z",
+      "mentions": [
+        {
+          "type": "coach",
+          "name": "Mai Nage",
+          "overall": 69,
+          "stats": {
+            "motivation": 16,
+            "tactique": 13,
+            "offensive": 16,
+            "defensif": 13,
+            "mentalite": 13,
+            "gestion": 12
+          },
+          "positiveTraits": [
+            "opportuniste",
+            "charismatique"
+          ],
+          "negativeTraits": []
+        },
+        {
+          "type": "player",
+          "name": "Sheng Han",
+          "overall": 93,
+          "position": "ST",
+          "stats": {
+            "technical": {
+              "passing": 15,
+              "crossing": 14,
+              "dribbling": 15,
+              "finishing": 20,
+              "firstTouch": 20,
+              "heading": 20,
+              "longShots": 16,
+              "tackling": 12,
+              "marking": 13
+            },
+            "mental": {
+              "vision": 20,
+              "decisions": 9,
+              "composure": 20,
+              "anticipation": 14,
+              "offTheBall": 16,
+              "aggression": 8,
+              "workRate": 15
+            },
+            "physical": {
+              "pace": 20,
+              "acceleration": 14,
+              "strength": 16,
+              "stamina": 14,
+              "agility": 12,
+              "balance": 15,
+              "jumping": 11
+            }
+          }
+        }
+      ],
+      "matchId": "jzrs3c3cmqvegaw8",
+      "matchSnapshot": {
+        "homeTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+        "awayTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+        "homeTeamName": "UDA",
+        "awayTeamName": "SPC",
+        "homeScore": 1,
+        "awayScore": 2,
+        "stats": {
+          "shots": {
+            "home": 13,
+            "away": 16
+          },
+          "possession": {
+            "home": 58,
+            "away": 42
+          },
+          "shotsOnTarget": {
+            "home": 7,
+            "away": 9
+          },
+          "corners": {
+            "home": 3,
+            "away": 0
+          },
+          "fouls": {
+            "home": 3,
+            "away": 0
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 0
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "dbef5bfc-f6f6-4693-9c47-0566d870f06e",
+          "playerName": "Ou Lu",
+          "teamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+          "teamName": "UDA",
+          "rating": 7.9
+        }
+      }
+    },
+    {
+      "id": "7f173e41-0da8-45b0-a1ab-21c68b180850",
+      "round": 3,
+      "teamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "category": "crise",
+      "headline": "Rideau pour SPC — une élimination précoce et humiliante",
+      "body": "On espérait mieux. SPC méritait mieux. Mais les résultats parlent d'eux-mêmes : cette élimination est la conséquence logique d'une compétition ratée de bout en bout. Amère conclusion. Fang Fu a reconnu ses erreurs — trop tard pour changer le cours du match. Même les meilleurs éléments comme Uo Yuan ont été dépassés.",
+      "moraleBefore": 47,
+      "moraleAfter": 52,
+      "moraleShock": -14,
+      "createdAt": "2026-06-26T20:49:16.330Z",
+      "mentions": [
+        {
+          "type": "coach",
+          "name": "Fang Fu",
+          "overall": 79,
+          "stats": {
+            "motivation": 18,
+            "tactique": 8,
+            "offensive": 20,
+            "defensif": 9,
+            "mentalite": 18,
+            "gestion": 14
+          },
+          "positiveTraits": [
+            "gestionnaire",
+            "meneur"
+          ],
+          "negativeTraits": []
+        },
+        {
+          "type": "player",
+          "name": "Uo Yuan",
+          "overall": 91,
+          "position": "LM",
+          "stats": {
+            "technical": {
+              "passing": 20,
+              "crossing": 20,
+              "dribbling": 14,
+              "finishing": 13,
+              "firstTouch": 11,
+              "heading": 12,
+              "longShots": 8,
+              "tackling": 10,
+              "marking": 8
+            },
+            "mental": {
+              "vision": 15,
+              "decisions": 13,
+              "composure": 12,
+              "anticipation": 9,
+              "offTheBall": 19,
+              "aggression": 9,
+              "workRate": 17
+            },
+            "physical": {
+              "pace": 16,
+              "acceleration": 10,
+              "strength": 10,
+              "stamina": 20,
+              "agility": 13,
+              "balance": 12,
+              "jumping": 10
+            }
+          }
+        }
+      ],
+      "matchId": "jzrs3c3cmqvegaw8",
+      "matchSnapshot": {
+        "homeTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+        "awayTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+        "homeTeamName": "UDA",
+        "awayTeamName": "SPC",
+        "homeScore": 1,
+        "awayScore": 2,
+        "stats": {
+          "shots": {
+            "home": 13,
+            "away": 16
+          },
+          "possession": {
+            "home": 58,
+            "away": 42
+          },
+          "shotsOnTarget": {
+            "home": 7,
+            "away": 9
+          },
+          "corners": {
+            "home": 3,
+            "away": 0
+          },
+          "fouls": {
+            "home": 3,
+            "away": 0
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 0
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "dbef5bfc-f6f6-4693-9c47-0566d870f06e",
+          "playerName": "Ou Lu",
+          "teamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+          "teamName": "UDA",
+          "rating": 7.9
+        }
+      }
+    },
+    {
+      "id": "5d35fdac-dfa8-4f09-b5d4-637b1956d0da",
+      "round": 3,
+      "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "category": "defaite",
+      "headline": "Le sélectionneur de Empire Hussein sous le feu des critiques après la défaite",
+      "body": "La défaite n'est pas catastrophique sur le papier — elle ne fait pas encore de dégâts irréparables au classement. Mais dans la tête des joueurs de Empire Hussein, elle laisse une marque. Les choix de Khaaled Hussain sont remis en question après cette contre-performance. Les efforts de Bassem Salem n'ont pas suffi à éviter la défaite.",
+      "moraleBefore": 79,
+      "moraleAfter": 75,
+      "moraleShock": -9,
+      "createdAt": "2026-06-26T20:49:16.331Z",
+      "mentions": [
+        {
+          "type": "coach",
+          "name": "Khaaled Hussain",
+          "overall": 68,
+          "stats": {
+            "motivation": 11,
+            "tactique": 17,
+            "offensive": 20,
+            "defensif": 12,
+            "mentalite": 12,
+            "gestion": 9
+          },
+          "positiveTraits": [
+            "motivateur"
+          ],
+          "negativeTraits": []
+        },
+        {
+          "type": "player",
+          "name": "Bassem Salem",
+          "overall": 87,
+          "position": "LW",
+          "stats": {
+            "technical": {
+              "passing": 15,
+              "crossing": 14,
+              "dribbling": 18,
+              "finishing": 18,
+              "firstTouch": 11,
+              "heading": 12,
+              "longShots": 16,
+              "tackling": 14,
+              "marking": 15
+            },
+            "mental": {
+              "vision": 14,
+              "decisions": 11,
+              "composure": 11,
+              "anticipation": 9,
+              "offTheBall": 13,
+              "aggression": 13,
+              "workRate": 13
+            },
+            "physical": {
+              "pace": 17,
+              "acceleration": 20,
+              "strength": 11,
+              "stamina": 16,
+              "agility": 17,
+              "balance": 13,
+              "jumping": 13
+            }
+          }
+        }
+      ],
+      "matchId": "dkgsdwa5mqvegaw8",
+      "matchSnapshot": {
+        "homeTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+        "awayTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+        "homeTeamName": "Empire Hussein",
+        "awayTeamName": "Deseret",
+        "homeScore": 1,
+        "awayScore": 2,
+        "stats": {
+          "shots": {
+            "home": 8,
+            "away": 9
+          },
+          "possession": {
+            "home": 55,
+            "away": 45
+          },
+          "shotsOnTarget": {
+            "home": 3,
+            "away": 4
+          },
+          "corners": {
+            "home": 3,
+            "away": 1
+          },
+          "fouls": {
+            "home": 0,
+            "away": 6
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 0
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "51734e56-6364-48ce-aa7b-470b5a778a0b",
+          "playerName": "Nathan Baker",
+          "teamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+          "teamName": "Deseret",
+          "rating": 7.6
+        }
+      }
+    },
+    {
+      "id": "053b3b1a-947d-48c7-8e1f-69531df0d53f",
+      "round": 3,
+      "teamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "category": "victoire",
+      "headline": "Deseret dans le bon sens — les résultats suivent enfin",
+      "body": "Les statistiques donnent tort aux sceptiques. Deseret a maîtrisé son sujet de bout en bout. Difficile de leur trouver des défauts ce soir.",
+      "moraleBefore": 54,
+      "moraleAfter": 59,
+      "moraleBoost": 5,
+      "createdAt": "2026-06-26T20:49:16.331Z",
+      "matchId": "dkgsdwa5mqvegaw8",
+      "matchSnapshot": {
+        "homeTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+        "awayTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+        "homeTeamName": "Empire Hussein",
+        "awayTeamName": "Deseret",
+        "homeScore": 1,
+        "awayScore": 2,
+        "stats": {
+          "shots": {
+            "home": 8,
+            "away": 9
+          },
+          "possession": {
+            "home": 55,
+            "away": 45
+          },
+          "shotsOnTarget": {
+            "home": 3,
+            "away": 4
+          },
+          "corners": {
+            "home": 3,
+            "away": 1
+          },
+          "fouls": {
+            "home": 0,
+            "away": 6
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 0
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "51734e56-6364-48ce-aa7b-470b5a778a0b",
+          "playerName": "Nathan Baker",
+          "teamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+          "teamName": "Deseret",
+          "rating": 7.6
+        }
+      }
+    },
+    {
+      "id": "0e5d5276-210b-434d-9b85-aee3f4658713",
+      "round": 3,
+      "teamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "category": "crise",
+      "headline": "C'est fini pour Côte d'Ivoire — élimination mathématique confirmée",
+      "body": "Les calculettes peuvent s'arrêter. Côte d'Ivoire est éliminé. Pas de miracle, pas de remontada — juste une succession de déceptions qui aboutissent à ce constat brutal. Le groupe va devoir se regarder en face. Nicolas Digbeu a reconnu ses erreurs — trop tard pour changer le cours du match.",
+      "moraleBefore": 60,
+      "moraleAfter": 61,
+      "moraleShock": -17,
+      "createdAt": "2026-06-26T20:49:16.331Z",
+      "mentions": [
+        {
+          "type": "coach",
+          "name": "Nicolas Digbeu",
+          "overall": 76,
+          "stats": {
+            "motivation": 10,
+            "tactique": 18,
+            "offensive": 13,
+            "defensif": 15,
+            "mentalite": 19,
+            "gestion": 18
+          },
+          "positiveTraits": [],
+          "negativeTraits": [
+            "impulsif"
+          ]
+        }
+      ],
+      "matchId": "vaxm2ns0mqvegaw8",
+      "matchSnapshot": {
+        "homeTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+        "awayTeamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+        "homeTeamName": "Côte d'Ivoire",
+        "awayTeamName": "FCLC",
+        "homeScore": 2,
+        "awayScore": 2,
+        "stats": {
+          "shots": {
+            "home": 19,
+            "away": 14
+          },
+          "possession": {
+            "home": 49,
+            "away": 51
+          },
+          "shotsOnTarget": {
+            "home": 9,
+            "away": 6
+          },
+          "corners": {
+            "home": 1,
+            "away": 3
+          },
+          "fouls": {
+            "home": 7,
+            "away": 3
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 0
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "2e2f29f9-653b-4528-a87b-b4003dca2f4b",
+          "playerName": "Wague Ibrahimovic",
+          "teamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+          "teamName": "Côte d'Ivoire",
+          "rating": 8
+        }
+      }
+    },
+    {
+      "id": "e62f5d15-08c1-4840-85c8-12a579f6ccfa",
+      "round": 3,
+      "teamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "category": "crise",
+      "headline": "Rideau pour FCLC — une élimination précoce et humiliante",
+      "body": "C'est mathématiquement acté. FCLC ne peut plus se qualifier. Une compétition à oublier au plus vite, dont les leçons devront pourtant être tirées. Le bilan est lourd : manque de caractère, résultats insuffisants, prestation globale indigne des attentes. Même les meilleurs éléments comme Josimar Baker ont été dépassés.",
+      "moraleBefore": 30,
+      "moraleAfter": 31,
+      "moraleShock": -17,
+      "createdAt": "2026-06-26T20:49:16.331Z",
+      "mentions": [
+        {
+          "type": "player",
+          "name": "Josimar Baker",
+          "overall": 84,
+          "position": "RB",
+          "stats": {
+            "technical": {
+              "passing": 16,
+              "crossing": 18,
+              "dribbling": 13,
+              "finishing": 9,
+              "firstTouch": 13,
+              "heading": 12,
+              "longShots": 11,
+              "tackling": 20,
+              "marking": 14
+            },
+            "mental": {
+              "vision": 17,
+              "decisions": 14,
+              "composure": 11,
+              "anticipation": 11,
+              "offTheBall": 14,
+              "aggression": 12,
+              "workRate": 13
+            },
+            "physical": {
+              "pace": 20,
+              "acceleration": 13,
+              "strength": 9,
+              "stamina": 20,
+              "agility": 12,
+              "balance": 18,
+              "jumping": 12
+            }
+          }
+        }
+      ],
+      "matchId": "vaxm2ns0mqvegaw8",
+      "matchSnapshot": {
+        "homeTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+        "awayTeamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+        "homeTeamName": "Côte d'Ivoire",
+        "awayTeamName": "FCLC",
+        "homeScore": 2,
+        "awayScore": 2,
+        "stats": {
+          "shots": {
+            "home": 19,
+            "away": 14
+          },
+          "possession": {
+            "home": 49,
+            "away": 51
+          },
+          "shotsOnTarget": {
+            "home": 9,
+            "away": 6
+          },
+          "corners": {
+            "home": 1,
+            "away": 3
+          },
+          "fouls": {
+            "home": 7,
+            "away": 3
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 0
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "2e2f29f9-653b-4528-a87b-b4003dca2f4b",
+          "playerName": "Wague Ibrahimovic",
+          "teamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+          "teamName": "Côte d'Ivoire",
+          "rating": 8
+        }
+      }
+    },
+    {
+      "id": "80b21aef-bb3e-41dd-ba7f-c3b977e08413",
+      "round": 3,
+      "teamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "category": "crise",
+      "headline": "FCLC à la ramasse : le groupe s'effondre en direct",
+      "body": "Le staff de FCLC multiplie les réunions à huis clos. Aucune information ne filtre — et c'est souvent mauvais signe. La pression monte à mesure que les résultats s'accumulent.",
+      "moraleAfter": 14,
+      "createdAt": "2026-06-26T20:49:16.332Z"
+    },
+    {
+      "id": "a6f4885a-d0a4-4e30-a408-28fcad4cf0cd",
+      "round": 3,
+      "teamId": null,
+      "category": "cmf",
+      "headline": "Phase de groupes de la Coupe du Gratin Dauphinois : rideau",
+      "body": "La Phase de groupes a rendu son verdict. Les équipes qualifiées pour la suite ont montré qu'elles méritaient leur place. Analyse des forces en présence avant la prochaine étape.",
+      "createdAt": "2026-06-26T20:49:16.332Z",
+      "cmfSnapshot": {
+        "phase": "group",
+        "moment": "fin",
+        "favoriteTeams": [
+          {
+            "teamId": "110159bd-411c-409a-ba07-95216b092ba4",
+            "teamName": "UGP",
+            "overall": 65,
+            "cote": 7.46
+          },
+          {
+            "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+            "teamName": "Empire Hussein",
+            "overall": 65,
+            "cote": 7.46
+          },
+          {
+            "teamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+            "teamName": "Deseret",
+            "overall": 64,
+            "cote": 7.7
+          }
+        ]
+      }
+    },
+    {
+      "id": "7097bf61-ba17-4b08-ab48-83b725f8103b",
+      "round": 3,
+      "teamId": null,
+      "category": "cmf",
+      "headline": "Statistiques individuelles — bilan de la Phase de groupes",
+      "body": "Bilan individuel à l'issue de la Phase de groupes :",
+      "createdAt": "2026-06-26T20:49:16.332Z",
+      "cmfSnapshot": {
+        "phase": "group",
+        "moment": "fin",
+        "favoriteTeams": [],
+        "topScorer": {
+          "playerName": "Nabil Hariri",
+          "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+          "teamName": "Empire Hussein",
+          "goals": 3,
+          "overall": 93
+        },
+        "topAssister": {
+          "playerName": "Kai Liang",
+          "teamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+          "teamName": "UDA",
+          "assists": 2,
+          "overall": 83
+        },
+        "bestPlayer": {
+          "playerName": "Rabah Lado",
+          "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+          "teamName": "Empire Hussein",
+          "avgRating": 9.4,
+          "overall": 88
+        },
+        "bestGK": {
+          "playerName": "Rabah Lado",
+          "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+          "teamName": "Empire Hussein",
+          "cleanSheets": 2,
+          "overall": 88
+        }
+      }
+    },
+    {
+      "id": "6b1c1cfb-d2bd-4e50-b572-2dbed11599e8",
+      "round": 3,
+      "teamId": null,
+      "category": "cmf",
+      "headline": "Coupe du Gratin Dauphinois — place aux Demi-finales !",
+      "body": "La tension monte d'un cran. Les Demi-finales de la Coupe du Gratin Dauphinois débutent, et avec elles, la vraie compétition. Qui survivra à cette étape ?",
+      "createdAt": "2026-06-26T20:49:16.333Z",
+      "cmfSnapshot": {
+        "phase": "SF",
+        "moment": "debut",
+        "favoriteTeams": [
+          {
+            "teamId": "110159bd-411c-409a-ba07-95216b092ba4",
+            "teamName": "UGP",
+            "overall": 65,
+            "cote": 7.46
+          },
+          {
+            "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+            "teamName": "Empire Hussein",
+            "overall": 65,
+            "cote": 7.46
+          },
+          {
+            "teamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+            "teamName": "Deseret",
+            "overall": 64,
+            "cote": 7.7
+          }
+        ]
+      }
+    },
+    {
+      "id": "4856b52e-d970-4019-b647-751ad2abe8dc",
+      "round": 3,
+      "teamId": null,
+      "category": "cmf",
+      "headline": "Pronostics CMF — Demi-finales de la Coupe du Gratin Dauphinois",
+      "body": "Premiers bilans individuels — les tendances de début de compétition.",
+      "createdAt": "2026-06-26T20:49:16.333Z",
+      "cmfSnapshot": {
+        "phase": "SF",
+        "moment": "debut",
+        "favoriteTeams": [],
+        "topScorer": {
+          "playerName": "Nabil Hariri",
+          "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+          "teamName": "Empire Hussein",
+          "goals": 3,
+          "overall": 93
+        },
+        "topAssister": {
+          "playerName": "Kai Liang",
+          "teamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+          "teamName": "UDA",
+          "assists": 2,
+          "overall": 83
+        },
+        "bestPlayer": {
+          "playerName": "Rabah Lado",
+          "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+          "teamName": "Empire Hussein",
+          "avgRating": 9.4,
+          "overall": 88
+        },
+        "bestGK": {
+          "playerName": "Rabah Lado",
+          "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+          "teamName": "Empire Hussein",
+          "cleanSheets": 2,
+          "overall": 88
+        }
+      }
+    },
+    {
+      "id": "394047df-2149-4055-969b-e8c8e6e42fac",
+      "round": 4,
+      "teamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "category": "victoire",
+      "headline": "Victoire logique de UDA : domination totale ce soir",
+      "body": "Ce n'est pas la manière qui a séduit, mais l'efficacité clinique de UDA. Un groupe qui sait gagner laid, c'est signe de maturité. En demi-finales, chaque erreur se paie cash — UDA n'en a pas commis. Le niveau affiché par Lei Luo donne de l'espoir pour la suite.",
+      "moraleBefore": 63,
+      "moraleAfter": 69,
+      "moraleBoost": 6,
+      "createdAt": "2026-06-26T20:51:22.526Z",
+      "mentions": [
+        {
+          "type": "player",
+          "name": "Lei Luo",
+          "overall": 86,
+          "position": "RW",
+          "stats": {
+            "technical": {
+              "passing": 13,
+              "crossing": 18,
+              "dribbling": 18,
+              "finishing": 14,
+              "firstTouch": 11,
+              "heading": 13,
+              "longShots": 12,
+              "tackling": 12,
+              "marking": 12
+            },
+            "mental": {
+              "vision": 12,
+              "decisions": 11,
+              "composure": 15,
+              "anticipation": 13,
+              "offTheBall": 12,
+              "aggression": 12,
+              "workRate": 9
+            },
+            "physical": {
+              "pace": 20,
+              "acceleration": 17,
+              "strength": 12,
+              "stamina": 9,
+              "agility": 12,
+              "balance": 15,
+              "jumping": 10
+            }
+          }
+        }
+      ],
+      "matchId": "i1koh10fmqvegaw8",
+      "matchSnapshot": {
+        "homeTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+        "awayTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+        "homeTeamName": "UDA",
+        "awayTeamName": "Côte d'Ivoire",
+        "homeScore": 3,
+        "awayScore": 1,
+        "stats": {
+          "shots": {
+            "home": 17,
+            "away": 9
+          },
+          "possession": {
+            "home": 59,
+            "away": 41
+          },
+          "shotsOnTarget": {
+            "home": 8,
+            "away": 5
+          },
+          "corners": {
+            "home": 1,
+            "away": 6
+          },
+          "fouls": {
+            "home": 0,
+            "away": 12
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 3
+          },
+          "redCards": {
+            "home": 0,
+            "away": 2
+          }
+        },
+        "motm": {
+          "playerId": "6fcb834b-f8d5-452b-b759-dc9e0ae2317a",
+          "playerName": "Kai Liang",
+          "teamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+          "teamName": "UDA",
+          "rating": 8.3
+        }
+      }
+    },
+    {
+      "id": "b932ac2b-972b-4c82-a510-7a76ddb7d9c4",
+      "round": 4,
+      "teamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "category": "defaite",
+      "headline": "Coup dur pour Côte d'Ivoire : la défaite fait mal au classement",
+      "body": "Pas de miracle ce soir pour Côte d'Ivoire. L'équipe a bien tenté, mais les idées manquaient dans les moments décisifs. Une défaite qui interroge. En demi-finales, il n'y a pas de lendemain. Côte d'Ivoire le sait désormais.",
+      "moraleBefore": 44,
+      "moraleAfter": 39,
+      "createdAt": "2026-06-26T20:51:22.527Z",
+      "matchId": "i1koh10fmqvegaw8",
+      "matchSnapshot": {
+        "homeTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+        "awayTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+        "homeTeamName": "UDA",
+        "awayTeamName": "Côte d'Ivoire",
+        "homeScore": 3,
+        "awayScore": 1,
+        "stats": {
+          "shots": {
+            "home": 17,
+            "away": 9
+          },
+          "possession": {
+            "home": 59,
+            "away": 41
+          },
+          "shotsOnTarget": {
+            "home": 8,
+            "away": 5
+          },
+          "corners": {
+            "home": 1,
+            "away": 6
+          },
+          "fouls": {
+            "home": 0,
+            "away": 12
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 3
+          },
+          "redCards": {
+            "home": 0,
+            "away": 2
+          }
+        },
+        "motm": {
+          "playerId": "6fcb834b-f8d5-452b-b759-dc9e0ae2317a",
+          "playerName": "Kai Liang",
+          "teamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+          "teamName": "UDA",
+          "rating": 8.3
+        }
+      }
+    },
+    {
+      "id": "ad7f93bb-ca9a-4756-b0a7-c8bddd186a63",
+      "round": 4,
+      "teamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "category": "cmf",
+      "headline": "UDA sous enquête CMF après approche d'arbitre avortée",
+      "body": "Des informations troublantes circulent : l'arbitre désigné pour le match de UDA aurait été approché et aurait tout refusé avant de dénoncer les faits. La CMF a confirmé l'ouverture d'une procédure d'enquête accélérée. Le spectre du tapis vert plane.",
+      "createdAt": "2026-06-26T20:51:22.527Z",
+      "matchId": "i1koh10fmqvegaw8",
+      "matchSnapshot": {
+        "homeTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+        "awayTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+        "homeTeamName": "UDA",
+        "awayTeamName": "Côte d'Ivoire",
+        "homeScore": 3,
+        "awayScore": 1
+      }
+    },
+    {
+      "id": "4db47401-d169-41ae-9bd2-ea0a9802b01a",
+      "round": 4,
+      "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "category": "victoire",
+      "headline": "Empire Hussein impressionne et monte en puissance",
+      "body": "Après ce succès convaincant, les joueurs de Empire Hussein affichent une confiance retrouvée. Le vestiaire est soudé. En demi-finales, chaque erreur se paie cash — Empire Hussein n'en a pas commis. Le sélectionneur Khaaled Hussain a su trouver les bons réglages tactiques.",
+      "moraleBefore": 66,
+      "moraleAfter": 71,
+      "moraleBoost": 5,
+      "createdAt": "2026-06-26T20:51:22.528Z",
+      "mentions": [
+        {
+          "type": "coach",
+          "name": "Khaaled Hussain",
+          "overall": 68,
+          "stats": {
+            "motivation": 11,
+            "tactique": 17,
+            "offensive": 20,
+            "defensif": 12,
+            "mentalite": 12,
+            "gestion": 9
+          },
+          "positiveTraits": [
+            "motivateur"
+          ],
+          "negativeTraits": []
+        }
+      ],
+      "matchId": "pvg05000mqvegaw8",
+      "matchSnapshot": {
+        "homeTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+        "awayTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+        "homeTeamName": "Empire Hussein",
+        "awayTeamName": "UGP",
+        "homeScore": 1,
+        "awayScore": 0,
+        "stats": {
+          "shots": {
+            "home": 11,
+            "away": 14
+          },
+          "possession": {
+            "home": 40,
+            "away": 60
+          },
+          "shotsOnTarget": {
+            "home": 6,
+            "away": 8
+          },
+          "corners": {
+            "home": 1,
+            "away": 5
+          },
+          "fouls": {
+            "home": 6,
+            "away": 3
+          },
+          "yellowCards": {
+            "home": 1,
+            "away": 0
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "aff7b68e-f32e-47eb-ab8e-96007c9b2a38",
+          "playerName": "Rabah Lado",
+          "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+          "teamName": "Empire Hussein",
+          "rating": 8.9
+        }
+      }
+    },
+    {
+      "id": "69ce1311-3216-4b40-8482-30fa5c8f991c",
+      "round": 4,
+      "teamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "category": "defaite",
+      "headline": "UGP plie mais promet de se relever — les mots sonnent creux",
+      "body": "Le sélectionneur de UGP a refusé de pointer du doigt ses joueurs en public. En privé, la réunion qui a suivi a duré plus d'une heure. Certains joueurs en sont ressortis les yeux rouges. En demi-finales, il n'y a pas de lendemain. UGP le sait désormais. Les choix de Luigi Fontana sont remis en question après cette contre-performance. Les efforts de Cristian Lombardo n'ont pas suffi à éviter la défaite.",
+      "moraleBefore": 55,
+      "moraleAfter": 51,
+      "createdAt": "2026-06-26T20:51:22.528Z",
+      "mentions": [
+        {
+          "type": "coach",
+          "name": "Luigi Fontana",
+          "overall": 71,
+          "stats": {
+            "motivation": 17,
+            "tactique": 16,
+            "offensive": 12,
+            "defensif": 9,
+            "mentalite": 15,
+            "gestion": 12
+          },
+          "positiveTraits": [
+            "defensif"
+          ],
+          "negativeTraits": []
+        },
+        {
+          "type": "player",
+          "name": "Cristian Lombardo",
+          "overall": 91,
+          "position": "ST",
+          "stats": {
+            "technical": {
+              "passing": 16,
+              "crossing": 14,
+              "dribbling": 16,
+              "finishing": 20,
+              "firstTouch": 7,
+              "heading": 19,
+              "longShots": 17,
+              "tackling": 10,
+              "marking": 15
+            },
+            "mental": {
+              "vision": 11,
+              "decisions": 9,
+              "composure": 20,
+              "anticipation": 12,
+              "offTheBall": 18,
+              "aggression": 9,
+              "workRate": 12
+            },
+            "physical": {
+              "pace": 17,
+              "acceleration": 10,
+              "strength": 12,
+              "stamina": 16,
+              "agility": 13,
+              "balance": 7,
+              "jumping": 16
+            }
+          }
+        }
+      ],
+      "matchId": "pvg05000mqvegaw8",
+      "matchSnapshot": {
+        "homeTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+        "awayTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+        "homeTeamName": "Empire Hussein",
+        "awayTeamName": "UGP",
+        "homeScore": 1,
+        "awayScore": 0,
+        "stats": {
+          "shots": {
+            "home": 11,
+            "away": 14
+          },
+          "possession": {
+            "home": 40,
+            "away": 60
+          },
+          "shotsOnTarget": {
+            "home": 6,
+            "away": 8
+          },
+          "corners": {
+            "home": 1,
+            "away": 5
+          },
+          "fouls": {
+            "home": 6,
+            "away": 3
+          },
+          "yellowCards": {
+            "home": 1,
+            "away": 0
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "aff7b68e-f32e-47eb-ab8e-96007c9b2a38",
+          "playerName": "Rabah Lado",
+          "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+          "teamName": "Empire Hussein",
+          "rating": 8.9
+        }
+      }
+    },
+    {
+      "id": "7120cce4-d2a3-45ff-81b9-2e8868f98768",
+      "round": 4,
+      "teamId": null,
+      "category": "cmf",
+      "headline": "Bilan de la Demi-finales — la Coupe du Gratin Dauphinois avance",
+      "body": "La Demi-finales est terminée. Les qualifiés sont connus, les éliminés rentrent chez eux. Le bilan est sans appel : certaines équipes ont confirmé leur statut, d'autres ont surpris.",
+      "createdAt": "2026-06-26T20:51:22.530Z",
+      "cmfSnapshot": {
+        "phase": "SF",
+        "moment": "fin",
+        "favoriteTeams": [
+          {
+            "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+            "teamName": "Empire Hussein",
+            "overall": 65,
+            "cote": 3.85
+          },
+          {
+            "teamId": "110159bd-411c-409a-ba07-95216b092ba4",
+            "teamName": "UGP",
+            "overall": 65,
+            "cote": 3.85
+          },
+          {
+            "teamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+            "teamName": "UDA",
+            "overall": 63,
+            "cote": 4.1
+          }
+        ]
+      }
+    },
+    {
+      "id": "0f176e79-b6e2-42b8-b37f-293f7d075f22",
+      "round": 4,
+      "teamId": null,
+      "category": "cmf",
+      "headline": "Statistiques individuelles — bilan de la Demi-finales",
+      "body": "Bilan individuel à l'issue de la Demi-finales :",
+      "createdAt": "2026-06-26T20:51:22.530Z",
+      "cmfSnapshot": {
+        "phase": "SF",
+        "moment": "fin",
+        "favoriteTeams": [],
+        "topScorer": {
+          "playerName": "Ou Lu",
+          "teamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+          "teamName": "UDA",
+          "goals": 4,
+          "overall": 93
+        },
+        "topAssister": {
+          "playerName": "Kai Liang",
+          "teamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+          "teamName": "UDA",
+          "assists": 3,
+          "overall": 83
+        },
+        "bestPlayer": {
+          "playerName": "Rabah Lado",
+          "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+          "teamName": "Empire Hussein",
+          "avgRating": 9.2,
+          "overall": 88
+        },
+        "bestGK": {
+          "playerName": "Rabah Lado",
+          "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+          "teamName": "Empire Hussein",
+          "cleanSheets": 3,
+          "overall": 88
+        }
+      }
+    },
+    {
+      "id": "b9a0c950-cdb6-489d-a997-f37a45561c72",
+      "round": 4,
+      "teamId": null,
+      "category": "cmf",
+      "headline": "Cap sur Finale — la CMF analyse",
+      "body": "Après la Demi-finales, place à Finale. Les équipes encore en lice connaissent leurs adversaires. Les pronostics sont relancés, les stratégies ajustées. Rendez-vous sur le terrain pour savoir qui aura raison.",
+      "createdAt": "2026-06-26T20:51:22.530Z",
+      "cmfSnapshot": {
+        "phase": "SF",
+        "moment": "fin",
+        "favoriteTeams": []
+      }
+    },
+    {
+      "id": "d5fc1032-8d27-43ce-9620-0fe6672526c5",
+      "round": 4,
+      "teamId": null,
+      "category": "cmf",
+      "headline": "Finale de la Coupe du Gratin Dauphinois — le tableau s'affine",
+      "body": "La Coupe du Gratin Dauphinois entre dans sa phase éliminatoire avec les Finale. Une seule erreur et c'est l'élimination. Les équipes encore en lice ont tout à prouver.",
+      "createdAt": "2026-06-26T20:51:22.530Z",
+      "cmfSnapshot": {
+        "phase": "F",
+        "moment": "debut",
+        "favoriteTeams": [
+          {
+            "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+            "teamName": "Empire Hussein",
+            "overall": 65,
+            "cote": 3.85
+          },
+          {
+            "teamId": "110159bd-411c-409a-ba07-95216b092ba4",
+            "teamName": "UGP",
+            "overall": 65,
+            "cote": 3.85
+          },
+          {
+            "teamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+            "teamName": "UDA",
+            "overall": 63,
+            "cote": 4.1
+          }
+        ]
+      }
+    },
+    {
+      "id": "4c8a76d3-4919-4223-9c23-7ca2295c5a38",
+      "round": 4,
+      "teamId": null,
+      "category": "cmf",
+      "headline": "Pronostics CMF — Finale de la Coupe du Gratin Dauphinois",
+      "body": "Premiers bilans individuels — les tendances de début de compétition.",
+      "createdAt": "2026-06-26T20:51:22.530Z",
+      "cmfSnapshot": {
+        "phase": "F",
+        "moment": "debut",
+        "favoriteTeams": [],
+        "topScorer": {
+          "playerName": "Ou Lu",
+          "teamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+          "teamName": "UDA",
+          "goals": 4,
+          "overall": 93
+        },
+        "topAssister": {
+          "playerName": "Kai Liang",
+          "teamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+          "teamName": "UDA",
+          "assists": 3,
+          "overall": 83
+        },
+        "bestPlayer": {
+          "playerName": "Rabah Lado",
+          "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+          "teamName": "Empire Hussein",
+          "avgRating": 9.2,
+          "overall": 88
+        },
+        "bestGK": {
+          "playerName": "Rabah Lado",
+          "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+          "teamName": "Empire Hussein",
+          "cleanSheets": 3,
+          "overall": 88
+        }
+      }
+    },
+    {
+      "id": "c560ca7a-0566-45c1-aa95-3b1c4a6cbd27",
+      "round": 5,
+      "teamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "category": "cmf",
+      "headline": "CMF — Jugement : UDA acquitté, résultat maintenu",
+      "body": "L'enquête disciplinaire ouverte après la dénonciation de l'arbitre s'est soldée par un non-lieu. La commission n'a pas pu établir avec certitude la responsabilité de UDA. Le résultat du terrain est donc maintenu. Une décision qui fera débat.",
+      "createdAt": "2026-06-26T20:52:22.163Z",
+      "matchId": "i1koh10fmqvegaw8"
+    },
+    {
+      "id": "c4039d6f-44f7-4dd4-af1a-7cfe7f98f0dc",
+      "round": 5,
+      "teamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "category": "crise",
+      "headline": "Côte d'Ivoire ne décroche pas la médaille de bronze — fin d'aventure",
+      "body": "Côte d'Ivoire repart sans médaille. Un épilogue décevant pour une compétition qui promettait plus. Le groupe rentrera avec des regrets, mais aussi avec des souvenirs que peu d'équipes peuvent s'offrir. Nicolas Digbeu a reconnu ses erreurs — trop tard pour changer le cours du match. Arouna N'Goran n'a pas pu limiter les dégâts malgré ses efforts.",
+      "moraleBefore": 39,
+      "moraleAfter": 34,
+      "createdAt": "2026-06-26T20:52:22.163Z",
+      "mentions": [
+        {
+          "type": "coach",
+          "name": "Nicolas Digbeu",
+          "overall": 76,
+          "stats": {
+            "motivation": 10,
+            "tactique": 18,
+            "offensive": 13,
+            "defensif": 15,
+            "mentalite": 19,
+            "gestion": 18
+          },
+          "positiveTraits": [],
+          "negativeTraits": [
+            "impulsif"
+          ]
+        },
+        {
+          "type": "player",
+          "name": "Arouna N'Goran",
+          "overall": 88,
+          "position": "LW",
+          "stats": {
+            "technical": {
+              "passing": 15,
+              "crossing": 16,
+              "dribbling": 17,
+              "finishing": 20,
+              "firstTouch": 5,
+              "heading": 6,
+              "longShots": 8,
+              "tackling": 11,
+              "marking": 11
+            },
+            "mental": {
+              "vision": 11,
+              "decisions": 9,
+              "composure": 11,
+              "anticipation": 12,
+              "offTheBall": 10,
+              "aggression": 11,
+              "workRate": 13
+            },
+            "physical": {
+              "pace": 16,
+              "acceleration": 20,
+              "strength": 14,
+              "stamina": 12,
+              "agility": 19,
+              "balance": 11,
+              "jumping": 13
+            }
+          }
+        }
+      ],
+      "matchId": "eq8vqv4omqvegaw8",
+      "matchSnapshot": {
+        "homeTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+        "awayTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+        "homeTeamName": "Côte d'Ivoire",
+        "awayTeamName": "UGP",
+        "homeScore": 0,
+        "awayScore": 3,
+        "stats": {
+          "shots": {
+            "home": 5,
+            "away": 18
+          },
+          "possession": {
+            "home": 43,
+            "away": 57
+          },
+          "shotsOnTarget": {
+            "home": 4,
+            "away": 8
+          },
+          "corners": {
+            "home": 5,
+            "away": 2
+          },
+          "fouls": {
+            "home": 9,
+            "away": 4
+          },
+          "yellowCards": {
+            "home": 1,
+            "away": 1
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "63cba1c6-27e5-4311-91d8-92b5f3fde740",
+          "playerName": "Cristian Lombardo",
+          "teamId": "110159bd-411c-409a-ba07-95216b092ba4",
+          "teamName": "UGP",
+          "rating": 10
+        }
+      }
+    },
+    {
+      "id": "d15508f8-a46c-4fad-a104-e4b756302763",
+      "round": 5,
+      "teamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "category": "exploit",
+      "headline": "UGP termine troisième — une médaille de bronze bien méritée",
+      "body": "La déception de la demi-finale est derrière eux. UGP a répondu présent et termine sur une note positive. Les joueurs quittent la compétition la tête haute. Davide Mancini a éclaboussé ce match de son talent.",
+      "moraleBefore": 51,
+      "moraleAfter": 57,
+      "moraleBoost": 13,
+      "createdAt": "2026-06-26T20:52:22.163Z",
+      "mentions": [
+        {
+          "type": "player",
+          "name": "Davide Mancini",
+          "overall": 93,
+          "position": "LW",
+          "stats": {
+            "technical": {
+              "passing": 12,
+              "crossing": 17,
+              "dribbling": 20,
+              "finishing": 20,
+              "firstTouch": 15,
+              "heading": 10,
+              "longShots": 8,
+              "tackling": 17,
+              "marking": 11
+            },
+            "mental": {
+              "vision": 9,
+              "decisions": 14,
+              "composure": 13,
+              "anticipation": 16,
+              "offTheBall": 9,
+              "aggression": 11,
+              "workRate": 16
+            },
+            "physical": {
+              "pace": 20,
+              "acceleration": 20,
+              "strength": 6,
+              "stamina": 11,
+              "agility": 11,
+              "balance": 10,
+              "jumping": 6
+            }
+          }
+        }
+      ],
+      "matchId": "eq8vqv4omqvegaw8",
+      "matchSnapshot": {
+        "homeTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+        "awayTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+        "homeTeamName": "Côte d'Ivoire",
+        "awayTeamName": "UGP",
+        "homeScore": 0,
+        "awayScore": 3,
+        "stats": {
+          "shots": {
+            "home": 5,
+            "away": 18
+          },
+          "possession": {
+            "home": 43,
+            "away": 57
+          },
+          "shotsOnTarget": {
+            "home": 4,
+            "away": 8
+          },
+          "corners": {
+            "home": 5,
+            "away": 2
+          },
+          "fouls": {
+            "home": 9,
+            "away": 4
+          },
+          "yellowCards": {
+            "home": 1,
+            "away": 1
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "63cba1c6-27e5-4311-91d8-92b5f3fde740",
+          "playerName": "Cristian Lombardo",
+          "teamId": "110159bd-411c-409a-ba07-95216b092ba4",
+          "teamName": "UGP",
+          "rating": 10
+        }
+      }
+    },
+    {
+      "id": "9527727d-fdee-468e-960d-fce0b9ad3d28",
+      "round": 5,
+      "teamId": null,
+      "category": "cmf",
+      "headline": "Bilan de la Match pour la 3e place — la Coupe du Gratin Dauphinois avance",
+      "body": "La Match pour la 3e place est terminée. Les qualifiés sont connus, les éliminés rentrent chez eux. Le bilan est sans appel : certaines équipes ont confirmé leur statut, d'autres ont surpris.",
+      "createdAt": "2026-06-26T20:52:22.163Z",
+      "cmfSnapshot": {
+        "phase": "3rd",
+        "moment": "fin",
+        "favoriteTeams": [
+          {
+            "teamId": "110159bd-411c-409a-ba07-95216b092ba4",
+            "teamName": "UGP",
+            "overall": 65,
+            "cote": 7.46
+          },
+          {
+            "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+            "teamName": "Empire Hussein",
+            "overall": 65,
+            "cote": 7.46
+          },
+          {
+            "teamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+            "teamName": "Deseret",
+            "overall": 64,
+            "cote": 7.7
+          }
+        ]
+      }
+    },
+    {
+      "id": "28c6786f-ba4e-4cad-95ba-23229bafd5bf",
+      "round": 5,
+      "teamId": null,
+      "category": "cmf",
+      "headline": "Statistiques individuelles — bilan de la Match pour la 3e place",
+      "body": "Bilan individuel à l'issue de la Match pour la 3e place :",
+      "createdAt": "2026-06-26T20:52:22.163Z",
+      "cmfSnapshot": {
+        "phase": "3rd",
+        "moment": "fin",
+        "favoriteTeams": [],
+        "topScorer": {
+          "playerName": "Cristian Lombardo",
+          "teamId": "110159bd-411c-409a-ba07-95216b092ba4",
+          "teamName": "UGP",
+          "goals": 5,
+          "overall": 91
+        },
+        "topAssister": {
+          "playerName": "Kai Liang",
+          "teamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+          "teamName": "UDA",
+          "assists": 3,
+          "overall": 83
+        },
+        "bestPlayer": {
+          "playerName": "Rabah Lado",
+          "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+          "teamName": "Empire Hussein",
+          "avgRating": 9.2,
+          "overall": 88
+        },
+        "bestGK": {
+          "playerName": "Rabah Lado",
+          "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+          "teamName": "Empire Hussein",
+          "cleanSheets": 3,
+          "overall": 88
+        }
+      }
+    },
+    {
+      "id": "28b33eb3-8a5e-4298-881a-cc6703e3f4f1",
+      "round": 5,
+      "teamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "category": "crise",
+      "headline": "UDA battu en finale — la douleur de l'argent",
+      "body": "\"On aurait dû gagner.\" Le capitaine de UDA ne mâchait pas ses mots après la finale. Dans d'autres circonstances, peut-être. Ce soir, ce n'était pas leur soir. Zhi Cai n'a pas pu limiter les dégâts malgré ses efforts.",
+      "moraleBefore": 75,
+      "moraleAfter": 70,
+      "moraleShock": -14,
+      "createdAt": "2026-06-26T20:53:38.015Z",
+      "mentions": [
+        {
+          "type": "player",
+          "name": "Zhi Cai",
+          "overall": 89,
+          "position": "LW",
+          "stats": {
+            "technical": {
+              "passing": 20,
+              "crossing": 20,
+              "dribbling": 20,
+              "finishing": 14,
+              "firstTouch": 17,
+              "heading": 7,
+              "longShots": 14,
+              "tackling": 7,
+              "marking": 11
+            },
+            "mental": {
+              "vision": 17,
+              "decisions": 7,
+              "composure": 12,
+              "anticipation": 11,
+              "offTheBall": 16,
+              "aggression": 5,
+              "workRate": 15
+            },
+            "physical": {
+              "pace": 20,
+              "acceleration": 20,
+              "strength": 12,
+              "stamina": 11,
+              "agility": 7,
+              "balance": 17,
+              "jumping": 15
+            }
+          }
+        }
+      ],
+      "matchId": "wvfixvivmqvegaw8",
+      "matchSnapshot": {
+        "homeTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+        "awayTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+        "homeTeamName": "UDA",
+        "awayTeamName": "Empire Hussein",
+        "homeScore": 0,
+        "awayScore": 3,
+        "stats": {
+          "shots": {
+            "home": 11,
+            "away": 10
+          },
+          "possession": {
+            "home": 59,
+            "away": 41
+          },
+          "shotsOnTarget": {
+            "home": 6,
+            "away": 7
+          },
+          "corners": {
+            "home": 0,
+            "away": 3
+          },
+          "fouls": {
+            "home": 5,
+            "away": 2
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 0
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "8745a1a2-e456-4d0e-8ddd-610658c8a559",
+          "playerName": "Magdy El-Baz",
+          "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+          "teamName": "Empire Hussein",
+          "rating": 10
+        }
+      }
+    },
+    {
+      "id": "e037909a-1f9b-434f-aa7a-4eabd32d1e4b",
+      "round": 5,
+      "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "category": "exploit",
+      "headline": "Empire Hussein SACRÉ CHAMPION — une victoire qui restera dans l'histoire !",
+      "body": "Le trophée est dans les mains de Empire Hussein. Une compétition entière condensée dans ce moment. Des larmes, des cris, des accolades. Une équipe, un titre, une légende. On retiendra la prestation XXL de Oussama Nasri dans cette démonstration collective.",
+      "moraleBefore": 76,
+      "moraleAfter": 82,
+      "moraleBoost": 13,
+      "createdAt": "2026-06-26T20:53:38.015Z",
+      "mentions": [
+        {
+          "type": "player",
+          "name": "Oussama Nasri",
+          "overall": 87,
+          "position": "RW",
+          "stats": {
+            "technical": {
+              "passing": 14,
+              "crossing": 16,
+              "dribbling": 17,
+              "finishing": 18,
+              "firstTouch": 11,
+              "heading": 8,
+              "longShots": 15,
+              "tackling": 10,
+              "marking": 11
+            },
+            "mental": {
+              "vision": 16,
+              "decisions": 13,
+              "composure": 7,
+              "anticipation": 9,
+              "offTheBall": 12,
+              "aggression": 14,
+              "workRate": 12
+            },
+            "physical": {
+              "pace": 20,
+              "acceleration": 18,
+              "strength": 15,
+              "stamina": 6,
+              "agility": 14,
+              "balance": 16,
+              "jumping": 8
+            }
+          }
+        }
+      ],
+      "matchId": "wvfixvivmqvegaw8",
+      "matchSnapshot": {
+        "homeTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+        "awayTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+        "homeTeamName": "UDA",
+        "awayTeamName": "Empire Hussein",
+        "homeScore": 0,
+        "awayScore": 3,
+        "stats": {
+          "shots": {
+            "home": 11,
+            "away": 10
+          },
+          "possession": {
+            "home": 59,
+            "away": 41
+          },
+          "shotsOnTarget": {
+            "home": 6,
+            "away": 7
+          },
+          "corners": {
+            "home": 0,
+            "away": 3
+          },
+          "fouls": {
+            "home": 5,
+            "away": 2
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 0
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "8745a1a2-e456-4d0e-8ddd-610658c8a559",
+          "playerName": "Magdy El-Baz",
+          "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+          "teamName": "Empire Hussein",
+          "rating": 10
+        }
+      }
+    },
+    {
+      "id": "69c01192-65fd-42ad-99fc-556f846b51d9",
+      "round": 5,
+      "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "category": "forme",
+      "headline": "Le groupe Empire Hussein est uni et ambitieux — gare aux adversaires",
+      "body": "On le lit dans les regards, on l'entend dans les vestiaires : Empire Hussein croit en ce qu'il fait. Cette foi collective est parfois plus précieuse que n'importe quelle tactique.",
+      "moraleAfter": 95,
+      "createdAt": "2026-06-26T20:53:38.015Z"
+    },
+    {
+      "id": "719bb23e-7e3f-4b5d-a9fb-e4185eab3c1e",
+      "round": 5,
+      "teamId": null,
+      "category": "cmf",
+      "headline": "LA GLOIRE POUR Empire Hussein — palmarès de la Coupe du Gratin Dauphinois",
+      "body": "Le titre est décerné. Empire Hussein entre dans l'histoire de la Coupe du Gratin Dauphinois. La cérémonie de clôture a célébré les meilleurs acteurs de cette édition.",
+      "createdAt": "2026-06-26T20:53:38.015Z",
+      "cmfSnapshot": {
+        "phase": "F",
+        "moment": "palmares",
+        "favoriteTeams": [],
+        "winner": {
+          "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+          "teamName": "Empire Hussein"
+        }
+      }
+    },
+    {
+      "id": "4bcd4233-ac0e-4e29-ae1b-85e622f8e3c5",
+      "round": 5,
+      "teamId": null,
+      "category": "cmf",
+      "headline": "Trophées individuels CMF — Coupe du Gratin Dauphinois",
+      "body": "La CMF a décerné ses trophées individuels pour cette édition de la Coupe du Gratin Dauphinois :",
+      "createdAt": "2026-06-26T20:53:38.015Z",
+      "cmfSnapshot": {
+        "phase": "F",
+        "moment": "palmares",
+        "favoriteTeams": [],
+        "topScorer": {
+          "playerName": "Cristian Lombardo",
+          "teamId": "110159bd-411c-409a-ba07-95216b092ba4",
+          "teamName": "UGP",
+          "goals": 5,
+          "overall": 91
+        },
+        "topAssister": {
+          "playerName": "Magdy El-Baz",
+          "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+          "teamName": "Empire Hussein",
+          "assists": 3,
+          "overall": 85
+        },
+        "bestPlayer": {
+          "playerName": "Rabah Lado",
+          "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+          "teamName": "Empire Hussein",
+          "avgRating": 9.1,
+          "overall": 88
+        },
+        "bestGK": {
+          "playerName": "Rabah Lado",
+          "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+          "teamName": "Empire Hussein",
+          "cleanSheets": 4,
+          "overall": 88
+        },
+        "winner": {
+          "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+          "teamName": "Empire Hussein"
+        }
+      }
     }
-  ]
+  ],
+  "morale": {
+    "da633c6d-88ad-40f5-9ab5-6437d77c3797": 20,
+    "110159bd-411c-409a-ba07-95216b092ba4": 70,
+    "6f3d1170-2f22-4f74-905b-8cbb55058954": 56,
+    "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a": 38,
+    "ca9439ef-f9f3-4ec5-8073-0f62660aa497": 95,
+    "e5af0153-73d2-40eb-b1d4-c45e9f53df07": 64,
+    "28c0b086-2c03-4d18-b943-90ffdcf68fcc": 34,
+    "4050e7b8-0b32-4225-b936-2947890e501c": 14
+  },
+  "injuries": [],
+  "disqualifiedTeamIds": [
+    "ca9439ef-f9f3-4ec5-8073-0f62660aa497"
+  ],
+  "awards": {
+    "topScorer": "63cba1c6-27e5-4311-91d8-92b5f3fde740",
+    "topAssister": "8745a1a2-e456-4d0e-8ddd-610658c8a559",
+    "bestGK": "aff7b68e-f32e-47eb-ab8e-96007c9b2a38",
+    "bestPlayer": "aff7b68e-f32e-47eb-ab8e-96007c9b2a38"
+  },
+  "winner": "ca9439ef-f9f3-4ec5-8073-0f62660aa497"
 }
