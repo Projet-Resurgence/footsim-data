@@ -50,7 +50,7 @@
   "playerCount": 500,
   "formation": "4-3-3",
   "managerDiscordId": "723669328267968582",
-  "publishedAt": "2026-06-24T00:05:37.126Z",
+  "publishedAt": "2026-06-26T18:27:11.048Z",
   "actionFoot": {
     "rating": 2,
     "funding": 300
@@ -323,5 +323,28 @@
       "participantCount": 16,
       "cmfPoints": -1.7
     }
-  ]
+  ],
+  "savedTactics": [
+    {
+      "style": "possession",
+      "formation": "4-3-3",
+      "lineup": [
+        "1eac2205-354c-4bf3-ac5a-f1bd85d4a540",
+        "1119ac2c-ddbf-4596-b135-88975162b260",
+        "27f37fc9-a58a-428f-9f4f-be753f07168c",
+        "daf28047-59b1-4f38-bf39-51d192979b7e",
+        "04253146-22a8-4be1-bdc3-f9959c80ab43",
+        "3e57d53c-19a6-4613-99be-87611b9c9f87",
+        "e5a951b2-9510-4234-9756-691a4822918b",
+        "013d024c-3b0d-4675-96aa-551279f77836",
+        "ce6edb53-b562-4047-a841-c2712658f714",
+        "4cff8ba1-7087-4bca-ae92-20cf4d9599b9",
+        "1e4091a7-5339-4ea5-b128-ed64d9d3165b"
+      ],
+      "customStyles": [],
+      "id": "f68c04da-ba8f-4466-a913-4608f40afd9d",
+      "name": "Tactique 1"
+    }
+  ],
+  "activeTacticId": "f68c04da-ba8f-4466-a913-4608f40afd9d"
 }
