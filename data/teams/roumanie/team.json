@@ -44,5 +44,58 @@
     "overall": 70
   },
   "jerseyColor": "#f1dd04",
-  "publishedAt": "2026-06-25T13:07:40.274Z"
+  "publishedAt": "2026-06-25T13:07:40.274Z",
+  "recentMatches": [
+    {
+      "matchId": "p5ipu1rumqvcmc3w",
+      "playedAt": "2026-06-26T20:10:31.133Z",
+      "opponentSlug": "cote-d-ivoire",
+      "opponentName": "Côte d'Ivoire",
+      "homeTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "awayTeamId": "63b3d538-b5f5-44d0-83b4-5d23d3cbcb22",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 2,
+      "opponentStrength": 62,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 5.8
+    },
+    {
+      "matchId": "demwrpr8mqvcmc3w",
+      "playedAt": "2026-06-26T20:04:53.079Z",
+      "opponentSlug": "germanie",
+      "opponentName": "Germanie",
+      "homeTeamId": "6377412c-0d4c-47e7-ba24-52745e83cfaa",
+      "awayTeamId": "63b3d538-b5f5-44d0-83b4-5d23d3cbcb22",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 2,
+      "opponentStrength": 62,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.3
+    },
+    {
+      "matchId": "rt5v9pxhmqvcmc3w",
+      "playedAt": "2026-06-26T19:59:42.830Z",
+      "opponentSlug": "aethel",
+      "opponentName": "Aethel",
+      "homeTeamId": "9aea33e4-a280-4ec7-8ad5-4852e3cf3439",
+      "awayTeamId": "63b3d538-b5f5-44d0-83b4-5d23d3cbcb22",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17
+    }
+  ]
 }
