@@ -46,5 +46,24 @@
     "overall": 62
   },
   "jerseyColor": "#339e49",
-  "publishedAt": "2026-06-21T21:21:29.457Z"
+  "publishedAt": "2026-06-21T21:21:29.457Z",
+  "recentMatches": [
+    {
+      "matchId": "9p5tyekmmquxei3l",
+      "playedAt": "2026-06-26T13:27:58.669Z",
+      "opponentSlug": "sanjan",
+      "opponentName": "Sanjan",
+      "homeTeamId": "a4056618-29f2-4bc3-9e67-89e75f8f6b8b",
+      "awayTeamId": "ca4a42a7-44f6-40eb-a405-f2996edb1a56",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.2
+    }
+  ]
 }
