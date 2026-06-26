@@ -25,7 +25,79 @@
       "phase": "group",
       "groupId": "group_0",
       "leg": 1,
-      "status": "pending"
+      "status": "completed",
+      "result": {
+        "home": 1,
+        "away": 1
+      },
+      "matchSummary": {
+        "motm": {
+          "playerId": "541fbce5-29ef-4c5f-83fd-9e0a42d404fb",
+          "playerName": "Nima Rezaei",
+          "teamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+          "teamName": "Royaume d'Asha",
+          "rating": 8.7
+        },
+        "stats": {
+          "shots": {
+            "home": 7,
+            "away": 18
+          },
+          "shotsOnTarget": {
+            "home": 4,
+            "away": 10
+          },
+          "saves": {
+            "home": 9,
+            "away": 2
+          },
+          "passes": {
+            "home": 300,
+            "away": 300
+          },
+          "fouls": {
+            "home": 4,
+            "away": 1
+          },
+          "corners": {
+            "home": 0,
+            "away": 2
+          },
+          "offsides": {
+            "home": 1,
+            "away": 1
+          },
+          "freekicks": {
+            "home": 1,
+            "away": 1
+          },
+          "dribbles": {
+            "home": 7,
+            "away": 5
+          },
+          "clearances": {
+            "home": 0,
+            "away": 0
+          },
+          "keyPasses": {
+            "home": 12,
+            "away": 8
+          },
+          "possession": {
+            "home": 50,
+            "away": 50
+          },
+          "yellowCards": {
+            "home": 1,
+            "away": 1
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        }
+      },
+      "simulatedAt": "2026-06-26T11:25:25.888Z"
     },
     {
       "id": "zexh9q0amquugzu5",
@@ -35,7 +107,79 @@
       "phase": "group",
       "groupId": "group_0",
       "leg": 1,
-      "status": "pending"
+      "status": "completed",
+      "result": {
+        "home": 0,
+        "away": 2
+      },
+      "matchSummary": {
+        "motm": {
+          "playerId": "3b88b99f-5143-4c7d-8cb2-0e682e5f0560",
+          "playerName": "Ghazali bin Ali",
+          "teamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+          "teamName": "URSI",
+          "rating": 8.8
+        },
+        "stats": {
+          "shots": {
+            "home": 10,
+            "away": 13
+          },
+          "shotsOnTarget": {
+            "home": 5,
+            "away": 8
+          },
+          "saves": {
+            "home": 5,
+            "away": 4
+          },
+          "passes": {
+            "home": 318,
+            "away": 258
+          },
+          "fouls": {
+            "home": 2,
+            "away": 5
+          },
+          "corners": {
+            "home": 3,
+            "away": 2
+          },
+          "offsides": {
+            "home": 0,
+            "away": 3
+          },
+          "freekicks": {
+            "home": 2,
+            "away": 0
+          },
+          "dribbles": {
+            "home": 7,
+            "away": 7
+          },
+          "clearances": {
+            "home": 1,
+            "away": 0
+          },
+          "keyPasses": {
+            "home": 11,
+            "away": 7
+          },
+          "possession": {
+            "home": 55,
+            "away": 45
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 0
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        }
+      },
+      "simulatedAt": "2026-06-26T11:25:25.888Z"
     },
     {
       "id": "qciu8x9umquugzu5",
@@ -45,7 +189,79 @@
       "phase": "group",
       "groupId": "group_0",
       "leg": 1,
-      "status": "pending"
+      "status": "completed",
+      "result": {
+        "home": 1,
+        "away": 2
+      },
+      "matchSummary": {
+        "motm": {
+          "playerId": "3b88b99f-5143-4c7d-8cb2-0e682e5f0560",
+          "playerName": "Ghazali bin Ali",
+          "teamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+          "teamName": "URSI",
+          "rating": 8
+        },
+        "stats": {
+          "shots": {
+            "home": 9,
+            "away": 7
+          },
+          "shotsOnTarget": {
+            "home": 5,
+            "away": 4
+          },
+          "saves": {
+            "home": 2,
+            "away": 4
+          },
+          "passes": {
+            "home": 324,
+            "away": 258
+          },
+          "fouls": {
+            "home": 6,
+            "away": 5
+          },
+          "corners": {
+            "home": 2,
+            "away": 2
+          },
+          "offsides": {
+            "home": 1,
+            "away": 2
+          },
+          "freekicks": {
+            "home": 4,
+            "away": 1
+          },
+          "dribbles": {
+            "home": 4,
+            "away": 5
+          },
+          "clearances": {
+            "home": 0,
+            "away": 2
+          },
+          "keyPasses": {
+            "home": 7,
+            "away": 8
+          },
+          "possession": {
+            "home": 56,
+            "away": 44
+          },
+          "yellowCards": {
+            "home": 2,
+            "away": 2
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        }
+      },
+      "simulatedAt": "2026-06-26T11:26:15.842Z"
     },
     {
       "id": "rx2abog6mquugzu5",
@@ -55,7 +271,79 @@
       "phase": "group",
       "groupId": "group_0",
       "leg": 1,
-      "status": "pending"
+      "status": "completed",
+      "result": {
+        "home": 2,
+        "away": 1
+      },
+      "matchSummary": {
+        "motm": {
+          "playerId": "afb3247a-c91a-4352-9008-b30a1fb17733",
+          "playerName": "Liam Williams",
+          "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
+          "teamName": "CCB",
+          "rating": 8.1
+        },
+        "stats": {
+          "shots": {
+            "home": 15,
+            "away": 11
+          },
+          "shotsOnTarget": {
+            "home": 11,
+            "away": 6
+          },
+          "saves": {
+            "home": 5,
+            "away": 7
+          },
+          "passes": {
+            "home": 252,
+            "away": 294
+          },
+          "fouls": {
+            "home": 3,
+            "away": 2
+          },
+          "corners": {
+            "home": 2,
+            "away": 5
+          },
+          "offsides": {
+            "home": 1,
+            "away": 4
+          },
+          "freekicks": {
+            "home": 1,
+            "away": 1
+          },
+          "dribbles": {
+            "home": 10,
+            "away": 9
+          },
+          "clearances": {
+            "home": 0,
+            "away": 1
+          },
+          "keyPasses": {
+            "home": 7,
+            "away": 9
+          },
+          "possession": {
+            "home": 46,
+            "away": 54
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 0
+          },
+          "redCards": {
+            "home": 1,
+            "away": 0
+          }
+        }
+      },
+      "simulatedAt": "2026-06-26T11:26:15.843Z"
     },
     {
       "id": "kyuxzd77mquugzu5",
@@ -65,7 +353,79 @@
       "phase": "group",
       "groupId": "group_0",
       "leg": 1,
-      "status": "pending"
+      "status": "completed",
+      "result": {
+        "home": 1,
+        "away": 4
+      },
+      "matchSummary": {
+        "motm": {
+          "playerId": "201e2880-3d06-44ef-bed5-811150a0b73f",
+          "playerName": "Jorge Moreno",
+          "teamId": "55c94018-aa17-477e-86d3-722caf57df20",
+          "teamName": "Castille",
+          "rating": 9.1
+        },
+        "stats": {
+          "shots": {
+            "home": 10,
+            "away": 21
+          },
+          "shotsOnTarget": {
+            "home": 7,
+            "away": 15
+          },
+          "saves": {
+            "home": 10,
+            "away": 4
+          },
+          "passes": {
+            "home": 228,
+            "away": 348
+          },
+          "fouls": {
+            "home": 4,
+            "away": 4
+          },
+          "corners": {
+            "home": 2,
+            "away": 1
+          },
+          "offsides": {
+            "home": 0,
+            "away": 4
+          },
+          "freekicks": {
+            "home": 1,
+            "away": 2
+          },
+          "dribbles": {
+            "home": 3,
+            "away": 5
+          },
+          "clearances": {
+            "home": 2,
+            "away": 0
+          },
+          "keyPasses": {
+            "home": 3,
+            "away": 16
+          },
+          "possession": {
+            "home": 40,
+            "away": 60
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 2
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        }
+      },
+      "simulatedAt": "2026-06-26T11:26:55.214Z"
     },
     {
       "id": "qeheqjmwmquugzu5",
@@ -75,7 +435,79 @@
       "phase": "group",
       "groupId": "group_0",
       "leg": 1,
-      "status": "pending"
+      "status": "completed",
+      "result": {
+        "home": 1,
+        "away": 2
+      },
+      "matchSummary": {
+        "motm": {
+          "playerId": "4c1df5ee-4c61-454b-a817-1c24699e8f99",
+          "playerName": "Jordan Mitchell",
+          "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
+          "teamName": "CCB",
+          "rating": 7.8
+        },
+        "stats": {
+          "shots": {
+            "home": 4,
+            "away": 13
+          },
+          "shotsOnTarget": {
+            "home": 3,
+            "away": 6
+          },
+          "saves": {
+            "home": 3,
+            "away": 1
+          },
+          "passes": {
+            "home": 228,
+            "away": 330
+          },
+          "fouls": {
+            "home": 6,
+            "away": 3
+          },
+          "corners": {
+            "home": 2,
+            "away": 1
+          },
+          "offsides": {
+            "home": 0,
+            "away": 2
+          },
+          "freekicks": {
+            "home": 1,
+            "away": 4
+          },
+          "dribbles": {
+            "home": 4,
+            "away": 8
+          },
+          "clearances": {
+            "home": 1,
+            "away": 1
+          },
+          "keyPasses": {
+            "home": 6,
+            "away": 5
+          },
+          "possession": {
+            "home": 41,
+            "away": 59
+          },
+          "yellowCards": {
+            "home": 1,
+            "away": 1
+          },
+          "redCards": {
+            "home": 1,
+            "away": 0
+          }
+        }
+      },
+      "simulatedAt": "2026-06-26T11:26:55.214Z"
     },
     {
       "id": "6lwyz2rzmquugzu5",
@@ -85,7 +517,79 @@
       "phase": "group",
       "groupId": "group_1",
       "leg": 1,
-      "status": "pending"
+      "status": "completed",
+      "result": {
+        "home": 0,
+        "away": 1
+      },
+      "matchSummary": {
+        "motm": {
+          "playerId": "a6f4c1ee-6009-4cf2-a935-fd73c4180f06",
+          "playerName": "Víctor Chávez",
+          "teamId": "f3fda074-0648-4d1f-a413-281bbf6d7d59",
+          "teamName": "Pérou",
+          "rating": 8.1
+        },
+        "stats": {
+          "shots": {
+            "home": 7,
+            "away": 19
+          },
+          "shotsOnTarget": {
+            "home": 4,
+            "away": 10
+          },
+          "saves": {
+            "home": 7,
+            "away": 4
+          },
+          "passes": {
+            "home": 288,
+            "away": 300
+          },
+          "fouls": {
+            "home": 2,
+            "away": 1
+          },
+          "corners": {
+            "home": 0,
+            "away": 2
+          },
+          "offsides": {
+            "home": 2,
+            "away": 1
+          },
+          "freekicks": {
+            "home": 3,
+            "away": 4
+          },
+          "dribbles": {
+            "home": 6,
+            "away": 9
+          },
+          "clearances": {
+            "home": 1,
+            "away": 2
+          },
+          "keyPasses": {
+            "home": 9,
+            "away": 9
+          },
+          "possession": {
+            "home": 49,
+            "away": 51
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 0
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        }
+      },
+      "simulatedAt": "2026-06-26T11:25:25.889Z"
     },
     {
       "id": "yo8ywenjmquugzu5",
@@ -95,7 +599,79 @@
       "phase": "group",
       "groupId": "group_1",
       "leg": 1,
-      "status": "pending"
+      "status": "completed",
+      "result": {
+        "home": 3,
+        "away": 1
+      },
+      "matchSummary": {
+        "motm": {
+          "playerId": "661827df-7602-47ac-bfea-a7a3d9199e8a",
+          "playerName": "Inácio Marques",
+          "teamId": "2256fe5a-993b-4007-8191-47ebe93a3e70",
+          "teamName": "Lusitanie",
+          "rating": 9.1
+        },
+        "stats": {
+          "shots": {
+            "home": 10,
+            "away": 12
+          },
+          "shotsOnTarget": {
+            "home": 6,
+            "away": 6
+          },
+          "saves": {
+            "home": 4,
+            "away": 3
+          },
+          "passes": {
+            "home": 234,
+            "away": 312
+          },
+          "fouls": {
+            "home": 6,
+            "away": 3
+          },
+          "corners": {
+            "home": 2,
+            "away": 0
+          },
+          "offsides": {
+            "home": 2,
+            "away": 2
+          },
+          "freekicks": {
+            "home": 2,
+            "away": 1
+          },
+          "dribbles": {
+            "home": 5,
+            "away": 6
+          },
+          "clearances": {
+            "home": 0,
+            "away": 0
+          },
+          "keyPasses": {
+            "home": 12,
+            "away": 8
+          },
+          "possession": {
+            "home": 43,
+            "away": 57
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 0
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        }
+      },
+      "simulatedAt": "2026-06-26T11:25:25.889Z"
     },
     {
       "id": "4944vr43mquugzu5",
@@ -105,7 +681,79 @@
       "phase": "group",
       "groupId": "group_1",
       "leg": 1,
-      "status": "pending"
+      "status": "completed",
+      "result": {
+        "home": 0,
+        "away": 2
+      },
+      "matchSummary": {
+        "motm": {
+          "playerId": "b40e2635-39a2-4c0f-8f43-ef8530d8caac",
+          "playerName": "Uğur Tekin",
+          "teamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+          "teamName": "Osmanide",
+          "rating": 7.8
+        },
+        "stats": {
+          "shots": {
+            "home": 8,
+            "away": 13
+          },
+          "shotsOnTarget": {
+            "home": 2,
+            "away": 7
+          },
+          "saves": {
+            "home": 3,
+            "away": 2
+          },
+          "passes": {
+            "home": 264,
+            "away": 294
+          },
+          "fouls": {
+            "home": 6,
+            "away": 4
+          },
+          "corners": {
+            "home": 3,
+            "away": 2
+          },
+          "offsides": {
+            "home": 1,
+            "away": 2
+          },
+          "freekicks": {
+            "home": 2,
+            "away": 1
+          },
+          "dribbles": {
+            "home": 9,
+            "away": 7
+          },
+          "clearances": {
+            "home": 1,
+            "away": 0
+          },
+          "keyPasses": {
+            "home": 6,
+            "away": 8
+          },
+          "possession": {
+            "home": 47,
+            "away": 53
+          },
+          "yellowCards": {
+            "home": 1,
+            "away": 0
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        }
+      },
+      "simulatedAt": "2026-06-26T11:26:15.844Z"
     },
     {
       "id": "jseyxclsmquugzu5",
@@ -115,7 +763,79 @@
       "phase": "group",
       "groupId": "group_1",
       "leg": 1,
-      "status": "pending"
+      "status": "completed",
+      "result": {
+        "home": 2,
+        "away": 1
+      },
+      "matchSummary": {
+        "motm": {
+          "playerId": "613c2771-c3d9-44a0-b3ad-3476e39f55fc",
+          "playerName": "Xurshid Fozilов",
+          "teamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+          "teamName": "CRPAC",
+          "rating": 9.3
+        },
+        "stats": {
+          "shots": {
+            "home": 16,
+            "away": 12
+          },
+          "shotsOnTarget": {
+            "home": 9,
+            "away": 6
+          },
+          "saves": {
+            "home": 4,
+            "away": 7
+          },
+          "passes": {
+            "home": 306,
+            "away": 270
+          },
+          "fouls": {
+            "home": 3,
+            "away": 4
+          },
+          "corners": {
+            "home": 5,
+            "away": 3
+          },
+          "offsides": {
+            "home": 1,
+            "away": 0
+          },
+          "freekicks": {
+            "home": 1,
+            "away": 1
+          },
+          "dribbles": {
+            "home": 14,
+            "away": 5
+          },
+          "clearances": {
+            "home": 0,
+            "away": 0
+          },
+          "keyPasses": {
+            "home": 6,
+            "away": 7
+          },
+          "possession": {
+            "home": 53,
+            "away": 47
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 0
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        }
+      },
+      "simulatedAt": "2026-06-26T11:26:15.846Z"
     },
     {
       "id": "nyely6rumquugzu5",
@@ -125,7 +845,79 @@
       "phase": "group",
       "groupId": "group_1",
       "leg": 1,
-      "status": "pending"
+      "status": "completed",
+      "result": {
+        "home": 2,
+        "away": 2
+      },
+      "matchSummary": {
+        "motm": {
+          "playerId": "11345591-cebb-45ff-8843-d32d4c52a932",
+          "playerName": "Quirino Morales",
+          "teamId": "f3fda074-0648-4d1f-a413-281bbf6d7d59",
+          "teamName": "Pérou",
+          "rating": 9.2
+        },
+        "stats": {
+          "shots": {
+            "home": 16,
+            "away": 13
+          },
+          "shotsOnTarget": {
+            "home": 10,
+            "away": 8
+          },
+          "saves": {
+            "home": 6,
+            "away": 8
+          },
+          "passes": {
+            "home": 300,
+            "away": 258
+          },
+          "fouls": {
+            "home": 3,
+            "away": 4
+          },
+          "corners": {
+            "home": 2,
+            "away": 2
+          },
+          "offsides": {
+            "home": 0,
+            "away": 1
+          },
+          "freekicks": {
+            "home": 0,
+            "away": 3
+          },
+          "dribbles": {
+            "home": 9,
+            "away": 2
+          },
+          "clearances": {
+            "home": 1,
+            "away": 0
+          },
+          "keyPasses": {
+            "home": 9,
+            "away": 8
+          },
+          "possession": {
+            "home": 54,
+            "away": 46
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 0
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        }
+      },
+      "simulatedAt": "2026-06-26T11:26:55.215Z"
     },
     {
       "id": "bniio0jomquugzu5",
@@ -135,47 +927,411 @@
       "phase": "group",
       "groupId": "group_1",
       "leg": 1,
-      "status": "pending"
+      "status": "completed",
+      "result": {
+        "home": 3,
+        "away": 1
+      },
+      "matchSummary": {
+        "motm": {
+          "playerId": "50e184d9-7277-46a5-ad24-f626500784ef",
+          "playerName": "Ali Polat",
+          "teamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+          "teamName": "Osmanide",
+          "rating": 8.1
+        },
+        "stats": {
+          "shots": {
+            "home": 14,
+            "away": 12
+          },
+          "shotsOnTarget": {
+            "home": 10,
+            "away": 6
+          },
+          "saves": {
+            "home": 5,
+            "away": 4
+          },
+          "passes": {
+            "home": 318,
+            "away": 228
+          },
+          "fouls": {
+            "home": 3,
+            "away": 7
+          },
+          "corners": {
+            "home": 2,
+            "away": 0
+          },
+          "offsides": {
+            "home": 3,
+            "away": 0
+          },
+          "freekicks": {
+            "home": 3,
+            "away": 3
+          },
+          "dribbles": {
+            "home": 6,
+            "away": 8
+          },
+          "clearances": {
+            "home": 1,
+            "away": 0
+          },
+          "keyPasses": {
+            "home": 8,
+            "away": 6
+          },
+          "possession": {
+            "home": 58,
+            "away": 42
+          },
+          "yellowCards": {
+            "home": 1,
+            "away": 2
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        }
+      },
+      "simulatedAt": "2026-06-26T11:26:55.215Z"
     },
     {
       "id": "5uat2wwkmquugzu5",
-      "homeTeamId": null,
-      "awayTeamId": null,
+      "homeTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "awayTeamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
       "round": 4,
       "phase": "SF",
       "leg": 1,
-      "status": "pending"
+      "status": "completed",
+      "result": {
+        "home": 1,
+        "away": 0
+      },
+      "matchSummary": {
+        "motm": {
+          "playerId": "44e712fb-26e6-4278-9d9f-0de27edfe5d5",
+          "playerName": "Nathan Morin",
+          "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
+          "teamName": "CCB",
+          "rating": 8.3
+        },
+        "stats": {
+          "shots": {
+            "home": 17,
+            "away": 11
+          },
+          "shotsOnTarget": {
+            "home": 7,
+            "away": 5
+          },
+          "saves": {
+            "home": 5,
+            "away": 6
+          },
+          "passes": {
+            "home": 252,
+            "away": 306
+          },
+          "fouls": {
+            "home": 3,
+            "away": 2
+          },
+          "corners": {
+            "home": 2,
+            "away": 3
+          },
+          "offsides": {
+            "home": 0,
+            "away": 2
+          },
+          "freekicks": {
+            "home": 3,
+            "away": 0
+          },
+          "dribbles": {
+            "home": 8,
+            "away": 10
+          },
+          "clearances": {
+            "home": 0,
+            "away": 2
+          },
+          "keyPasses": {
+            "home": 12,
+            "away": 6
+          },
+          "possession": {
+            "home": 45,
+            "away": 55
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 0
+          },
+          "redCards": {
+            "home": 1,
+            "away": 0
+          }
+        }
+      },
+      "simulatedAt": "2026-06-26T11:27:49.383Z"
     },
     {
       "id": "dtv8va5dmquugzu5",
-      "homeTeamId": null,
-      "awayTeamId": null,
+      "homeTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "awayTeamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
       "round": 4,
       "phase": "SF",
       "leg": 1,
-      "status": "pending"
+      "status": "completed",
+      "result": {
+        "home": 1,
+        "away": 2
+      },
+      "matchSummary": {
+        "motm": {
+          "playerId": "674490b6-409f-4e59-98de-907056600e0d",
+          "playerName": "Hafiz Yap",
+          "teamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+          "teamName": "URSI",
+          "rating": 8.5
+        },
+        "stats": {
+          "shots": {
+            "home": 14,
+            "away": 7
+          },
+          "shotsOnTarget": {
+            "home": 7,
+            "away": 4
+          },
+          "saves": {
+            "home": 2,
+            "away": 2
+          },
+          "passes": {
+            "home": 324,
+            "away": 258
+          },
+          "fouls": {
+            "home": 5,
+            "away": 3
+          },
+          "corners": {
+            "home": 3,
+            "away": 1
+          },
+          "offsides": {
+            "home": 2,
+            "away": 1
+          },
+          "freekicks": {
+            "home": 0,
+            "away": 0
+          },
+          "dribbles": {
+            "home": 8,
+            "away": 6
+          },
+          "clearances": {
+            "home": 0,
+            "away": 0
+          },
+          "keyPasses": {
+            "home": 15,
+            "away": 8
+          },
+          "possession": {
+            "home": 56,
+            "away": 44
+          },
+          "yellowCards": {
+            "home": 2,
+            "away": 1
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        }
+      },
+      "simulatedAt": "2026-06-26T11:27:49.385Z"
     },
     {
       "id": "o4ik0u8wmquugzu5",
-      "homeTeamId": null,
-      "awayTeamId": null,
+      "homeTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "awayTeamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
       "homeFromMatch": "5uat2wwkmquugzu5",
       "awayFromMatch": "dtv8va5dmquugzu5",
       "round": 5,
       "phase": "F",
       "leg": 1,
-      "status": "pending"
+      "status": "completed",
+      "result": {
+        "home": 0,
+        "away": 0,
+        "penalties": {
+          "home": 2,
+          "away": 0
+        }
+      },
+      "matchSummary": {
+        "motm": {
+          "playerId": "59844368-113e-46a3-b49c-a98129fcd18b",
+          "playerName": "Sokha Oun",
+          "teamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+          "teamName": "URSI",
+          "rating": 9.2
+        },
+        "stats": {
+          "shots": {
+            "home": 20,
+            "away": 19
+          },
+          "shotsOnTarget": {
+            "home": 9,
+            "away": 7
+          },
+          "saves": {
+            "home": 4,
+            "away": 8
+          },
+          "passes": {
+            "home": 360,
+            "away": 402
+          },
+          "fouls": {
+            "home": 4,
+            "away": 1
+          },
+          "corners": {
+            "home": 2,
+            "away": 3
+          },
+          "offsides": {
+            "home": 2,
+            "away": 1
+          },
+          "freekicks": {
+            "home": 0,
+            "away": 0
+          },
+          "dribbles": {
+            "home": 10,
+            "away": 10
+          },
+          "clearances": {
+            "home": 1,
+            "away": 0
+          },
+          "keyPasses": {
+            "home": 13,
+            "away": 9
+          },
+          "possession": {
+            "home": 47,
+            "away": 53
+          },
+          "yellowCards": {
+            "home": 1,
+            "away": 1
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        }
+      },
+      "simulatedAt": "2026-06-26T11:28:24.618Z"
     },
     {
       "id": "nvzhn129mquugzu5",
-      "homeTeamId": null,
-      "awayTeamId": null,
+      "homeTeamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+      "awayTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
       "homeFromMatch": "5uat2wwkmquugzu5",
       "awayFromMatch": "dtv8va5dmquugzu5",
       "round": 5,
       "phase": "3rd",
       "leg": 1,
-      "status": "pending"
+      "status": "completed",
+      "result": {
+        "home": 1,
+        "away": 0
+      },
+      "matchSummary": {
+        "motm": {
+          "playerId": "b931fea4-56ac-483b-99a0-3f3179059a66",
+          "playerName": "Fenomen Kaliyev",
+          "teamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+          "teamName": "CRPAC",
+          "rating": 8.9
+        },
+        "stats": {
+          "shots": {
+            "home": 9,
+            "away": 10
+          },
+          "shotsOnTarget": {
+            "home": 4,
+            "away": 7
+          },
+          "saves": {
+            "home": 7,
+            "away": 3
+          },
+          "passes": {
+            "home": 186,
+            "away": 378
+          },
+          "fouls": {
+            "home": 10,
+            "away": 2
+          },
+          "corners": {
+            "home": 2,
+            "away": 1
+          },
+          "offsides": {
+            "home": 2,
+            "away": 3
+          },
+          "freekicks": {
+            "home": 2,
+            "away": 1
+          },
+          "dribbles": {
+            "home": 5,
+            "away": 7
+          },
+          "clearances": {
+            "home": 2,
+            "away": 2
+          },
+          "keyPasses": {
+            "home": 4,
+            "away": 13
+          },
+          "possession": {
+            "home": 33,
+            "away": 67
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 0
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        }
+      },
+      "simulatedAt": "2026-06-26T11:28:24.620Z"
     }
   ],
   "groups": [
@@ -203,86 +1359,2116 @@
   "standings": {
     "df16509b-c6c2-43ce-abae-7c077e85ba22": {
       "teamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
-      "played": 0,
+      "played": 3,
       "won": 0,
-      "drawn": 0,
-      "lost": 0,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
-      "points": 0
+      "drawn": 1,
+      "lost": 2,
+      "goalsFor": 3,
+      "goalsAgainst": 7,
+      "points": 1
     },
     "55c94018-aa17-477e-86d3-722caf57df20": {
       "teamId": "55c94018-aa17-477e-86d3-722caf57df20",
-      "played": 0,
-      "won": 0,
+      "played": 3,
+      "won": 1,
       "drawn": 0,
-      "lost": 0,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
-      "points": 0
+      "lost": 2,
+      "goalsFor": 5,
+      "goalsAgainst": 5,
+      "points": 3
     },
     "dd9ec787-b9a6-466a-9cd3-b06674a15268": {
       "teamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
-      "played": 0,
-      "won": 0,
+      "played": 3,
+      "won": 2,
       "drawn": 0,
-      "lost": 0,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
-      "points": 0
+      "lost": 1,
+      "goalsFor": 5,
+      "goalsAgainst": 3,
+      "points": 6
     },
     "45002df1-cafe-4c04-814c-660868b56d95": {
       "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
-      "played": 0,
-      "won": 0,
-      "drawn": 0,
+      "played": 3,
+      "won": 2,
+      "drawn": 1,
       "lost": 0,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
-      "points": 0
+      "goalsFor": 5,
+      "goalsAgainst": 3,
+      "points": 7
     },
     "f3fda074-0648-4d1f-a413-281bbf6d7d59": {
       "teamId": "f3fda074-0648-4d1f-a413-281bbf6d7d59",
-      "played": 0,
+      "played": 3,
       "won": 0,
-      "drawn": 0,
-      "lost": 0,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
-      "points": 0
+      "drawn": 1,
+      "lost": 2,
+      "goalsFor": 2,
+      "goalsAgainst": 5,
+      "points": 1
     },
     "2256fe5a-993b-4007-8191-47ebe93a3e70": {
       "teamId": "2256fe5a-993b-4007-8191-47ebe93a3e70",
-      "played": 0,
-      "won": 0,
-      "drawn": 0,
-      "lost": 0,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
-      "points": 0
+      "played": 3,
+      "won": 1,
+      "drawn": 1,
+      "lost": 1,
+      "goalsFor": 6,
+      "goalsAgainst": 5,
+      "points": 4
     },
     "31dbe023-a8f1-4325-9813-afa3d8e217fa": {
       "teamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
-      "played": 0,
-      "won": 0,
+      "played": 3,
+      "won": 2,
       "drawn": 0,
-      "lost": 0,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
-      "points": 0
+      "lost": 1,
+      "goalsFor": 6,
+      "goalsAgainst": 4,
+      "points": 6
     },
     "0fe98426-628d-4e12-a4c7-9a71e599160f": {
       "teamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
-      "played": 0,
-      "won": 0,
+      "played": 3,
+      "won": 2,
       "drawn": 0,
-      "lost": 0,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
-      "points": 0
+      "lost": 1,
+      "goalsFor": 4,
+      "goalsAgainst": 4,
+      "points": 6
     }
   },
-  "playerStats": {},
+  "playerStats": {
+    "4b1bcf7e-b1dc-499c-92c2-84e8b167c491": {
+      "playerId": "4b1bcf7e-b1dc-499c-92c2-84e8b167c491",
+      "playerName": "Scott Evans",
+      "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "teamName": "CCB",
+      "overall": 77,
+      "position": "LB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 1,
+      "redCards": 0,
+      "matchRatings": [],
+      "avgRating": 0,
+      "motmCount": 0
+    },
+    "3485a9f3-c86e-4378-a689-d66274d56746": {
+      "playerId": "3485a9f3-c86e-4378-a689-d66274d56746",
+      "playerName": "Kevin Thompson",
+      "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "teamName": "CCB",
+      "overall": 81,
+      "position": "CM",
+      "goals": 1,
+      "assists": 1,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        8,
+        6.4,
+        7.7,
+        7.4,
+        7.4
+      ],
+      "avgRating": 7.4,
+      "motmCount": 0
+    },
+    "cf9cb854-71a7-497a-a24a-75038a58e648": {
+      "playerId": "cf9cb854-71a7-497a-a24a-75038a58e648",
+      "playerName": "Noah Williams",
+      "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "teamName": "CCB",
+      "overall": 80,
+      "position": "CM",
+      "goals": 3,
+      "assists": 1,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        7.8,
+        7.7,
+        7.5,
+        7.9,
+        7.1
+      ],
+      "avgRating": 7.6,
+      "motmCount": 0
+    },
+    "077e30cd-6094-44fd-b93c-e30b75837090": {
+      "playerId": "077e30cd-6094-44fd-b93c-e30b75837090",
+      "playerName": "Siavash Shirazi",
+      "teamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "teamName": "Royaume d'Asha",
+      "overall": 83,
+      "position": "ST",
+      "goals": 2,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 1,
+      "redCards": 0,
+      "matchRatings": [
+        7.7,
+        7.2,
+        6
+      ],
+      "avgRating": 7,
+      "motmCount": 0
+    },
+    "8bfcde77-da92-4b72-96bf-cf245005926f": {
+      "playerId": "8bfcde77-da92-4b72-96bf-cf245005926f",
+      "playerName": "Nader Talebi",
+      "teamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "teamName": "Royaume d'Asha",
+      "overall": 81,
+      "position": "LM",
+      "goals": 0,
+      "assists": 1,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        7.4,
+        6.2,
+        6.2
+      ],
+      "avgRating": 6.6,
+      "motmCount": 0
+    },
+    "cba94e02-3b10-4a36-ae00-8066b99d02bd": {
+      "playerId": "cba94e02-3b10-4a36-ae00-8066b99d02bd",
+      "playerName": "Nader Mansouri",
+      "teamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "teamName": "Royaume d'Asha",
+      "overall": 83,
+      "position": "ST",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 2,
+      "redCards": 0,
+      "matchRatings": [
+        5.3,
+        5.3,
+        5.7
+      ],
+      "avgRating": 5.4,
+      "motmCount": 0
+    },
+    "541fbce5-29ef-4c5f-83fd-9e0a42d404fb": {
+      "playerId": "541fbce5-29ef-4c5f-83fd-9e0a42d404fb",
+      "playerName": "Nima Rezaei",
+      "teamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "teamName": "Royaume d'Asha",
+      "overall": 82,
+      "position": "GK",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        8.7,
+        6.6,
+        8.4
+      ],
+      "avgRating": 7.9,
+      "motmCount": 1
+    },
+    "247bcbb8-08b9-477f-9dc8-2b52b6c82b28": {
+      "playerId": "247bcbb8-08b9-477f-9dc8-2b52b6c82b28",
+      "playerName": "Saeed Omidvar",
+      "teamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "teamName": "Royaume d'Asha",
+      "overall": 82,
+      "position": "LB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6,
+        6,
+        5.9
+      ],
+      "avgRating": 6,
+      "motmCount": 0
+    },
+    "8a841420-88c3-4053-a9ed-ce5321ac8b79": {
+      "playerId": "8a841420-88c3-4053-a9ed-ce5321ac8b79",
+      "playerName": "Hassan Tabatabai",
+      "teamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "teamName": "Royaume d'Asha",
+      "overall": 82,
+      "position": "CB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6,
+        6,
+        5.9
+      ],
+      "avgRating": 6,
+      "motmCount": 0
+    },
+    "e4684998-5d0f-43df-8a26-af0d383cd1af": {
+      "playerId": "e4684998-5d0f-43df-8a26-af0d383cd1af",
+      "playerName": "Mehdi Karimi",
+      "teamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "teamName": "Royaume d'Asha",
+      "overall": 79,
+      "position": "CB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6,
+        6,
+        5.7
+      ],
+      "avgRating": 5.9,
+      "motmCount": 0
+    },
+    "57712de0-dde0-40a1-958f-7848cb7a593f": {
+      "playerId": "57712de0-dde0-40a1-958f-7848cb7a593f",
+      "playerName": "Rasoul Fattahi",
+      "teamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "teamName": "Royaume d'Asha",
+      "overall": 84,
+      "position": "RW",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        5.8,
+        5.7,
+        5.7
+      ],
+      "avgRating": 5.7,
+      "motmCount": 0
+    },
+    "d5f00f3c-2cd1-4ac2-b6b9-a60d357eb5c3": {
+      "playerId": "d5f00f3c-2cd1-4ac2-b6b9-a60d357eb5c3",
+      "playerName": "Milad Rezaei",
+      "teamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "teamName": "Royaume d'Asha",
+      "overall": 80,
+      "position": "CM",
+      "goals": 1,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.9,
+        6.7,
+        7.5
+      ],
+      "avgRating": 7,
+      "motmCount": 0
+    },
+    "4fa45034-5317-43ba-8738-7dc6d677551a": {
+      "playerId": "4fa45034-5317-43ba-8738-7dc6d677551a",
+      "playerName": "Behrouz Babai",
+      "teamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "teamName": "Royaume d'Asha",
+      "overall": 78,
+      "position": "CM",
+      "goals": 0,
+      "assists": 1,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.6,
+        6.4,
+        7.7
+      ],
+      "avgRating": 6.9,
+      "motmCount": 0
+    },
+    "628fdbc5-9655-497c-a148-802a4f649d96": {
+      "playerId": "628fdbc5-9655-497c-a148-802a4f649d96",
+      "playerName": "Siavash Yousefi",
+      "teamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "teamName": "Royaume d'Asha",
+      "overall": 83,
+      "position": "RM",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.8,
+        6.2,
+        6
+      ],
+      "avgRating": 6.3,
+      "motmCount": 0
+    },
+    "44e712fb-26e6-4278-9d9f-0de27edfe5d5": {
+      "playerId": "44e712fb-26e6-4278-9d9f-0de27edfe5d5",
+      "playerName": "Nathan Morin",
+      "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "teamName": "CCB",
+      "overall": 84,
+      "position": "GK",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 2,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.6,
+        7.5,
+        6.3,
+        8.3,
+        8
+      ],
+      "avgRating": 7.3,
+      "motmCount": 1
+    },
+    "8a0c7655-a4b7-4d57-9a19-7a6f37ad6931": {
+      "playerId": "8a0c7655-a4b7-4d57-9a19-7a6f37ad6931",
+      "playerName": "Tanner Martin",
+      "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "teamName": "CCB",
+      "overall": 85,
+      "position": "RW",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 1,
+      "redCards": 1,
+      "matchRatings": [
+        5.7,
+        4.5,
+        5.9,
+        5.3
+      ],
+      "avgRating": 5.4,
+      "motmCount": 0
+    },
+    "c0f12e8b-929e-4763-af2c-947b54ec973d": {
+      "playerId": "c0f12e8b-929e-4763-af2c-947b54ec973d",
+      "playerName": "Aaron Hill",
+      "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "teamName": "CCB",
+      "overall": 81,
+      "position": "CB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6,
+        6,
+        6,
+        6.4,
+        6.4
+      ],
+      "avgRating": 6.2,
+      "motmCount": 0
+    },
+    "2bb42de2-8ff9-4e03-9a38-7b6e004ba097": {
+      "playerId": "2bb42de2-8ff9-4e03-9a38-7b6e004ba097",
+      "playerName": "André Côté",
+      "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "teamName": "CCB",
+      "overall": 81,
+      "position": "CB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6,
+        6,
+        6.2,
+        6.4,
+        6.4
+      ],
+      "avgRating": 6.2,
+      "motmCount": 0
+    },
+    "5d165f97-694f-4e10-ad43-7e01e408729a": {
+      "playerId": "5d165f97-694f-4e10-ad43-7e01e408729a",
+      "playerName": "Evan Campbell",
+      "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "teamName": "CCB",
+      "overall": 84,
+      "position": "RW",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        5.7,
+        6,
+        5.8,
+        5.7,
+        5.8
+      ],
+      "avgRating": 5.8,
+      "motmCount": 0
+    },
+    "afb3247a-c91a-4352-9008-b30a1fb17733": {
+      "playerId": "afb3247a-c91a-4352-9008-b30a1fb17733",
+      "playerName": "Liam Williams",
+      "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "teamName": "CCB",
+      "overall": 81,
+      "position": "CM",
+      "goals": 0,
+      "assists": 1,
+      "cleanSheets": 0,
+      "yellowCards": 1,
+      "redCards": 1,
+      "matchRatings": [
+        6.5,
+        8.1,
+        6.1
+      ],
+      "avgRating": 6.9,
+      "motmCount": 1
+    },
+    "c8c2dbe4-df80-489b-a6b9-bba593860c98": {
+      "playerId": "c8c2dbe4-df80-489b-a6b9-bba593860c98",
+      "playerName": "Spencer Clark",
+      "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "teamName": "CCB",
+      "overall": 84,
+      "position": "LW",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.1,
+        6.3,
+        6.1,
+        6.3,
+        6.3
+      ],
+      "avgRating": 6.2,
+      "motmCount": 0
+    },
+    "7c185c3b-b756-4e27-a573-b4ff397a3821": {
+      "playerId": "7c185c3b-b756-4e27-a573-b4ff397a3821",
+      "playerName": "Jean-Luc Garneau",
+      "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "teamName": "CCB",
+      "overall": 84,
+      "position": "ST",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6,
+        6,
+        6,
+        6,
+        6
+      ],
+      "avgRating": 6,
+      "motmCount": 0
+    },
+    "4c1df5ee-4c61-454b-a817-1c24699e8f99": {
+      "playerId": "4c1df5ee-4c61-454b-a817-1c24699e8f99",
+      "playerName": "Jordan Mitchell",
+      "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "teamName": "CCB",
+      "overall": 85,
+      "position": "RW",
+      "goals": 2,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.2,
+        7.6,
+        7.8,
+        6.1,
+        6.2
+      ],
+      "avgRating": 6.8,
+      "motmCount": 1
+    },
+    "674490b6-409f-4e59-98de-907056600e0d": {
+      "playerId": "674490b6-409f-4e59-98de-907056600e0d",
+      "playerName": "Hafiz Yap",
+      "teamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+      "teamName": "URSI",
+      "overall": 84,
+      "position": "ST",
+      "goals": 3,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 2,
+      "redCards": 0,
+      "matchRatings": [
+        7.5,
+        6,
+        6.1,
+        8.5,
+        5.7
+      ],
+      "avgRating": 6.8,
+      "motmCount": 1
+    },
+    "3b88b99f-5143-4c7d-8cb2-0e682e5f0560": {
+      "playerId": "3b88b99f-5143-4c7d-8cb2-0e682e5f0560",
+      "playerName": "Ghazali bin Ali",
+      "teamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+      "teamName": "URSI",
+      "overall": 78,
+      "position": "CM",
+      "goals": 1,
+      "assists": 2,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        8.8,
+        8,
+        7.1,
+        6.7,
+        6.2
+      ],
+      "avgRating": 7.4,
+      "motmCount": 2
+    },
+    "90c437ba-cabc-43b8-a2e5-805f2568de06": {
+      "playerId": "90c437ba-cabc-43b8-a2e5-805f2568de06",
+      "playerName": "Leap Ang",
+      "teamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+      "teamName": "URSI",
+      "overall": 83,
+      "position": "ST",
+      "goals": 2,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        7.5,
+        7.2,
+        5.7,
+        5.7,
+        5.9
+      ],
+      "avgRating": 6.4,
+      "motmCount": 0
+    },
+    "59844368-113e-46a3-b49c-a98129fcd18b": {
+      "playerId": "59844368-113e-46a3-b49c-a98129fcd18b",
+      "playerName": "Sokha Oun",
+      "teamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+      "teamName": "URSI",
+      "overall": 84,
+      "position": "GK",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 2,
+      "yellowCards": 1,
+      "redCards": 1,
+      "matchRatings": [
+        8,
+        7.2,
+        9.2
+      ],
+      "avgRating": 8.1,
+      "motmCount": 1
+    },
+    "83aa9570-1f8a-4927-9205-10adaeb5012e": {
+      "playerId": "83aa9570-1f8a-4927-9205-10adaeb5012e",
+      "playerName": "Rafael González",
+      "teamId": "55c94018-aa17-477e-86d3-722caf57df20",
+      "teamName": "Castille",
+      "overall": 83,
+      "position": "GK",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        7.5,
+        8.1,
+        7.2
+      ],
+      "avgRating": 7.6,
+      "motmCount": 0
+    },
+    "a058740a-a19b-4ec5-8245-d00f6d110c52": {
+      "playerId": "a058740a-a19b-4ec5-8245-d00f6d110c52",
+      "playerName": "Eduardo Sánchez",
+      "teamId": "55c94018-aa17-477e-86d3-722caf57df20",
+      "teamName": "Castille",
+      "overall": 80,
+      "position": "LB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6,
+        6,
+        6
+      ],
+      "avgRating": 6,
+      "motmCount": 0
+    },
+    "fdc14393-1f4e-4ce4-a705-d56019c36ad3": {
+      "playerId": "fdc14393-1f4e-4ce4-a705-d56019c36ad3",
+      "playerName": "Eduardo Álvarez",
+      "teamId": "55c94018-aa17-477e-86d3-722caf57df20",
+      "teamName": "Castille",
+      "overall": 84,
+      "position": "CB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.2,
+        6,
+        6
+      ],
+      "avgRating": 6.1,
+      "motmCount": 0
+    },
+    "df23e187-01db-4b2f-9baa-c64547bb0f59": {
+      "playerId": "df23e187-01db-4b2f-9baa-c64547bb0f59",
+      "playerName": "Ramón Ramírez",
+      "teamId": "55c94018-aa17-477e-86d3-722caf57df20",
+      "teamName": "Castille",
+      "overall": 83,
+      "position": "CB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6,
+        6.2,
+        6
+      ],
+      "avgRating": 6.1,
+      "motmCount": 0
+    },
+    "f7b96c62-3e2b-4bad-a76c-e349c7494b68": {
+      "playerId": "f7b96c62-3e2b-4bad-a76c-e349c7494b68",
+      "playerName": "Hector Jiménez",
+      "teamId": "55c94018-aa17-477e-86d3-722caf57df20",
+      "teamName": "Castille",
+      "overall": 80,
+      "position": "RB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 1,
+      "redCards": 0,
+      "matchRatings": [
+        6,
+        6,
+        5.5
+      ],
+      "avgRating": 5.8,
+      "motmCount": 0
+    },
+    "b42409b0-e7ce-4918-8ccc-ac8858101ba3": {
+      "playerId": "b42409b0-e7ce-4918-8ccc-ac8858101ba3",
+      "playerName": "Iván Garrido",
+      "teamId": "55c94018-aa17-477e-86d3-722caf57df20",
+      "teamName": "Castille",
+      "overall": 82,
+      "position": "AM",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6,
+        6.2,
+        6.6
+      ],
+      "avgRating": 6.3,
+      "motmCount": 0
+    },
+    "201e2880-3d06-44ef-bed5-811150a0b73f": {
+      "playerId": "201e2880-3d06-44ef-bed5-811150a0b73f",
+      "playerName": "Jorge Moreno",
+      "teamId": "55c94018-aa17-477e-86d3-722caf57df20",
+      "teamName": "Castille",
+      "overall": 81,
+      "position": "CM",
+      "goals": 1,
+      "assists": 1,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.9,
+        6.7,
+        9.1
+      ],
+      "avgRating": 7.6,
+      "motmCount": 1
+    },
+    "c62628d5-2a45-4829-8689-2f0163d6fdb4": {
+      "playerId": "c62628d5-2a45-4829-8689-2f0163d6fdb4",
+      "playerName": "Nicolás Carrasco",
+      "teamId": "55c94018-aa17-477e-86d3-722caf57df20",
+      "teamName": "Castille",
+      "overall": 81,
+      "position": "AM",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.3,
+        6.1,
+        6.3
+      ],
+      "avgRating": 6.2,
+      "motmCount": 0
+    },
+    "765a1931-cb21-463c-b54e-968c193fdc0a": {
+      "playerId": "765a1931-cb21-463c-b54e-968c193fdc0a",
+      "playerName": "Saúl Caballero",
+      "teamId": "55c94018-aa17-477e-86d3-722caf57df20",
+      "teamName": "Castille",
+      "overall": 83,
+      "position": "LW",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 1,
+      "redCards": 0,
+      "matchRatings": [
+        6.3,
+        6.1,
+        5.6
+      ],
+      "avgRating": 6,
+      "motmCount": 0
+    },
+    "8e1495b9-e574-4b61-a7d1-90a16e9956d6": {
+      "playerId": "8e1495b9-e574-4b61-a7d1-90a16e9956d6",
+      "playerName": "Juan Garrido",
+      "teamId": "55c94018-aa17-477e-86d3-722caf57df20",
+      "teamName": "Castille",
+      "overall": 79,
+      "position": "ST",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6
+      ],
+      "avgRating": 6,
+      "motmCount": 0
+    },
+    "ee6ed1a4-5d2e-4b22-b508-4af846e588ad": {
+      "playerId": "ee6ed1a4-5d2e-4b22-b508-4af846e588ad",
+      "playerName": "Gabriel León",
+      "teamId": "55c94018-aa17-477e-86d3-722caf57df20",
+      "teamName": "Castille",
+      "overall": 89,
+      "position": "RW",
+      "goals": 1,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.1,
+        6.4,
+        7.6
+      ],
+      "avgRating": 6.7,
+      "motmCount": 0
+    },
+    "925fb0f0-4770-4588-a003-4332442d8e6b": {
+      "playerId": "925fb0f0-4770-4588-a003-4332442d8e6b",
+      "playerName": "Razif Chai",
+      "teamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+      "teamName": "URSI",
+      "overall": 82,
+      "position": "CB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 1,
+      "redCards": 0,
+      "matchRatings": [
+        6.1,
+        5.4,
+        5.7,
+        5.7,
+        6.1
+      ],
+      "avgRating": 5.8,
+      "motmCount": 0
+    },
+    "d70a1413-c02b-4910-a908-1fac5fbda073": {
+      "playerId": "d70a1413-c02b-4910-a908-1fac5fbda073",
+      "playerName": "Tanong Boonmak",
+      "teamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+      "teamName": "URSI",
+      "overall": 83,
+      "position": "CB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.4,
+        6,
+        6,
+        6,
+        6.4
+      ],
+      "avgRating": 6.2,
+      "motmCount": 0
+    },
+    "65a0ba07-91ec-4016-990c-5b03e5d62002": {
+      "playerId": "65a0ba07-91ec-4016-990c-5b03e5d62002",
+      "playerName": "Khánh La",
+      "teamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+      "teamName": "URSI",
+      "overall": 82,
+      "position": "CB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.4,
+        6.2,
+        6.2,
+        6,
+        6.4
+      ],
+      "avgRating": 6.2,
+      "motmCount": 0
+    },
+    "117877f7-4d2a-4d81-9687-2b0b763441ca": {
+      "playerId": "117877f7-4d2a-4d81-9687-2b0b763441ca",
+      "playerName": "Farid bin Rahman",
+      "teamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+      "teamName": "URSI",
+      "overall": 81,
+      "position": "CM",
+      "goals": 0,
+      "assists": 1,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.4,
+        7.8,
+        6,
+        6.2,
+        6.8
+      ],
+      "avgRating": 6.6,
+      "motmCount": 0
+    },
+    "9361f7e8-ea7e-4eb9-a289-b0a29b009e23": {
+      "playerId": "9361f7e8-ea7e-4eb9-a289-b0a29b009e23",
+      "playerName": "Wira Yap",
+      "teamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+      "teamName": "URSI",
+      "overall": 79,
+      "position": "CM",
+      "goals": 1,
+      "assists": 1,
+      "cleanSheets": 0,
+      "yellowCards": 1,
+      "redCards": 0,
+      "matchRatings": [
+        6.2,
+        7.1,
+        7.7,
+        6.8,
+        6.8
+      ],
+      "avgRating": 6.9,
+      "motmCount": 0
+    },
+    "d4e14934-d91c-4896-8c33-702ac9dd88d3": {
+      "playerId": "d4e14934-d91c-4896-8c33-702ac9dd88d3",
+      "playerName": "Anh Vũ",
+      "teamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+      "teamName": "URSI",
+      "overall": 78,
+      "position": "LW",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.2,
+        6,
+        6.1,
+        6.2,
+        6.1
+      ],
+      "avgRating": 6.1,
+      "motmCount": 0
+    },
+    "b05381e3-b251-4805-82ce-b0c911fc99b3": {
+      "playerId": "b05381e3-b251-4805-82ce-b0c911fc99b3",
+      "playerName": "Fadzli bin Razak",
+      "teamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+      "teamName": "URSI",
+      "overall": 83,
+      "position": "RW",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.2,
+        6.2,
+        6.1,
+        6.3,
+        6.5
+      ],
+      "avgRating": 6.3,
+      "motmCount": 0
+    },
+    "613c2771-c3d9-44a0-b3ad-3476e39f55fc": {
+      "playerId": "613c2771-c3d9-44a0-b3ad-3476e39f55fc",
+      "playerName": "Xurshid Fozilов",
+      "teamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+      "teamName": "CRPAC",
+      "overall": 89,
+      "position": "ST",
+      "goals": 4,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        7.6,
+        9.3,
+        7.7,
+        6.2,
+        6.1
+      ],
+      "avgRating": 7.4,
+      "motmCount": 1
+    },
+    "53f0236a-ead3-4585-9453-ea7be4bc2776": {
+      "playerId": "53f0236a-ead3-4585-9453-ea7be4bc2776",
+      "playerName": "Jamshid Valiyev",
+      "teamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+      "teamName": "CRPAC",
+      "overall": 85,
+      "position": "RM",
+      "goals": 0,
+      "assists": 1,
+      "cleanSheets": 0,
+      "yellowCards": 1,
+      "redCards": 0,
+      "matchRatings": [
+        8,
+        6,
+        5.7,
+        6.4,
+        6.2
+      ],
+      "avgRating": 6.5,
+      "motmCount": 0
+    },
+    "b931fea4-56ac-483b-99a0-3f3179059a66": {
+      "playerId": "b931fea4-56ac-483b-99a0-3f3179059a66",
+      "playerName": "Fenomen Kaliyev",
+      "teamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+      "teamName": "CRPAC",
+      "overall": 83,
+      "position": "GK",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 2,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        8,
+        7.2,
+        6.6,
+        7.8,
+        8.9
+      ],
+      "avgRating": 7.7,
+      "motmCount": 1
+    },
+    "a6f4c1ee-6009-4cf2-a935-fd73c4180f06": {
+      "playerId": "a6f4c1ee-6009-4cf2-a935-fd73c4180f06",
+      "playerName": "Víctor Chávez",
+      "teamId": "f3fda074-0648-4d1f-a413-281bbf6d7d59",
+      "teamName": "Pérou",
+      "overall": 86,
+      "position": "GK",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        8.1,
+        6.9,
+        7.8
+      ],
+      "avgRating": 7.6,
+      "motmCount": 1
+    },
+    "8f74d6b7-bd4e-4427-b4af-bac66caaa13c": {
+      "playerId": "8f74d6b7-bd4e-4427-b4af-bac66caaa13c",
+      "playerName": "Yoel Bautista",
+      "teamId": "f3fda074-0648-4d1f-a413-281bbf6d7d59",
+      "teamName": "Pérou",
+      "overall": 82,
+      "position": "LB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6,
+        6.2,
+        6
+      ],
+      "avgRating": 6.1,
+      "motmCount": 0
+    },
+    "06cb1bc9-137b-43ab-b598-8f9b6d50dfbe": {
+      "playerId": "06cb1bc9-137b-43ab-b598-8f9b6d50dfbe",
+      "playerName": "Wilmer Mamani",
+      "teamId": "f3fda074-0648-4d1f-a413-281bbf6d7d59",
+      "teamName": "Pérou",
+      "overall": 84,
+      "position": "RW",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        5.8,
+        5.8,
+        6
+      ],
+      "avgRating": 5.9,
+      "motmCount": 0
+    },
+    "b1572533-6b8f-4db8-ac80-3c805497e91f": {
+      "playerId": "b1572533-6b8f-4db8-ac80-3c805497e91f",
+      "playerName": "Víctor Mamani",
+      "teamId": "f3fda074-0648-4d1f-a413-281bbf6d7d59",
+      "teamName": "Pérou",
+      "overall": 85,
+      "position": "GK",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 1,
+      "redCards": 0,
+      "matchRatings": [
+        5.7,
+        5.2,
+        5.7
+      ],
+      "avgRating": 5.5,
+      "motmCount": 0
+    },
+    "ce880ef1-8290-494a-9ad6-299406a327b6": {
+      "playerId": "ce880ef1-8290-494a-9ad6-299406a327b6",
+      "playerName": "Erick Fuentes",
+      "teamId": "f3fda074-0648-4d1f-a413-281bbf6d7d59",
+      "teamName": "Pérou",
+      "overall": 79,
+      "position": "RB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6,
+        6,
+        6.2
+      ],
+      "avgRating": 6.1,
+      "motmCount": 0
+    },
+    "c19a89c4-5f6f-4302-913e-adf179d518fe": {
+      "playerId": "c19a89c4-5f6f-4302-913e-adf179d518fe",
+      "playerName": "Roberto Lapadula",
+      "teamId": "f3fda074-0648-4d1f-a413-281bbf6d7d59",
+      "teamName": "Pérou",
+      "overall": 86,
+      "position": "CM",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.4,
+        6.4,
+        7
+      ],
+      "avgRating": 6.6,
+      "motmCount": 0
+    },
+    "2d91a8ef-1762-42b9-9f87-f9088f1401db": {
+      "playerId": "2d91a8ef-1762-42b9-9f87-f9088f1401db",
+      "playerName": "Wilder Calisaya",
+      "teamId": "f3fda074-0648-4d1f-a413-281bbf6d7d59",
+      "teamName": "Pérou",
+      "overall": 82,
+      "position": "CM",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.6,
+        6.4,
+        6.4
+      ],
+      "avgRating": 6.5,
+      "motmCount": 0
+    },
+    "9a325bf0-69b0-4904-bde2-36576849f7db": {
+      "playerId": "9a325bf0-69b0-4904-bde2-36576849f7db",
+      "playerName": "Luis Vásquez",
+      "teamId": "f3fda074-0648-4d1f-a413-281bbf6d7d59",
+      "teamName": "Pérou",
+      "overall": 81,
+      "position": "CM",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.9,
+        6.7,
+        6.5
+      ],
+      "avgRating": 6.7,
+      "motmCount": 0
+    },
+    "11345591-cebb-45ff-8843-d32d4c52a932": {
+      "playerId": "11345591-cebb-45ff-8843-d32d4c52a932",
+      "playerName": "Quirino Morales",
+      "teamId": "f3fda074-0648-4d1f-a413-281bbf6d7d59",
+      "teamName": "Pérou",
+      "overall": 84,
+      "position": "LW",
+      "goals": 2,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.2,
+        6.2,
+        9.2
+      ],
+      "avgRating": 7.2,
+      "motmCount": 1
+    },
+    "b398ba30-bbb2-45e8-82ad-7e1600e93f1c": {
+      "playerId": "b398ba30-bbb2-45e8-82ad-7e1600e93f1c",
+      "playerName": "Luis Valdivia",
+      "teamId": "f3fda074-0648-4d1f-a413-281bbf6d7d59",
+      "teamName": "Pérou",
+      "overall": 90,
+      "position": "ST",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6,
+        6,
+        6.1
+      ],
+      "avgRating": 6,
+      "motmCount": 0
+    },
+    "2b87e5b4-da3c-47aa-ae97-36d9027baa4e": {
+      "playerId": "2b87e5b4-da3c-47aa-ae97-36d9027baa4e",
+      "playerName": "Roberto Vásquez",
+      "teamId": "f3fda074-0648-4d1f-a413-281bbf6d7d59",
+      "teamName": "Pérou",
+      "overall": 87,
+      "position": "RW",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.2,
+        6.3,
+        6.2
+      ],
+      "avgRating": 6.2,
+      "motmCount": 0
+    },
+    "606e7675-f6eb-4237-9769-254be6e6e7cc": {
+      "playerId": "606e7675-f6eb-4237-9769-254be6e6e7cc",
+      "playerName": "Yerzhan Nazarbaev",
+      "teamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+      "teamName": "CRPAC",
+      "overall": 83,
+      "position": "RB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 1,
+      "redCards": 0,
+      "matchRatings": [
+        6.3,
+        5.7,
+        4.9,
+        5.7,
+        6.1
+      ],
+      "avgRating": 5.7,
+      "motmCount": 0
+    },
+    "6e29c960-c3c3-4f22-a33d-8cfe8926399c": {
+      "playerId": "6e29c960-c3c3-4f22-a33d-8cfe8926399c",
+      "playerName": "Kamol Toxirov",
+      "teamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+      "teamName": "CRPAC",
+      "overall": 78,
+      "position": "CB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.6,
+        6,
+        5.7,
+        6.2,
+        6.6
+      ],
+      "avgRating": 6.2,
+      "motmCount": 0
+    },
+    "c84ce852-8076-4620-bccb-b7f17f780be0": {
+      "playerId": "c84ce852-8076-4620-bccb-b7f17f780be0",
+      "playerName": "Beishen Usubaliyev",
+      "teamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+      "teamName": "CRPAC",
+      "overall": 78,
+      "position": "CB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.4,
+        6,
+        5.7,
+        6,
+        6.4
+      ],
+      "avgRating": 6.1,
+      "motmCount": 0
+    },
+    "eec18e15-3246-4c6f-a033-f10a81718945": {
+      "playerId": "eec18e15-3246-4c6f-a033-f10a81718945",
+      "playerName": "Elbek Isoqov",
+      "teamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+      "teamName": "CRPAC",
+      "overall": 84,
+      "position": "AM",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        5.7,
+        5.9,
+        6.1,
+        6.1,
+        5.7
+      ],
+      "avgRating": 5.9,
+      "motmCount": 0
+    },
+    "7349dfc9-098e-49b1-beaf-36e1218e7c31": {
+      "playerId": "7349dfc9-098e-49b1-beaf-36e1218e7c31",
+      "playerName": "Ruslan Chorotegin",
+      "teamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+      "teamName": "CRPAC",
+      "overall": 81,
+      "position": "CM",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.4,
+        6.4,
+        6.4,
+        6.4,
+        6.2
+      ],
+      "avgRating": 6.4,
+      "motmCount": 0
+    },
+    "f158da6b-6aab-4a2c-9eca-a30214525e78": {
+      "playerId": "f158da6b-6aab-4a2c-9eca-a30214525e78",
+      "playerName": "Komil Ganiyev",
+      "teamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+      "teamName": "CRPAC",
+      "overall": 78,
+      "position": "CM",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.6,
+        6.5,
+        6.2,
+        6.2,
+        6.3
+      ],
+      "avgRating": 6.4,
+      "motmCount": 0
+    },
+    "e9d777cb-bfb4-47cc-ae7a-e4469220646d": {
+      "playerId": "e9d777cb-bfb4-47cc-ae7a-e4469220646d",
+      "playerName": "Nuriddin Rajabov",
+      "teamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+      "teamName": "CRPAC",
+      "overall": 83,
+      "position": "LW",
+      "goals": 1,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.2,
+        6.1,
+        6,
+        6.2,
+        7.7
+      ],
+      "avgRating": 6.4,
+      "motmCount": 0
+    },
+    "44dd0a8e-e330-4c81-84f1-4b7975880da4": {
+      "playerId": "44dd0a8e-e330-4c81-84f1-4b7975880da4",
+      "playerName": "Olzhas Faizullin",
+      "teamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+      "teamName": "CRPAC",
+      "overall": 83,
+      "position": "RW",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.4,
+        6.7,
+        6.4,
+        6.4,
+        6.1
+      ],
+      "avgRating": 6.4,
+      "motmCount": 0
+    },
+    "661827df-7602-47ac-bfea-a7a3d9199e8a": {
+      "playerId": "661827df-7602-47ac-bfea-a7a3d9199e8a",
+      "playerName": "Inácio Marques",
+      "teamId": "2256fe5a-993b-4007-8191-47ebe93a3e70",
+      "teamName": "Lusitanie",
+      "overall": 87,
+      "position": "ST",
+      "goals": 3,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        9.1,
+        7.5,
+        6.1
+      ],
+      "avgRating": 7.6,
+      "motmCount": 1
+    },
+    "8acb3baf-ddd3-43db-9c49-b69c52dbfbff": {
+      "playerId": "8acb3baf-ddd3-43db-9c49-b69c52dbfbff",
+      "playerName": "Gökhan Şahin",
+      "teamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "teamName": "Osmanide",
+      "overall": 85,
+      "position": "ST",
+      "goals": 3,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        7.5,
+        7.5,
+        7.5,
+        6
+      ],
+      "avgRating": 7.1,
+      "motmCount": 0
+    },
+    "fc27f8d0-136b-48fc-9756-14fe1bd17f54": {
+      "playerId": "fc27f8d0-136b-48fc-9756-14fe1bd17f54",
+      "playerName": "Eduardo Gomes",
+      "teamId": "2256fe5a-993b-4007-8191-47ebe93a3e70",
+      "teamName": "Lusitanie",
+      "overall": 84,
+      "position": "ST",
+      "goals": 1,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        7.2,
+        5.7,
+        5.7
+      ],
+      "avgRating": 6.2,
+      "motmCount": 0
+    },
+    "2037c282-da8e-4cd1-a0ad-01f282a53e9d": {
+      "playerId": "2037c282-da8e-4cd1-a0ad-01f282a53e9d",
+      "playerName": "Joaquim Sá",
+      "teamId": "2256fe5a-993b-4007-8191-47ebe93a3e70",
+      "teamName": "Lusitanie",
+      "overall": 78,
+      "position": "CM",
+      "goals": 0,
+      "assists": 1,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        8.7,
+        7,
+        6.4
+      ],
+      "avgRating": 7.4,
+      "motmCount": 0
+    },
+    "f6948377-073c-4172-b8c7-a7c5065c0ed0": {
+      "playerId": "f6948377-073c-4172-b8c7-a7c5065c0ed0",
+      "playerName": "Francisco Castro",
+      "teamId": "2256fe5a-993b-4007-8191-47ebe93a3e70",
+      "teamName": "Lusitanie",
+      "overall": 82,
+      "position": "GK",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        7.2,
+        8.1,
+        8.4
+      ],
+      "avgRating": 7.9,
+      "motmCount": 0
+    },
+    "6f29bb78-acf7-4b79-9a85-4d5a3044bc99": {
+      "playerId": "6f29bb78-acf7-4b79-9a85-4d5a3044bc99",
+      "playerName": "Nelson Antunes",
+      "teamId": "2256fe5a-993b-4007-8191-47ebe93a3e70",
+      "teamName": "Lusitanie",
+      "overall": 82,
+      "position": "LB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6,
+        6,
+        6
+      ],
+      "avgRating": 6,
+      "motmCount": 0
+    },
+    "ad02a5f1-2cdf-41b6-a283-481fdcd995d9": {
+      "playerId": "ad02a5f1-2cdf-41b6-a283-481fdcd995d9",
+      "playerName": "Nuno Sousa",
+      "teamId": "2256fe5a-993b-4007-8191-47ebe93a3e70",
+      "teamName": "Lusitanie",
+      "overall": 83,
+      "position": "RW",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        5.9,
+        5.7,
+        5.7
+      ],
+      "avgRating": 5.8,
+      "motmCount": 0
+    },
+    "d5e30191-1f20-4738-a8fc-81677d6930b5": {
+      "playerId": "d5e30191-1f20-4738-a8fc-81677d6930b5",
+      "playerName": "Domingos Pinto",
+      "teamId": "2256fe5a-993b-4007-8191-47ebe93a3e70",
+      "teamName": "Lusitanie",
+      "overall": 82,
+      "position": "RB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6,
+        6,
+        6
+      ],
+      "avgRating": 6,
+      "motmCount": 0
+    },
+    "6c8e6b14-46e7-4a7a-a519-8849b32a74fb": {
+      "playerId": "6c8e6b14-46e7-4a7a-a519-8849b32a74fb",
+      "playerName": "Gil Caldeira",
+      "teamId": "2256fe5a-993b-4007-8191-47ebe93a3e70",
+      "teamName": "Lusitanie",
+      "overall": 79,
+      "position": "CM",
+      "goals": 0,
+      "assists": 1,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.4,
+        6.4,
+        7.4
+      ],
+      "avgRating": 6.7,
+      "motmCount": 0
+    },
+    "1c1883fd-1641-4a76-b8ae-12d74403e211": {
+      "playerId": "1c1883fd-1641-4a76-b8ae-12d74403e211",
+      "playerName": "Lourenço Reis",
+      "teamId": "2256fe5a-993b-4007-8191-47ebe93a3e70",
+      "teamName": "Lusitanie",
+      "overall": 79,
+      "position": "CM",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.4,
+        6.4,
+        6.8
+      ],
+      "avgRating": 6.5,
+      "motmCount": 0
+    },
+    "a9512eea-4eca-4aca-9bb3-01f275cc17dc": {
+      "playerId": "a9512eea-4eca-4aca-9bb3-01f275cc17dc",
+      "playerName": "Eduardo Ramos",
+      "teamId": "2256fe5a-993b-4007-8191-47ebe93a3e70",
+      "teamName": "Lusitanie",
+      "overall": 89,
+      "position": "LW",
+      "goals": 2,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.1,
+        6,
+        9
+      ],
+      "avgRating": 7,
+      "motmCount": 0
+    },
+    "0cfa77f9-a743-4efd-97fb-ee6b05b458f5": {
+      "playerId": "0cfa77f9-a743-4efd-97fb-ee6b05b458f5",
+      "playerName": "Manuel Antunes",
+      "teamId": "2256fe5a-993b-4007-8191-47ebe93a3e70",
+      "teamName": "Lusitanie",
+      "overall": 89,
+      "position": "RW",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6,
+        6.1,
+        6.1
+      ],
+      "avgRating": 6.1,
+      "motmCount": 0
+    },
+    "14a63c3a-81a5-4a90-8380-bdaec515b3ab": {
+      "playerId": "14a63c3a-81a5-4a90-8380-bdaec515b3ab",
+      "playerName": "Birkan Acar",
+      "teamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "teamName": "Osmanide",
+      "overall": 84,
+      "position": "GK",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 1,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.3,
+        7.4,
+        7.5,
+        6.6,
+        6.9
+      ],
+      "avgRating": 6.9,
+      "motmCount": 0
+    },
+    "6131aba5-07e2-4a04-921c-d38045156955": {
+      "playerId": "6131aba5-07e2-4a04-921c-d38045156955",
+      "playerName": "İsmail Karaca",
+      "teamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "teamName": "Osmanide",
+      "overall": 80,
+      "position": "RB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        5.4,
+        6.1,
+        5.7,
+        5.7,
+        6
+      ],
+      "avgRating": 5.8,
+      "motmCount": 0
+    },
+    "dfd96ece-49d6-40cf-b462-f6b6690e3a84": {
+      "playerId": "dfd96ece-49d6-40cf-b462-f6b6690e3a84",
+      "playerName": "Devrim Aksoy",
+      "teamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "teamName": "Osmanide",
+      "overall": 81,
+      "position": "CB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        5.7,
+        6.4,
+        6.2,
+        6,
+        6.3
+      ],
+      "avgRating": 6.1,
+      "motmCount": 0
+    },
+    "8150ff0f-0f74-462b-8b0a-9929c6835200": {
+      "playerId": "8150ff0f-0f74-462b-8b0a-9929c6835200",
+      "playerName": "Zafer Ergin",
+      "teamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "teamName": "Osmanide",
+      "overall": 79,
+      "position": "CB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        5.4,
+        6.1,
+        5.7,
+        5.7,
+        6
+      ],
+      "avgRating": 5.8,
+      "motmCount": 0
+    },
+    "50e184d9-7277-46a5-ad24-f626500784ef": {
+      "playerId": "50e184d9-7277-46a5-ad24-f626500784ef",
+      "playerName": "Ali Polat",
+      "teamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "teamName": "Osmanide",
+      "overall": 79,
+      "position": "CM",
+      "goals": 0,
+      "assists": 1,
+      "cleanSheets": 0,
+      "yellowCards": 1,
+      "redCards": 0,
+      "matchRatings": [
+        6.6,
+        6.5,
+        8.1,
+        7.5,
+        7.3
+      ],
+      "avgRating": 7.2,
+      "motmCount": 1
+    },
+    "b40e2635-39a2-4c0f-8f43-ef8530d8caac": {
+      "playerId": "b40e2635-39a2-4c0f-8f43-ef8530d8caac",
+      "playerName": "Uğur Tekin",
+      "teamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "teamName": "Osmanide",
+      "overall": 79,
+      "position": "CM",
+      "goals": 0,
+      "assists": 1,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.5,
+        7.8,
+        6.4,
+        6.9,
+        7
+      ],
+      "avgRating": 6.9,
+      "motmCount": 1
+    },
+    "61f5c289-5b37-450a-84f7-d6a42fd1c8fc": {
+      "playerId": "61f5c289-5b37-450a-84f7-d6a42fd1c8fc",
+      "playerName": "Cağlar Tekin",
+      "teamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "teamName": "Osmanide",
+      "overall": 86,
+      "position": "RM",
+      "goals": 0,
+      "assists": 1,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.8,
+        6.6,
+        6.4,
+        7.8,
+        6.3
+      ],
+      "avgRating": 6.8,
+      "motmCount": 0
+    },
+    "c8ce0f44-f254-4cf4-8acd-939678b433fd": {
+      "playerId": "c8ce0f44-f254-4cf4-8acd-939678b433fd",
+      "playerName": "Necati Demir",
+      "teamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "teamName": "Osmanide",
+      "overall": 85,
+      "position": "LW",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.1,
+        6.2,
+        6.2,
+        6.1,
+        6
+      ],
+      "avgRating": 6.1,
+      "motmCount": 0
+    },
+    "209b7955-f460-488e-9eac-61580e6cd175": {
+      "playerId": "209b7955-f460-488e-9eac-61580e6cd175",
+      "playerName": "Aykut Koç",
+      "teamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "teamName": "Osmanide",
+      "overall": 85,
+      "position": "ST",
+      "goals": 2,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6,
+        6,
+        7.5,
+        7.5,
+        6
+      ],
+      "avgRating": 6.6,
+      "motmCount": 0
+    },
+    "9d7fb4c5-31ca-4b0a-b8b9-fc8434e2cdd0": {
+      "playerId": "9d7fb4c5-31ca-4b0a-b8b9-fc8434e2cdd0",
+      "playerName": "İsmail Uçar",
+      "teamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "teamName": "Osmanide",
+      "overall": 86,
+      "position": "RW",
+      "goals": 2,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.2,
+        7.7,
+        7.6
+      ],
+      "avgRating": 7.2,
+      "motmCount": 0
+    },
+    "d0be7d2d-18d4-4cb9-a4bd-afd4a0c97a47": {
+      "playerId": "d0be7d2d-18d4-4cb9-a4bd-afd4a0c97a47",
+      "playerName": "Gonzalo Sanz",
+      "teamId": "55c94018-aa17-477e-86d3-722caf57df20",
+      "teamName": "Castille",
+      "overall": 83,
+      "position": "ST",
+      "goals": 2,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        7.2,
+        7.5
+      ],
+      "avgRating": 7.4,
+      "motmCount": 0
+    },
+    "cb24125f-ea8d-48bc-9db2-d65308c08bc9": {
+      "playerId": "cb24125f-ea8d-48bc-9db2-d65308c08bc9",
+      "playerName": "Akylbek Akhunov",
+      "teamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+      "teamName": "CRPAC",
+      "overall": 77,
+      "position": "LM",
+      "goals": 0,
+      "assists": 2,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [],
+      "avgRating": 0,
+      "motmCount": 0
+    },
+    "b7a82456-230f-4003-b4b2-6e561552946b": {
+      "playerId": "b7a82456-230f-4003-b4b2-6e561552946b",
+      "playerName": "Tomás Álvarez",
+      "teamId": "55c94018-aa17-477e-86d3-722caf57df20",
+      "teamName": "Castille",
+      "overall": 79,
+      "position": "CM",
+      "goals": 1,
+      "assists": 1,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [],
+      "avgRating": 0,
+      "motmCount": 0
+    },
+    "2ff78f0a-b6d6-4694-a08a-57cd8d8f75c6": {
+      "playerId": "2ff78f0a-b6d6-4694-a08a-57cd8d8f75c6",
+      "playerName": "François Martel",
+      "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "teamName": "CCB",
+      "overall": 84,
+      "position": "LW",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        5.7
+      ],
+      "avgRating": 5.7,
+      "motmCount": 0
+    },
+    "4952064b-7803-41b8-902d-7c1d62f00ae4": {
+      "playerId": "4952064b-7803-41b8-902d-7c1d62f00ae4",
+      "playerName": "Adem Sezer",
+      "teamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "teamName": "Osmanide",
+      "overall": 79,
+      "position": "CB",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 2,
+      "redCards": 0,
+      "matchRatings": [],
+      "avgRating": 0,
+      "motmCount": 0
+    },
+    "72830681-0e0d-4371-9f87-fa2108e6a353": {
+      "playerId": "72830681-0e0d-4371-9f87-fa2108e6a353",
+      "playerName": "Görkem Ergin",
+      "teamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "teamName": "Osmanide",
+      "overall": 81,
+      "position": "GK",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        5.7
+      ],
+      "avgRating": 5.7,
+      "motmCount": 0
+    },
+    "7549bb99-421a-4d90-9102-8a1c4cf84c13": {
+      "playerId": "7549bb99-421a-4d90-9102-8a1c4cf84c13",
+      "playerName": "Duy Lương",
+      "teamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+      "teamName": "URSI",
+      "overall": 82,
+      "position": "GK",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.6
+      ],
+      "avgRating": 6.6,
+      "motmCount": 0
+    },
+    "b56b4b29-f6e6-44c6-abe9-8a62317910a9": {
+      "playerId": "b56b4b29-f6e6-44c6-abe9-8a62317910a9",
+      "playerName": "Colton Edwards",
+      "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "teamName": "CCB",
+      "overall": 79,
+      "position": "CM",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.4
+      ],
+      "avgRating": 6.4,
+      "motmCount": 0
+    },
+    "1a30b091-8b3a-4b6e-b213-db4722ba7902": {
+      "playerId": "1a30b091-8b3a-4b6e-b213-db4722ba7902",
+      "playerName": "Serkan Koç",
+      "teamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "teamName": "Osmanide",
+      "overall": 84,
+      "position": "LM",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        5.7
+      ],
+      "avgRating": 5.7,
+      "motmCount": 0
+    },
+    "54cd0042-b65c-4f11-83ff-893f5b7ea988": {
+      "playerId": "54cd0042-b65c-4f11-83ff-893f5b7ea988",
+      "playerName": "Polat Kahraman",
+      "teamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "teamName": "Osmanide",
+      "overall": 86,
+      "position": "RW",
+      "goals": 0,
+      "assists": 0,
+      "cleanSheets": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "matchRatings": [
+        6.1
+      ],
+      "avgRating": 6.1,
+      "motmCount": 0
+    }
+  },
   "config": {
     "legsPerMatch": 1,
     "thirdPlaceMatch": true,
@@ -303,8 +3489,8 @@
       "penalties": true
     }
   },
-  "currentRound": 1,
-  "status": "ongoing",
+  "currentRound": 5,
+  "status": "completed",
   "createdAt": "2026-06-26T11:25:17.549Z",
   "teamSnapshot": {
     "df16509b-c6c2-43ce-abae-7c077e85ba22": {
@@ -405,6 +3591,3092 @@
         "moment": "debut",
         "favoriteTeams": []
       }
+    },
+    {
+      "id": "19c7814a-9a53-432e-bc63-7f5c2a57dc8e",
+      "round": 1,
+      "teamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "category": "neutralite",
+      "headline": "Royaume d'Asha en manque de réalisme — le nul punit les hésitations",
+      "body": "Le sélectionneur de Royaume d'Asha a pris le temps de choisir ses mots avant d'affronter la presse : \"On progresse. Mais il faut progresser plus vite.\" Pas franchement rassurant. Ziad Moradi repart frustré — ses plans n'ont pas suffi à débloquer la situation.",
+      "moraleBefore": 50,
+      "moraleAfter": 51,
+      "createdAt": "2026-06-26T11:25:25.890Z",
+      "mentions": [
+        {
+          "type": "coach",
+          "name": "Ziad Moradi",
+          "overall": 66,
+          "stats": {
+            "motivation": 13,
+            "tactique": 18,
+            "offensive": 9,
+            "defensif": 10,
+            "mentalite": 12,
+            "gestion": 13
+          },
+          "positiveTraits": [
+            "meneur"
+          ],
+          "negativeTraits": []
+        }
+      ],
+      "matchId": "e6tprqtcmquugzu5",
+      "matchSnapshot": {
+        "homeTeamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+        "awayTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+        "homeTeamName": "Royaume d'Asha",
+        "awayTeamName": "CCB",
+        "homeScore": 1,
+        "awayScore": 1,
+        "stats": {
+          "shots": {
+            "home": 7,
+            "away": 18
+          },
+          "possession": {
+            "home": 50,
+            "away": 50
+          },
+          "shotsOnTarget": {
+            "home": 4,
+            "away": 10
+          },
+          "corners": {
+            "home": 0,
+            "away": 2
+          },
+          "fouls": {
+            "home": 4,
+            "away": 1
+          },
+          "yellowCards": {
+            "home": 1,
+            "away": 1
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "541fbce5-29ef-4c5f-83fd-9e0a42d404fb",
+          "playerName": "Nima Rezaei",
+          "teamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+          "teamName": "Royaume d'Asha",
+          "rating": 8.7
+        }
+      }
+    },
+    {
+      "id": "0ffbe352-0f03-42ca-b67c-1db91707dfec",
+      "round": 1,
+      "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "category": "neutralite",
+      "headline": "\"On méritait mieux\" — CCB n'accepte pas le partage des points",
+      "body": "\"C'est un point de pris\", a répété le capitaine de CCB sans conviction. Dans les travées, les supporters sifflaient.",
+      "moraleBefore": 50,
+      "moraleAfter": 51,
+      "createdAt": "2026-06-26T11:25:25.891Z",
+      "matchId": "e6tprqtcmquugzu5",
+      "matchSnapshot": {
+        "homeTeamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+        "awayTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+        "homeTeamName": "Royaume d'Asha",
+        "awayTeamName": "CCB",
+        "homeScore": 1,
+        "awayScore": 1,
+        "stats": {
+          "shots": {
+            "home": 7,
+            "away": 18
+          },
+          "possession": {
+            "home": 50,
+            "away": 50
+          },
+          "shotsOnTarget": {
+            "home": 4,
+            "away": 10
+          },
+          "corners": {
+            "home": 0,
+            "away": 2
+          },
+          "fouls": {
+            "home": 4,
+            "away": 1
+          },
+          "yellowCards": {
+            "home": 1,
+            "away": 1
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "541fbce5-29ef-4c5f-83fd-9e0a42d404fb",
+          "playerName": "Nima Rezaei",
+          "teamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+          "teamName": "Royaume d'Asha",
+          "rating": 8.7
+        }
+      }
+    },
+    {
+      "id": "8b07f139-12f0-4908-9568-6fd5f09da03e",
+      "round": 1,
+      "teamId": "55c94018-aa17-477e-86d3-722caf57df20",
+      "category": "critique",
+      "headline": "Castille : la honte de la journée",
+      "body": "Les supporters de Castille méritent mieux que ça. Beaucoup mieux. Ce groupe ne se bat pas, ne court pas, ne joue pas. Il subit. Et ce soir, tout le monde l'a vu. Álvaro Cano n'a pas les solutions. Ça commence à se voir. Bruno Cabrera a encore disparu quand l'équipe en avait besoin.",
+      "moraleBefore": 50,
+      "moraleAfter": 45,
+      "moraleShock": -11,
+      "createdAt": "2026-06-26T11:25:25.891Z",
+      "mentions": [
+        {
+          "type": "coach",
+          "name": "Álvaro Cano",
+          "overall": 68,
+          "stats": {
+            "motivation": 17,
+            "tactique": 14,
+            "offensive": 9,
+            "defensif": 19,
+            "mentalite": 15,
+            "gestion": 8
+          },
+          "positiveTraits": [],
+          "negativeTraits": []
+        },
+        {
+          "type": "player",
+          "name": "Bruno Cabrera",
+          "overall": 83,
+          "position": "ST",
+          "stats": {
+            "technical": {
+              "passing": 13,
+              "crossing": 9,
+              "dribbling": 9,
+              "finishing": 20,
+              "firstTouch": 14,
+              "heading": 15,
+              "longShots": 8,
+              "tackling": 10,
+              "marking": 14
+            },
+            "mental": {
+              "vision": 13,
+              "decisions": 13,
+              "composure": 19,
+              "anticipation": 20,
+              "offTheBall": 18,
+              "aggression": 16,
+              "workRate": 12
+            },
+            "physical": {
+              "pace": 14,
+              "acceleration": 12,
+              "strength": 10,
+              "stamina": 15,
+              "agility": 14,
+              "balance": 11,
+              "jumping": 13
+            }
+          }
+        }
+      ],
+      "journalist": {
+        "name": "Paulo Nascimento",
+        "outlet": "Football Hebdomadaire"
+      },
+      "matchId": "zexh9q0amquugzu5",
+      "matchSnapshot": {
+        "homeTeamId": "55c94018-aa17-477e-86d3-722caf57df20",
+        "awayTeamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+        "homeTeamName": "Castille",
+        "awayTeamName": "URSI",
+        "homeScore": 0,
+        "awayScore": 2,
+        "stats": {
+          "shots": {
+            "home": 10,
+            "away": 13
+          },
+          "possession": {
+            "home": 55,
+            "away": 45
+          },
+          "shotsOnTarget": {
+            "home": 5,
+            "away": 8
+          },
+          "corners": {
+            "home": 3,
+            "away": 2
+          },
+          "fouls": {
+            "home": 2,
+            "away": 5
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 0
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "3b88b99f-5143-4c7d-8cb2-0e682e5f0560",
+          "playerName": "Ghazali bin Ali",
+          "teamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+          "teamName": "URSI",
+          "rating": 8.8
+        }
+      }
+    },
+    {
+      "id": "306cdc20-6348-4dc8-bec3-ede43bb90ffa",
+      "round": 1,
+      "teamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+      "category": "victoire",
+      "headline": "\"On savait ce qu'on avait à faire\" — URSI l'a fait",
+      "body": "Après la rencontre, le capitaine de URSI a réuni ses hommes au centre du terrain. Quelques mots, une accolade. Le groupe est là. Leader après ce succès, URSI impose sa loi. Le reste du peloton surveille.",
+      "moraleBefore": 50,
+      "moraleAfter": 56,
+      "moraleBoost": 4,
+      "createdAt": "2026-06-26T11:25:25.891Z",
+      "matchId": "zexh9q0amquugzu5",
+      "matchSnapshot": {
+        "homeTeamId": "55c94018-aa17-477e-86d3-722caf57df20",
+        "awayTeamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+        "homeTeamName": "Castille",
+        "awayTeamName": "URSI",
+        "homeScore": 0,
+        "awayScore": 2,
+        "stats": {
+          "shots": {
+            "home": 10,
+            "away": 13
+          },
+          "possession": {
+            "home": 55,
+            "away": 45
+          },
+          "shotsOnTarget": {
+            "home": 5,
+            "away": 8
+          },
+          "corners": {
+            "home": 3,
+            "away": 2
+          },
+          "fouls": {
+            "home": 2,
+            "away": 5
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 0
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "3b88b99f-5143-4c7d-8cb2-0e682e5f0560",
+          "playerName": "Ghazali bin Ali",
+          "teamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+          "teamName": "URSI",
+          "rating": 8.8
+        }
+      }
+    },
+    {
+      "id": "632b9824-53cc-4245-845e-c0befe39fdbb",
+      "round": 1,
+      "teamId": "f3fda074-0648-4d1f-a413-281bbf6d7d59",
+      "category": "defaite",
+      "headline": "Défaite difficile à accepter pour Pérou",
+      "body": "La défaite laisse des traces. Pérou va devoir rapidement se remobiliser avant le prochain match. Yoel Acasiete devra trouver des réponses rapidement.",
+      "moraleBefore": 50,
+      "moraleAfter": 46,
+      "createdAt": "2026-06-26T11:25:25.892Z",
+      "mentions": [
+        {
+          "type": "coach",
+          "name": "Yoel Acasiete",
+          "overall": 75,
+          "stats": {
+            "motivation": 19,
+            "tactique": 12,
+            "offensive": 14,
+            "defensif": 11,
+            "mentalite": 20,
+            "gestion": 17
+          },
+          "positiveTraits": [
+            "opportuniste"
+          ],
+          "negativeTraits": [
+            "conservateur",
+            "desorganise",
+            "impulsif"
+          ]
+        }
+      ],
+      "matchId": "6lwyz2rzmquugzu5",
+      "matchSnapshot": {
+        "homeTeamId": "f3fda074-0648-4d1f-a413-281bbf6d7d59",
+        "awayTeamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+        "homeTeamName": "Pérou",
+        "awayTeamName": "CRPAC",
+        "homeScore": 0,
+        "awayScore": 1,
+        "stats": {
+          "shots": {
+            "home": 7,
+            "away": 19
+          },
+          "possession": {
+            "home": 49,
+            "away": 51
+          },
+          "shotsOnTarget": {
+            "home": 4,
+            "away": 10
+          },
+          "corners": {
+            "home": 0,
+            "away": 2
+          },
+          "fouls": {
+            "home": 2,
+            "away": 1
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 0
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "a6f4c1ee-6009-4cf2-a935-fd73c4180f06",
+          "playerName": "Víctor Chávez",
+          "teamId": "f3fda074-0648-4d1f-a413-281bbf6d7d59",
+          "teamName": "Pérou",
+          "rating": 8.1
+        }
+      }
+    },
+    {
+      "id": "80b2b36d-f146-4adb-832c-a1e82b4207ac",
+      "round": 1,
+      "teamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+      "category": "victoire",
+      "headline": "Victoire éclatante de CRPAC — le moral au beau fixe",
+      "body": "\"Je suis fier de mes joueurs\" — le discours d'après-match du coach de CRPAC était court, mais les yeux de ses hommes brillaient.",
+      "moraleBefore": 50,
+      "moraleAfter": 55,
+      "moraleBoost": 8,
+      "createdAt": "2026-06-26T11:25:25.892Z",
+      "matchId": "6lwyz2rzmquugzu5",
+      "matchSnapshot": {
+        "homeTeamId": "f3fda074-0648-4d1f-a413-281bbf6d7d59",
+        "awayTeamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+        "homeTeamName": "Pérou",
+        "awayTeamName": "CRPAC",
+        "homeScore": 0,
+        "awayScore": 1,
+        "stats": {
+          "shots": {
+            "home": 7,
+            "away": 19
+          },
+          "possession": {
+            "home": 49,
+            "away": 51
+          },
+          "shotsOnTarget": {
+            "home": 4,
+            "away": 10
+          },
+          "corners": {
+            "home": 0,
+            "away": 2
+          },
+          "fouls": {
+            "home": 2,
+            "away": 1
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 0
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "a6f4c1ee-6009-4cf2-a935-fd73c4180f06",
+          "playerName": "Víctor Chávez",
+          "teamId": "f3fda074-0648-4d1f-a413-281bbf6d7d59",
+          "teamName": "Pérou",
+          "rating": 8.1
+        }
+      }
+    },
+    {
+      "id": "55b99ade-22eb-4348-a11c-12f09f9be906",
+      "round": 1,
+      "teamId": "2256fe5a-993b-4007-8191-47ebe93a3e70",
+      "category": "victoire",
+      "headline": "Lusitanie prend les trois points et envoie un signal fort",
+      "body": "En conférence de presse, le sélectionneur de Lusitanie a tempéré les ardeurs : \"On reste humble. Chaque match sera une guerre.\" Mais le sourire en coin en disait long. Nuno Sousa s'est particulièrement distingué ce soir.",
+      "moraleBefore": 50,
+      "moraleAfter": 56,
+      "moraleBoost": 7,
+      "createdAt": "2026-06-26T11:25:25.892Z",
+      "mentions": [
+        {
+          "type": "player",
+          "name": "Nuno Sousa",
+          "overall": 83,
+          "position": "RW",
+          "stats": {
+            "technical": {
+              "passing": 14,
+              "crossing": 19,
+              "dribbling": 18,
+              "finishing": 9,
+              "firstTouch": 8,
+              "heading": 14,
+              "longShots": 13,
+              "tackling": 8,
+              "marking": 12
+            },
+            "mental": {
+              "vision": 13,
+              "decisions": 13,
+              "composure": 12,
+              "anticipation": 14,
+              "offTheBall": 12,
+              "aggression": 11,
+              "workRate": 13
+            },
+            "physical": {
+              "pace": 20,
+              "acceleration": 15,
+              "strength": 11,
+              "stamina": 13,
+              "agility": 14,
+              "balance": 11,
+              "jumping": 13
+            }
+          }
+        }
+      ],
+      "matchId": "yo8ywenjmquugzu5",
+      "matchSnapshot": {
+        "homeTeamId": "2256fe5a-993b-4007-8191-47ebe93a3e70",
+        "awayTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+        "homeTeamName": "Lusitanie",
+        "awayTeamName": "Osmanide",
+        "homeScore": 3,
+        "awayScore": 1,
+        "stats": {
+          "shots": {
+            "home": 10,
+            "away": 12
+          },
+          "possession": {
+            "home": 43,
+            "away": 57
+          },
+          "shotsOnTarget": {
+            "home": 6,
+            "away": 6
+          },
+          "corners": {
+            "home": 2,
+            "away": 0
+          },
+          "fouls": {
+            "home": 6,
+            "away": 3
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 0
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "661827df-7602-47ac-bfea-a7a3d9199e8a",
+          "playerName": "Inácio Marques",
+          "teamId": "2256fe5a-993b-4007-8191-47ebe93a3e70",
+          "teamName": "Lusitanie",
+          "rating": 9.1
+        }
+      }
+    },
+    {
+      "id": "715aa4a2-e3c5-47f1-9cc4-84b89874b4a0",
+      "round": 1,
+      "teamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "category": "defaite",
+      "headline": "\"On a été en-dessous\" — Osmanide se flagelle après la défaite",
+      "body": "Le constat est simple et cruel : Osmanide a été dominé. Pas dominé au score — dominé tactiquement, physiquement, mentalement. Le staff devra en tirer les leçons. Le classement ne ment pas. Osmanide se retrouve dans une position délicate, avec le spectre des barrages qui se précise. Le prochain match aura des allures de finale. La pression est maximale. Ramazan Uçar n'a pas su trouver les mots pour relancer les siens. Même Cağlar Tekin n'a pas pu renverser la tendance.",
+      "moraleBefore": 50,
+      "moraleAfter": 45,
+      "createdAt": "2026-06-26T11:25:25.892Z",
+      "mentions": [
+        {
+          "type": "coach",
+          "name": "Ramazan Uçar",
+          "overall": 77,
+          "stats": {
+            "motivation": 15,
+            "tactique": 13,
+            "offensive": 20,
+            "defensif": 13,
+            "mentalite": 17,
+            "gestion": 14
+          },
+          "positiveTraits": [
+            "defensif",
+            "tacticien"
+          ],
+          "negativeTraits": []
+        },
+        {
+          "type": "player",
+          "name": "Cağlar Tekin",
+          "overall": 86,
+          "position": "RM",
+          "stats": {
+            "technical": {
+              "passing": 20,
+              "crossing": 20,
+              "dribbling": 9,
+              "finishing": 18,
+              "firstTouch": 12,
+              "heading": 13,
+              "longShots": 12,
+              "tackling": 12,
+              "marking": 11
+            },
+            "mental": {
+              "vision": 8,
+              "decisions": 12,
+              "composure": 7,
+              "anticipation": 9,
+              "offTheBall": 16,
+              "aggression": 16,
+              "workRate": 18
+            },
+            "physical": {
+              "pace": 20,
+              "acceleration": 16,
+              "strength": 12,
+              "stamina": 16,
+              "agility": 16,
+              "balance": 11,
+              "jumping": 10
+            }
+          }
+        }
+      ],
+      "matchId": "yo8ywenjmquugzu5",
+      "matchSnapshot": {
+        "homeTeamId": "2256fe5a-993b-4007-8191-47ebe93a3e70",
+        "awayTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+        "homeTeamName": "Lusitanie",
+        "awayTeamName": "Osmanide",
+        "homeScore": 3,
+        "awayScore": 1,
+        "stats": {
+          "shots": {
+            "home": 10,
+            "away": 12
+          },
+          "possession": {
+            "home": 43,
+            "away": 57
+          },
+          "shotsOnTarget": {
+            "home": 6,
+            "away": 6
+          },
+          "corners": {
+            "home": 2,
+            "away": 0
+          },
+          "fouls": {
+            "home": 6,
+            "away": 3
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 0
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "661827df-7602-47ac-bfea-a7a3d9199e8a",
+          "playerName": "Inácio Marques",
+          "teamId": "2256fe5a-993b-4007-8191-47ebe93a3e70",
+          "teamName": "Lusitanie",
+          "rating": 9.1
+        }
+      }
+    },
+    {
+      "id": "37205d9b-35e2-4603-aa72-a2a120c7b34d",
+      "round": 2,
+      "teamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "category": "defaite",
+      "headline": "Royaume d'Asha ne trouve pas les réponses face à un adversaire bien en place",
+      "body": "Dans les couloirs du stade, un membre du staff de Royaume d'Asha chuchotait : \"On a perdu le fil au mauvais moment.\" Trouver ce fil avant le prochain match sera la priorité. Royaume d'Asha doit gagner tous ses matchs restants et espérer des miracles. L'équation est cruelle. Même Rasoul Fattahi n'a pas pu renverser la tendance.",
+      "moraleBefore": 51,
+      "moraleAfter": 47,
+      "createdAt": "2026-06-26T11:26:15.847Z",
+      "mentions": [
+        {
+          "type": "player",
+          "name": "Rasoul Fattahi",
+          "overall": 84,
+          "position": "RW",
+          "stats": {
+            "technical": {
+              "passing": 11,
+              "crossing": 13,
+              "dribbling": 20,
+              "finishing": 11,
+              "firstTouch": 15,
+              "heading": 11,
+              "longShots": 8,
+              "tackling": 10,
+              "marking": 9
+            },
+            "mental": {
+              "vision": 10,
+              "decisions": 12,
+              "composure": 14,
+              "anticipation": 10,
+              "offTheBall": 13,
+              "aggression": 20,
+              "workRate": 11
+            },
+            "physical": {
+              "pace": 20,
+              "acceleration": 17,
+              "strength": 11,
+              "stamina": 10,
+              "agility": 15,
+              "balance": 12,
+              "jumping": 14
+            }
+          }
+        }
+      ],
+      "matchId": "qciu8x9umquugzu5",
+      "matchSnapshot": {
+        "homeTeamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+        "awayTeamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+        "homeTeamName": "Royaume d'Asha",
+        "awayTeamName": "URSI",
+        "homeScore": 1,
+        "awayScore": 2,
+        "stats": {
+          "shots": {
+            "home": 9,
+            "away": 7
+          },
+          "possession": {
+            "home": 56,
+            "away": 44
+          },
+          "shotsOnTarget": {
+            "home": 5,
+            "away": 4
+          },
+          "corners": {
+            "home": 2,
+            "away": 2
+          },
+          "fouls": {
+            "home": 6,
+            "away": 5
+          },
+          "yellowCards": {
+            "home": 2,
+            "away": 2
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "3b88b99f-5143-4c7d-8cb2-0e682e5f0560",
+          "playerName": "Ghazali bin Ali",
+          "teamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+          "teamName": "URSI",
+          "rating": 8
+        }
+      }
+    },
+    {
+      "id": "435a9d35-aa95-4f99-82a4-d36770676ea1",
+      "round": 2,
+      "teamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+      "category": "victoire",
+      "headline": "URSI écrase ses adversaires et prend confiance",
+      "body": "Les statistiques donnent tort aux sceptiques. URSI a maîtrisé son sujet de bout en bout. Difficile de leur trouver des défauts ce soir. Leader après ce succès, URSI impose sa loi. Le reste du peloton surveille. Le niveau affiché par Fadzli bin Razak donne de l'espoir pour la suite.",
+      "moraleBefore": 60,
+      "moraleAfter": 65,
+      "moraleBoost": 7,
+      "createdAt": "2026-06-26T11:26:15.848Z",
+      "mentions": [
+        {
+          "type": "player",
+          "name": "Fadzli bin Razak",
+          "overall": 83,
+          "position": "RW",
+          "stats": {
+            "technical": {
+              "passing": 11,
+              "crossing": 18,
+              "dribbling": 20,
+              "finishing": 10,
+              "firstTouch": 13,
+              "heading": 12,
+              "longShots": 16,
+              "tackling": 7,
+              "marking": 8
+            },
+            "mental": {
+              "vision": 14,
+              "decisions": 13,
+              "composure": 9,
+              "anticipation": 11,
+              "offTheBall": 14,
+              "aggression": 10,
+              "workRate": 9
+            },
+            "physical": {
+              "pace": 20,
+              "acceleration": 15,
+              "strength": 11,
+              "stamina": 16,
+              "agility": 10,
+              "balance": 17,
+              "jumping": 16
+            }
+          }
+        }
+      ],
+      "matchId": "qciu8x9umquugzu5",
+      "matchSnapshot": {
+        "homeTeamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+        "awayTeamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+        "homeTeamName": "Royaume d'Asha",
+        "awayTeamName": "URSI",
+        "homeScore": 1,
+        "awayScore": 2,
+        "stats": {
+          "shots": {
+            "home": 9,
+            "away": 7
+          },
+          "possession": {
+            "home": 56,
+            "away": 44
+          },
+          "shotsOnTarget": {
+            "home": 5,
+            "away": 4
+          },
+          "corners": {
+            "home": 2,
+            "away": 2
+          },
+          "fouls": {
+            "home": 6,
+            "away": 5
+          },
+          "yellowCards": {
+            "home": 2,
+            "away": 2
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "3b88b99f-5143-4c7d-8cb2-0e682e5f0560",
+          "playerName": "Ghazali bin Ali",
+          "teamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+          "teamName": "URSI",
+          "rating": 8
+        }
+      }
+    },
+    {
+      "id": "79169ffc-284d-4d56-9a01-84764f8b47b1",
+      "round": 2,
+      "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "category": "victoire",
+      "headline": "Victoire logique de CCB : domination totale ce soir",
+      "body": "Après la rencontre, le capitaine de CCB a réuni ses hommes au centre du terrain. Quelques mots, une accolade. Le groupe est là. Trois points précieux qui changent la physionomie du groupe pour CCB. En grande forme, Tanner Martin a été l'un des artisans de ce succès.",
+      "moraleBefore": 51,
+      "moraleAfter": 56,
+      "moraleBoost": 8,
+      "createdAt": "2026-06-26T11:26:15.848Z",
+      "mentions": [
+        {
+          "type": "player",
+          "name": "Tanner Martin",
+          "overall": 85,
+          "position": "RW",
+          "stats": {
+            "technical": {
+              "passing": 6,
+              "crossing": 20,
+              "dribbling": 19,
+              "finishing": 12,
+              "firstTouch": 16,
+              "heading": 15,
+              "longShots": 14,
+              "tackling": 11,
+              "marking": 13
+            },
+            "mental": {
+              "vision": 8,
+              "decisions": 7,
+              "composure": 11,
+              "anticipation": 11,
+              "offTheBall": 8,
+              "aggression": 20,
+              "workRate": 11
+            },
+            "physical": {
+              "pace": 18,
+              "acceleration": 17,
+              "strength": 13,
+              "stamina": 13,
+              "agility": 12,
+              "balance": 8,
+              "jumping": 11
+            }
+          }
+        }
+      ],
+      "matchId": "rx2abog6mquugzu5",
+      "matchSnapshot": {
+        "homeTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+        "awayTeamId": "55c94018-aa17-477e-86d3-722caf57df20",
+        "homeTeamName": "CCB",
+        "awayTeamName": "Castille",
+        "homeScore": 2,
+        "awayScore": 1,
+        "stats": {
+          "shots": {
+            "home": 15,
+            "away": 11
+          },
+          "possession": {
+            "home": 46,
+            "away": 54
+          },
+          "shotsOnTarget": {
+            "home": 11,
+            "away": 6
+          },
+          "corners": {
+            "home": 2,
+            "away": 5
+          },
+          "fouls": {
+            "home": 3,
+            "away": 2
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 0
+          },
+          "redCards": {
+            "home": 1,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "afb3247a-c91a-4352-9008-b30a1fb17733",
+          "playerName": "Liam Williams",
+          "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
+          "teamName": "CCB",
+          "rating": 8.1
+        }
+      }
+    },
+    {
+      "id": "19356bbc-90ca-4146-920a-4607f98d5a7c",
+      "round": 2,
+      "teamId": "55c94018-aa17-477e-86d3-722caf57df20",
+      "category": "defaite",
+      "headline": "\"On a été en-dessous\" — Castille se flagelle après la défaite",
+      "body": "Le constat est simple et cruel : Castille a été dominé. Pas dominé au score — dominé tactiquement, physiquement, mentalement. Le staff devra en tirer les leçons. Le classement ne ment pas. Castille se retrouve dans une position délicate, avec le spectre des barrages qui se précise. Le prochain match aura des allures de finale. La pression est maximale. Même Ramón Ramírez n'a pas pu renverser la tendance.",
+      "moraleBefore": 34,
+      "moraleAfter": 30,
+      "createdAt": "2026-06-26T11:26:15.849Z",
+      "mentions": [
+        {
+          "type": "player",
+          "name": "Ramón Ramírez",
+          "overall": 83,
+          "position": "CB",
+          "stats": {
+            "technical": {
+              "passing": 18,
+              "crossing": 10,
+              "dribbling": 10,
+              "finishing": 9,
+              "firstTouch": 8,
+              "heading": 15,
+              "longShots": 11,
+              "tackling": 20,
+              "marking": 18
+            },
+            "mental": {
+              "vision": 13,
+              "decisions": 16,
+              "composure": 16,
+              "anticipation": 13,
+              "offTheBall": 7,
+              "aggression": 15,
+              "workRate": 14
+            },
+            "physical": {
+              "pace": 18,
+              "acceleration": 6,
+              "strength": 13,
+              "stamina": 11,
+              "agility": 9,
+              "balance": 13,
+              "jumping": 18
+            }
+          }
+        }
+      ],
+      "matchId": "rx2abog6mquugzu5",
+      "matchSnapshot": {
+        "homeTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+        "awayTeamId": "55c94018-aa17-477e-86d3-722caf57df20",
+        "homeTeamName": "CCB",
+        "awayTeamName": "Castille",
+        "homeScore": 2,
+        "awayScore": 1,
+        "stats": {
+          "shots": {
+            "home": 15,
+            "away": 11
+          },
+          "possession": {
+            "home": 46,
+            "away": 54
+          },
+          "shotsOnTarget": {
+            "home": 11,
+            "away": 6
+          },
+          "corners": {
+            "home": 2,
+            "away": 5
+          },
+          "fouls": {
+            "home": 3,
+            "away": 2
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 0
+          },
+          "redCards": {
+            "home": 1,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "afb3247a-c91a-4352-9008-b30a1fb17733",
+          "playerName": "Liam Williams",
+          "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
+          "teamName": "CCB",
+          "rating": 8.1
+        }
+      }
+    },
+    {
+      "id": "ca908cea-6a4c-4fe1-95ea-3d3841cc673e",
+      "round": 2,
+      "teamId": "f3fda074-0648-4d1f-a413-281bbf6d7d59",
+      "category": "defaite",
+      "headline": "Soirée noire pour Pérou : sans idées, sans efficacité",
+      "body": "Le constat est simple et cruel : Pérou a été dominé. Pas dominé au score — dominé tactiquement, physiquement, mentalement. Le staff devra en tirer les leçons. La zone rouge. Pérou la regarde désormais de très près. Un faux pas de plus et le scénario catastrophe devient réalité. Le vestiaire doit se serrer les coudes — ou tout s'effondre. Yoel Acasiete n'a pas su trouver les mots pour relancer les siens.",
+      "moraleBefore": 46,
+      "moraleAfter": 41,
+      "createdAt": "2026-06-26T11:26:15.849Z",
+      "mentions": [
+        {
+          "type": "coach",
+          "name": "Yoel Acasiete",
+          "overall": 75,
+          "stats": {
+            "motivation": 19,
+            "tactique": 12,
+            "offensive": 14,
+            "defensif": 11,
+            "mentalite": 20,
+            "gestion": 17
+          },
+          "positiveTraits": [
+            "opportuniste"
+          ],
+          "negativeTraits": [
+            "conservateur",
+            "desorganise",
+            "impulsif"
+          ]
+        }
+      ],
+      "matchId": "4944vr43mquugzu5",
+      "matchSnapshot": {
+        "homeTeamId": "f3fda074-0648-4d1f-a413-281bbf6d7d59",
+        "awayTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+        "homeTeamName": "Pérou",
+        "awayTeamName": "Osmanide",
+        "homeScore": 0,
+        "awayScore": 2,
+        "stats": {
+          "shots": {
+            "home": 8,
+            "away": 13
+          },
+          "possession": {
+            "home": 47,
+            "away": 53
+          },
+          "shotsOnTarget": {
+            "home": 2,
+            "away": 7
+          },
+          "corners": {
+            "home": 3,
+            "away": 2
+          },
+          "fouls": {
+            "home": 6,
+            "away": 4
+          },
+          "yellowCards": {
+            "home": 1,
+            "away": 0
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "b40e2635-39a2-4c0f-8f43-ef8530d8caac",
+          "playerName": "Uğur Tekin",
+          "teamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+          "teamName": "Osmanide",
+          "rating": 7.8
+        }
+      }
+    },
+    {
+      "id": "d3f01c03-446a-4606-9b18-0d99c02ec56f",
+      "round": 2,
+      "teamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "category": "victoire",
+      "headline": "Le collectif Osmanide fait la différence — victoire solide",
+      "body": "Les statistiques donnent tort aux sceptiques. Osmanide a maîtrisé son sujet de bout en bout. Difficile de leur trouver des défauts ce soir. Osmanide grimpe au classement et se replace dans la course. Les calculs se réajustent.",
+      "moraleBefore": 45,
+      "moraleAfter": 51,
+      "moraleBoost": 6,
+      "createdAt": "2026-06-26T11:26:15.849Z",
+      "matchId": "4944vr43mquugzu5",
+      "matchSnapshot": {
+        "homeTeamId": "f3fda074-0648-4d1f-a413-281bbf6d7d59",
+        "awayTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+        "homeTeamName": "Pérou",
+        "awayTeamName": "Osmanide",
+        "homeScore": 0,
+        "awayScore": 2,
+        "stats": {
+          "shots": {
+            "home": 8,
+            "away": 13
+          },
+          "possession": {
+            "home": 47,
+            "away": 53
+          },
+          "shotsOnTarget": {
+            "home": 2,
+            "away": 7
+          },
+          "corners": {
+            "home": 3,
+            "away": 2
+          },
+          "fouls": {
+            "home": 6,
+            "away": 4
+          },
+          "yellowCards": {
+            "home": 1,
+            "away": 0
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "b40e2635-39a2-4c0f-8f43-ef8530d8caac",
+          "playerName": "Uğur Tekin",
+          "teamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+          "teamName": "Osmanide",
+          "rating": 7.8
+        }
+      }
+    },
+    {
+      "id": "d3f2db60-d010-4442-8950-5b93a159748a",
+      "round": 2,
+      "teamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+      "category": "victoire",
+      "headline": "Succès précieux pour CRPAC dans cette compétition serrée",
+      "body": "Après la rencontre, le capitaine de CRPAC a réuni ses hommes au centre du terrain. Quelques mots, une accolade. Le groupe est là. CRPAC grimpe au classement et se replace dans la course. Les calculs se réajustent. Le niveau affiché par Elbek Isoqov donne de l'espoir pour la suite.",
+      "moraleBefore": 63,
+      "moraleAfter": 68,
+      "moraleBoost": 7,
+      "createdAt": "2026-06-26T11:26:15.850Z",
+      "mentions": [
+        {
+          "type": "player",
+          "name": "Elbek Isoqov",
+          "overall": 84,
+          "position": "AM",
+          "stats": {
+            "technical": {
+              "passing": 17,
+              "crossing": 14,
+              "dribbling": 15,
+              "finishing": 10,
+              "firstTouch": 16,
+              "heading": 11,
+              "longShots": 14,
+              "tackling": 11,
+              "marking": 17
+            },
+            "mental": {
+              "vision": 20,
+              "decisions": 20,
+              "composure": 14,
+              "anticipation": 7,
+              "offTheBall": 16,
+              "aggression": 13,
+              "workRate": 15
+            },
+            "physical": {
+              "pace": 13,
+              "acceleration": 13,
+              "strength": 12,
+              "stamina": 12,
+              "agility": 11,
+              "balance": 15,
+              "jumping": 10
+            }
+          }
+        }
+      ],
+      "matchId": "jseyxclsmquugzu5",
+      "matchSnapshot": {
+        "homeTeamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+        "awayTeamId": "2256fe5a-993b-4007-8191-47ebe93a3e70",
+        "homeTeamName": "CRPAC",
+        "awayTeamName": "Lusitanie",
+        "homeScore": 2,
+        "awayScore": 1,
+        "stats": {
+          "shots": {
+            "home": 16,
+            "away": 12
+          },
+          "possession": {
+            "home": 53,
+            "away": 47
+          },
+          "shotsOnTarget": {
+            "home": 9,
+            "away": 6
+          },
+          "corners": {
+            "home": 5,
+            "away": 3
+          },
+          "fouls": {
+            "home": 3,
+            "away": 4
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 0
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "613c2771-c3d9-44a0-b3ad-3476e39f55fc",
+          "playerName": "Xurshid Fozilов",
+          "teamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+          "teamName": "CRPAC",
+          "rating": 9.3
+        }
+      }
+    },
+    {
+      "id": "f4e9feb7-e416-4c50-9484-6a209a49d3d5",
+      "round": 2,
+      "teamId": "2256fe5a-993b-4007-8191-47ebe93a3e70",
+      "category": "defaite",
+      "headline": "Coup dur pour Lusitanie : la défaite fait mal au classement",
+      "body": "Difficile soirée pour Lusitanie. Le staff réclame plus de solidité défensive et de concentration. Même Nuno Sousa n'a pas pu renverser la tendance.",
+      "moraleBefore": 63,
+      "moraleAfter": 59,
+      "createdAt": "2026-06-26T11:26:15.850Z",
+      "mentions": [
+        {
+          "type": "player",
+          "name": "Nuno Sousa",
+          "overall": 83,
+          "position": "RW",
+          "stats": {
+            "technical": {
+              "passing": 14,
+              "crossing": 19,
+              "dribbling": 18,
+              "finishing": 9,
+              "firstTouch": 8,
+              "heading": 14,
+              "longShots": 13,
+              "tackling": 8,
+              "marking": 12
+            },
+            "mental": {
+              "vision": 13,
+              "decisions": 13,
+              "composure": 12,
+              "anticipation": 14,
+              "offTheBall": 12,
+              "aggression": 11,
+              "workRate": 13
+            },
+            "physical": {
+              "pace": 20,
+              "acceleration": 15,
+              "strength": 11,
+              "stamina": 13,
+              "agility": 14,
+              "balance": 11,
+              "jumping": 13
+            }
+          }
+        }
+      ],
+      "matchId": "jseyxclsmquugzu5",
+      "matchSnapshot": {
+        "homeTeamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+        "awayTeamId": "2256fe5a-993b-4007-8191-47ebe93a3e70",
+        "homeTeamName": "CRPAC",
+        "awayTeamName": "Lusitanie",
+        "homeScore": 2,
+        "awayScore": 1,
+        "stats": {
+          "shots": {
+            "home": 16,
+            "away": 12
+          },
+          "possession": {
+            "home": 53,
+            "away": 47
+          },
+          "shotsOnTarget": {
+            "home": 9,
+            "away": 6
+          },
+          "corners": {
+            "home": 5,
+            "away": 3
+          },
+          "fouls": {
+            "home": 3,
+            "away": 4
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 0
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "613c2771-c3d9-44a0-b3ad-3476e39f55fc",
+          "playerName": "Xurshid Fozilов",
+          "teamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+          "teamName": "CRPAC",
+          "rating": 9.3
+        }
+      }
+    },
+    {
+      "id": "b17fa07d-d368-4d95-86c2-f8451e7bac08",
+      "round": 3,
+      "teamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "category": "crise",
+      "headline": "Royaume d'Asha éliminé — une campagne à oublier",
+      "body": "Fini. Terminé. Éliminé. Royaume d'Asha quitte cette compétition par la petite porte, avec un bilan catastrophique que les joueurs devront digérer longtemps. Le staff a du travail cet été. L'avenir de Ziad Moradi à la tête du groupe est sérieusement en question.",
+      "moraleBefore": 47,
+      "moraleAfter": 42,
+      "moraleShock": -13,
+      "createdAt": "2026-06-26T11:26:55.216Z",
+      "mentions": [
+        {
+          "type": "coach",
+          "name": "Ziad Moradi",
+          "overall": 66,
+          "stats": {
+            "motivation": 13,
+            "tactique": 18,
+            "offensive": 9,
+            "defensif": 10,
+            "mentalite": 12,
+            "gestion": 13
+          },
+          "positiveTraits": [
+            "meneur"
+          ],
+          "negativeTraits": []
+        }
+      ],
+      "matchId": "kyuxzd77mquugzu5",
+      "matchSnapshot": {
+        "homeTeamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+        "awayTeamId": "55c94018-aa17-477e-86d3-722caf57df20",
+        "homeTeamName": "Royaume d'Asha",
+        "awayTeamName": "Castille",
+        "homeScore": 1,
+        "awayScore": 4,
+        "stats": {
+          "shots": {
+            "home": 10,
+            "away": 21
+          },
+          "possession": {
+            "home": 40,
+            "away": 60
+          },
+          "shotsOnTarget": {
+            "home": 7,
+            "away": 15
+          },
+          "corners": {
+            "home": 2,
+            "away": 1
+          },
+          "fouls": {
+            "home": 4,
+            "away": 4
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 2
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "201e2880-3d06-44ef-bed5-811150a0b73f",
+          "playerName": "Jorge Moreno",
+          "teamId": "55c94018-aa17-477e-86d3-722caf57df20",
+          "teamName": "Castille",
+          "rating": 9.1
+        }
+      }
+    },
+    {
+      "id": "10c70b56-b661-411e-9f34-5eeb0fd1ec54",
+      "round": 3,
+      "teamId": "55c94018-aa17-477e-86d3-722caf57df20",
+      "category": "crise",
+      "headline": "Castille officiellement éliminé — le cauchemar est total",
+      "body": "Les calculettes peuvent s'arrêter. Castille est éliminé. Pas de miracle, pas de remontada — juste une succession de déceptions qui aboutissent à ce constat brutal. Le groupe va devoir se regarder en face. Le match de Ramón Ramírez illustre les difficultés traversées par l'ensemble du groupe.",
+      "moraleBefore": 30,
+      "moraleAfter": 36,
+      "moraleShock": -11,
+      "createdAt": "2026-06-26T11:26:55.216Z",
+      "mentions": [
+        {
+          "type": "player",
+          "name": "Ramón Ramírez",
+          "overall": 83,
+          "position": "CB",
+          "stats": {
+            "technical": {
+              "passing": 18,
+              "crossing": 10,
+              "dribbling": 10,
+              "finishing": 9,
+              "firstTouch": 8,
+              "heading": 15,
+              "longShots": 11,
+              "tackling": 20,
+              "marking": 18
+            },
+            "mental": {
+              "vision": 13,
+              "decisions": 16,
+              "composure": 16,
+              "anticipation": 13,
+              "offTheBall": 7,
+              "aggression": 15,
+              "workRate": 14
+            },
+            "physical": {
+              "pace": 18,
+              "acceleration": 6,
+              "strength": 13,
+              "stamina": 11,
+              "agility": 9,
+              "balance": 13,
+              "jumping": 18
+            }
+          }
+        }
+      ],
+      "matchId": "kyuxzd77mquugzu5",
+      "matchSnapshot": {
+        "homeTeamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+        "awayTeamId": "55c94018-aa17-477e-86d3-722caf57df20",
+        "homeTeamName": "Royaume d'Asha",
+        "awayTeamName": "Castille",
+        "homeScore": 1,
+        "awayScore": 4,
+        "stats": {
+          "shots": {
+            "home": 10,
+            "away": 21
+          },
+          "possession": {
+            "home": 40,
+            "away": 60
+          },
+          "shotsOnTarget": {
+            "home": 7,
+            "away": 15
+          },
+          "corners": {
+            "home": 2,
+            "away": 1
+          },
+          "fouls": {
+            "home": 4,
+            "away": 4
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 2
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "201e2880-3d06-44ef-bed5-811150a0b73f",
+          "playerName": "Jorge Moreno",
+          "teamId": "55c94018-aa17-477e-86d3-722caf57df20",
+          "teamName": "Castille",
+          "rating": 9.1
+        }
+      }
+    },
+    {
+      "id": "70f7f161-8dbf-495b-b4ff-a039a0b20fbe",
+      "round": 3,
+      "teamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+      "category": "defaite",
+      "headline": "La défense de URSI craque — l'attaque ne sauve pas les meubles",
+      "body": "Le sélectionneur de URSI a refusé de pointer du doigt ses joueurs en public. En privé, la réunion qui a suivi a duré plus d'une heure. Certains joueurs en sont ressortis les yeux rouges. Même Yuth Him n'a pas pu renverser la tendance.",
+      "moraleBefore": 72,
+      "moraleAfter": 68,
+      "moraleShock": -5,
+      "createdAt": "2026-06-26T11:26:55.216Z",
+      "mentions": [
+        {
+          "type": "player",
+          "name": "Yuth Him",
+          "overall": 82,
+          "position": "ST",
+          "stats": {
+            "technical": {
+              "passing": 11,
+              "crossing": 13,
+              "dribbling": 11,
+              "finishing": 20,
+              "firstTouch": 18,
+              "heading": 10,
+              "longShots": 7,
+              "tackling": 10,
+              "marking": 17
+            },
+            "mental": {
+              "vision": 7,
+              "decisions": 9,
+              "composure": 16,
+              "anticipation": 12,
+              "offTheBall": 17,
+              "aggression": 8,
+              "workRate": 11
+            },
+            "physical": {
+              "pace": 15,
+              "acceleration": 11,
+              "strength": 18,
+              "stamina": 12,
+              "agility": 10,
+              "balance": 7,
+              "jumping": 7
+            }
+          }
+        }
+      ],
+      "matchId": "qeheqjmwmquugzu5",
+      "matchSnapshot": {
+        "homeTeamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+        "awayTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+        "homeTeamName": "URSI",
+        "awayTeamName": "CCB",
+        "homeScore": 1,
+        "awayScore": 2,
+        "stats": {
+          "shots": {
+            "home": 4,
+            "away": 13
+          },
+          "possession": {
+            "home": 41,
+            "away": 59
+          },
+          "shotsOnTarget": {
+            "home": 3,
+            "away": 6
+          },
+          "corners": {
+            "home": 2,
+            "away": 1
+          },
+          "fouls": {
+            "home": 6,
+            "away": 3
+          },
+          "yellowCards": {
+            "home": 1,
+            "away": 1
+          },
+          "redCards": {
+            "home": 1,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "4c1df5ee-4c61-454b-a817-1c24699e8f99",
+          "playerName": "Jordan Mitchell",
+          "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
+          "teamName": "CCB",
+          "rating": 7.8
+        }
+      }
+    },
+    {
+      "id": "09b77eae-c51b-48ed-9718-37e2a56cb2c1",
+      "round": 3,
+      "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "category": "victoire",
+      "headline": "Le collectif CCB fait la différence — victoire solide",
+      "body": "L'efficacité de CCB ce soir a épaté les observateurs. Peu de déchet, beaucoup d'intensité. Un schéma qui porte ses fruits.",
+      "moraleBefore": 64,
+      "moraleAfter": 69,
+      "moraleBoost": 7,
+      "createdAt": "2026-06-26T11:26:55.217Z",
+      "matchId": "qeheqjmwmquugzu5",
+      "matchSnapshot": {
+        "homeTeamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+        "awayTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+        "homeTeamName": "URSI",
+        "awayTeamName": "CCB",
+        "homeScore": 1,
+        "awayScore": 2,
+        "stats": {
+          "shots": {
+            "home": 4,
+            "away": 13
+          },
+          "possession": {
+            "home": 41,
+            "away": 59
+          },
+          "shotsOnTarget": {
+            "home": 3,
+            "away": 6
+          },
+          "corners": {
+            "home": 2,
+            "away": 1
+          },
+          "fouls": {
+            "home": 6,
+            "away": 3
+          },
+          "yellowCards": {
+            "home": 1,
+            "away": 1
+          },
+          "redCards": {
+            "home": 1,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "4c1df5ee-4c61-454b-a817-1c24699e8f99",
+          "playerName": "Jordan Mitchell",
+          "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
+          "teamName": "CCB",
+          "rating": 7.8
+        }
+      }
+    },
+    {
+      "id": "57126776-9e74-4b96-8529-f8057fa20438",
+      "round": 3,
+      "teamId": "f3fda074-0648-4d1f-a413-281bbf6d7d59",
+      "category": "crise",
+      "headline": "C'est fini pour Pérou — élimination mathématique confirmée",
+      "body": "Fini. Terminé. Éliminé. Pérou quitte cette compétition par la petite porte, avec un bilan catastrophique que les joueurs devront digérer longtemps. Le staff a du travail cet été. Yoel Acasiete est sous pression maximale après ce naufrage collectif.",
+      "moraleBefore": 41,
+      "moraleAfter": 42,
+      "moraleShock": -16,
+      "createdAt": "2026-06-26T11:26:55.217Z",
+      "mentions": [
+        {
+          "type": "coach",
+          "name": "Yoel Acasiete",
+          "overall": 75,
+          "stats": {
+            "motivation": 19,
+            "tactique": 12,
+            "offensive": 14,
+            "defensif": 11,
+            "mentalite": 20,
+            "gestion": 17
+          },
+          "positiveTraits": [
+            "opportuniste"
+          ],
+          "negativeTraits": [
+            "conservateur",
+            "desorganise",
+            "impulsif"
+          ]
+        }
+      ],
+      "matchId": "nyely6rumquugzu5",
+      "matchSnapshot": {
+        "homeTeamId": "f3fda074-0648-4d1f-a413-281bbf6d7d59",
+        "awayTeamId": "2256fe5a-993b-4007-8191-47ebe93a3e70",
+        "homeTeamName": "Pérou",
+        "awayTeamName": "Lusitanie",
+        "homeScore": 2,
+        "awayScore": 2,
+        "stats": {
+          "shots": {
+            "home": 16,
+            "away": 13
+          },
+          "possession": {
+            "home": 54,
+            "away": 46
+          },
+          "shotsOnTarget": {
+            "home": 10,
+            "away": 8
+          },
+          "corners": {
+            "home": 2,
+            "away": 2
+          },
+          "fouls": {
+            "home": 3,
+            "away": 4
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 0
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "11345591-cebb-45ff-8843-d32d4c52a932",
+          "playerName": "Quirino Morales",
+          "teamId": "f3fda074-0648-4d1f-a413-281bbf6d7d59",
+          "teamName": "Pérou",
+          "rating": 9.2
+        }
+      }
+    },
+    {
+      "id": "716050e8-036b-468b-b9e4-0da39dec1a04",
+      "round": 3,
+      "teamId": "2256fe5a-993b-4007-8191-47ebe93a3e70",
+      "category": "crise",
+      "headline": "C'est fini pour Lusitanie — élimination mathématique confirmée",
+      "body": "C'est mathématiquement acté. Lusitanie ne peut plus se qualifier. Une compétition à oublier au plus vite, dont les leçons devront pourtant être tirées. Le bilan est lourd : manque de caractère, résultats insuffisants, prestation globale indigne des attentes.",
+      "moraleBefore": 59,
+      "moraleAfter": 60,
+      "moraleShock": -13,
+      "createdAt": "2026-06-26T11:26:55.217Z",
+      "matchId": "nyely6rumquugzu5",
+      "matchSnapshot": {
+        "homeTeamId": "f3fda074-0648-4d1f-a413-281bbf6d7d59",
+        "awayTeamId": "2256fe5a-993b-4007-8191-47ebe93a3e70",
+        "homeTeamName": "Pérou",
+        "awayTeamName": "Lusitanie",
+        "homeScore": 2,
+        "awayScore": 2,
+        "stats": {
+          "shots": {
+            "home": 16,
+            "away": 13
+          },
+          "possession": {
+            "home": 54,
+            "away": 46
+          },
+          "shotsOnTarget": {
+            "home": 10,
+            "away": 8
+          },
+          "corners": {
+            "home": 2,
+            "away": 2
+          },
+          "fouls": {
+            "home": 3,
+            "away": 4
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 0
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "11345591-cebb-45ff-8843-d32d4c52a932",
+          "playerName": "Quirino Morales",
+          "teamId": "f3fda074-0648-4d1f-a413-281bbf6d7d59",
+          "teamName": "Pérou",
+          "rating": 9.2
+        }
+      }
+    },
+    {
+      "id": "4de428ce-9b13-4f25-8cfe-69d502cc2a5d",
+      "round": 3,
+      "teamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "category": "victoire",
+      "headline": "Osmanide impressionne et monte en puissance",
+      "body": "Ce n'est pas la manière qui a séduit, mais l'efficacité clinique de Osmanide. Un groupe qui sait gagner laid, c'est signe de maturité. Le sélectionneur Ramazan Uçar a su trouver les bons réglages tactiques. Le niveau affiché par Necati Demir donne de l'espoir pour la suite.",
+      "moraleBefore": 57,
+      "moraleAfter": 63,
+      "moraleBoost": 5,
+      "createdAt": "2026-06-26T11:26:55.217Z",
+      "mentions": [
+        {
+          "type": "coach",
+          "name": "Ramazan Uçar",
+          "overall": 77,
+          "stats": {
+            "motivation": 15,
+            "tactique": 13,
+            "offensive": 20,
+            "defensif": 13,
+            "mentalite": 17,
+            "gestion": 14
+          },
+          "positiveTraits": [
+            "defensif",
+            "tacticien"
+          ],
+          "negativeTraits": []
+        },
+        {
+          "type": "player",
+          "name": "Necati Demir",
+          "overall": 85,
+          "position": "LW",
+          "stats": {
+            "technical": {
+              "passing": 9,
+              "crossing": 17,
+              "dribbling": 16,
+              "finishing": 16,
+              "firstTouch": 17,
+              "heading": 14,
+              "longShots": 15,
+              "tackling": 8,
+              "marking": 13
+            },
+            "mental": {
+              "vision": 14,
+              "decisions": 11,
+              "composure": 10,
+              "anticipation": 11,
+              "offTheBall": 11,
+              "aggression": 8,
+              "workRate": 8
+            },
+            "physical": {
+              "pace": 20,
+              "acceleration": 20,
+              "strength": 15,
+              "stamina": 12,
+              "agility": 9,
+              "balance": 18,
+              "jumping": 9
+            }
+          }
+        }
+      ],
+      "matchId": "bniio0jomquugzu5",
+      "matchSnapshot": {
+        "homeTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+        "awayTeamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+        "homeTeamName": "Osmanide",
+        "awayTeamName": "CRPAC",
+        "homeScore": 3,
+        "awayScore": 1,
+        "stats": {
+          "shots": {
+            "home": 14,
+            "away": 12
+          },
+          "possession": {
+            "home": 58,
+            "away": 42
+          },
+          "shotsOnTarget": {
+            "home": 10,
+            "away": 6
+          },
+          "corners": {
+            "home": 2,
+            "away": 0
+          },
+          "fouls": {
+            "home": 3,
+            "away": 7
+          },
+          "yellowCards": {
+            "home": 1,
+            "away": 2
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "50e184d9-7277-46a5-ad24-f626500784ef",
+          "playerName": "Ali Polat",
+          "teamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+          "teamName": "Osmanide",
+          "rating": 8.1
+        }
+      }
+    },
+    {
+      "id": "59453666-e2ec-4083-ad38-af9cdf9f0f01",
+      "round": 3,
+      "teamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+      "category": "defaite",
+      "headline": "Retour sur terre pour CRPAC après cette défaite inattendue",
+      "body": "Pas de miracle ce soir pour CRPAC. L'équipe a bien tenté, mais les idées manquaient dans les moments décisifs. Une défaite qui interroge.",
+      "moraleBefore": 75,
+      "moraleAfter": 70,
+      "moraleShock": -10,
+      "createdAt": "2026-06-26T11:26:55.217Z",
+      "matchId": "bniio0jomquugzu5",
+      "matchSnapshot": {
+        "homeTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+        "awayTeamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+        "homeTeamName": "Osmanide",
+        "awayTeamName": "CRPAC",
+        "homeScore": 3,
+        "awayScore": 1,
+        "stats": {
+          "shots": {
+            "home": 14,
+            "away": 12
+          },
+          "possession": {
+            "home": 58,
+            "away": 42
+          },
+          "shotsOnTarget": {
+            "home": 10,
+            "away": 6
+          },
+          "corners": {
+            "home": 2,
+            "away": 0
+          },
+          "fouls": {
+            "home": 3,
+            "away": 7
+          },
+          "yellowCards": {
+            "home": 1,
+            "away": 2
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "50e184d9-7277-46a5-ad24-f626500784ef",
+          "playerName": "Ali Polat",
+          "teamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+          "teamName": "Osmanide",
+          "rating": 8.1
+        }
+      }
+    },
+    {
+      "id": "e56eece2-6c5b-4dd5-bdec-cd77275ca5ce",
+      "round": 3,
+      "teamId": null,
+      "category": "cmf",
+      "headline": "Phase de groupes de la Coupe Homa : rideau",
+      "body": "La Phase de groupes a rendu son verdict. Les équipes qualifiées pour la suite ont montré qu'elles méritaient leur place. Analyse des forces en présence avant la prochaine étape.",
+      "createdAt": "2026-06-26T11:26:55.219Z",
+      "cmfSnapshot": {
+        "phase": "group",
+        "moment": "fin",
+        "favoriteTeams": [
+          {
+            "teamId": "f3fda074-0648-4d1f-a413-281bbf6d7d59",
+            "teamName": "Pérou",
+            "overall": 61,
+            "cote": 7.77
+          },
+          {
+            "teamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+            "teamName": "Royaume d'Asha",
+            "overall": 60,
+            "cote": 8.03
+          },
+          {
+            "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
+            "teamName": "CCB",
+            "overall": 60,
+            "cote": 8.03
+          }
+        ]
+      }
+    },
+    {
+      "id": "f53823bc-b757-460e-8786-32a7b895aaca",
+      "round": 3,
+      "teamId": null,
+      "category": "cmf",
+      "headline": "Statistiques individuelles — bilan de la Phase de groupes",
+      "body": "Bilan individuel à l'issue de la Phase de groupes :",
+      "createdAt": "2026-06-26T11:26:55.219Z",
+      "cmfSnapshot": {
+        "phase": "group",
+        "moment": "fin",
+        "favoriteTeams": [],
+        "topScorer": {
+          "playerName": "Xurshid Fozilов",
+          "teamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+          "teamName": "CRPAC",
+          "goals": 4,
+          "overall": 89
+        },
+        "topAssister": {
+          "playerName": "Ghazali bin Ali",
+          "teamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+          "teamName": "URSI",
+          "assists": 2,
+          "overall": 78
+        },
+        "bestPlayer": {
+          "playerName": "Xurshid Fozilов",
+          "teamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+          "teamName": "CRPAC",
+          "avgRating": 8.2,
+          "overall": 89
+        },
+        "bestGK": {
+          "playerName": "Sokha Oun",
+          "teamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+          "teamName": "URSI",
+          "cleanSheets": 1,
+          "overall": 84
+        }
+      }
+    },
+    {
+      "id": "267a834d-6398-45c0-b07d-978370c583d1",
+      "round": 3,
+      "teamId": null,
+      "category": "cmf",
+      "headline": "Coupe Homa — place aux Demi-finales !",
+      "body": "La tension monte d'un cran. Les Demi-finales de la Coupe Homa débutent, et avec elles, la vraie compétition. Qui survivra à cette étape ?",
+      "createdAt": "2026-06-26T11:26:55.219Z",
+      "cmfSnapshot": {
+        "phase": "SF",
+        "moment": "debut",
+        "favoriteTeams": [
+          {
+            "teamId": "f3fda074-0648-4d1f-a413-281bbf6d7d59",
+            "teamName": "Pérou",
+            "overall": 61,
+            "cote": 7.77
+          },
+          {
+            "teamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+            "teamName": "Royaume d'Asha",
+            "overall": 60,
+            "cote": 8.03
+          },
+          {
+            "teamId": "55c94018-aa17-477e-86d3-722caf57df20",
+            "teamName": "Castille",
+            "overall": 60,
+            "cote": 8.03
+          }
+        ]
+      }
+    },
+    {
+      "id": "1e2ca389-6773-4150-a3b8-32047e527cb3",
+      "round": 3,
+      "teamId": null,
+      "category": "cmf",
+      "headline": "Pronostics CMF — Demi-finales de la Coupe Homa",
+      "body": "Premiers bilans individuels — les tendances de début de compétition.",
+      "createdAt": "2026-06-26T11:26:55.219Z",
+      "cmfSnapshot": {
+        "phase": "SF",
+        "moment": "debut",
+        "favoriteTeams": [],
+        "topScorer": {
+          "playerName": "Xurshid Fozilов",
+          "teamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+          "teamName": "CRPAC",
+          "goals": 4,
+          "overall": 89
+        },
+        "topAssister": {
+          "playerName": "Ghazali bin Ali",
+          "teamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+          "teamName": "URSI",
+          "assists": 2,
+          "overall": 78
+        },
+        "bestPlayer": {
+          "playerName": "Xurshid Fozilов",
+          "teamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+          "teamName": "CRPAC",
+          "avgRating": 8.2,
+          "overall": 89
+        },
+        "bestGK": {
+          "playerName": "Sokha Oun",
+          "teamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+          "teamName": "URSI",
+          "cleanSheets": 1,
+          "overall": 84
+        }
+      }
+    },
+    {
+      "id": "2b62e387-1235-4d90-a32f-9d5a89906f7b",
+      "round": 4,
+      "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "category": "victoire",
+      "headline": "Scène de liesse : CCB disputera la grande finale !",
+      "body": "\"Je l'ai dit dès le premier jour : ces joueurs sont capables de tout.\" Le sélectionneur de CCB avait raison. La finale le prouvera une dernière fois. Le plan de jeu de Ujammi Lynge a parfaitement fonctionné.",
+      "moraleBefore": 76,
+      "moraleAfter": 81,
+      "moraleBoost": 7,
+      "createdAt": "2026-06-26T11:27:49.387Z",
+      "mentions": [
+        {
+          "type": "coach",
+          "name": "Ujammi Lynge",
+          "overall": 74,
+          "stats": {
+            "motivation": 17,
+            "tactique": 15,
+            "offensive": 10,
+            "defensif": 11,
+            "mentalite": 19,
+            "gestion": 14
+          },
+          "positiveTraits": [
+            "opportuniste",
+            "meneur"
+          ],
+          "negativeTraits": [
+            "imprevoyant",
+            "passif"
+          ]
+        }
+      ],
+      "matchId": "5uat2wwkmquugzu5",
+      "matchSnapshot": {
+        "homeTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+        "awayTeamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+        "homeTeamName": "CCB",
+        "awayTeamName": "CRPAC",
+        "homeScore": 1,
+        "awayScore": 0,
+        "stats": {
+          "shots": {
+            "home": 17,
+            "away": 11
+          },
+          "possession": {
+            "home": 45,
+            "away": 55
+          },
+          "shotsOnTarget": {
+            "home": 7,
+            "away": 5
+          },
+          "corners": {
+            "home": 2,
+            "away": 3
+          },
+          "fouls": {
+            "home": 3,
+            "away": 2
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 0
+          },
+          "redCards": {
+            "home": 1,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "44e712fb-26e6-4278-9d9f-0de27edfe5d5",
+          "playerName": "Nathan Morin",
+          "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
+          "teamName": "CCB",
+          "rating": 8.3
+        }
+      }
+    },
+    {
+      "id": "d9d57fb9-2e6f-41b8-8d5b-0c18efd3773d",
+      "round": 4,
+      "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "category": "forme",
+      "headline": "\"On a peur de personne\" — CCB ose l'ambition",
+      "body": "L'ambiance dans l'effectif de CCB est au sommet. Tout le monde est prêt à se battre.",
+      "moraleAfter": 88,
+      "createdAt": "2026-06-26T11:27:49.388Z"
+    },
+    {
+      "id": "f026167a-eb7a-44ad-b524-b50a041d99ca",
+      "round": 4,
+      "teamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+      "category": "defaite",
+      "headline": "CRPAC s'incline en finale : la gloire était là, elle a filé",
+      "body": "\"On aurait dû gagner.\" Le capitaine de CRPAC ne mâchait pas ses mots après la finale. Dans d'autres circonstances, peut-être. Ce soir, ce n'était pas leur soir. On attendait plus de Eldar Satybaldiев dans les moments décisifs.",
+      "moraleBefore": 60,
+      "moraleAfter": 56,
+      "createdAt": "2026-06-26T11:27:49.388Z",
+      "mentions": [
+        {
+          "type": "player",
+          "name": "Eldar Satybaldiев",
+          "overall": 83,
+          "position": "ST",
+          "stats": {
+            "technical": {
+              "passing": 13,
+              "crossing": 10,
+              "dribbling": 11,
+              "finishing": 19,
+              "firstTouch": 12,
+              "heading": 16,
+              "longShots": 12,
+              "tackling": 8,
+              "marking": 13
+            },
+            "mental": {
+              "vision": 12,
+              "decisions": 11,
+              "composure": 15,
+              "anticipation": 11,
+              "offTheBall": 20,
+              "aggression": 18,
+              "workRate": 10
+            },
+            "physical": {
+              "pace": 12,
+              "acceleration": 11,
+              "strength": 16,
+              "stamina": 13,
+              "agility": 14,
+              "balance": 9,
+              "jumping": 14
+            }
+          }
+        }
+      ],
+      "matchId": "5uat2wwkmquugzu5",
+      "matchSnapshot": {
+        "homeTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+        "awayTeamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+        "homeTeamName": "CCB",
+        "awayTeamName": "CRPAC",
+        "homeScore": 1,
+        "awayScore": 0,
+        "stats": {
+          "shots": {
+            "home": 17,
+            "away": 11
+          },
+          "possession": {
+            "home": 45,
+            "away": 55
+          },
+          "shotsOnTarget": {
+            "home": 7,
+            "away": 5
+          },
+          "corners": {
+            "home": 2,
+            "away": 3
+          },
+          "fouls": {
+            "home": 3,
+            "away": 2
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 0
+          },
+          "redCards": {
+            "home": 1,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "44e712fb-26e6-4278-9d9f-0de27edfe5d5",
+          "playerName": "Nathan Morin",
+          "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
+          "teamName": "CCB",
+          "rating": 8.3
+        }
+      }
+    },
+    {
+      "id": "81055ad3-48f5-470c-b838-c991b56d50f4",
+      "round": 4,
+      "teamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "category": "defaite",
+      "headline": "Osmanide s'incline en finale : la gloire était là, elle a filé",
+      "body": "La finale était si proche. Osmanide a tout donné, mais l'adversaire a été au-dessus ce soir. La médaille d'argent ne consolera personne dans ce groupe — mais elle témoigne d'un parcours exceptionnel.",
+      "moraleBefore": 68,
+      "moraleAfter": 64,
+      "moraleShock": -5,
+      "createdAt": "2026-06-26T11:27:49.389Z",
+      "matchId": "dtv8va5dmquugzu5",
+      "matchSnapshot": {
+        "homeTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+        "awayTeamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+        "homeTeamName": "Osmanide",
+        "awayTeamName": "URSI",
+        "homeScore": 1,
+        "awayScore": 2,
+        "stats": {
+          "shots": {
+            "home": 14,
+            "away": 7
+          },
+          "possession": {
+            "home": 56,
+            "away": 44
+          },
+          "shotsOnTarget": {
+            "home": 7,
+            "away": 4
+          },
+          "corners": {
+            "home": 3,
+            "away": 1
+          },
+          "fouls": {
+            "home": 5,
+            "away": 3
+          },
+          "yellowCards": {
+            "home": 2,
+            "away": 1
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "674490b6-409f-4e59-98de-907056600e0d",
+          "playerName": "Hafiz Yap",
+          "teamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+          "teamName": "URSI",
+          "rating": 8.5
+        }
+      }
+    },
+    {
+      "id": "76f4049d-9e78-4afc-a5bc-43af15de01b6",
+      "round": 4,
+      "teamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+      "category": "victoire",
+      "headline": "URSI à un match du sacre — la nation retient son souffle",
+      "body": "URSI jouera la finale. Un fait. Une réalité que ce groupe a construite match après match, avec foi, avec travail, avec caractère. La compétition a son premier finaliste. En grande forme, Fadzli bin Razak a été l'un des artisans de ce succès.",
+      "moraleBefore": 63,
+      "moraleAfter": 68,
+      "moraleBoost": 4,
+      "createdAt": "2026-06-26T11:27:49.390Z",
+      "mentions": [
+        {
+          "type": "player",
+          "name": "Fadzli bin Razak",
+          "overall": 83,
+          "position": "RW",
+          "stats": {
+            "technical": {
+              "passing": 11,
+              "crossing": 18,
+              "dribbling": 20,
+              "finishing": 10,
+              "firstTouch": 13,
+              "heading": 12,
+              "longShots": 16,
+              "tackling": 7,
+              "marking": 8
+            },
+            "mental": {
+              "vision": 14,
+              "decisions": 13,
+              "composure": 9,
+              "anticipation": 11,
+              "offTheBall": 14,
+              "aggression": 10,
+              "workRate": 9
+            },
+            "physical": {
+              "pace": 20,
+              "acceleration": 15,
+              "strength": 11,
+              "stamina": 16,
+              "agility": 10,
+              "balance": 17,
+              "jumping": 16
+            }
+          }
+        }
+      ],
+      "matchId": "dtv8va5dmquugzu5",
+      "matchSnapshot": {
+        "homeTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+        "awayTeamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+        "homeTeamName": "Osmanide",
+        "awayTeamName": "URSI",
+        "homeScore": 1,
+        "awayScore": 2,
+        "stats": {
+          "shots": {
+            "home": 14,
+            "away": 7
+          },
+          "possession": {
+            "home": 56,
+            "away": 44
+          },
+          "shotsOnTarget": {
+            "home": 7,
+            "away": 4
+          },
+          "corners": {
+            "home": 3,
+            "away": 1
+          },
+          "fouls": {
+            "home": 5,
+            "away": 3
+          },
+          "yellowCards": {
+            "home": 2,
+            "away": 1
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "674490b6-409f-4e59-98de-907056600e0d",
+          "playerName": "Hafiz Yap",
+          "teamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+          "teamName": "URSI",
+          "rating": 8.5
+        }
+      }
+    },
+    {
+      "id": "d6fa3425-9d4f-4dce-beec-0c0d4854a06a",
+      "round": 4,
+      "teamId": null,
+      "category": "cmf",
+      "headline": "Bilan de la Demi-finales — la Coupe Homa avance",
+      "body": "La Demi-finales est terminée. Les qualifiés sont connus, les éliminés rentrent chez eux. Le bilan est sans appel : certaines équipes ont confirmé leur statut, d'autres ont surpris.",
+      "createdAt": "2026-06-26T11:27:49.392Z",
+      "cmfSnapshot": {
+        "phase": "SF",
+        "moment": "fin",
+        "favoriteTeams": [
+          {
+            "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
+            "teamName": "CCB",
+            "overall": 60,
+            "cote": 4
+          },
+          {
+            "teamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+            "teamName": "URSI",
+            "overall": 60,
+            "cote": 4
+          },
+          {
+            "teamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+            "teamName": "CRPAC",
+            "overall": 60,
+            "cote": 4
+          }
+        ]
+      }
+    },
+    {
+      "id": "1d10372c-14b9-4b52-9268-fe7e2bae7ca1",
+      "round": 4,
+      "teamId": null,
+      "category": "cmf",
+      "headline": "Statistiques individuelles — bilan de la Demi-finales",
+      "body": "Bilan individuel à l'issue de la Demi-finales :",
+      "createdAt": "2026-06-26T11:27:49.392Z",
+      "cmfSnapshot": {
+        "phase": "SF",
+        "moment": "fin",
+        "favoriteTeams": [],
+        "topScorer": {
+          "playerName": "Xurshid Fozilов",
+          "teamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+          "teamName": "CRPAC",
+          "goals": 4,
+          "overall": 89
+        },
+        "topAssister": {
+          "playerName": "Ghazali bin Ali",
+          "teamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+          "teamName": "URSI",
+          "assists": 2,
+          "overall": 78
+        },
+        "bestPlayer": {
+          "playerName": "Nima Rezaei",
+          "teamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+          "teamName": "Royaume d'Asha",
+          "avgRating": 7.9,
+          "overall": 82
+        },
+        "bestGK": {
+          "playerName": "Sokha Oun",
+          "teamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+          "teamName": "URSI",
+          "cleanSheets": 1,
+          "overall": 84
+        }
+      }
+    },
+    {
+      "id": "af996b90-e97c-4fb5-a343-54dd7673bfdb",
+      "round": 4,
+      "teamId": null,
+      "category": "cmf",
+      "headline": "Cap sur Finale — la CMF analyse",
+      "body": "Après la Demi-finales, place à Finale. Les équipes encore en lice connaissent leurs adversaires. Les pronostics sont relancés, les stratégies ajustées. Rendez-vous sur le terrain pour savoir qui aura raison.",
+      "createdAt": "2026-06-26T11:27:49.392Z",
+      "cmfSnapshot": {
+        "phase": "SF",
+        "moment": "fin",
+        "favoriteTeams": []
+      }
+    },
+    {
+      "id": "d661f285-9bb3-4a22-a804-b33c538c417f",
+      "round": 4,
+      "teamId": null,
+      "category": "cmf",
+      "headline": "Coupe Homa — place aux Finale !",
+      "body": "La tension monte d'un cran. Les Finale de la Coupe Homa débutent, et avec elles, la vraie compétition. Qui survivra à cette étape ?",
+      "createdAt": "2026-06-26T11:27:49.392Z",
+      "cmfSnapshot": {
+        "phase": "F",
+        "moment": "debut",
+        "favoriteTeams": [
+          {
+            "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
+            "teamName": "CCB",
+            "overall": 60,
+            "cote": 4
+          },
+          {
+            "teamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+            "teamName": "URSI",
+            "overall": 60,
+            "cote": 4
+          },
+          {
+            "teamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+            "teamName": "CRPAC",
+            "overall": 60,
+            "cote": 4
+          }
+        ]
+      }
+    },
+    {
+      "id": "06283dc2-2482-4ea8-a58b-f99f11bcf817",
+      "round": 4,
+      "teamId": null,
+      "category": "cmf",
+      "headline": "Pronostics CMF — Finale de la Coupe Homa",
+      "body": "Premiers bilans individuels — les tendances de début de compétition.",
+      "createdAt": "2026-06-26T11:27:49.392Z",
+      "cmfSnapshot": {
+        "phase": "F",
+        "moment": "debut",
+        "favoriteTeams": [],
+        "topScorer": {
+          "playerName": "Xurshid Fozilов",
+          "teamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+          "teamName": "CRPAC",
+          "goals": 4,
+          "overall": 89
+        },
+        "topAssister": {
+          "playerName": "Ghazali bin Ali",
+          "teamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+          "teamName": "URSI",
+          "assists": 2,
+          "overall": 78
+        },
+        "bestPlayer": {
+          "playerName": "Nima Rezaei",
+          "teamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+          "teamName": "Royaume d'Asha",
+          "avgRating": 7.9,
+          "overall": 82
+        },
+        "bestGK": {
+          "playerName": "Sokha Oun",
+          "teamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+          "teamName": "URSI",
+          "cleanSheets": 1,
+          "overall": 84
+        }
+      }
+    },
+    {
+      "id": "16142854-d085-4c7a-ae04-342beac14374",
+      "round": 5,
+      "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "category": "neutralite",
+      "headline": "CCB partage les points — une occasion manquée ?",
+      "body": "\"C'est un point de pris\", a répété le capitaine de CCB sans conviction. Dans les travées, les supporters sifflaient. Ujammi Lynge a multiplié les changements tactiques sans succès.",
+      "moraleBefore": 88,
+      "moraleAfter": 89,
+      "moraleShock": -11,
+      "createdAt": "2026-06-26T11:28:24.621Z",
+      "mentions": [
+        {
+          "type": "coach",
+          "name": "Ujammi Lynge",
+          "overall": 74,
+          "stats": {
+            "motivation": 17,
+            "tactique": 15,
+            "offensive": 10,
+            "defensif": 11,
+            "mentalite": 19,
+            "gestion": 14
+          },
+          "positiveTraits": [
+            "opportuniste",
+            "meneur"
+          ],
+          "negativeTraits": [
+            "imprevoyant",
+            "passif"
+          ]
+        }
+      ],
+      "matchId": "o4ik0u8wmquugzu5",
+      "matchSnapshot": {
+        "homeTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+        "awayTeamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+        "homeTeamName": "CCB",
+        "awayTeamName": "URSI",
+        "homeScore": 0,
+        "awayScore": 0,
+        "stats": {
+          "shots": {
+            "home": 20,
+            "away": 19
+          },
+          "possession": {
+            "home": 47,
+            "away": 53
+          },
+          "shotsOnTarget": {
+            "home": 9,
+            "away": 7
+          },
+          "corners": {
+            "home": 2,
+            "away": 3
+          },
+          "fouls": {
+            "home": 4,
+            "away": 1
+          },
+          "yellowCards": {
+            "home": 1,
+            "away": 1
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "59844368-113e-46a3-b49c-a98129fcd18b",
+          "playerName": "Sokha Oun",
+          "teamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+          "teamName": "URSI",
+          "rating": 9.2
+        }
+      }
+    },
+    {
+      "id": "7bfd29b0-0bc9-45e0-ad1f-7b1216d275ae",
+      "round": 5,
+      "teamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+      "category": "neutralite",
+      "headline": "Statu quo après cette rencontre : URSI ne gagne pas",
+      "body": "Le vestiaire de URSI est partagé entre soulagement et déception. Un point dans ces conditions, c'est peu et beaucoup à la fois. Mais la tendance n'est pas idéale. Fadzli bin Razak a tenté de faire la différence, sans succès.",
+      "moraleBefore": 72,
+      "moraleAfter": 73,
+      "createdAt": "2026-06-26T11:28:24.622Z",
+      "mentions": [
+        {
+          "type": "player",
+          "name": "Fadzli bin Razak",
+          "overall": 83,
+          "position": "RW",
+          "stats": {
+            "technical": {
+              "passing": 11,
+              "crossing": 18,
+              "dribbling": 20,
+              "finishing": 10,
+              "firstTouch": 13,
+              "heading": 12,
+              "longShots": 16,
+              "tackling": 7,
+              "marking": 8
+            },
+            "mental": {
+              "vision": 14,
+              "decisions": 13,
+              "composure": 9,
+              "anticipation": 11,
+              "offTheBall": 14,
+              "aggression": 10,
+              "workRate": 9
+            },
+            "physical": {
+              "pace": 20,
+              "acceleration": 15,
+              "strength": 11,
+              "stamina": 16,
+              "agility": 10,
+              "balance": 17,
+              "jumping": 16
+            }
+          }
+        }
+      ],
+      "matchId": "o4ik0u8wmquugzu5",
+      "matchSnapshot": {
+        "homeTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+        "awayTeamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+        "homeTeamName": "CCB",
+        "awayTeamName": "URSI",
+        "homeScore": 0,
+        "awayScore": 0,
+        "stats": {
+          "shots": {
+            "home": 20,
+            "away": 19
+          },
+          "possession": {
+            "home": 47,
+            "away": 53
+          },
+          "shotsOnTarget": {
+            "home": 9,
+            "away": 7
+          },
+          "corners": {
+            "home": 2,
+            "away": 3
+          },
+          "fouls": {
+            "home": 4,
+            "away": 1
+          },
+          "yellowCards": {
+            "home": 1,
+            "away": 1
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "59844368-113e-46a3-b49c-a98129fcd18b",
+          "playerName": "Sokha Oun",
+          "teamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+          "teamName": "URSI",
+          "rating": 9.2
+        }
+      }
+    },
+    {
+      "id": "34ea99a5-c74d-4c00-9295-1a95482497fc",
+      "round": 5,
+      "teamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+      "category": "victoire",
+      "headline": "\"On a fait le boulot\" — la sérénité règne chez CRPAC",
+      "body": "\"Je suis fier de mes joueurs\" — le discours d'après-match du coach de CRPAC était court, mais les yeux de ses hommes brillaient. En match pour la troisième place, chaque erreur se paie cash — CRPAC n'en a pas commis.",
+      "moraleBefore": 56,
+      "moraleAfter": 61,
+      "moraleBoost": 8,
+      "createdAt": "2026-06-26T11:28:24.623Z",
+      "matchId": "nvzhn129mquugzu5",
+      "matchSnapshot": {
+        "homeTeamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+        "awayTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+        "homeTeamName": "CRPAC",
+        "awayTeamName": "Osmanide",
+        "homeScore": 1,
+        "awayScore": 0,
+        "stats": {
+          "shots": {
+            "home": 9,
+            "away": 10
+          },
+          "possession": {
+            "home": 33,
+            "away": 67
+          },
+          "shotsOnTarget": {
+            "home": 4,
+            "away": 7
+          },
+          "corners": {
+            "home": 2,
+            "away": 1
+          },
+          "fouls": {
+            "home": 10,
+            "away": 2
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 0
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "b931fea4-56ac-483b-99a0-3f3179059a66",
+          "playerName": "Fenomen Kaliyev",
+          "teamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+          "teamName": "CRPAC",
+          "rating": 8.9
+        }
+      }
+    },
+    {
+      "id": "c8de76ab-ce1d-4cf3-8572-0c7eb2a7a044",
+      "round": 5,
+      "teamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "category": "defaite",
+      "headline": "Osmanide ne trouve pas les réponses face à un adversaire bien en place",
+      "body": "Des sources internes révèlent des tensions dans le vestiaire de Osmanide après la défaite. La question du leadership se pose ouvertement. En match pour la troisième place, il n'y a pas de lendemain. Osmanide le sait désormais.",
+      "moraleBefore": 59,
+      "moraleAfter": 55,
+      "createdAt": "2026-06-26T11:28:24.623Z",
+      "matchId": "nvzhn129mquugzu5",
+      "matchSnapshot": {
+        "homeTeamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+        "awayTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+        "homeTeamName": "CRPAC",
+        "awayTeamName": "Osmanide",
+        "homeScore": 1,
+        "awayScore": 0,
+        "stats": {
+          "shots": {
+            "home": 9,
+            "away": 10
+          },
+          "possession": {
+            "home": 33,
+            "away": 67
+          },
+          "shotsOnTarget": {
+            "home": 4,
+            "away": 7
+          },
+          "corners": {
+            "home": 2,
+            "away": 1
+          },
+          "fouls": {
+            "home": 10,
+            "away": 2
+          },
+          "yellowCards": {
+            "home": 0,
+            "away": 0
+          },
+          "redCards": {
+            "home": 0,
+            "away": 0
+          }
+        },
+        "motm": {
+          "playerId": "b931fea4-56ac-483b-99a0-3f3179059a66",
+          "playerName": "Fenomen Kaliyev",
+          "teamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+          "teamName": "CRPAC",
+          "rating": 8.9
+        }
+      }
+    },
+    {
+      "id": "d8ebfaa6-1582-4c8f-8bfb-2c288af583a7",
+      "round": 5,
+      "teamId": null,
+      "category": "cmf",
+      "headline": "LA GLOIRE POUR CCB — palmarès de la Coupe Homa",
+      "body": "Le titre est décerné. CCB entre dans l'histoire de la Coupe Homa. La cérémonie de clôture a célébré les meilleurs acteurs de cette édition.",
+      "createdAt": "2026-06-26T11:28:24.624Z",
+      "cmfSnapshot": {
+        "phase": "3rd",
+        "moment": "palmares",
+        "favoriteTeams": [],
+        "winner": {
+          "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
+          "teamName": "CCB"
+        }
+      }
+    },
+    {
+      "id": "689bb7a5-3e8a-4acc-8e61-7f7a1b4f9dc7",
+      "round": 5,
+      "teamId": null,
+      "category": "cmf",
+      "headline": "Trophées individuels CMF — Coupe Homa",
+      "body": "La CMF a décerné ses trophées individuels pour cette édition de la Coupe Homa :",
+      "createdAt": "2026-06-26T11:28:24.624Z",
+      "cmfSnapshot": {
+        "phase": "3rd",
+        "moment": "palmares",
+        "favoriteTeams": [],
+        "topScorer": {
+          "playerName": "Xurshid Fozilов",
+          "teamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+          "teamName": "CRPAC",
+          "goals": 4,
+          "overall": 89
+        },
+        "topAssister": {
+          "playerName": "Ghazali bin Ali",
+          "teamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+          "teamName": "URSI",
+          "assists": 2,
+          "overall": 78
+        },
+        "bestPlayer": {
+          "playerName": "Sokha Oun",
+          "teamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+          "teamName": "URSI",
+          "avgRating": 8.1,
+          "overall": 84
+        },
+        "bestGK": {
+          "playerName": "Sokha Oun",
+          "teamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+          "teamName": "URSI",
+          "cleanSheets": 2,
+          "overall": 84
+        },
+        "winner": {
+          "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
+          "teamName": "CCB"
+        }
+      }
+    },
+    {
+      "id": "a086c9a1-9fc7-4d52-95d8-6018f22ab886",
+      "round": 5,
+      "teamId": null,
+      "category": "cmf",
+      "headline": "Épilogue — la Coupe Homa referme ses portes",
+      "body": "La compétition s'achève. Un vainqueur, des regrets, et la promesse que la prochaine édition sera encore plus belle. La CMF remercie toutes les équipes participantes pour leur engagement.",
+      "createdAt": "2026-06-26T11:28:24.624Z",
+      "cmfSnapshot": {
+        "phase": "3rd",
+        "moment": "palmares",
+        "favoriteTeams": [],
+        "winner": {
+          "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
+          "teamName": "CCB"
+        }
+      }
     }
-  ]
+  ],
+  "morale": {
+    "df16509b-c6c2-43ce-abae-7c077e85ba22": 29,
+    "55c94018-aa17-477e-86d3-722caf57df20": 25,
+    "dd9ec787-b9a6-466a-9cd3-b06674a15268": 73,
+    "45002df1-cafe-4c04-814c-660868b56d95": 78,
+    "f3fda074-0648-4d1f-a413-281bbf6d7d59": 26,
+    "2256fe5a-993b-4007-8191-47ebe93a3e70": 47,
+    "31dbe023-a8f1-4325-9813-afa3d8e217fa": 55,
+    "0fe98426-628d-4e12-a4c7-9a71e599160f": 69
+  },
+  "injuries": [
+    {
+      "id": "1b8aa19b-98ba-4d29-bc0f-d064d04f0d16",
+      "playerId": "8e1495b9-e574-4b61-a7d1-90a16e9956d6",
+      "playerName": "Juan Garrido",
+      "teamId": "55c94018-aa17-477e-86d3-722caf57df20",
+      "cause": "match",
+      "severity": "grave",
+      "matchesRemaining": 2,
+      "description": "Déchirure totale des ischio-jambiers — longue convalescence.",
+      "roundOccurred": 2
+    },
+    {
+      "id": "4f016d37-ea12-4825-85d8-15f7013072c4",
+      "playerId": "9d7fb4c5-31ca-4b0a-b8b9-fc8434e2cdd0",
+      "playerName": "İsmail Uçar",
+      "teamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "cause": "match",
+      "severity": "modérée",
+      "matchesRemaining": 2,
+      "description": "Fracture de fatigue détectée — mise au repos forcée.",
+      "roundOccurred": 4
+    }
+  ],
+  "suspensions": [],
+  "awards": {
+    "topScorer": "613c2771-c3d9-44a0-b3ad-3476e39f55fc",
+    "topAssister": "3b88b99f-5143-4c7d-8cb2-0e682e5f0560",
+    "bestGK": "59844368-113e-46a3-b49c-a98129fcd18b",
+    "bestPlayer": "59844368-113e-46a3-b49c-a98129fcd18b"
+  },
+  "winner": "45002df1-cafe-4c04-814c-660868b56d95"
 }
