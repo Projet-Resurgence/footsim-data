@@ -19303,18 +19303,18 @@
         "stamina": 13,
         "agility": 10,
         "balance": 15,
-        "jumping": 19
+        "jumping": 20
       },
       "goalkeeping": {
         "reflexes": 20,
-        "handling": 16,
-        "aerial": 18,
+        "handling": 20,
+        "aerial": 20,
         "oneOnOne": 18,
         "kicking": 14,
         "throwing": 17
       }
     },
-    "overall": 82
+    "overall": 86
   },
   {
     "id": "5396dc4c-9f69-47eb-91d8-440e5ba62d9f",
