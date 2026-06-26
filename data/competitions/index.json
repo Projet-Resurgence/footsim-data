@@ -3,9 +3,10 @@
     "id": "o95873n61nkmqvdpc6f",
     "name": "Coupe Pizza",
     "format": "groups_knockout",
-    "status": "ongoing",
+    "status": "completed",
     "teamCount": 16,
     "createdAt": "2026-06-26T20:23:39.496Z",
+    "winner": "110159bd-411c-409a-ba07-95216b092ba4",
     "year": 2308,
     "teamIds": [
       "110159bd-411c-409a-ba07-95216b092ba4",
