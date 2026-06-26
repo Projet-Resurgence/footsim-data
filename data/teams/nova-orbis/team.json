@@ -46,5 +46,24 @@
     "overall": 90
   },
   "jerseyColor": "#635f5f",
-  "publishedAt": "2026-06-21T09:42:13.512Z"
+  "publishedAt": "2026-06-21T09:42:13.512Z",
+  "recentMatches": [
+    {
+      "matchId": "70i3m6gomquxei3l",
+      "playedAt": "2026-06-26T13:27:58.671Z",
+      "opponentSlug": "castille",
+      "opponentName": "Castille",
+      "homeTeamId": "55c94018-aa17-477e-86d3-722caf57df20",
+      "awayTeamId": "28f82804-8005-450a-b6d8-740533bf82b0",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 3,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.7
+    }
+  ]
 }
