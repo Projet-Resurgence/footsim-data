@@ -813,6 +813,23 @@
       "cmfPoints": 2
     },
     {
+      "matchId": "kg2k2aenmqr3areq",
+      "playedAt": "2026-06-23T20:22:59.117Z",
+      "opponentSlug": "spc",
+      "opponentName": "SPC",
+      "homeTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "awayTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 0.7
+    },
+    {
       "matchId": "20sqewbfmqpngrdv",
       "playedAt": "2026-06-22T20:20:42.020Z",
       "opponentSlug": "livonie",
