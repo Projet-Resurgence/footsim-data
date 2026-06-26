@@ -204,7 +204,14 @@
       "compScope": "internationale",
       "compImportance": "prestige",
       "participantCount": 48,
-      "cmfPoints": -6.8
+      "cmfPoints": -6.8,
+      "scorers": [
+        {
+          "minute": 17,
+          "playerId": "008dddcd-95bf-48a1-9939-449b73992b5c",
+          "playerName": "Lucas Simon"
+        }
+      ]
     },
     {
       "matchId": "b4p58zkzmqvcmc3w",
