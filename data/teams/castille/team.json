@@ -64,7 +64,19 @@
     }
   ],
   "activeTacticId": "e59b7ebd-610b-4593-8cdb-6dc7c3984f12",
-  "injuries": [],
+  "injuries": [
+    {
+      "id": "1b8aa19b-98ba-4d29-bc0f-d064d04f0d16",
+      "playerId": "8e1495b9-e574-4b61-a7d1-90a16e9956d6",
+      "playerName": "Juan Garrido",
+      "teamId": "55c94018-aa17-477e-86d3-722caf57df20",
+      "cause": "match",
+      "severity": "grave",
+      "matchesRemaining": 2,
+      "description": "Déchirure totale des ischio-jambiers — longue convalescence.",
+      "roundOccurred": 2
+    }
+  ],
   "suspensions": [],
   "compHistory": [
     {
