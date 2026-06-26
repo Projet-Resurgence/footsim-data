@@ -202,6 +202,23 @@
   "suspensions": [],
   "recentMatches": [
     {
+      "matchId": "w04ugiksmquxei3l",
+      "playedAt": "2026-06-26T13:27:58.676Z",
+      "opponentSlug": "volkstaat",
+      "opponentName": "Volkstaat",
+      "homeTeamId": "87e74a10-3d92-4040-ae29-ebdf80f5951b",
+      "awayTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "homeAway": "away",
+      "scoreFor": 4,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 18
+    },
+    {
       "matchId": "9e1vjo7nmqtyr6yf",
       "playedAt": "2026-06-25T20:47:12.904Z",
       "opponentSlug": "deseret",
