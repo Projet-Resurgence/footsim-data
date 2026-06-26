@@ -17,7 +17,7 @@
     }
   ],
   "continent": "europe",
-  "publishedAt": "2026-06-24T00:03:49.641Z",
+  "publishedAt": "2026-06-26T09:55:04.993Z",
   "recentMatches": [
     {
       "matchId": "6ecmwmu1mqty1zqg",
@@ -465,9 +465,102 @@
       "customStyles": [],
       "id": "67609d39-194c-4447-8c83-973749cebdfa",
       "name": "Possession"
+    },
+    {
+      "style": "gegenpressing",
+      "formation": "4-3-3",
+      "lineup": [
+        "ec26f1ad-227f-4f13-8712-c03e1b38d135",
+        "609de258-0ecd-46cb-aa38-645b1e005f4d",
+        "54b229fc-a2a8-4458-9b88-ff8cbccf565d",
+        "99b6d1d4-a819-4195-9bfc-8f0918ec7dda",
+        "88a7347f-b2c3-4083-a5c6-bbac6e71ab76",
+        "1d7892d9-f47f-47a3-b41e-8622049075b2",
+        "008dddcd-95bf-48a1-9939-449b73992b5c",
+        "c23f3eb9-049b-4834-b371-619985d3ef86",
+        "0f37e5f2-34b6-42eb-a40d-a1cbed31548a",
+        "30c48de3-bd45-4195-a6d3-e7f59257bc2d",
+        "f75dc5fe-ff5c-474d-92dc-2ec670d9a600"
+      ],
+      "formationLabel": "3-1-1-5",
+      "positionMap": {
+        "609de258-0ecd-46cb-aa38-645b1e005f4d": "LB",
+        "54b229fc-a2a8-4458-9b88-ff8cbccf565d": "CB",
+        "99b6d1d4-a819-4195-9bfc-8f0918ec7dda": "ST",
+        "1d7892d9-f47f-47a3-b41e-8622049075b2": "DM",
+        "008dddcd-95bf-48a1-9939-449b73992b5c": "LW",
+        "c23f3eb9-049b-4834-b371-619985d3ef86": "CB",
+        "0f37e5f2-34b6-42eb-a40d-a1cbed31548a": "LW",
+        "30c48de3-bd45-4195-a6d3-e7f59257bc2d": "ST",
+        "f75dc5fe-ff5c-474d-92dc-2ec670d9a600": "RW",
+        "88a7347f-b2c3-4083-a5c6-bbac6e71ab76": "RM",
+        "ec26f1ad-227f-4f13-8712-c03e1b38d135": "GK"
+      },
+      "tokenPositions": {
+        "609de258-0ecd-46cb-aa38-645b1e005f4d": {
+          "x": 18.523809523809522,
+          "y": 75.5
+        },
+        "54b229fc-a2a8-4458-9b88-ff8cbccf565d": {
+          "x": 42.61904761904762,
+          "y": 76.66666666666667
+        },
+        "99b6d1d4-a819-4195-9bfc-8f0918ec7dda": {
+          "x": 64.09523809523809,
+          "y": 16.666666666666664
+        },
+        "1d7892d9-f47f-47a3-b41e-8622049075b2": {
+          "x": 49.00000000000001,
+          "y": 61.33333333333333
+        },
+        "008dddcd-95bf-48a1-9939-449b73992b5c": {
+          "x": 22.428571428571427,
+          "y": 16.166666666666664
+        },
+        "c23f3eb9-049b-4834-b371-619985d3ef86": {
+          "x": 62.47619047619048,
+          "y": 76
+        },
+        "0f37e5f2-34b6-42eb-a40d-a1cbed31548a": {
+          "x": 9.619047619047619,
+          "y": 23
+        },
+        "30c48de3-bd45-4195-a6d3-e7f59257bc2d": {
+          "x": 43.333333333333336,
+          "y": 16.333333333333332
+        },
+        "f75dc5fe-ff5c-474d-92dc-2ec670d9a600": {
+          "x": 88,
+          "y": 23
+        },
+        "88a7347f-b2c3-4083-a5c6-bbac6e71ab76": {
+          "x": 83.23809523809524,
+          "y": 47.16666666666667
+        },
+        "ec26f1ad-227f-4f13-8712-c03e1b38d135": {
+          "x": 50,
+          "y": 88
+        }
+      },
+      "customStyles": [
+        {
+          "id": "aba855a8-0fec-4cb3-80f6-6df1d0271169",
+          "name": "Aggressivité 200%",
+          "mods": {
+            "shotFreqMult": 1.8,
+            "foulRateMult": 0.9,
+            "midfieldMult": 1.5,
+            "attackMult": 1.95,
+            "defenseMult": 1.75
+          }
+        }
+      ],
+      "activeCustomStyleId": "aba855a8-0fec-4cb3-80f6-6df1d0271169",
+      "id": "eaf9de38-7034-483c-8f51-39a126818812",
+      "name": "Sparta kick dans les baloballs"
     }
   ],
-  "activeTacticId": "72d6a066-9b6c-4162-b724-3abce6703a17",
+  "activeTacticId": "eaf9de38-7034-483c-8f51-39a126818812",
   "injuries": [],
   "suspensions": []
 }
