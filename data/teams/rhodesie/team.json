@@ -48,5 +48,57 @@
   },
   "jerseyColor": "#2c5937",
   "publishedAt": "2026-06-21T14:09:36.522Z",
-  "recentMatches": []
+  "recentMatches": [
+    {
+      "matchId": "pj6cf3ormqvcmc3w",
+      "playedAt": "2026-06-26T20:10:31.127Z",
+      "opponentSlug": "ksuta",
+      "opponentName": "Ksuta",
+      "homeTeamId": "49938bc7-e78d-441e-907b-75a788e98216",
+      "awayTeamId": "940ca331-c4a1-4b47-9124-47f1f0c0111b",
+      "homeAway": "home",
+      "scoreFor": 3,
+      "scoreAgainst": 4,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -5.7
+    },
+    {
+      "matchId": "8xuetx3gmqvcmc3w",
+      "playedAt": "2026-06-26T20:04:53.073Z",
+      "opponentSlug": "crpac",
+      "opponentName": "CRPAC",
+      "homeTeamId": "49938bc7-e78d-441e-907b-75a788e98216",
+      "awayTeamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 4,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.7
+    },
+    {
+      "matchId": "mkme7jdbmqvcmc3w",
+      "playedAt": "2026-06-26T19:59:42.824Z",
+      "opponentSlug": "cascadie",
+      "opponentName": "Cascadie",
+      "homeTeamId": "49938bc7-e78d-441e-907b-75a788e98216",
+      "awayTeamId": "e5bac765-f354-41a2-b940-1e97fba04c20",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 8,
+      "opponentStrength": 62,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -7.8
+    }
+  ]
 }
