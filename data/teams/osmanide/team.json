@@ -22,7 +22,7 @@
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-26T00:42:28.090Z",
+  "publishedAt": "2026-06-26T16:59:08.933Z",
   "tactics": {
     "style": "pressing",
     "formation": "3-5-2",
@@ -382,7 +382,7 @@
       "name": "Tactique 1"
     }
   ],
-  "activeTacticId": "c0f7c8f3-e4bc-4d76-ab99-13ed8684ab37",
+  "activeTacticId": "4a1b4e04-2b12-4507-a828-b440a027dfd4",
   "managerDiscordId": "701088457514287152",
   "jerseyColor": "#f00000",
   "compHistory": [
