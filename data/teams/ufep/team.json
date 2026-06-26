@@ -42,5 +42,58 @@
     "overall": 71
   },
   "jerseyColor": "#183e68",
-  "publishedAt": "2026-06-25T11:24:39.901Z"
+  "publishedAt": "2026-06-25T11:24:39.901Z",
+  "recentMatches": [
+    {
+      "matchId": "big2gk2hmqvcmc3w",
+      "playedAt": "2026-06-26T20:10:31.132Z",
+      "opponentSlug": "ccb",
+      "opponentName": "CCB",
+      "homeTeamId": "833feec7-4a6a-4ec4-876a-d97306e404b8",
+      "awayTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 6,
+      "opponentStrength": 61,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -7.7
+    },
+    {
+      "matchId": "zco9oa2rmqvcmc3w",
+      "playedAt": "2026-06-26T20:04:53.078Z",
+      "opponentSlug": "royaume-d-asha",
+      "opponentName": "Royaume d'Asha",
+      "homeTeamId": "833feec7-4a6a-4ec4-876a-d97306e404b8",
+      "awayTeamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 6,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -7.7
+    },
+    {
+      "matchId": "w3f33v3dmqvcmc3w",
+      "playedAt": "2026-06-26T19:59:42.827Z",
+      "opponentSlug": "voivodine",
+      "opponentName": "Voïvodine",
+      "homeTeamId": "833feec7-4a6a-4ec4-876a-d97306e404b8",
+      "awayTeamId": "28274f9a-bff0-42da-ac99-a6e3a9812a34",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 5.7
+    }
+  ]
 }
