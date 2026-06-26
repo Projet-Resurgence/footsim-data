@@ -39,23 +39,6 @@
   "suspensions": [],
   "recentMatches": [
     {
-      "matchId": "igkb4exgmquxei3l",
-      "playedAt": "2026-06-26T13:27:58.664Z",
-      "opponentSlug": "crpac",
-      "opponentName": "CRPAC",
-      "homeTeamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
-      "awayTeamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
-      "homeAway": "home",
-      "scoreFor": 1,
-      "scoreAgainst": 0,
-      "opponentStrength": 60,
-      "compKind": "officielle",
-      "compScope": "internationale",
-      "compImportance": "prestige",
-      "participantCount": 48,
-      "cmfPoints": 17
-    },
-    {
       "matchId": "o4ik0u8wmquugzu5",
       "playedAt": "2026-06-26T11:28:24.618Z",
       "opponentSlug": "ccb",

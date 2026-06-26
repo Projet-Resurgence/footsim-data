@@ -43,23 +43,5 @@
   },
   "jerseyColor": "#0941c3",
   "publishedAt": "2026-06-21T13:12:36.475Z",
-  "recentMatches": [
-    {
-      "matchId": "np9injh9mquxei3l",
-      "playedAt": "2026-06-26T13:27:58.673Z",
-      "opponentSlug": "texas",
-      "opponentName": "Texas",
-      "homeTeamId": "0cf5d3c2-39e2-4cfc-be26-279bf438a4c0",
-      "awayTeamId": "28274f9a-bff0-42da-ac99-a6e3a9812a34",
-      "homeAway": "away",
-      "scoreFor": 1,
-      "scoreAgainst": 0,
-      "opponentStrength": 60,
-      "compKind": "officielle",
-      "compScope": "internationale",
-      "compImportance": "prestige",
-      "participantCount": 48,
-      "cmfPoints": 17
-    }
-  ]
+  "recentMatches": []
 }

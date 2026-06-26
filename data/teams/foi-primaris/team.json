@@ -143,23 +143,6 @@
   ],
   "recentMatches": [
     {
-      "matchId": "3ppm83njmquxei3l",
-      "playedAt": "2026-06-26T13:27:58.667Z",
-      "opponentSlug": "nouvelle-inde",
-      "opponentName": "Nouvelle Inde",
-      "homeTeamId": "7db62a2a-b398-4a35-9c11-4d5b4bf4570c",
-      "awayTeamId": "a3427d5b-8081-4363-a9fd-1ac7de7e9144",
-      "homeAway": "home",
-      "scoreFor": 3,
-      "scoreAgainst": 1,
-      "opponentStrength": 60,
-      "compKind": "officielle",
-      "compScope": "internationale",
-      "compImportance": "prestige",
-      "participantCount": 48,
-      "cmfPoints": 17.5
-    },
-    {
       "matchId": "fxeyt4kumqtxfrh1",
       "playedAt": "2026-06-25T20:10:25.096Z",
       "opponentSlug": "ugp",

@@ -48,23 +48,5 @@
   },
   "jerseyColor": "#2c5937",
   "publishedAt": "2026-06-21T14:09:36.522Z",
-  "recentMatches": [
-    {
-      "matchId": "3hsm5ud6mquxei3l",
-      "playedAt": "2026-06-26T13:27:58.667Z",
-      "opponentSlug": "rpdo",
-      "opponentName": "RPDO",
-      "homeTeamId": "3b7016ec-ba5d-4b54-9f1f-95d2e3ff84bf",
-      "awayTeamId": "49938bc7-e78d-441e-907b-75a788e98216",
-      "homeAway": "away",
-      "scoreFor": 2,
-      "scoreAgainst": 4,
-      "opponentStrength": 60,
-      "compKind": "officielle",
-      "compScope": "internationale",
-      "compImportance": "prestige",
-      "participantCount": 48,
-      "cmfPoints": -6.2
-    }
-  ]
+  "recentMatches": []
 }

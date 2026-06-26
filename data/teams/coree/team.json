@@ -45,23 +45,5 @@
   "jerseyColor": "#fafafa",
   "publishedAt": "2026-06-21T13:16:05.811Z",
   "compHistory": [],
-  "recentMatches": [
-    {
-      "matchId": "ulfgwre9mquxei3l",
-      "playedAt": "2026-06-26T13:27:58.666Z",
-      "opponentSlug": "fclc",
-      "opponentName": "FCLC",
-      "homeTeamId": "495d8db0-d1b7-49fd-bb3d-dcecda27eb95",
-      "awayTeamId": "4050e7b8-0b32-4225-b936-2947890e501c",
-      "homeAway": "home",
-      "scoreFor": 1,
-      "scoreAgainst": 0,
-      "opponentStrength": 61,
-      "compKind": "officielle",
-      "compScope": "internationale",
-      "compImportance": "prestige",
-      "participantCount": 48,
-      "cmfPoints": 17.2
-    }
-  ]
+  "recentMatches": []
 }

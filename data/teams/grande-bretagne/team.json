@@ -44,23 +44,5 @@
     ],
     "overall": 76
   },
-  "recentMatches": [
-    {
-      "matchId": "9qeobgifmquxei3l",
-      "playedAt": "2026-06-26T13:27:58.663Z",
-      "opponentSlug": "ksuta",
-      "opponentName": "Ksuta",
-      "homeTeamId": "940ca331-c4a1-4b47-9124-47f1f0c0111b",
-      "awayTeamId": "9a7b1eb4-ac4c-4bbd-9990-650d7754a955",
-      "homeAway": "away",
-      "scoreFor": 4,
-      "scoreAgainst": 4,
-      "opponentStrength": 60,
-      "compKind": "officielle",
-      "compScope": "internationale",
-      "compImportance": "prestige",
-      "participantCount": 48,
-      "cmfPoints": 5.7
-    }
-  ]
+  "recentMatches": []
 }

@@ -198,23 +198,6 @@
   "activeTacticId": "cea688e4-4263-4d8a-b859-eedfe2f31c41",
   "recentMatches": [
     {
-      "matchId": "z6mnqofemquxei3l",
-      "playedAt": "2026-06-26T13:27:58.674Z",
-      "opponentSlug": "serbie",
-      "opponentName": "Serbie",
-      "homeTeamId": "b88bacc7-be39-4426-9106-7263eec6a6e9",
-      "awayTeamId": "6c4e5ecf-662a-43d5-9795-b038fe6e2072",
-      "homeAway": "away",
-      "scoreFor": 4,
-      "scoreAgainst": 2,
-      "opponentStrength": 60,
-      "compKind": "officielle",
-      "compScope": "internationale",
-      "compImportance": "prestige",
-      "participantCount": 48,
-      "cmfPoints": 17.5
-    },
-    {
       "matchId": "bv98h17omqtyr6yf",
       "playedAt": "2026-06-25T20:44:13.706Z",
       "opponentSlug": "ugp",

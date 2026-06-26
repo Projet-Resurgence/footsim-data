@@ -50,23 +50,6 @@
   "suspensions": [],
   "recentMatches": [
     {
-      "matchId": "msryjxz2mquxei3l",
-      "playedAt": "2026-06-26T13:27:58.676Z",
-      "opponentSlug": "korinthal",
-      "opponentName": "Korinthal",
-      "homeTeamId": "f3fda074-0648-4d1f-a413-281bbf6d7d59",
-      "awayTeamId": "e69509bb-40e8-45df-9074-264ccbc086e8",
-      "homeAway": "home",
-      "scoreFor": 3,
-      "scoreAgainst": 2,
-      "opponentStrength": 60,
-      "compKind": "officielle",
-      "compScope": "internationale",
-      "compImportance": "prestige",
-      "participantCount": 48,
-      "cmfPoints": 17
-    },
-    {
       "matchId": "nyely6rumquugzu5",
       "playedAt": "2026-06-26T11:26:55.215Z",
       "opponentSlug": "lusitanie",

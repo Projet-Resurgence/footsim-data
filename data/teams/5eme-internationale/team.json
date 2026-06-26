@@ -20,23 +20,6 @@
   "publishedAt": "2026-06-26T10:00:09.939Z",
   "recentMatches": [
     {
-      "matchId": "vpa16t7nmquxei3l",
-      "playedAt": "2026-06-26T13:27:58.675Z",
-      "opponentSlug": "cote-d-ivoire",
-      "opponentName": "Côte d'Ivoire",
-      "homeTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
-      "awayTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
-      "homeAway": "away",
-      "scoreFor": 2,
-      "scoreAgainst": 3,
-      "opponentStrength": 62,
-      "compKind": "officielle",
-      "compScope": "internationale",
-      "compImportance": "prestige",
-      "participantCount": 48,
-      "cmfPoints": -5.8
-    },
-    {
       "matchId": "6ecmwmu1mqty1zqg",
       "playedAt": "2026-06-25T20:26:57.193Z",
       "opponentSlug": "italie",

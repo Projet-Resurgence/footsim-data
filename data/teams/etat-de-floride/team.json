@@ -42,23 +42,5 @@
     ],
     "overall": 77
   },
-  "recentMatches": [
-    {
-      "matchId": "xgzufonrmquxei3l",
-      "playedAt": "2026-06-26T13:27:58.670Z",
-      "opponentSlug": "mapuche",
-      "opponentName": "Mapuche",
-      "homeTeamId": "0779ee45-e790-4ff2-901b-ba22bd8b4d83",
-      "awayTeamId": "d078bb55-7f06-4ed1-b048-1dd6524ecae9",
-      "homeAway": "away",
-      "scoreFor": 1,
-      "scoreAgainst": 0,
-      "opponentStrength": 60,
-      "compKind": "officielle",
-      "compScope": "internationale",
-      "compImportance": "prestige",
-      "participantCount": 48,
-      "cmfPoints": 17
-    }
-  ]
+  "recentMatches": []
 }

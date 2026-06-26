@@ -118,23 +118,6 @@
   ],
   "recentMatches": [
     {
-      "matchId": "70i3m6gomquxei3l",
-      "playedAt": "2026-06-26T13:27:58.671Z",
-      "opponentSlug": "nova-orbis",
-      "opponentName": "Nova Orbis",
-      "homeTeamId": "55c94018-aa17-477e-86d3-722caf57df20",
-      "awayTeamId": "28f82804-8005-450a-b6d8-740533bf82b0",
-      "homeAway": "home",
-      "scoreFor": 3,
-      "scoreAgainst": 0,
-      "opponentStrength": 60,
-      "compKind": "officielle",
-      "compScope": "internationale",
-      "compImportance": "prestige",
-      "participantCount": 48,
-      "cmfPoints": 17.5
-    },
-    {
       "matchId": "kyuxzd77mquugzu5",
       "playedAt": "2026-06-26T11:26:55.214Z",
       "opponentSlug": "royaume-d-asha",

@@ -120,23 +120,6 @@
   ],
   "recentMatches": [
     {
-      "matchId": "2n4u8slsmquxei3l",
-      "playedAt": "2026-06-26T13:27:58.669Z",
-      "opponentSlug": "antioche",
-      "opponentName": "Antioche",
-      "homeTeamId": "8451e643-10d4-48bc-a4e6-4c12255695f4",
-      "awayTeamId": "6377412c-0d4c-47e7-ba24-52745e83cfaa",
-      "homeAway": "away",
-      "scoreFor": 1,
-      "scoreAgainst": 1,
-      "opponentStrength": 60,
-      "compKind": "officielle",
-      "compScope": "internationale",
-      "compImportance": "prestige",
-      "participantCount": 48,
-      "cmfPoints": 5.7
-    },
-    {
       "matchId": "jfctkxt1mqtyr6yf",
       "playedAt": "2026-06-25T20:42:03.526Z",
       "opponentSlug": "osmanide",

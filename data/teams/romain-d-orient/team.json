@@ -50,23 +50,5 @@
   "jerseyColor": "#8d2535",
   "publishedAt": "2026-06-21T13:33:49.657Z",
   "compHistory": [],
-  "recentMatches": [
-    {
-      "matchId": "mnlymtvzmquxei3l",
-      "playedAt": "2026-06-26T13:27:58.672Z",
-      "opponentSlug": "aethel",
-      "opponentName": "Aethel",
-      "homeTeamId": "a4339c19-4507-45d0-a8e7-ab33c8fe64c0",
-      "awayTeamId": "9aea33e4-a280-4ec7-8ad5-4852e3cf3439",
-      "homeAway": "home",
-      "scoreFor": 5,
-      "scoreAgainst": 4,
-      "opponentStrength": 60,
-      "compKind": "officielle",
-      "compScope": "internationale",
-      "compImportance": "prestige",
-      "participantCount": 48,
-      "cmfPoints": 17
-    }
-  ]
+  "recentMatches": []
 }

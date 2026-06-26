@@ -11,23 +11,6 @@
   "formation": "4-3-3",
   "recentMatches": [
     {
-      "matchId": "ulfgwre9mquxei3l",
-      "playedAt": "2026-06-26T13:27:58.666Z",
-      "opponentSlug": "coree",
-      "opponentName": "Corée",
-      "homeTeamId": "495d8db0-d1b7-49fd-bb3d-dcecda27eb95",
-      "awayTeamId": "4050e7b8-0b32-4225-b936-2947890e501c",
-      "homeAway": "away",
-      "scoreFor": 0,
-      "scoreAgainst": 1,
-      "opponentStrength": 60,
-      "compKind": "officielle",
-      "compScope": "internationale",
-      "compImportance": "prestige",
-      "participantCount": 48,
-      "cmfPoints": -5.7
-    },
-    {
       "matchId": "e3hg91yqmqtxfrh2",
       "playedAt": "2026-06-25T20:11:47.389Z",
       "opponentSlug": "ugp",

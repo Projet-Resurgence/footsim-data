@@ -172,23 +172,6 @@
   "activeTacticId": "0591aee1-c35a-436f-b91c-70cdeef15de1",
   "recentMatches": [
     {
-      "matchId": "igkb4exgmquxei3l",
-      "playedAt": "2026-06-26T13:27:58.664Z",
-      "opponentSlug": "ursi",
-      "opponentName": "URSI",
-      "homeTeamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
-      "awayTeamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
-      "homeAway": "away",
-      "scoreFor": 0,
-      "scoreAgainst": 1,
-      "opponentStrength": 62,
-      "compKind": "officielle",
-      "compScope": "internationale",
-      "compImportance": "prestige",
-      "participantCount": 48,
-      "cmfPoints": -5.8
-    },
-    {
       "matchId": "nvzhn129mquugzu5",
       "playedAt": "2026-06-26T11:28:24.620Z",
       "opponentSlug": "osmanide",
