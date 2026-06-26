@@ -139,17 +139,7 @@
     }
   ],
   "injuries": [],
-  "suspensions": [
-    {
-      "id": "e7850885-d3d2-473c-b10e-37027e41275e",
-      "subjectId": "cba94e02-3b10-4a36-ae00-8066b99d02bd",
-      "subjectName": "Nader Mansouri",
-      "teamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
-      "matchesRemaining": 1,
-      "reason": "Carton rouge",
-      "roundOccurred": 3
-    }
-  ],
+  "suspensions": [],
   "recentMatches": [
     {
       "matchId": "9qhff7k0mqtyr6yf",
