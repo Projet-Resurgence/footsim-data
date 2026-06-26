@@ -44,7 +44,59 @@
     ],
     "overall": 76
   },
-  "recentMatches": [],
+  "recentMatches": [
+    {
+      "matchId": "pnloum4fmqvcmc3w",
+      "playedAt": "2026-06-26T20:10:31.127Z",
+      "opponentSlug": "spc",
+      "opponentName": "SPC",
+      "homeTeamId": "9a7b1eb4-ac4c-4bbd-9990-650d7754a955",
+      "awayTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "homeAway": "home",
+      "scoreFor": 4,
+      "scoreAgainst": 0,
+      "opponentStrength": 62,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 18.4
+    },
+    {
+      "matchId": "6szj6z42mqvcmc3w",
+      "playedAt": "2026-06-26T20:04:53.073Z",
+      "opponentSlug": "perou",
+      "opponentName": "Pérou",
+      "homeTeamId": "9a7b1eb4-ac4c-4bbd-9990-650d7754a955",
+      "awayTeamId": "f3fda074-0648-4d1f-a413-281bbf6d7d59",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 2,
+      "opponentStrength": 61,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 5.7
+    },
+    {
+      "matchId": "9bs4l1ifmqvcmc3w",
+      "playedAt": "2026-06-26T19:59:42.824Z",
+      "opponentSlug": "lusitanie",
+      "opponentName": "Lusitanie",
+      "homeTeamId": "9a7b1eb4-ac4c-4bbd-9990-650d7754a955",
+      "awayTeamId": "2256fe5a-993b-4007-8191-47ebe93a3e70",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17
+    }
+  ],
   "savedTactics": [
     {
       "style": "possession",
