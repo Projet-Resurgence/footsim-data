@@ -195,6 +195,23 @@
   "suspensions": [],
   "recentMatches": [
     {
+      "matchId": "vpa16t7nmquxei3l",
+      "playedAt": "2026-06-26T13:27:58.675Z",
+      "opponentSlug": "5eme-internationale",
+      "opponentName": "5ème Internationale",
+      "homeTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "awayTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "homeAway": "home",
+      "scoreFor": 3,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17
+    },
+    {
       "matchId": "xoig3pzemqtyr6yf",
       "playedAt": "2026-06-25T20:46:21.010Z",
       "opponentSlug": "ugp",
