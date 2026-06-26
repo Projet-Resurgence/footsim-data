@@ -50,5 +50,57 @@
   "jerseyColor": "#8d2535",
   "publishedAt": "2026-06-21T13:33:49.657Z",
   "compHistory": [],
-  "recentMatches": []
+  "recentMatches": [
+    {
+      "matchId": "ttzdsr6wmqvcmc3w",
+      "playedAt": "2026-06-26T20:10:31.126Z",
+      "opponentSlug": "crpac",
+      "opponentName": "CRPAC",
+      "homeTeamId": "a4339c19-4507-45d0-a8e7-ab33c8fe64c0",
+      "awayTeamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 3,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.7
+    },
+    {
+      "matchId": "j9w6qftjmqvcmc3w",
+      "playedAt": "2026-06-26T20:04:53.072Z",
+      "opponentSlug": "cascadie",
+      "opponentName": "Cascadie",
+      "homeTeamId": "a4339c19-4507-45d0-a8e7-ab33c8fe64c0",
+      "awayTeamId": "e5bac765-f354-41a2-b940-1e97fba04c20",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 5,
+      "opponentStrength": 62,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -7.8
+    },
+    {
+      "matchId": "9zaglqv1mqvcmc3w",
+      "playedAt": "2026-06-26T19:59:42.823Z",
+      "opponentSlug": "atlantique",
+      "opponentName": "Atlantique",
+      "homeTeamId": "a4339c19-4507-45d0-a8e7-ab33c8fe64c0",
+      "awayTeamId": "cc7eb9cc-9a93-44ee-89c7-f2c6e915a221",
+      "homeAway": "home",
+      "scoreFor": 3,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.5
+    }
+  ]
 }
