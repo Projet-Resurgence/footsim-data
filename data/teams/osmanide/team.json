@@ -485,6 +485,23 @@
   ],
   "recentMatches": [
     {
+      "matchId": "8vm7pktjmquxei3l",
+      "playedAt": "2026-06-26T13:27:58.671Z",
+      "opponentSlug": "atlantique",
+      "opponentName": "Atlantique",
+      "homeTeamId": "cc7eb9cc-9a93-44ee-89c7-f2c6e915a221",
+      "awayTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 3,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.2
+    },
+    {
       "matchId": "nvzhn129mquugzu5",
       "playedAt": "2026-06-26T11:28:24.620Z",
       "opponentSlug": "crpac",
