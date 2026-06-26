@@ -22,7 +22,7 @@
   "playerCount": 500,
   "formation": "4-3-3",
   "managerDiscordId": "1214007771620577311",
-  "publishedAt": "2026-06-25T23:15:07.764Z",
+  "publishedAt": "2026-06-26T17:44:27.908Z",
   "compHistory": [
     {
       "compId": "qtebnbbpzeomqpngrdv",
@@ -645,9 +645,42 @@
       "activeCustomStyleId": "eb0c6d59-a82c-43a6-9756-a1321225fdcb",
       "id": "b7885c2a-368b-4f2b-8fa9-668e5d72f9bf",
       "name": "Tactique 2"
+    },
+    {
+      "style": "contre-attaque",
+      "formation": "4-3-3",
+      "lineup": [
+        "c396afd9-975e-4f0a-93bb-cadf6ba5a3a9",
+        "ea268443-4d5d-4c84-bf2a-2b69fdc7d352",
+        "484dcf4b-43d4-424d-911e-79227783d582",
+        "40daaade-1892-415e-a625-8889de0c0099",
+        "0daed997-0e22-4c9b-ba72-d8f1ad45d1a9",
+        "4e44c8f6-ea9f-470c-a3a3-ea4f1fa82662",
+        "60812871-655a-4d99-8cf6-b47be478b3d2",
+        "fe059e20-aea8-47a4-b870-d7be575af230",
+        "262568b4-1d7b-48fe-8f03-1bf32a4e6915",
+        "470e4f61-dc93-4005-92a5-7dc9ed642d61",
+        "51734e56-6364-48ce-aa7b-470b5a778a0b"
+      ],
+      "customStyles": [
+        {
+          "id": "8a747770-21e0-4090-bdde-3087089f91dc",
+          "name": "Blitzkriegball",
+          "mods": {
+            "shotFreqMult": 1.15,
+            "foulRateMult": 0.7,
+            "midfieldMult": 1,
+            "attackMult": 1.2,
+            "defenseMult": 1.1
+          }
+        }
+      ],
+      "activeCustomStyleId": "8a747770-21e0-4090-bdde-3087089f91dc",
+      "id": "2604e460-d674-463e-b338-2b2a15a52673",
+      "name": "Tactique 3"
     }
   ],
-  "activeTacticId": "b7885c2a-368b-4f2b-8fa9-668e5d72f9bf",
+  "activeTacticId": "2604e460-d674-463e-b338-2b2a15a52673",
   "injuries": [],
   "suspensions": [],
   "actionFoot": {
