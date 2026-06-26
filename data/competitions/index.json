@@ -1,24 +1,5 @@
 [
   {
-    "id": "dyrlenlwgoqmquu6jp4",
-    "name": "Coupe Homa",
-    "format": "groups_knockout",
-    "status": "ongoing",
-    "teamCount": 8,
-    "createdAt": "2026-06-26T11:17:10.072Z",
-    "year": 2308,
-    "teamIds": [
-      "df16509b-c6c2-43ce-abae-7c077e85ba22",
-      "31dbe023-a8f1-4325-9813-afa3d8e217fa",
-      "dd9ec787-b9a6-466a-9cd3-b06674a15268",
-      "0fe98426-628d-4e12-a4c7-9a71e599160f",
-      "f3fda074-0648-4d1f-a413-281bbf6d7d59",
-      "45002df1-cafe-4c04-814c-660868b56d95",
-      "55c94018-aa17-477e-86d3-722caf57df20",
-      "2256fe5a-993b-4007-8191-47ebe93a3e70"
-    ]
-  },
-  {
     "id": "rz1qemn56rmmqtyr6yf",
     "name": "Kebab World Cup",
     "format": "groups_knockout",
