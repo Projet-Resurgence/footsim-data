@@ -3,9 +3,10 @@
     "id": "wrqunwescfgmqvegaw8",
     "name": "Coupe du Gratin Dauphinois",
     "format": "groups_knockout",
-    "status": "ongoing",
+    "status": "completed",
     "teamCount": 8,
     "createdAt": "2026-06-26T20:44:37.544Z",
+    "winner": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
     "year": 2308,
     "teamIds": [
       "da633c6d-88ad-40f5-9ab5-6437d77c3797",
