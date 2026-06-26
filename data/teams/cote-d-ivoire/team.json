@@ -203,7 +203,19 @@
     }
   ],
   "activeTacticId": "65ef9a7b-31aa-462f-a76a-0a2cd9c9f020",
-  "injuries": [],
+  "injuries": [
+    {
+      "id": "25e4b465-ba02-49c6-99fa-e739875a1528",
+      "playerId": "0636869a-f34f-4bc5-b141-979c31bfd66d",
+      "playerName": "Arouna N'Goran",
+      "teamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "cause": "match",
+      "severity": "modérée",
+      "matchesRemaining": 2,
+      "description": "Fracture de fatigue détectée — mise au repos forcée.",
+      "roundOccurred": 4
+    }
+  ],
   "suspensions": [],
   "recentMatches": [
     {

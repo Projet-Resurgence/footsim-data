@@ -996,5 +996,15 @@
     "funding": 170
   },
   "injuries": [],
-  "suspensions": []
+  "suspensions": [
+    {
+      "id": "570cdade-b826-4e62-9290-35a221a191af",
+      "subjectId": "09e3768b-d2b4-4ad9-8a05-a00a01d954e2",
+      "subjectName": "Donato De Angelis",
+      "teamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "matchesRemaining": 1,
+      "reason": "Carton rouge",
+      "roundOccurred": 5
+    }
+  ]
 }

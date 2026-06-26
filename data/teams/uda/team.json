@@ -964,6 +964,18 @@
       "cmfPoints": 1.7
     }
   ],
-  "injuries": [],
+  "injuries": [
+    {
+      "id": "8ba223c4-e2a0-40cb-8245-cf5bed2f0bb4",
+      "playerId": "6fcb834b-f8d5-452b-b759-dc9e0ae2317a",
+      "playerName": "Kai Liang",
+      "teamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "cause": "match",
+      "severity": "modérée",
+      "matchesRemaining": 1,
+      "description": "Contusion sévère à la hanche — soins intensifs en cours.",
+      "roundOccurred": 3
+    }
+  ],
   "suspensions": []
 }
