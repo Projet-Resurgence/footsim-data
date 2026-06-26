@@ -46,5 +46,57 @@
   "jerseyColor": "#4962ab",
   "publishedAt": "2026-06-21T13:35:56.914Z",
   "compHistory": [],
-  "recentMatches": []
+  "recentMatches": [
+    {
+      "matchId": "q8hf0jlzmqvcmc3w",
+      "playedAt": "2026-06-26T20:10:31.133Z",
+      "opponentSlug": "aethel",
+      "opponentName": "Aethel",
+      "homeTeamId": "9aea33e4-a280-4ec7-8ad5-4852e3cf3439",
+      "awayTeamId": "b88bacc7-be39-4426-9106-7263eec6a6e9",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -5.7
+    },
+    {
+      "matchId": "iccmgsqamqvcmc3w",
+      "playedAt": "2026-06-26T20:04:53.080Z",
+      "opponentSlug": "deseret",
+      "opponentName": "Deseret",
+      "homeTeamId": "b88bacc7-be39-4426-9106-7263eec6a6e9",
+      "awayTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 3,
+      "opponentStrength": 64,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.5
+    },
+    {
+      "matchId": "jb3qsie0mqvcmc3w",
+      "playedAt": "2026-06-26T19:59:42.831Z",
+      "opponentSlug": "yamatai",
+      "opponentName": "Yamatai",
+      "homeTeamId": "b88bacc7-be39-4426-9106-7263eec6a6e9",
+      "awayTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 1,
+      "opponentStrength": 63,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -5.9
+    }
+  ]
 }
