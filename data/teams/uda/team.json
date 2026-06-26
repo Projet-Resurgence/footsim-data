@@ -322,7 +322,23 @@
       "compScope": "internationale",
       "compImportance": "mineur",
       "participantCount": 8,
-      "cmfPoints": 1.9
+      "cmfPoints": 1.9,
+      "scorers": [
+        {
+          "minute": 12,
+          "playerId": "75811d88-67bf-455a-98de-a3469da03099",
+          "playerName": "Sheng Han",
+          "assistId": "b0220e52-e5da-4cec-8bd7-18bad846924c",
+          "assistName": "Bo Huang"
+        },
+        {
+          "minute": 67,
+          "playerId": "75811d88-67bf-455a-98de-a3469da03099",
+          "playerName": "Sheng Han",
+          "assistId": "043bd3ea-5b57-4c20-823d-adf11c7e3549",
+          "assistName": "Rui Wang"
+        }
+      ]
     },
     {
       "matchId": "9zxxfi2qmqvf2cr7",
