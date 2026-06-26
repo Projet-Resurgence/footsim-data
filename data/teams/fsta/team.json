@@ -21,7 +21,7 @@
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-24T00:05:16.296Z",
+  "publishedAt": "2026-06-26T18:19:48.358Z",
   "tactics": {
     "style": "direct",
     "formation": "4-1-4-1",
@@ -65,5 +65,6 @@
   "injuries": [],
   "suspensions": [],
   "recentMatches": [],
-  "compHistory": []
+  "compHistory": [],
+  "savedTactics": []
 }
