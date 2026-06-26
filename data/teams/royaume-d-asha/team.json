@@ -154,6 +154,23 @@
   "suspensions": [],
   "recentMatches": [
     {
+      "matchId": "lq2a0qzdmquxei3l",
+      "playedAt": "2026-06-26T13:27:58.674Z",
+      "opponentSlug": "empire-hussein",
+      "opponentName": "Empire Hussein",
+      "homeTeamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "awayTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 0,
+      "opponentStrength": 65,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 18.1
+    },
+    {
       "matchId": "kyuxzd77mquugzu5",
       "playedAt": "2026-06-26T11:26:55.214Z",
       "opponentSlug": "castille",
