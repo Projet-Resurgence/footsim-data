@@ -375,7 +375,15 @@
       "compScope": "internationale",
       "compImportance": "prestige",
       "participantCount": 48,
-      "cmfPoints": -7
+      "cmfPoints": -7,
+      "cards": [
+        {
+          "minute": 28,
+          "playerId": "541fbce5-29ef-4c5f-83fd-9e0a42d404fb",
+          "playerName": "Nima Rezaei",
+          "type": "yellow"
+        }
+      ]
     },
     {
       "matchId": "zco9oa2rmqvcmc3w",
@@ -409,7 +417,29 @@
       "compScope": "internationale",
       "compImportance": "prestige",
       "participantCount": 48,
-      "cmfPoints": -5.7
+      "cmfPoints": -5.7,
+      "scorers": [
+        {
+          "minute": 63,
+          "playerId": "d5f00f3c-2cd1-4ac2-b6b9-a60d357eb5c3",
+          "playerName": "Milad Rezaei"
+        },
+        {
+          "minute": 88,
+          "playerId": "077e30cd-6094-44fd-b93c-e30b75837090",
+          "playerName": "Siavash Shirazi",
+          "assistId": "e4684998-5d0f-43df-8a26-af0d383cd1af",
+          "assistName": "Mehdi Karimi"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 29,
+          "playerId": "e4684998-5d0f-43df-8a26-af0d383cd1af",
+          "playerName": "Mehdi Karimi",
+          "type": "yellow"
+        }
+      ]
     },
     {
       "matchId": "kyuxzd77mquugzu5",
