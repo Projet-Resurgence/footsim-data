@@ -1,5 +1,24 @@
 [
   {
+    "id": "wrqunwescfgmqvegaw8",
+    "name": "Coupe du Gratin Dauphinois",
+    "format": "groups_knockout",
+    "status": "ongoing",
+    "teamCount": 8,
+    "createdAt": "2026-06-26T20:44:37.544Z",
+    "year": 2308,
+    "teamIds": [
+      "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "110159bd-411c-409a-ba07-95216b092ba4",
+      "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "4050e7b8-0b32-4225-b936-2947890e501c"
+    ]
+  },
+  {
     "id": "o95873n61nkmqvdpc6f",
     "name": "Coupe Pizza",
     "format": "groups_knockout",
