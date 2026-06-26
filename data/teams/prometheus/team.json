@@ -215,6 +215,7 @@
       "compKind": "amicale",
       "compScope": "internationale",
       "compImportance": "mineur",
+      "participantCount": 16,
       "cmfPoints": -0.7
     },
     {
@@ -231,6 +232,7 @@
       "compKind": "amicale",
       "compScope": "internationale",
       "compImportance": "mineur",
+      "participantCount": 16,
       "cmfPoints": 3
     },
     {
@@ -247,6 +249,7 @@
       "compKind": "amicale",
       "compScope": "internationale",
       "compImportance": "mineur",
+      "participantCount": 16,
       "cmfPoints": 2
     },
     {
@@ -263,6 +266,7 @@
       "compKind": "amicale",
       "compScope": "internationale",
       "compImportance": "mineur",
+      "participantCount": 16,
       "cmfPoints": 2.5
     },
     {
