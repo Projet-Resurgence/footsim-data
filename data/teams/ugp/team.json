@@ -353,7 +353,26 @@
       "compScope": "internationale",
       "compImportance": "prestige",
       "participantCount": 48,
-      "cmfPoints": 17.5
+      "cmfPoints": 17.5,
+      "scorers": [
+        {
+          "minute": 58,
+          "playerId": "c6663d52-24a7-4d5a-aaea-b02fd24652d6",
+          "playerName": "Samuele De Angelis",
+          "assistId": "c0b175e4-3ae0-4184-9118-b1c25aef5498",
+          "assistName": "Marcello Bruno"
+        },
+        {
+          "minute": 73,
+          "playerId": "63cba1c6-27e5-4311-91d8-92b5f3fde740",
+          "playerName": "Cristian Lombardo"
+        },
+        {
+          "minute": 75,
+          "playerId": "63cba1c6-27e5-4311-91d8-92b5f3fde740",
+          "playerName": "Cristian Lombardo"
+        }
+      ]
     },
     {
       "matchId": "q857d4hrmqvcmc3w",
