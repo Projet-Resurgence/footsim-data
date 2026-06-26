@@ -228,7 +228,16 @@
       "compScope": "internationale",
       "compImportance": "mineur",
       "participantCount": 16,
-      "cmfPoints": 0.7
+      "cmfPoints": 0.7,
+      "scorers": [
+        {
+          "minute": 77,
+          "playerId": "4d38741c-7eaa-48e6-9239-632e339aa1cc",
+          "playerName": "Kirill Davydov",
+          "assistId": "688b0471-9199-4c65-9d73-a408fa96f582",
+          "assistName": "Eldar Antonov"
+        }
+      ]
     },
     {
       "matchId": "5drjcaq7mqvdpc6g",
