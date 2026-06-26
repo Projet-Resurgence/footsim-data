@@ -3,9 +3,10 @@
     "id": "r5oe13uebmmquugzu5",
     "name": "Coupe Homa",
     "format": "groups_knockout",
-    "status": "ongoing",
+    "status": "completed",
     "teamCount": 8,
     "createdAt": "2026-06-26T11:25:17.549Z",
+    "winner": "45002df1-cafe-4c04-814c-660868b56d95",
     "year": 2308,
     "teamIds": [
       "df16509b-c6c2-43ce-abae-7c077e85ba22",
