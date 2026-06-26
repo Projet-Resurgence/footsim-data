@@ -17,7 +17,7 @@
     }
   ],
   "continent": "europe",
-  "publishedAt": "2026-06-26T09:55:04.993Z",
+  "publishedAt": "2026-06-26T10:00:09.939Z",
   "recentMatches": [
     {
       "matchId": "6ecmwmu1mqty1zqg",
@@ -545,13 +545,13 @@
       "customStyles": [
         {
           "id": "aba855a8-0fec-4cb3-80f6-6df1d0271169",
-          "name": "Aggressivité 200%",
+          "name": "Aggressivité 100%",
           "mods": {
-            "shotFreqMult": 1.8,
-            "foulRateMult": 0.9,
-            "midfieldMult": 1.5,
-            "attackMult": 1.95,
-            "defenseMult": 1.75
+            "shotFreqMult": 1.1,
+            "foulRateMult": 0.7,
+            "midfieldMult": 1.05,
+            "attackMult": 1.15,
+            "defenseMult": 1.15
           }
         }
       ],
