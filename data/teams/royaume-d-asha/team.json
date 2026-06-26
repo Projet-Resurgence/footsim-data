@@ -21,7 +21,7 @@
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-24T20:30:10.018Z",
+  "publishedAt": "2026-06-26T19:45:07.419Z",
   "coach": {
     "id": "ab0ff2e5-f23c-4849-8b01-99d0a695f067",
     "firstName": "Ziad",
@@ -61,9 +61,153 @@
       "customStyles": [],
       "id": "45e22f0b-fdfc-4b4a-9ac7-0e329f5747c6",
       "name": "Tactique 2"
+    },
+    {
+      "style": "pressing",
+      "formation": "4-3-3",
+      "lineup": [
+        "241218b9-047f-4187-a63e-57561622e994",
+        "247bcbb8-08b9-477f-9dc8-2b52b6c82b28",
+        "8a841420-88c3-4053-a9ed-ce5321ac8b79",
+        "e4684998-5d0f-43df-8a26-af0d383cd1af",
+        "d64c17eb-9a54-47b8-8d62-f94324bb97d1",
+        "4fa45034-5317-43ba-8738-7dc6d677551a",
+        "d5f00f3c-2cd1-4ac2-b6b9-a60d357eb5c3",
+        "2f1ebcdf-99d5-4d81-8f42-94b78045b588",
+        "6f646279-f3dc-4b41-ae85-ff32529e3d4b",
+        "cba94e02-3b10-4a36-ae00-8066b99d02bd",
+        "57712de0-dde0-40a1-958f-7848cb7a593f"
+      ],
+      "plannedSubs": [
+        {
+          "outId": "cba94e02-3b10-4a36-ae00-8066b99d02bd",
+          "inId": "077e30cd-6094-44fd-b93c-e30b75837090"
+        },
+        {
+          "outId": "4fa45034-5317-43ba-8738-7dc6d677551a",
+          "inId": "8bfcde77-da92-4b72-96bf-cf245005926f",
+          "minute": 60
+        }
+      ],
+      "formationLabel": "3-3-4",
+      "customStyles": [],
+      "id": "f4d7c94b-94d6-4e3d-b439-22d3b5b2b8a6",
+      "name": "Tactique 2"
+    },
+    {
+      "style": "chaos",
+      "formation": "4-3-3",
+      "lineup": [
+        "541fbce5-29ef-4c5f-83fd-9e0a42d404fb",
+        "247bcbb8-08b9-477f-9dc8-2b52b6c82b28",
+        "8a841420-88c3-4053-a9ed-ce5321ac8b79",
+        "e4684998-5d0f-43df-8a26-af0d383cd1af",
+        "d64c17eb-9a54-47b8-8d62-f94324bb97d1",
+        "d5f00f3c-2cd1-4ac2-b6b9-a60d357eb5c3",
+        "4fa45034-5317-43ba-8738-7dc6d677551a",
+        "2f1ebcdf-99d5-4d81-8f42-94b78045b588",
+        "6f646279-f3dc-4b41-ae85-ff32529e3d4b",
+        "077e30cd-6094-44fd-b93c-e30b75837090",
+        "57712de0-dde0-40a1-958f-7848cb7a593f"
+      ],
+      "formationLabel": "3-3-4",
+      "positionMap": {
+        "34962c59-e8c2-4fc2-b774-532a9f527d7c": "LB",
+        "53f72925-0fe8-4958-969b-1c9ebb248803": "CB",
+        "37329cda-08de-4802-b383-88b6fc7e4738": "RB",
+        "2d03ff39-51fa-4fe5-8275-8f73bce93d50": "CM",
+        "aaa9c31f-3e38-48a3-aaf3-11b614fae218": "LM",
+        "077e30cd-6094-44fd-b93c-e30b75837090": "ST",
+        "a7709c33-d33c-4b59-b70a-c544a7cb992f": "RM",
+        "7789f223-d29a-473b-bc5d-25d6ea31abb3": "LW",
+        "29a9d8f4-297b-4ec5-87fe-44a7f0bdf4af": "ST",
+        "f0db64f8-cda6-4934-8415-f5735bf5f301": "RW",
+        "541fbce5-29ef-4c5f-83fd-9e0a42d404fb": "GK"
+      },
+      "tokenPositions": {
+        "541fbce5-29ef-4c5f-83fd-9e0a42d404fb": {
+          "x": 50,
+          "y": 88
+        },
+        "34962c59-e8c2-4fc2-b774-532a9f527d7c": {
+          "x": 15.809523809523812,
+          "y": 74.83333333333333
+        },
+        "53f72925-0fe8-4958-969b-1c9ebb248803": {
+          "x": 49.714285714285715,
+          "y": 75.16666666666667
+        },
+        "37329cda-08de-4802-b383-88b6fc7e4738": {
+          "x": 83.85714285714285,
+          "y": 76
+        },
+        "2d03ff39-51fa-4fe5-8275-8f73bce93d50": {
+          "x": 50.85714285714287,
+          "y": 48.5
+        },
+        "aaa9c31f-3e38-48a3-aaf3-11b614fae218": {
+          "x": 22,
+          "y": 50
+        },
+        "077e30cd-6094-44fd-b93c-e30b75837090": {
+          "x": 38.333333333333336,
+          "y": 16.5
+        },
+        "a7709c33-d33c-4b59-b70a-c544a7cb992f": {
+          "x": 78,
+          "y": 50
+        },
+        "7789f223-d29a-473b-bc5d-25d6ea31abb3": {
+          "x": 12,
+          "y": 23
+        },
+        "29a9d8f4-297b-4ec5-87fe-44a7f0bdf4af": {
+          "x": 59.04761904761905,
+          "y": 16.666666666666668
+        },
+        "f0db64f8-cda6-4934-8415-f5735bf5f301": {
+          "x": 88,
+          "y": 23
+        }
+      },
+      "customStyles": [
+        {
+          "id": "7a24591d-bc1c-4c76-8301-f89177dadc7e",
+          "name": "test",
+          "mods": {
+            "shotFreqMult": 1,
+            "foulRateMult": 1,
+            "midfieldMult": 1.1,
+            "attackMult": 1.2,
+            "defenseMult": 1
+          }
+        }
+      ],
+      "id": "ed224bda-f031-4d90-a7aa-5cc269f4b98e",
+      "name": "Tactique 2"
+    },
+    {
+      "style": "direct",
+      "formation": "4-4-2",
+      "lineup": [
+        "541fbce5-29ef-4c5f-83fd-9e0a42d404fb",
+        "247bcbb8-08b9-477f-9dc8-2b52b6c82b28",
+        "8a841420-88c3-4053-a9ed-ce5321ac8b79",
+        "e4684998-5d0f-43df-8a26-af0d383cd1af",
+        "d64c17eb-9a54-47b8-8d62-f94324bb97d1",
+        "8bfcde77-da92-4b72-96bf-cf245005926f",
+        "d5f00f3c-2cd1-4ac2-b6b9-a60d357eb5c3",
+        "2f1ebcdf-99d5-4d81-8f42-94b78045b588",
+        "628fdbc5-9655-497c-a148-802a4f649d96",
+        "077e30cd-6094-44fd-b93c-e30b75837090",
+        "cba94e02-3b10-4a36-ae00-8066b99d02bd"
+      ],
+      "customStyles": [],
+      "id": "87cafedb-d871-4cd3-ac70-cfd19d4bd3f9",
+      "name": "Pitié la qualif"
     }
   ],
-  "activeTacticId": "45e22f0b-fdfc-4b4a-9ac7-0e329f5747c6",
+  "activeTacticId": "87cafedb-d871-4cd3-ac70-cfd19d4bd3f9",
   "compHistory": [
     {
       "compId": "ifernu3ytbmqr3areq",
