@@ -468,6 +468,18 @@
       "result": "winner",
       "phase": "F",
       "participantCount": 8
+    },
+    {
+      "compId": "o95873n61nkmqvdpc6f",
+      "compName": "Coupe Pizza",
+      "year": 2308,
+      "format": "groups_knockout",
+      "kind": "amicale",
+      "scope": "internationale",
+      "importance": "mineur",
+      "result": "quarter",
+      "phase": "QF",
+      "participantCount": 16
     }
   ],
   "injuries": [],

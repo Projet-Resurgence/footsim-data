@@ -827,6 +827,18 @@
       "result": "participant",
       "phase": "group",
       "participantCount": 16
+    },
+    {
+      "compId": "o95873n61nkmqvdpc6f",
+      "compName": "Coupe Pizza",
+      "year": 2308,
+      "format": "groups_knockout",
+      "kind": "amicale",
+      "scope": "internationale",
+      "importance": "mineur",
+      "result": "participant",
+      "phase": "group",
+      "participantCount": 16
     }
   ],
   "continents": [
