@@ -153,7 +153,14 @@
       "compScope": "internationale",
       "compImportance": "prestige",
       "participantCount": 48,
-      "cmfPoints": -6.2
+      "cmfPoints": -6.2,
+      "scorers": [
+        {
+          "minute": 12,
+          "playerId": "3485a9f3-c86e-4378-a689-d66274d56746",
+          "playerName": "Kevin Thompson"
+        }
+      ]
     },
     {
       "matchId": "gq445w0rmqvcmc3w",
