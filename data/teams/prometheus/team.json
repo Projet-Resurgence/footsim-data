@@ -373,7 +373,24 @@
       "compScope": "internationale",
       "compImportance": "prestige",
       "participantCount": 48,
-      "cmfPoints": 17.7
+      "cmfPoints": 17.7,
+      "scorers": [
+        {
+          "minute": 70,
+          "playerId": "83d77c6f-a467-4aac-a746-fb82f51b6195",
+          "playerName": "Ruslan Kuznetsov",
+          "assistId": "da579017-cf8b-482c-b9d5-ec411cd825ff",
+          "assistName": "Mikhail Ivanov"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 37,
+          "playerId": "da579017-cf8b-482c-b9d5-ec411cd825ff",
+          "playerName": "Mikhail Ivanov",
+          "type": "yellow"
+        }
+      ]
     },
     {
       "matchId": "9e1vjo7nmqtyr6yf",
