@@ -128,6 +128,18 @@
       "result": "participant",
       "phase": "group",
       "participantCount": 16
+    },
+    {
+      "compId": "1e1f2cemiuqmqvf2cr6",
+      "compName": "Coupe d'Ivoire",
+      "year": 2308,
+      "format": "groups_knockout",
+      "kind": "amicale",
+      "scope": "internationale",
+      "importance": "mineur",
+      "result": "participant",
+      "phase": "group",
+      "participantCount": 8
     }
   ],
   "savedTactics": [

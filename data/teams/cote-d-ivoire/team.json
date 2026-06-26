@@ -151,6 +151,18 @@
       "result": "semi",
       "phase": "3rd",
       "participantCount": 8
+    },
+    {
+      "compId": "1e1f2cemiuqmqvf2cr6",
+      "compName": "Coupe d'Ivoire",
+      "year": 2308,
+      "format": "groups_knockout",
+      "kind": "amicale",
+      "scope": "internationale",
+      "importance": "mineur",
+      "result": "semi",
+      "phase": "SF",
+      "participantCount": 8
     }
   ],
   "savedTactics": [
