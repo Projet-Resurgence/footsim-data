@@ -110,6 +110,23 @@
   ],
   "recentMatches": [
     {
+      "matchId": "d9zbxfxbmquxei3l",
+      "playedAt": "2026-06-26T13:27:58.666Z",
+      "opponentSlug": "republique-de-chine",
+      "opponentName": "République de Chine",
+      "homeTeamId": "e5bac765-f354-41a2-b940-1e97fba04c20",
+      "awayTeamId": "26d478fb-1a60-4af1-98ce-e5cdfa10facd",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 3,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -5.7
+    },
+    {
       "matchId": "fadxpbd8mqtyr6yf",
       "playedAt": "2026-06-25T20:42:03.529Z",
       "opponentSlug": "prometheus",
