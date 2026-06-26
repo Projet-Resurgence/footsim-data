@@ -47,6 +47,23 @@
   "suspensions": [],
   "recentMatches": [
     {
+      "matchId": "0gqlbjx5mquxei3l",
+      "playedAt": "2026-06-26T13:27:58.675Z",
+      "opponentSlug": "italie",
+      "opponentName": "Italie",
+      "homeTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "awayTeamId": "2256fe5a-993b-4007-8191-47ebe93a3e70",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 3,
+      "opponentStrength": 62,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.3
+    },
+    {
       "matchId": "nyely6rumquugzu5",
       "playedAt": "2026-06-26T11:26:55.215Z",
       "opponentSlug": "perou",
