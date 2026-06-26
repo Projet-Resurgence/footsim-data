@@ -122,6 +122,23 @@
   ],
   "recentMatches": [
     {
+      "matchId": "0gqlbjx5mquxei3l",
+      "playedAt": "2026-06-26T13:27:58.675Z",
+      "opponentSlug": "lusitanie",
+      "opponentName": "Lusitanie",
+      "homeTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "awayTeamId": "2256fe5a-993b-4007-8191-47ebe93a3e70",
+      "homeAway": "home",
+      "scoreFor": 3,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.5
+    },
+    {
       "matchId": "8dxkq7lgmqtyr6yf",
       "playedAt": "2026-06-25T20:44:13.710Z",
       "opponentSlug": "cote-d-ivoire",
