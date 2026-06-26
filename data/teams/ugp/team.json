@@ -30,6 +30,23 @@
   "publishedAt": "2026-06-25T23:11:49.237Z",
   "recentMatches": [
     {
+      "matchId": "5v9gs11tmquxei3l",
+      "playedAt": "2026-06-26T13:27:58.672Z",
+      "opponentSlug": "cedre",
+      "opponentName": "Cèdre",
+      "homeTeamId": "292037a2-3b7a-40e7-b9fa-37a11d157341",
+      "awayTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 5.7
+    },
+    {
       "matchId": "xoig3pzemqtyr6yf",
       "playedAt": "2026-06-25T20:46:21.010Z",
       "opponentSlug": "cote-d-ivoire",
