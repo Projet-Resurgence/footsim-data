@@ -232,7 +232,7 @@
       "892948fc-f22f-48f4-b6af-6ebeaa6db607"
     ]
   },
-  "publishedAt": "2026-06-25T23:13:16.567Z",
+  "publishedAt": "2026-06-26T10:02:59.345Z",
   "cultures": [
     {
       "culture": "cubain",
@@ -296,7 +296,7 @@
       "lineup": [
         "e87a5851-81ce-485c-83fe-194209656715",
         "54d7addc-5e5b-4199-8b7e-49026fcbc861",
-        "07c3f9ca-f46a-4d28-a059-6dc2e307d4ea",
+        "1ee98c54-d49e-4195-a7d7-013321c6d36c",
         "0537ad7c-740a-4fce-b710-d816befa3b8e",
         "0a3b965e-04a0-4994-b513-7c71996ae867",
         "0cde6afa-5371-4d50-84b0-42c5dce8e58c",
@@ -320,8 +320,8 @@
         }
       ],
       "activeCustomStyleId": "495c099c-de9b-4733-8b46-87a7d0896ffe",
-      "id": "b34bc6ff-041b-4cb4-a4ae-c6f82e361bb9",
-      "name": "Contre Attaque Précise",
+      "id": "b34bc6ff-041b-4cb4-a4ae-c6f82e361bb8",
+      "name": "CAP - Base",
       "bench": [
         "f506d14a-2cb6-4a8e-a850-b4de9a3e366a",
         "764cef2c-abbe-4dfc-b480-fd9151030b21",
@@ -329,38 +329,176 @@
         "34913eb7-c685-47f4-9276-331f470037f2",
         "0bed9f5f-41ab-468b-87f7-5372a81470dc",
         "6d4723cd-61d8-4edc-bfd6-0151191371d0",
-        "4079a3e4-3d69-4fa0-84a8-a08c0d3cc6bc",
+        "e6f510db-f16b-483f-9f1f-d671bff0ccd5",
         "85b910bf-81ea-4680-8995-60a5418302dc",
         "e3e1ec99-423f-475d-b4d9-e5a7b9bbb145",
         "92ec6bdc-708a-4530-9e31-33a671942604",
-        "1ee98c54-d49e-4195-a7d7-013321c6d36c",
-        "80b98380-75da-4cfd-a4b2-9839c6bb9586"
+        "6117cfe3-e989-4194-a74c-cc457a0c667b",
+        "3202268e-ee1e-4b33-8a5a-91bf16b51619"
       ],
       "plannedSubs": [
         {
-          "outId": "e87a5851-81ce-485c-83fe-194209656715",
-          "inId": "f506d14a-2cb6-4a8e-a850-b4de9a3e366a"
+          "outId": "154edfa8-6176-460e-bc7d-9264ee047feb",
+          "inId": "0bed9f5f-41ab-468b-87f7-5372a81470dc"
         },
         {
-          "outId": "8e6ca1f6-ba3e-431b-8b80-2cc45318e0a9",
-          "inId": "764cef2c-abbe-4dfc-b480-fd9151030b21"
+          "outId": "0cde6afa-5371-4d50-84b0-42c5dce8e58c",
+          "inId": "3202268e-ee1e-4b33-8a5a-91bf16b51619"
+        },
+        {
+          "outId": "5f32168a-14df-4d52-a989-1b39439b3517",
+          "inId": "6117cfe3-e989-4194-a74c-cc457a0c667b"
+        },
+        {
+          "outId": "d1f33281-0c4a-44f2-8485-bd164cce0749",
+          "inId": "e6f510db-f16b-483f-9f1f-d671bff0ccd5"
+        },
+        {
+          "outId": "54d7addc-5e5b-4199-8b7e-49026fcbc861",
+          "inId": "92ec6bdc-708a-4530-9e31-33a671942604"
+        }
+      ]
+    },
+    {
+      "style": "possession",
+      "formation": "4-2-3-1",
+      "lineup": [
+        "e87a5851-81ce-485c-83fe-194209656715",
+        "54d7addc-5e5b-4199-8b7e-49026fcbc861",
+        "1ee98c54-d49e-4195-a7d7-013321c6d36c",
+        "0537ad7c-740a-4fce-b710-d816befa3b8e",
+        "0a3b965e-04a0-4994-b513-7c71996ae867",
+        "aca08af0-9097-4f69-99df-b10b11993d02",
+        "d1f33281-0c4a-44f2-8485-bd164cce0749",
+        "0cde6afa-5371-4d50-84b0-42c5dce8e58c",
+        "e6f510db-f16b-483f-9f1f-d671bff0ccd5",
+        "154edfa8-6176-460e-bc7d-9264ee047feb",
+        "5f32168a-14df-4d52-a989-1b39439b3517"
+      ],
+      "bench": [
+        "f506d14a-2cb6-4a8e-a850-b4de9a3e366a",
+        "92ec6bdc-708a-4530-9e31-33a671942604",
+        "85b910bf-81ea-4680-8995-60a5418302dc",
+        "e3e1ec99-423f-475d-b4d9-e5a7b9bbb145",
+        "07c3f9ca-f46a-4d28-a059-6dc2e307d4ea",
+        "6d4723cd-61d8-4edc-bfd6-0151191371d0",
+        "34913eb7-c685-47f4-9276-331f470037f2",
+        "4079a3e4-3d69-4fa0-84a8-a08c0d3cc6bc",
+        "3202268e-ee1e-4b33-8a5a-91bf16b51619",
+        "8e6ca1f6-ba3e-431b-8b80-2cc45318e0a9",
+        "0bed9f5f-41ab-468b-87f7-5372a81470dc",
+        "6117cfe3-e989-4194-a74c-cc457a0c667b"
+      ],
+      "plannedSubs": [
+        {
+          "outId": "e6f510db-f16b-483f-9f1f-d671bff0ccd5",
+          "inId": "34913eb7-c685-47f4-9276-331f470037f2"
         },
         {
           "outId": "154edfa8-6176-460e-bc7d-9264ee047feb",
           "inId": "0bed9f5f-41ab-468b-87f7-5372a81470dc"
         },
         {
-          "outId": "d1f33281-0c4a-44f2-8485-bd164cce0749",
+          "outId": "0cde6afa-5371-4d50-84b0-42c5dce8e58c",
+          "inId": "3202268e-ee1e-4b33-8a5a-91bf16b51619"
+        },
+        {
+          "outId": "5f32168a-14df-4d52-a989-1b39439b3517",
+          "inId": "8e6ca1f6-ba3e-431b-8b80-2cc45318e0a9"
+        },
+        {
+          "outId": "54d7addc-5e5b-4199-8b7e-49026fcbc861",
+          "inId": "92ec6bdc-708a-4530-9e31-33a671942604"
+        }
+      ],
+      "customStyles": [
+        {
+          "id": "d6230a6c-b905-471b-b21c-ae3d031b3254",
+          "name": "Contre attaque précise",
+          "mods": {
+            "shotFreqMult": 1.15,
+            "foulRateMult": 0.7,
+            "midfieldMult": 1,
+            "attackMult": 1.3,
+            "defenseMult": 1
+          }
+        }
+      ],
+      "activeCustomStyleId": "d6230a6c-b905-471b-b21c-ae3d031b3254",
+      "id": "6c36b0e5-dd6b-490c-9c63-a881d195ac03",
+      "name": "CAP - QDTU"
+    },
+    {
+      "style": "possession",
+      "formation": "4-3-3",
+      "lineup": [
+        "e87a5851-81ce-485c-83fe-194209656715",
+        "54d7addc-5e5b-4199-8b7e-49026fcbc861",
+        "1ee98c54-d49e-4195-a7d7-013321c6d36c",
+        "0537ad7c-740a-4fce-b710-d816befa3b8e",
+        "0a3b965e-04a0-4994-b513-7c71996ae867",
+        "d1f33281-0c4a-44f2-8485-bd164cce0749",
+        "aca08af0-9097-4f69-99df-b10b11993d02",
+        "e6f510db-f16b-483f-9f1f-d671bff0ccd5",
+        "0cde6afa-5371-4d50-84b0-42c5dce8e58c",
+        "5f32168a-14df-4d52-a989-1b39439b3517",
+        "154edfa8-6176-460e-bc7d-9264ee047feb"
+      ],
+      "bench": [
+        "f506d14a-2cb6-4a8e-a850-b4de9a3e366a",
+        "92ec6bdc-708a-4530-9e31-33a671942604",
+        "85b910bf-81ea-4680-8995-60a5418302dc",
+        "e3e1ec99-423f-475d-b4d9-e5a7b9bbb145",
+        "07c3f9ca-f46a-4d28-a059-6dc2e307d4ea",
+        "6d4723cd-61d8-4edc-bfd6-0151191371d0",
+        "34913eb7-c685-47f4-9276-331f470037f2",
+        "4079a3e4-3d69-4fa0-84a8-a08c0d3cc6bc",
+        "3202268e-ee1e-4b33-8a5a-91bf16b51619",
+        "8e6ca1f6-ba3e-431b-8b80-2cc45318e0a9",
+        "0bed9f5f-41ab-468b-87f7-5372a81470dc",
+        "6117cfe3-e989-4194-a74c-cc457a0c667b"
+      ],
+      "plannedSubs": [
+        {
+          "outId": "e6f510db-f16b-483f-9f1f-d671bff0ccd5",
           "inId": "34913eb7-c685-47f4-9276-331f470037f2"
+        },
+        {
+          "outId": "154edfa8-6176-460e-bc7d-9264ee047feb",
+          "inId": "0bed9f5f-41ab-468b-87f7-5372a81470dc"
+        },
+        {
+          "outId": "0cde6afa-5371-4d50-84b0-42c5dce8e58c",
+          "inId": "3202268e-ee1e-4b33-8a5a-91bf16b51619"
+        },
+        {
+          "outId": "5f32168a-14df-4d52-a989-1b39439b3517",
+          "inId": "8e6ca1f6-ba3e-431b-8b80-2cc45318e0a9"
         },
         {
           "outId": "54d7addc-5e5b-4199-8b7e-49026fcbc861",
           "inId": "85b910bf-81ea-4680-8995-60a5418302dc"
         }
-      ]
+      ],
+      "customStyles": [
+        {
+          "id": "ffb19270-c48c-44d7-9f63-150187bc0dd3",
+          "name": "Contre attaque précise",
+          "mods": {
+            "shotFreqMult": 1.15,
+            "foulRateMult": 0.7,
+            "midfieldMult": 1,
+            "attackMult": 1.3,
+            "defenseMult": 1
+          }
+        }
+      ],
+      "activeCustomStyleId": "ffb19270-c48c-44d7-9f63-150187bc0dd3",
+      "id": "ca639f7d-224c-406e-8a05-e7667c06b447",
+      "name": "CAP - QTT"
     }
   ],
-  "activeTacticId": "b34bc6ff-041b-4cb4-a4ae-c6f82e361bb9",
+  "activeTacticId": "b34bc6ff-041b-4cb4-a4ae-c6f82e361bb8",
   "ownerId": "772821169664426025",
   "compHistory": [
     {
