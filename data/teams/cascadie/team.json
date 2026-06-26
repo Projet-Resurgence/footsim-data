@@ -15,7 +15,7 @@
     "amerique"
   ],
   "kind": "national",
-  "globalStrength": 60,
+  "globalStrength": 62,
   "createdAt": "2026-06-21T13:20:00.090Z",
   "createdBy": "772821169664426025",
   "ownerId": "772821169664426025",
@@ -45,7 +45,7 @@
     "overall": 74
   },
   "jerseyColor": "#356034",
-  "publishedAt": "2026-06-23T16:42:22.609Z",
+  "publishedAt": "2026-06-26T18:48:43.258Z",
   "compHistory": [
     {
       "compId": "qtebnbbpzeomqpngrdv",
@@ -440,5 +440,9 @@
   ],
   "activeTacticId": "4cad7a29-4292-49ae-a98a-353f3483d580",
   "injuries": [],
-  "suspensions": []
+  "suspensions": [],
+  "actionFoot": {
+    "rating": 5,
+    "funding": 190
+  }
 }
