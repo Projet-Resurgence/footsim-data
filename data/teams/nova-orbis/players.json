@@ -11448,8 +11448,8 @@
   },
   {
     "id": "45100b3d-819e-49ab-a082-d73d72d4379d",
-    "firstName": "Leandro",
-    "lastName": "Pires",
+    "firstName": "Neymar da Silva",
+    "lastName": "Santos Júnior",
     "age": 34,
     "position": "LW",
     "altPositions": [
@@ -11458,11 +11458,11 @@
     "preferredFoot": "right",
     "stats": {
       "technical": {
-        "passing": 13,
-        "crossing": 19,
-        "dribbling": 19,
-        "finishing": 11,
-        "firstTouch": 16,
+        "passing": 16,
+        "crossing": 20,
+        "dribbling": 20,
+        "finishing": 13,
+        "firstTouch": 20,
         "heading": 12,
         "longShots": 9,
         "tackling": 6,
@@ -11488,7 +11488,7 @@
       },
       "goalkeeping": null
     },
-    "overall": 88
+    "overall": 91
   },
   {
     "id": "a1341223-67e5-4e3a-950b-40410cb95226",
