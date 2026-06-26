@@ -34,7 +34,7 @@
   "playerCount": 500,
   "formation": "4-3-3",
   "managerDiscordId": "1113422056525144104",
-  "publishedAt": "2026-06-26T18:49:46.038Z",
+  "publishedAt": "2026-06-26T21:38:57.025Z",
   "injuries": [],
   "suspensions": [],
   "recentMatches": [
@@ -319,27 +319,5 @@
     "rating": 5,
     "funding": 190
   },
-  "savedTactics": [
-    {
-      "style": "possession",
-      "formation": "4-3-3",
-      "lineup": [
-        "59844368-113e-46a3-b49c-a98129fcd18b",
-        "d4e90f8b-fb52-4623-8518-408ad2e6f1e7",
-        "d70a1413-c02b-4910-a908-1fac5fbda073",
-        "65a0ba07-91ec-4016-990c-5b03e5d62002",
-        "24309391-cd04-4ded-9b84-a8e008587036",
-        "117877f7-4d2a-4d81-9687-2b0b763441ca",
-        "9361f7e8-ea7e-4eb9-a289-b0a29b009e23",
-        "3b88b99f-5143-4c7d-8cb2-0e682e5f0560",
-        "d4e14934-d91c-4896-8c33-702ac9dd88d3",
-        "674490b6-409f-4e59-98de-907056600e0d",
-        "b05381e3-b251-4805-82ce-b0c911fc99b3"
-      ],
-      "customStyles": [],
-      "id": "7e89986e-4467-420e-b264-cabdcc0bbb7e",
-      "name": "Tactique 1"
-    }
-  ],
-  "activeTacticId": "7e89986e-4467-420e-b264-cabdcc0bbb7e"
+  "savedTactics": []
 }
