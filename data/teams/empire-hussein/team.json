@@ -76,7 +76,26 @@
       "compScope": "internationale",
       "compImportance": "mineur",
       "participantCount": 8,
-      "cmfPoints": 1.9
+      "cmfPoints": 1.9,
+      "scorers": [
+        {
+          "minute": 43,
+          "playerId": "d58d678c-09a1-4228-923f-7ebfc1a2411c",
+          "playerName": "Abdallah El-Meniawy"
+        },
+        {
+          "minute": 56,
+          "playerId": "8745a1a2-e456-4d0e-8ddd-610658c8a559",
+          "playerName": "Magdy El-Baz"
+        },
+        {
+          "minute": 65,
+          "playerId": "ed16332a-25e3-4919-b479-a6810362efb9",
+          "playerName": "Essam Lamlom",
+          "assistId": "ed7eb980-155d-4aee-9cbf-092a44bfc8c1",
+          "assistName": "Nabil Hariri"
+        }
+      ]
     },
     {
       "matchId": "pvg05000mqvegaw8",
