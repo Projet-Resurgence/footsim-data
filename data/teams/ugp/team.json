@@ -1074,6 +1074,18 @@
       "result": "winner",
       "phase": "F",
       "participantCount": 16
+    },
+    {
+      "compId": "wrqunwescfgmqvegaw8",
+      "compName": "Coupe du Gratin Dauphinois",
+      "year": 2308,
+      "format": "groups_knockout",
+      "kind": "amicale",
+      "scope": "internationale",
+      "importance": "mineur",
+      "result": "third",
+      "phase": "3rd",
+      "participantCount": 8
     }
   ],
   "actionFoot": {
