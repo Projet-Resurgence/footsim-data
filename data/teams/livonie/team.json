@@ -292,7 +292,30 @@
       "compScope": "internationale",
       "compImportance": "prestige",
       "participantCount": 48,
-      "cmfPoints": 17.9
+      "cmfPoints": 17.9,
+      "scorers": [
+        {
+          "minute": 7,
+          "playerId": "9e097b78-7d82-4de8-be52-255472133750",
+          "playerName": "Mārtiņš Lācis",
+          "assistId": "8e3974f2-ad78-4d66-bb64-9774c8779854",
+          "assistName": "Reinis Upenieks"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 4,
+          "playerId": "8297ed69-051e-4c53-af42-792ab6751b4b",
+          "playerName": "Guntars Ģēģeris",
+          "type": "yellow"
+        },
+        {
+          "minute": 23,
+          "playerId": "f007bdc7-23e1-4660-8649-d987e52c624e",
+          "playerName": "Gints Kalniņš",
+          "type": "yellow"
+        }
+      ]
     },
     {
       "matchId": "qohvdezxmqvcmc3w",
@@ -309,7 +332,33 @@
       "compScope": "internationale",
       "compImportance": "prestige",
       "participantCount": 48,
-      "cmfPoints": -5.9
+      "cmfPoints": -5.9,
+      "scorers": [
+        {
+          "minute": 53,
+          "playerId": "8e3974f2-ad78-4d66-bb64-9774c8779854",
+          "playerName": "Reinis Upenieks"
+        },
+        {
+          "minute": 71,
+          "playerId": "ad17b3d4-b7cc-4e7f-ad90-c952e017613f",
+          "playerName": "Elīna Zariņš"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 57,
+          "playerId": "706eb6ae-5250-4f51-ada6-a7d7be967fc9",
+          "playerName": "Normunds Puķe",
+          "type": "red"
+        },
+        {
+          "minute": 76,
+          "playerId": "01fdf5bd-185d-4214-8318-231760c32a5c",
+          "playerName": "Toms Roze",
+          "type": "yellow"
+        }
+      ]
     },
     {
       "matchId": "gq445w0rmqvcmc3w",
