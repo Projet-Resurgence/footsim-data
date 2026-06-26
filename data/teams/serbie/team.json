@@ -45,5 +45,24 @@
   },
   "jerseyColor": "#4962ab",
   "publishedAt": "2026-06-21T13:35:56.914Z",
-  "compHistory": []
+  "compHistory": [],
+  "recentMatches": [
+    {
+      "matchId": "z6mnqofemquxei3l",
+      "playedAt": "2026-06-26T13:27:58.674Z",
+      "opponentSlug": "livonie",
+      "opponentName": "Livonie",
+      "homeTeamId": "b88bacc7-be39-4426-9106-7263eec6a6e9",
+      "awayTeamId": "6c4e5ecf-662a-43d5-9795-b038fe6e2072",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 4,
+      "opponentStrength": 61,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.2
+    }
+  ]
 }
