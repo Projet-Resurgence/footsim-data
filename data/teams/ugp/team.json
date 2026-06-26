@@ -44,7 +44,21 @@
       "compScope": "internationale",
       "compImportance": "mineur",
       "participantCount": 8,
-      "cmfPoints": -1
+      "cmfPoints": -1,
+      "cards": [
+        {
+          "minute": 5,
+          "playerId": "09e3768b-d2b4-4ad9-8a05-a00a01d954e2",
+          "playerName": "Donato De Angelis",
+          "type": "yellow"
+        },
+        {
+          "minute": 81,
+          "playerId": "09e3768b-d2b4-4ad9-8a05-a00a01d954e2",
+          "playerName": "Donato De Angelis",
+          "type": "red"
+        }
+      ]
     },
     {
       "matchId": "uq0gzcommqvf2cr7",
