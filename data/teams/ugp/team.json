@@ -370,6 +370,23 @@
       "cmfPoints": 2.3
     },
     {
+      "matchId": "2xt9omsnmqslop81",
+      "playedAt": "2026-06-24T21:44:57.214Z",
+      "opponentSlug": "royaume-d-asha",
+      "opponentName": "Royaume d'Asha",
+      "homeTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "awayTeamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 8,
+      "cmfPoints": 1.3
+    },
+    {
       "matchId": "umc1wq0omqskotcz",
       "playedAt": "2026-06-24T21:19:32.676Z",
       "opponentSlug": "spc",
