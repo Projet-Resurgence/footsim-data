@@ -29,6 +29,23 @@
   "managerDiscordId": "1473103141728944171",
   "recentMatches": [
     {
+      "matchId": "2n4u8slsmquxei3l",
+      "playedAt": "2026-06-26T13:27:58.669Z",
+      "opponentSlug": "germanie",
+      "opponentName": "Germanie",
+      "homeTeamId": "8451e643-10d4-48bc-a4e6-4c12255695f4",
+      "awayTeamId": "6377412c-0d4c-47e7-ba24-52745e83cfaa",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 1,
+      "opponentStrength": 62,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 5.8
+    },
+    {
       "matchId": "yof63y27mqtyr6yf",
       "playedAt": "2026-06-25T20:44:13.712Z",
       "opponentSlug": "deseret",
