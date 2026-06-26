@@ -45,7 +45,7 @@
     "overall": 73
   },
   "jerseyColor": "#242775",
-  "publishedAt": "2026-06-26T18:41:12.733Z",
+  "publishedAt": "2026-06-26T21:36:33.811Z",
   "recentMatches": [
     {
       "matchId": "vekiq3kemqvcmc3w",
@@ -99,27 +99,5 @@
       "cmfPoints": 17.4
     }
   ],
-  "savedTactics": [
-    {
-      "style": "possession",
-      "formation": "4-3-3",
-      "lineup": [
-        "30746bd5-1af8-4d6c-b851-4b0ea62c5d5b",
-        "9166dd35-7532-4724-9aed-05ae0ecfdc2f",
-        "d4dcd536-1211-49fd-a914-d8488bb4e59d",
-        "472bba30-5de3-4453-bb8e-f9217ef27f81",
-        "0d7b3a7a-9798-470f-9df5-a9a17b244eb0",
-        "d2f12aad-79bc-4c9d-8f5d-7ce08aa13f5e",
-        "825c3e16-e9ca-4009-b345-833f01e8cc11",
-        "68f72a75-0d4b-446a-95be-1a0b948b8205",
-        "2e3f2476-c746-4315-9d99-ec1c1f680f3d",
-        "af177f14-2a44-4eca-90a0-b6744bd4af2c",
-        "7167d37d-3534-452a-9246-16216b2a2e77"
-      ],
-      "customStyles": [],
-      "id": "4ef834db-4bd9-4c29-b276-629a87f52e88",
-      "name": "Tactique 1"
-    }
-  ],
-  "activeTacticId": "4ef834db-4bd9-4c29-b276-629a87f52e88"
+  "savedTactics": []
 }
