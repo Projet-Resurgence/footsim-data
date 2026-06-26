@@ -11,6 +11,23 @@
   "formation": "4-3-3",
   "recentMatches": [
     {
+      "matchId": "lq2a0qzdmquxei3l",
+      "playedAt": "2026-06-26T13:27:58.674Z",
+      "opponentSlug": "royaume-d-asha",
+      "opponentName": "Royaume d'Asha",
+      "homeTeamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "awayTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -5.7
+    },
+    {
       "matchId": "n00erjaimqty1zqg",
       "playedAt": "2026-06-25T20:23:04.391Z",
       "opponentSlug": "cote-d-ivoire",
