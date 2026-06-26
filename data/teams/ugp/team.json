@@ -911,15 +911,5 @@
     "funding": 170
   },
   "injuries": [],
-  "suspensions": [
-    {
-      "id": "b664491f-d8c9-4c25-a20d-8a811b60c58f",
-      "subjectId": "e8cb564f-f280-44e9-aaa1-7515af4c2b9a",
-      "subjectName": "Fabrizio Bruno",
-      "teamId": "110159bd-411c-409a-ba07-95216b092ba4",
-      "matchesRemaining": 1,
-      "reason": "Carton rouge",
-      "roundOccurred": 6
-    }
-  ]
+  "suspensions": []
 }
