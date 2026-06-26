@@ -34,7 +34,7 @@
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-26T16:14:09.213Z",
+  "publishedAt": "2026-06-26T16:26:15.572Z",
   "tactics": {
     "style": "chaos",
     "formation": "3-4-1-2",
@@ -334,7 +334,7 @@
         "cf9cb854-71a7-497a-a24a-75038a58e648",
         "c8c2dbe4-df80-489b-a6b9-bba593860c98",
         "7c185c3b-b756-4e27-a573-b4ff397a3821",
-        "4c1df5ee-4c61-454b-a817-1c24699e8f99"
+        "8a0c7655-a4b7-4d57-9a19-7a6f37ad6931"
       ],
       "id": "c289f641-1581-4b54-9203-76a4fca7c347",
       "name": "Tactique de base",
@@ -351,7 +351,21 @@
           }
         }
       ],
-      "activeCustomStyleId": "6bf54d23-d28a-428f-9348-e593960d3a47"
+      "activeCustomStyleId": "6bf54d23-d28a-428f-9348-e593960d3a47",
+      "bench": [
+        "942f8579-7c2b-4f76-a243-250be435fb77",
+        "12e33eae-cfd1-4431-91e6-73b0ac72e99d",
+        "4b66d47e-fb12-4f10-b528-34f5850ffab2",
+        "db0376ad-1bd4-4a9e-bcb2-f2adb19e4039",
+        "485b23e4-9c7a-45a7-9fa0-3d3f60301488",
+        "7c2053ae-79ce-4101-950e-ddb262ad7601",
+        "67059fa1-f80e-4ba9-818e-cd713dd00299",
+        "abd4ab2b-9753-484d-aaf6-c0fa7a77ec2a",
+        "b6571ebf-60dc-4e76-8095-a1fa6ff79f88",
+        "4c1df5ee-4c61-454b-a817-1c24699e8f99",
+        "5d165f97-694f-4e10-ad43-7e01e408729a",
+        "2ff78f0a-b6d6-4694-a08a-57cd8d8f75c6"
+      ]
     }
   ],
   "activeTacticId": "c289f641-1581-4b54-9203-76a4fca7c347",
