@@ -134,7 +134,35 @@
       "compScope": "internationale",
       "compImportance": "prestige",
       "participantCount": 48,
-      "cmfPoints": 17.5
+      "cmfPoints": 17.5,
+      "scorers": [
+        {
+          "minute": 35,
+          "playerId": "4cff8ba1-7087-4bca-ae92-20cf4d9599b9",
+          "playerName": "Théo Morin",
+          "assistId": "3e57d53c-19a6-4613-99be-87611b9c9f87",
+          "assistName": "Kevin Schmidt"
+        },
+        {
+          "minute": 41,
+          "playerId": "ce6edb53-b562-4047-a841-c2712658f714",
+          "playerName": "Lukas Weber"
+        },
+        {
+          "minute": 49,
+          "playerId": "4cff8ba1-7087-4bca-ae92-20cf4d9599b9",
+          "playerName": "Théo Morin",
+          "assistId": "3e57d53c-19a6-4613-99be-87611b9c9f87",
+          "assistName": "Kevin Schmidt"
+        },
+        {
+          "minute": 80,
+          "playerId": "c610394c-a4b7-4d4e-8dda-ce1c628c20f5",
+          "playerName": "Killian Perrin",
+          "assistId": "e5a951b2-9510-4234-9756-691a4822918b",
+          "assistName": "Kai Kaiser"
+        }
+      ]
     },
     {
       "matchId": "demwrpr8mqvcmc3w",
