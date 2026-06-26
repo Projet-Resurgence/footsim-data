@@ -18,7 +18,7 @@
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-25T22:28:43.096Z",
+  "publishedAt": "2026-06-26T17:32:57.744Z",
   "tactics": {
     "style": "ultra-defensif",
     "formation": "5-4-1",
@@ -759,9 +759,253 @@
       "activeCustomStyleId": "771cf0bb-bb12-4b9e-9241-5477e0dac07e",
       "id": "ad08db03-5d38-451c-a339-0f3d7152fcd4",
       "name": "Beeeeelek"
+    },
+    {
+      "style": "possession",
+      "formation": "4-3-3",
+      "lineup": [
+        "0663f1b8-69bb-449e-8716-a18823b621f5",
+        "fe671d26-7632-4846-b692-d40f587298dd",
+        "d67a8844-1344-4fb1-8591-041530e2623c",
+        "ffa861cb-7634-46c1-b96e-231a8ac43aec",
+        "c8fb97c6-5a3d-4d8b-9ed0-57c81cccacd6",
+        "4ef345a9-c2fd-4920-ab92-5124797d4e7d",
+        "2caa7860-2d4a-42f0-a5cf-7763cd065ab7",
+        "91d1ad6f-2a74-44d8-8cf9-276014c0fbdd",
+        "1eb6cdb3-28c8-4792-8b45-f820be065dd9",
+        "2a40f2a8-21e7-4d78-a889-fce6f644ca00",
+        "b922c816-b6dd-47bd-9306-89ee6209ae7d"
+      ],
+      "bench": [
+        "d7312229-3c51-4aec-9f46-a337f5d1df37",
+        "01e7b72d-76f6-4c65-b15b-a800baafbfce",
+        "5b96935e-2e6f-40e4-81d1-f4a2586f6f2c",
+        "ca9c5a39-cb56-48f5-aa79-1e74ddd5c510",
+        "ccafa0b4-e913-4624-91a5-f2467c269be8",
+        "d09f1ca0-e7a2-44bd-8ea8-9051c5834b7c",
+        "253194cb-3dcd-4632-a72e-e462def8a66b",
+        "93dfe857-da61-4a31-acc4-cc6a8f57b9ea",
+        "4a9fc2df-0422-43e9-9335-7298cb4c0168",
+        "c89cab4b-9bd1-43bc-ae5a-3cde76da38e8",
+        "bb6f1b5f-707a-4b14-8605-43359faeafc1",
+        "9711a972-e8f1-4190-bcd0-91b108d1d510"
+      ],
+      "positionMap": {
+        "fe671d26-7632-4846-b692-d40f587298dd": "LB",
+        "d67a8844-1344-4fb1-8591-041530e2623c": "CB",
+        "ffa861cb-7634-46c1-b96e-231a8ac43aec": "CB",
+        "c8fb97c6-5a3d-4d8b-9ed0-57c81cccacd6": "RM",
+        "4ef345a9-c2fd-4920-ab92-5124797d4e7d": "LM",
+        "91d1ad6f-2a74-44d8-8cf9-276014c0fbdd": "RB",
+        "1eb6cdb3-28c8-4792-8b45-f820be065dd9": "RW",
+        "2a40f2a8-21e7-4d78-a889-fce6f644ca00": "ST",
+        "b922c816-b6dd-47bd-9306-89ee6209ae7d": "ST",
+        "0663f1b8-69bb-449e-8716-a18823b621f5": "GK",
+        "2caa7860-2d4a-42f0-a5cf-7763cd065ab7": "CM"
+      },
+      "tokenPositions": {
+        "0663f1b8-69bb-449e-8716-a18823b621f5": {
+          "x": 50,
+          "y": 88
+        },
+        "fe671d26-7632-4846-b692-d40f587298dd": {
+          "x": 12,
+          "y": 70
+        },
+        "d67a8844-1344-4fb1-8591-041530e2623c": {
+          "x": 34,
+          "y": 72
+        },
+        "ffa861cb-7634-46c1-b96e-231a8ac43aec": {
+          "x": 66,
+          "y": 72
+        },
+        "c8fb97c6-5a3d-4d8b-9ed0-57c81cccacd6": {
+          "x": 90.1428571428572,
+          "y": 58.5
+        },
+        "4ef345a9-c2fd-4920-ab92-5124797d4e7d": {
+          "x": 8.904761904761905,
+          "y": 57.666666666666664
+        },
+        "91d1ad6f-2a74-44d8-8cf9-276014c0fbdd": {
+          "x": 88,
+          "y": 70
+        },
+        "1eb6cdb3-28c8-4792-8b45-f820be065dd9": {
+          "x": 88.19047619047619,
+          "y": 22.5
+        },
+        "2a40f2a8-21e7-4d78-a889-fce6f644ca00": {
+          "x": 40.95238095238095,
+          "y": 17.833333333333336
+        },
+        "b922c816-b6dd-47bd-9306-89ee6209ae7d": {
+          "x": 57.28571428571429,
+          "y": 18
+        },
+        "2caa7860-2d4a-42f0-a5cf-7763cd065ab7": {
+          "x": 49.523809523809526,
+          "y": 51.5
+        }
+      },
+      "customStyles": [
+        {
+          "id": "023b98e2-4c2a-40aa-9ea9-d8b23e6b493f",
+          "name": "haramball 1",
+          "mods": {
+            "shotFreqMult": 1.1,
+            "foulRateMult": 0.8,
+            "midfieldMult": 1.05,
+            "attackMult": 0.9,
+            "defenseMult": 1.3
+          }
+        }
+      ],
+      "activeCustomStyleId": "023b98e2-4c2a-40aa-9ea9-d8b23e6b493f",
+      "id": "842e9fca-daf3-416c-ab04-75520a6b2daa",
+      "name": "haramball 1 test"
+    },
+    {
+      "style": "possession",
+      "formation": "4-3-3",
+      "lineup": [
+        "0663f1b8-69bb-449e-8716-a18823b621f5",
+        "fe671d26-7632-4846-b692-d40f587298dd",
+        "d67a8844-1344-4fb1-8591-041530e2623c",
+        "ffa861cb-7634-46c1-b96e-231a8ac43aec",
+        "d09f1ca0-e7a2-44bd-8ea8-9051c5834b7c",
+        "4ef345a9-c2fd-4920-ab92-5124797d4e7d",
+        "2caa7860-2d4a-42f0-a5cf-7763cd065ab7",
+        "91d1ad6f-2a74-44d8-8cf9-276014c0fbdd",
+        "1eb6cdb3-28c8-4792-8b45-f820be065dd9",
+        "2a40f2a8-21e7-4d78-a889-fce6f644ca00",
+        "b922c816-b6dd-47bd-9306-89ee6209ae7d"
+      ],
+      "bench": [
+        "d7312229-3c51-4aec-9f46-a337f5d1df37",
+        "01e7b72d-76f6-4c65-b15b-a800baafbfce",
+        "5b96935e-2e6f-40e4-81d1-f4a2586f6f2c",
+        "ca9c5a39-cb56-48f5-aa79-1e74ddd5c510",
+        "ccafa0b4-e913-4624-91a5-f2467c269be8",
+        "253194cb-3dcd-4632-a72e-e462def8a66b",
+        "93dfe857-da61-4a31-acc4-cc6a8f57b9ea",
+        "4a9fc2df-0422-43e9-9335-7298cb4c0168",
+        "c89cab4b-9bd1-43bc-ae5a-3cde76da38e8",
+        "bb6f1b5f-707a-4b14-8605-43359faeafc1",
+        "9711a972-e8f1-4190-bcd0-91b108d1d510"
+      ],
+      "positionMap": {
+        "fe671d26-7632-4846-b692-d40f587298dd": "LB",
+        "d67a8844-1344-4fb1-8591-041530e2623c": "CB",
+        "ffa861cb-7634-46c1-b96e-231a8ac43aec": "CB",
+        "4ef345a9-c2fd-4920-ab92-5124797d4e7d": "LM",
+        "2caa7860-2d4a-42f0-a5cf-7763cd065ab7": "CM",
+        "91d1ad6f-2a74-44d8-8cf9-276014c0fbdd": "RB",
+        "1eb6cdb3-28c8-4792-8b45-f820be065dd9": "RW",
+        "2a40f2a8-21e7-4d78-a889-fce6f644ca00": "ST",
+        "b922c816-b6dd-47bd-9306-89ee6209ae7d": "ST",
+        "0663f1b8-69bb-449e-8716-a18823b621f5": "GK",
+        "d09f1ca0-e7a2-44bd-8ea8-9051c5834b7c": "AM"
+      },
+      "tokenPositions": {
+        "0663f1b8-69bb-449e-8716-a18823b621f5": {
+          "x": 50,
+          "y": 88
+        },
+        "fe671d26-7632-4846-b692-d40f587298dd": {
+          "x": 12,
+          "y": 70
+        },
+        "d67a8844-1344-4fb1-8591-041530e2623c": {
+          "x": 34,
+          "y": 72
+        },
+        "ffa861cb-7634-46c1-b96e-231a8ac43aec": {
+          "x": 66,
+          "y": 72
+        },
+        "4ef345a9-c2fd-4920-ab92-5124797d4e7d": {
+          "x": 8.904761904761905,
+          "y": 57.666666666666664
+        },
+        "2caa7860-2d4a-42f0-a5cf-7763cd065ab7": {
+          "x": 49.523809523809526,
+          "y": 51.5
+        },
+        "91d1ad6f-2a74-44d8-8cf9-276014c0fbdd": {
+          "x": 88,
+          "y": 70
+        },
+        "1eb6cdb3-28c8-4792-8b45-f820be065dd9": {
+          "x": 88.19047619047619,
+          "y": 22.5
+        },
+        "2a40f2a8-21e7-4d78-a889-fce6f644ca00": {
+          "x": 40.95238095238095,
+          "y": 17.833333333333336
+        },
+        "b922c816-b6dd-47bd-9306-89ee6209ae7d": {
+          "x": 57.28571428571429,
+          "y": 18
+        },
+        "d09f1ca0-e7a2-44bd-8ea8-9051c5834b7c": {
+          "x": 49.42857142857148,
+          "y": 32.83333333333333
+        }
+      },
+      "customStyles": [
+        {
+          "id": "023b98e2-4c2a-40aa-9ea9-d8b23e6b493f",
+          "name": "haramball 1",
+          "mods": {
+            "shotFreqMult": 1.1,
+            "foulRateMult": 0.8,
+            "midfieldMult": 1.05,
+            "attackMult": 0.9,
+            "defenseMult": 1.3
+          }
+        }
+      ],
+      "activeCustomStyleId": "023b98e2-4c2a-40aa-9ea9-d8b23e6b493f",
+      "id": "3cbec45b-39a6-439b-ad06-77b4f89dddf2",
+      "name": "haramball test 2"
+    },
+    {
+      "style": "possession",
+      "formation": "4-4-2",
+      "lineup": [
+        "0663f1b8-69bb-449e-8716-a18823b621f5",
+        "fe671d26-7632-4846-b692-d40f587298dd",
+        "d67a8844-1344-4fb1-8591-041530e2623c",
+        "ffa861cb-7634-46c1-b96e-231a8ac43aec",
+        "91d1ad6f-2a74-44d8-8cf9-276014c0fbdd",
+        "4ef345a9-c2fd-4920-ab92-5124797d4e7d",
+        "2caa7860-2d4a-42f0-a5cf-7763cd065ab7",
+        "4a9fc2df-0422-43e9-9335-7298cb4c0168",
+        "1eb6cdb3-28c8-4792-8b45-f820be065dd9",
+        "b922c816-b6dd-47bd-9306-89ee6209ae7d",
+        "2a40f2a8-21e7-4d78-a889-fce6f644ca00"
+      ],
+      "customStyles": [
+        {
+          "id": "1c291f4d-41d7-44ff-a1c0-ee1ff123a34a",
+          "name": "harmaball 1",
+          "mods": {
+            "shotFreqMult": 1.15,
+            "foulRateMult": 0.8,
+            "midfieldMult": 1,
+            "attackMult": 0.9,
+            "defenseMult": 1.3
+          }
+        }
+      ],
+      "activeCustomStyleId": "1c291f4d-41d7-44ff-a1c0-ee1ff123a34a",
+      "id": "97b51ff8-d50d-4fff-9718-7de42055f1e0",
+      "name": "haramball test 3"
     }
   ],
-  "activeTacticId": "ad08db03-5d38-451c-a339-0f3d7152fcd4",
+  "activeTacticId": "842e9fca-daf3-416c-ab04-75520a6b2daa",
   "compHistory": [
     {
       "compId": "qtebnbbpzeomqpngrdv",
