@@ -93,7 +93,16 @@
       "compScope": "internationale",
       "compImportance": "prestige",
       "participantCount": 48,
-      "cmfPoints": -6.2
+      "cmfPoints": -6.2,
+      "scorers": [
+        {
+          "minute": 70,
+          "playerId": "324470fc-f9a6-4d99-a563-da0262006553",
+          "playerName": "Ren Kato",
+          "assistId": "a576b423-7e81-4c96-8a04-6fed6153847b",
+          "assistName": "Yusuke Okada"
+        }
+      ]
     },
     {
       "matchId": "qohvdezxmqvcmc3w",
@@ -110,7 +119,44 @@
       "compScope": "internationale",
       "compImportance": "prestige",
       "participantCount": 48,
-      "cmfPoints": 17.2
+      "cmfPoints": 17.2,
+      "scorers": [
+        {
+          "minute": 50,
+          "playerId": "862eeced-2bf5-4be5-966b-56639fe66d10",
+          "playerName": "Yuki Okamoto",
+          "assistId": "45a62f33-b3f7-403d-8b43-a21924df4a63",
+          "assistName": "Toshiya Miyazaki"
+        },
+        {
+          "minute": 65,
+          "playerId": "45a62f33-b3f7-403d-8b43-a21924df4a63",
+          "playerName": "Toshiya Miyazaki",
+          "assistId": "324470fc-f9a6-4d99-a563-da0262006553",
+          "assistName": "Ren Kato"
+        },
+        {
+          "minute": 68,
+          "playerId": "45a62f33-b3f7-403d-8b43-a21924df4a63",
+          "playerName": "Toshiya Miyazaki",
+          "assistId": "324470fc-f9a6-4d99-a563-da0262006553",
+          "assistName": "Ren Kato"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 29,
+          "playerId": "83eed85d-d7dc-4d54-9d7c-990a2a0ebe75",
+          "playerName": "Mamoru Kudo",
+          "type": "yellow"
+        },
+        {
+          "minute": 49,
+          "playerId": "b65abc0b-6260-458c-876e-eaec8e306cc4",
+          "playerName": "Tatsuya Maeda",
+          "type": "yellow"
+        }
+      ]
     },
     {
       "matchId": "jb3qsie0mqvcmc3w",
