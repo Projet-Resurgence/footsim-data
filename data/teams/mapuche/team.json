@@ -45,5 +45,57 @@
   },
   "jerseyColor": "#79d4fb",
   "publishedAt": "2026-06-25T10:54:07.121Z",
-  "recentMatches": []
+  "recentMatches": [
+    {
+      "matchId": "s7s27x3smqvcmc3w",
+      "playedAt": "2026-06-26T20:10:31.128Z",
+      "opponentSlug": "empire-hussein",
+      "opponentName": "Empire Hussein",
+      "homeTeamId": "0779ee45-e790-4ff2-901b-ba22bd8b4d83",
+      "awayTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 2,
+      "opponentStrength": 65,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.5
+    },
+    {
+      "matchId": "98czoipgmqvcmc3w",
+      "playedAt": "2026-06-26T20:04:53.074Z",
+      "opponentSlug": "spc",
+      "opponentName": "SPC",
+      "homeTeamId": "0779ee45-e790-4ff2-901b-ba22bd8b4d83",
+      "awayTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 3,
+      "opponentStrength": 62,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.8
+    },
+    {
+      "matchId": "mkhkhgm6mqvcmc3w",
+      "playedAt": "2026-06-26T19:59:42.825Z",
+      "opponentSlug": "perou",
+      "opponentName": "Pérou",
+      "homeTeamId": "0779ee45-e790-4ff2-901b-ba22bd8b4d83",
+      "awayTeamId": "f3fda074-0648-4d1f-a413-281bbf6d7d59",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 2,
+      "opponentStrength": 61,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.2
+    }
+  ]
 }
