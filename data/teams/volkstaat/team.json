@@ -25,5 +25,24 @@
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-20T20:48:48.362Z"
+  "publishedAt": "2026-06-20T20:48:48.362Z",
+  "recentMatches": [
+    {
+      "matchId": "w04ugiksmquxei3l",
+      "playedAt": "2026-06-26T13:27:58.676Z",
+      "opponentSlug": "prometheus",
+      "opponentName": "Prometheus",
+      "homeTeamId": "87e74a10-3d92-4040-ae29-ebdf80f5951b",
+      "awayTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 4,
+      "opponentStrength": 64,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -7
+    }
+  ]
 }
