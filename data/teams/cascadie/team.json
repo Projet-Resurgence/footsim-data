@@ -226,7 +226,16 @@
       "compScope": "internationale",
       "compImportance": "mineur",
       "participantCount": 16,
-      "cmfPoints": 2
+      "cmfPoints": 2,
+      "scorers": [
+        {
+          "minute": 28,
+          "playerId": "fd6f53cc-5850-41bd-86e0-80c7d059cf8a",
+          "playerName": "Tyler Adams",
+          "assistId": "6e316db9-712b-4be0-80a5-c378b089aed4",
+          "assistName": "Jackson Williams"
+        }
+      ]
     },
     {
       "matchId": "vf3ldfh0mqty1zqg",
