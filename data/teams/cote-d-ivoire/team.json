@@ -313,7 +313,15 @@
       "compScope": "internationale",
       "compImportance": "mineur",
       "participantCount": 8,
-      "cmfPoints": -1.5
+      "cmfPoints": -1.5,
+      "cards": [
+        {
+          "minute": 23,
+          "playerId": "14259458-87a1-4f2c-9ac8-a884be29ea29",
+          "playerName": "Issiaka Diomandé",
+          "type": "yellow"
+        }
+      ]
     },
     {
       "matchId": "i1koh10fmqvegaw8",
