@@ -43,5 +43,24 @@
   },
   "jerseyColor": "#36964e",
   "publishedAt": "2026-06-21T09:39:29.369Z",
-  "compHistory": []
+  "compHistory": [],
+  "recentMatches": [
+    {
+      "matchId": "5v9gs11tmquxei3l",
+      "playedAt": "2026-06-26T13:27:58.672Z",
+      "opponentSlug": "ugp",
+      "opponentName": "UGP",
+      "homeTeamId": "292037a2-3b7a-40e7-b9fa-37a11d157341",
+      "awayTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 1,
+      "opponentStrength": 65,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 6
+    }
+  ]
 }
