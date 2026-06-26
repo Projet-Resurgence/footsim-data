@@ -279,7 +279,38 @@
       "compScope": "internationale",
       "compImportance": "prestige",
       "participantCount": 48,
-      "cmfPoints": 18.2
+      "cmfPoints": 18.2,
+      "scorers": [
+        {
+          "minute": 6,
+          "playerId": "48c23223-9363-4a29-a7d0-d04b8be6bfde",
+          "playerName": "Kilima Kigwangalla",
+          "assistId": "0d76b8fe-76c5-4c18-88ac-565369944291",
+          "assistName": "Honest Warioba"
+        },
+        {
+          "minute": 35,
+          "playerId": "dbc0de06-7355-4358-afa9-ca2200500ea7",
+          "playerName": "Omar Jumanne",
+          "assistId": "3ad7f7fc-6c82-4c2e-a421-e0c60a674725",
+          "assistName": "Hamisi Issa"
+        },
+        {
+          "minute": 47,
+          "playerId": "dbc0de06-7355-4358-afa9-ca2200500ea7",
+          "playerName": "Omar Jumanne",
+          "assistId": "f957270c-e47a-471d-8390-43df1e7264ea",
+          "assistName": "Zuberi Ally"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 19,
+          "playerId": "feacf042-11f7-416b-b4ce-b6635ffd6caf",
+          "playerName": "Honest Pinda",
+          "type": "yellow"
+        }
+      ]
     },
     {
       "matchId": "fyfwjj72mqvcmc3w",
@@ -296,7 +327,34 @@
       "compScope": "internationale",
       "compImportance": "prestige",
       "participantCount": 48,
-      "cmfPoints": 17.7
+      "cmfPoints": 17.7,
+      "scorers": [
+        {
+          "minute": 58,
+          "playerId": "11e5f470-946f-4760-8639-f3cb41cc4d42",
+          "playerName": "Abdallah Nagu"
+        },
+        {
+          "minute": 62,
+          "playerId": "dbc0de06-7355-4358-afa9-ca2200500ea7",
+          "playerName": "Omar Jumanne"
+        },
+        {
+          "minute": 91,
+          "playerId": "3ad7f7fc-6c82-4c2e-a421-e0c60a674725",
+          "playerName": "Hamisi Issa",
+          "assistId": "0d76b8fe-76c5-4c18-88ac-565369944291",
+          "assistName": "Honest Warioba"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 51,
+          "playerId": "11e5f470-946f-4760-8639-f3cb41cc4d42",
+          "playerName": "Abdallah Nagu",
+          "type": "yellow"
+        }
+      ]
     },
     {
       "matchId": "40yswr6tmqvcmc3w",
@@ -313,7 +371,42 @@
       "compScope": "internationale",
       "compImportance": "prestige",
       "participantCount": 48,
-      "cmfPoints": 17
+      "cmfPoints": 17,
+      "scorers": [
+        {
+          "minute": 37,
+          "playerId": "dbc0de06-7355-4358-afa9-ca2200500ea7",
+          "playerName": "Omar Jumanne"
+        },
+        {
+          "minute": 39,
+          "playerId": "3ad7f7fc-6c82-4c2e-a421-e0c60a674725",
+          "playerName": "Hamisi Issa",
+          "assistId": "99d9426f-6812-47ea-b210-871def28ad79",
+          "assistName": "Paulo Ally"
+        },
+        {
+          "minute": 49,
+          "playerId": "11e5f470-946f-4760-8639-f3cb41cc4d42",
+          "playerName": "Abdallah Nagu",
+          "assistId": "48c23223-9363-4a29-a7d0-d04b8be6bfde",
+          "assistName": "Kilima Kigwangalla"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 25,
+          "playerId": "dbc0de06-7355-4358-afa9-ca2200500ea7",
+          "playerName": "Omar Jumanne",
+          "type": "yellow"
+        },
+        {
+          "minute": 33,
+          "playerId": "3ad7f7fc-6c82-4c2e-a421-e0c60a674725",
+          "playerName": "Hamisi Issa",
+          "type": "yellow"
+        }
+      ]
     },
     {
       "matchId": "fxeyt4kumqtxfrh1",
