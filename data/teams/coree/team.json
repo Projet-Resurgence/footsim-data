@@ -43,7 +43,44 @@
     "overall": 61
   },
   "jerseyColor": "#fafafa",
-  "publishedAt": "2026-06-21T13:16:05.811Z",
+  "publishedAt": "2026-06-26T18:19:22.400Z",
   "compHistory": [],
-  "recentMatches": []
+  "recentMatches": [],
+  "savedTactics": [
+    {
+      "style": "possession",
+      "formation": "4-3-3",
+      "lineup": [
+        "3930ddd3-95f5-4b54-b370-f6b081c2b1cd",
+        "dd61da77-60c1-4560-9202-c8c8518e4fce",
+        "2af0adff-2fc7-434f-98fe-2662e746d8ca",
+        "71a4871a-8e52-43d6-a672-3e987c613cae",
+        "d89f2eda-c882-40cc-92d6-3c68099156da",
+        "85687546-17f3-43a1-9449-faec0f9fac22",
+        "5593d2ad-b0bc-41d5-aeaa-d11bfdc4ab5c",
+        "e941b3c8-6848-49a4-b71d-a84ad776aac1",
+        "837adf66-97e0-4ed1-8edc-47bf6361febc",
+        "f1c10d3c-bb26-4489-9639-780e72a2bf20",
+        "b864885a-5a49-41ac-9411-6d506994384f"
+      ],
+      "bench": [
+        "aba3bc14-b68e-4b6a-b033-0dd832f503f2",
+        "a45790d5-43a9-402f-9876-9b06bd1e77cb",
+        "9d4fc665-e7e4-48f2-a1d6-a3e9a1f180e2",
+        "aa252f78-5296-4ed5-8bbc-a2ffc457addd",
+        "40de30d2-e9f2-4f62-8179-d506aba2bf09",
+        "1d64145e-c37d-45f2-92a0-9763798e07bd",
+        "248e6fbe-b4a1-4313-a094-cd4743085aba",
+        "3bba2739-de51-4213-8193-73d7b4143b67",
+        "6b9eb89e-0a83-4e61-8687-51f0bc2b90d6",
+        "bb905e77-e8a0-4853-866e-12f17c697121",
+        "ffa03a91-6714-4e86-8516-d6c05263ce8b",
+        "bb0daa17-1d7b-48b8-b46e-088d40f99d1d"
+      ],
+      "customStyles": [],
+      "id": "1872af3f-1399-421a-a533-75731ad86fb9",
+      "name": "Tactique 1"
+    }
+  ],
+  "activeTacticId": "1872af3f-1399-421a-a533-75731ad86fb9"
 }
