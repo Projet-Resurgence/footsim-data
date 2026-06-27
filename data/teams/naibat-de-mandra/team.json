@@ -69,6 +69,78 @@
   },
   "recentMatches": [
     {
+      "matchId": "aui3dkbomqvcmc3w",
+      "playedAt": "2026-06-27T20:13:41.292Z",
+      "opponentSlug": "crpac",
+      "opponentName": "CRPAC",
+      "homeTeamId": "fe2670d9-24c9-421f-8687-cd461e79e679",
+      "awayTeamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.5,
+      "scorers": [
+        {
+          "minute": 70,
+          "playerId": "917d1a12-cb85-4195-9195-d3b5c809b3ce",
+          "playerName": "Bereket Urge",
+          "assistId": "ddcf4415-aac3-4f61-a721-4354fbda0d30",
+          "assistName": "Bereket Demissie"
+        },
+        {
+          "minute": 80,
+          "playerId": "ddcf4415-aac3-4f61-a721-4354fbda0d30",
+          "playerName": "Bereket Demissie",
+          "assistId": "6922161b-41d1-4dc0-9ee2-6d48486869a3",
+          "assistName": "Getachew Kebede"
+        }
+      ]
+    },
+    {
+      "matchId": "yhj7cfh9mqvcmc3w",
+      "playedAt": "2026-06-27T20:08:47.142Z",
+      "opponentSlug": "cascadie",
+      "opponentName": "Cascadie",
+      "homeTeamId": "fe2670d9-24c9-421f-8687-cd461e79e679",
+      "awayTeamId": "e5bac765-f354-41a2-b940-1e97fba04c20",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 1,
+      "opponentStrength": 62,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.4,
+      "scorers": [
+        {
+          "minute": 18,
+          "playerId": "ddcf4415-aac3-4f61-a721-4354fbda0d30",
+          "playerName": "Bereket Demissie"
+        },
+        {
+          "minute": 46,
+          "playerId": "917d1a12-cb85-4195-9195-d3b5c809b3ce",
+          "playerName": "Bereket Urge",
+          "assistId": "0cc252be-56fa-44af-aeec-873e92364a44",
+          "assistName": "Dereje Gebremichael"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 91,
+          "playerId": "917d1a12-cb85-4195-9195-d3b5c809b3ce",
+          "playerName": "Bereket Urge",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "pk9kdh2umqvcmc3w",
       "playedAt": "2026-06-27T11:24:06.245Z",
       "opponentSlug": "atlantique",
