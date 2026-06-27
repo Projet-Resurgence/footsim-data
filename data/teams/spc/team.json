@@ -18,7 +18,7 @@
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-27T03:27:46.168Z",
+  "publishedAt": "2026-06-27T13:28:53.801Z",
   "tactics": {
     "style": "ultra-defensif",
     "formation": "5-4-1",
@@ -1004,9 +1004,101 @@
       "activeCustomStyleId": "dbbcca9d-3c25-43f3-a79d-079a50f5e2cb",
       "id": "84b6a804-2988-4821-98bb-ae0a945da9a9",
       "name": "Cash pistache demon wallah"
+    },
+    {
+      "style": "possession",
+      "formation": "5-3-2",
+      "lineup": [
+        "0663f1b8-69bb-449e-8716-a18823b621f5",
+        "ca9c5a39-cb56-48f5-aa79-1e74ddd5c510",
+        "d67a8844-1344-4fb1-8591-041530e2623c",
+        "56b5c9fc-f1bf-4162-a82c-24957496ec42",
+        "ffa861cb-7634-46c1-b96e-231a8ac43aec",
+        "91d1ad6f-2a74-44d8-8cf9-276014c0fbdd",
+        "4ef345a9-c2fd-4920-ab92-5124797d4e7d",
+        "2caa7860-2d4a-42f0-a5cf-7763cd065ab7",
+        "1eb6cdb3-28c8-4792-8b45-f820be065dd9",
+        "b922c816-b6dd-47bd-9306-89ee6209ae7d",
+        "bb6f1b5f-707a-4b14-8605-43359faeafc1"
+      ],
+      "positionMap": {
+        "0663f1b8-69bb-449e-8716-a18823b621f5": "GK",
+        "b922c816-b6dd-47bd-9306-89ee6209ae7d": "ST",
+        "bb6f1b5f-707a-4b14-8605-43359faeafc1": "ST",
+        "1eb6cdb3-28c8-4792-8b45-f820be065dd9": "RM",
+        "4ef345a9-c2fd-4920-ab92-5124797d4e7d": "LM",
+        "2caa7860-2d4a-42f0-a5cf-7763cd065ab7": "CM",
+        "91d1ad6f-2a74-44d8-8cf9-276014c0fbdd": "RB",
+        "ca9c5a39-cb56-48f5-aa79-1e74ddd5c510": "LB",
+        "d67a8844-1344-4fb1-8591-041530e2623c": "CB",
+        "ffa861cb-7634-46c1-b96e-231a8ac43aec": "CB",
+        "56b5c9fc-f1bf-4162-a82c-24957496ec42": "CB"
+      },
+      "tokenPositions": {
+        "0663f1b8-69bb-449e-8716-a18823b621f5": {
+          "x": 50,
+          "y": 88
+        },
+        "b922c816-b6dd-47bd-9306-89ee6209ae7d": {
+          "x": 34,
+          "y": 20
+        },
+        "bb6f1b5f-707a-4b14-8605-43359faeafc1": {
+          "x": 66,
+          "y": 20
+        },
+        "1eb6cdb3-28c8-4792-8b45-f820be065dd9": {
+          "x": 76,
+          "y": 47
+        },
+        "4ef345a9-c2fd-4920-ab92-5124797d4e7d": {
+          "x": 24,
+          "y": 47
+        },
+        "2caa7860-2d4a-42f0-a5cf-7763cd065ab7": {
+          "x": 49.90944297703068,
+          "y": 49.378553426043
+        },
+        "91d1ad6f-2a74-44d8-8cf9-276014c0fbdd": {
+          "x": 94,
+          "y": 70
+        },
+        "ca9c5a39-cb56-48f5-aa79-1e74ddd5c510": {
+          "x": 6,
+          "y": 70
+        },
+        "d67a8844-1344-4fb1-8591-041530e2623c": {
+          "x": 32.784031228023395,
+          "y": 73.69392384351713
+        },
+        "ffa861cb-7634-46c1-b96e-231a8ac43aec": {
+          "x": 68.99692355703976,
+          "y": 73.37346291904616
+        },
+        "56b5c9fc-f1bf-4162-a82c-24957496ec42": {
+          "x": 49.72832893109206,
+          "y": 77.80712021666157
+        }
+      },
+      "customStyles": [
+        {
+          "id": "656d53a7-69e6-4691-b3cd-c5992c18ef4b",
+          "name": "Haramball",
+          "mods": {
+            "shotFreqMult": 1.15,
+            "foulRateMult": 0.8,
+            "midfieldMult": 1,
+            "attackMult": 1,
+            "defenseMult": 1.25
+          }
+        }
+      ],
+      "activeCustomStyleId": "656d53a7-69e6-4691-b3cd-c5992c18ef4b",
+      "id": "9ab5a2b9-684d-4d5c-8de3-cae8646d48cc",
+      "name": "La voix de Mao"
     }
   ],
-  "activeTacticId": "842e9fca-daf3-416c-ab04-75520a6b2daa",
+  "activeTacticId": "9ab5a2b9-684d-4d5c-8de3-cae8646d48cc",
   "compHistory": [
     {
       "compId": "qtebnbbpzeomqpngrdv",
