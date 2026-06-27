@@ -25,7 +25,7 @@
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-27T03:26:17.026Z",
+  "publishedAt": "2026-06-27T10:47:12.496Z",
   "managerDiscordId": "1477619366890573926",
   "compHistory": [
     {
@@ -298,10 +298,103 @@
       "activeCustomStyleId": "235b7ead-e342-4068-b3a0-37d763f366f4",
       "id": "057f72b8-d4e3-4a9b-8647-6f9216c8a8e9",
       "name": "Djihad "
+    },
+    {
+      "style": "possession",
+      "formation": "4-3-3",
+      "lineup": [
+        "85083795-e4c9-4c40-84a9-9e310531f7bc",
+        "348fcc0d-a16d-4c67-b78c-04da4bccbd70",
+        "66936b5b-0953-4bae-bbd5-92aff2d774a0",
+        "96c29aa9-3f0a-4cac-910c-2effd9ff3ed0",
+        "56d3b142-f548-4fad-9894-77cad156e7ac",
+        "a9845c59-12ee-4a24-ae10-571725c54d42",
+        "6fcb834b-f8d5-452b-b759-dc9e0ae2317a",
+        "89f75ad1-d901-4839-81c6-240a311c715e",
+        "2047d47b-b47e-4d9b-b80e-06f3ea7fa330",
+        "75811d88-67bf-455a-98de-a3469da03099",
+        "dbef5bfc-f6f6-4693-9c47-0566d870f06e"
+      ],
+      "formationLabel": "4-2-4",
+      "positionMap": {
+        "6fcb834b-f8d5-452b-b759-dc9e0ae2317a": "CM",
+        "89f75ad1-d901-4839-81c6-240a311c715e": "CM",
+        "66936b5b-0953-4bae-bbd5-92aff2d774a0": "CB",
+        "96c29aa9-3f0a-4cac-910c-2effd9ff3ed0": "CB",
+        "56d3b142-f548-4fad-9894-77cad156e7ac": "RB",
+        "348fcc0d-a16d-4c67-b78c-04da4bccbd70": "LB",
+        "85083795-e4c9-4c40-84a9-9e310531f7bc": "GK",
+        "75811d88-67bf-455a-98de-a3469da03099": "ST",
+        "2047d47b-b47e-4d9b-b80e-06f3ea7fa330": "RW",
+        "dbef5bfc-f6f6-4693-9c47-0566d870f06e": "ST",
+        "a9845c59-12ee-4a24-ae10-571725c54d42": "LW"
+      },
+      "tokenPositions": {
+        "6fcb834b-f8d5-452b-b759-dc9e0ae2317a": {
+          "x": 34,
+          "y": 49
+        },
+        "89f75ad1-d901-4839-81c6-240a311c715e": {
+          "x": 66,
+          "y": 49
+        },
+        "66936b5b-0953-4bae-bbd5-92aff2d774a0": {
+          "x": 34,
+          "y": 72
+        },
+        "96c29aa9-3f0a-4cac-910c-2effd9ff3ed0": {
+          "x": 66,
+          "y": 72
+        },
+        "56d3b142-f548-4fad-9894-77cad156e7ac": {
+          "x": 88,
+          "y": 70
+        },
+        "348fcc0d-a16d-4c67-b78c-04da4bccbd70": {
+          "x": 12,
+          "y": 70
+        },
+        "85083795-e4c9-4c40-84a9-9e310531f7bc": {
+          "x": 50,
+          "y": 88
+        },
+        "75811d88-67bf-455a-98de-a3469da03099": {
+          "x": 37.65853658536586,
+          "y": 14.451113778844874
+        },
+        "2047d47b-b47e-4d9b-b80e-06f3ea7fa330": {
+          "x": 88.03658536585365,
+          "y": 21.18847539015606
+        },
+        "dbef5bfc-f6f6-4693-9c47-0566d870f06e": {
+          "x": 63.25609756097561,
+          "y": 14.451113778844874
+        },
+        "a9845c59-12ee-4a24-ae10-571725c54d42": {
+          "x": 12.878048780487806,
+          "y": 21.18847539015606
+        }
+      },
+      "customStyles": [
+        {
+          "id": "617de066-6a32-4c3a-96e0-bae3e0ec2bba",
+          "name": "Nsm",
+          "mods": {
+            "shotFreqMult": 1,
+            "foulRateMult": 1,
+            "midfieldMult": 1,
+            "attackMult": 1.15,
+            "defenseMult": 1.15
+          }
+        }
+      ],
+      "activeCustomStyleId": "617de066-6a32-4c3a-96e0-bae3e0ec2bba",
+      "id": "9fb43f9f-abb9-43d1-9bad-02fccb9f4755",
+      "name": "Blitzkrieg"
     }
   ],
   "jerseyColor": "#b10606",
-  "activeTacticId": "057f72b8-d4e3-4a9b-8647-6f9216c8a8e9",
+  "activeTacticId": "9fb43f9f-abb9-43d1-9bad-02fccb9f4755",
   "actionFoot": {
     "rating": 5,
     "funding": 100
