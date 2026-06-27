@@ -1048,6 +1048,18 @@
       "result": "semi",
       "phase": "3rd",
       "participantCount": 16
+    },
+    {
+      "compId": "loennthhwl9mqwvirdm",
+      "compName": "Coupe Cheeseburger",
+      "year": 2308,
+      "format": "groups_knockout",
+      "kind": "amicale",
+      "scope": "internationale",
+      "importance": "mineur",
+      "result": "participant",
+      "phase": "group",
+      "participantCount": 16
     }
   ],
   "injuries": [],
