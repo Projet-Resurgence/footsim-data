@@ -47,6 +47,108 @@
   "suspensions": [],
   "recentMatches": [
     {
+      "matchId": "vaqujh0umqvcmc3w",
+      "playedAt": "2026-06-27T11:24:06.246Z",
+      "opponentSlug": "fsta",
+      "opponentName": "FSTA",
+      "homeTeamId": "4ba08162-cd67-4fe4-98d0-92064194885b",
+      "awayTeamId": "2256fe5a-993b-4007-8191-47ebe93a3e70",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.2,
+      "cards": [
+        {
+          "minute": 24,
+          "playerId": "a4f42db1-b68e-4250-9144-ba2c0fea8bcc",
+          "playerName": "Valentim Pinto",
+          "type": "red"
+        },
+        {
+          "minute": 57,
+          "playerId": "d5e30191-1f20-4738-a8fc-81677d6930b5",
+          "playerName": "Domingos Pinto",
+          "type": "yellow"
+        },
+        {
+          "minute": 94,
+          "playerId": "d5e30191-1f20-4738-a8fc-81677d6930b5",
+          "playerName": "Domingos Pinto",
+          "type": "red"
+        }
+      ]
+    },
+    {
+      "matchId": "azdpjz04mqvcmc3w",
+      "playedAt": "2026-06-27T11:14:38.785Z",
+      "opponentSlug": "italie",
+      "opponentName": "Italie",
+      "homeTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "awayTeamId": "2256fe5a-993b-4007-8191-47ebe93a3e70",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 3,
+      "opponentStrength": 62,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -5.8,
+      "scorers": [
+        {
+          "minute": 53,
+          "playerId": "a9512eea-4eca-4aca-9bb3-01f275cc17dc",
+          "playerName": "Eduardo Ramos",
+          "assistId": "fc27f8d0-136b-48fc-9756-14fe1bd17f54",
+          "assistName": "Eduardo Gomes"
+        },
+        {
+          "minute": 84,
+          "playerId": "fc27f8d0-136b-48fc-9756-14fe1bd17f54",
+          "playerName": "Eduardo Gomes"
+        }
+      ]
+    },
+    {
+      "matchId": "wb8dxti4mqvcmc3w",
+      "playedAt": "2026-06-27T11:08:16.884Z",
+      "opponentSlug": "nordrise",
+      "opponentName": "Nordrise",
+      "homeTeamId": "e601e0d9-7e45-4c53-bb41-16ccd12e9a06",
+      "awayTeamId": "2256fe5a-993b-4007-8191-47ebe93a3e70",
+      "homeAway": "away",
+      "scoreFor": 3,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.5,
+      "scorers": [
+        {
+          "minute": 14,
+          "playerId": "6c8e6b14-46e7-4a7a-a519-8849b32a74fb",
+          "playerName": "Gil Caldeira"
+        },
+        {
+          "minute": 53,
+          "playerId": "a9512eea-4eca-4aca-9bb3-01f275cc17dc",
+          "playerName": "Eduardo Ramos"
+        },
+        {
+          "minute": 83,
+          "playerId": "a9512eea-4eca-4aca-9bb3-01f275cc17dc",
+          "playerName": "Eduardo Ramos"
+        }
+      ]
+    },
+    {
       "matchId": "o4q83wosmqvcmc3w",
       "playedAt": "2026-06-26T20:08:37.385Z",
       "opponentSlug": "fclc",
