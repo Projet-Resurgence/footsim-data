@@ -3,9 +3,10 @@
     "id": "rfe669lbjfmqwu11n7",
     "name": "Couscoupe",
     "format": "groups_knockout",
-    "status": "ongoing",
+    "status": "completed",
     "teamCount": 16,
     "createdAt": "2026-06-27T20:48:25.747Z",
+    "winner": "8893e441-b5b6-49ea-b439-9c327b38d7c5",
     "year": 2308,
     "teamIds": [
       "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
