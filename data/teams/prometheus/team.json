@@ -499,6 +499,102 @@
       ]
     },
     {
+      "matchId": "fk2i9b2xmqwv07xr",
+      "playedAt": "2026-06-27T21:19:36.700Z",
+      "opponentSlug": "spc",
+      "opponentName": "SPC",
+      "homeTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "awayTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 3,
+      "opponentStrength": 63,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 49,
+          "playerId": "83d77c6f-a467-4aac-a746-fb82f51b6195",
+          "playerName": "Ruslan Kuznetsov"
+        },
+        {
+          "minute": 77,
+          "playerId": "da579017-cf8b-482c-b9d5-ec411cd825ff",
+          "playerName": "Mikhail Ivanov"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 27,
+          "playerId": "688b0471-9199-4c65-9d73-a408fa96f582",
+          "playerName": "Eldar Antonov",
+          "type": "yellow"
+        },
+        {
+          "minute": 39,
+          "playerId": "583bc92f-9710-4786-99b3-cde0063bc207",
+          "playerName": "Boris Frolov",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "x3ccjl6emqwv07xr",
+      "playedAt": "2026-06-27T21:18:05.103Z",
+      "opponentSlug": "5eme-internationale",
+      "opponentName": "5ème Internationale",
+      "homeTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "awayTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 13,
+          "playerId": "4d38741c-7eaa-48e6-9239-632e339aa1cc",
+          "playerName": "Kirill Davydov"
+        }
+      ]
+    },
+    {
+      "matchId": "hdtpy8z3mqwv07xr",
+      "playedAt": "2026-06-27T21:16:57.100Z",
+      "opponentSlug": "nouvelle-californie",
+      "opponentName": "Nouvelle Californie",
+      "homeTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "awayTeamId": "8893e441-b5b6-49ea-b439-9c327b38d7c5",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2,
+      "scorers": [
+        {
+          "minute": 43,
+          "playerId": "b57ca962-753d-4797-bf41-a7b0fa40ae61",
+          "playerName": "Roman Tsvetkov"
+        },
+        {
+          "minute": 66,
+          "playerId": "83d77c6f-a467-4aac-a746-fb82f51b6195",
+          "playerName": "Ruslan Kuznetsov"
+        }
+      ]
+    },
+    {
       "matchId": "96vp3mr3mqwu11n7",
       "playedAt": "2026-06-27T20:56:59.072Z",
       "opponentSlug": "deseret",
