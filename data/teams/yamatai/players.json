@@ -16321,7 +16321,7 @@
         "passing": 15,
         "crossing": 20,
         "dribbling": 20,
-        "finishing": 11,
+        "finishing": 14,
         "firstTouch": 12,
         "heading": 13,
         "longShots": 20,
@@ -16348,7 +16348,7 @@
       },
       "goalkeeping": null
     },
-    "overall": 91
+    "overall": 92
   },
   {
     "id": "efab1044-6e12-4ab5-8353-5b9f7b0facab",
