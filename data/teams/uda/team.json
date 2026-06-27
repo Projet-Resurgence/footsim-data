@@ -25,7 +25,7 @@
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-27T10:47:12.496Z",
+  "publishedAt": "2026-06-27T20:44:04.705Z",
   "managerDiscordId": "1477619366890573926",
   "compHistory": [
     {
@@ -403,10 +403,98 @@
       "activeCustomStyleId": "617de066-6a32-4c3a-96e0-bae3e0ec2bba",
       "id": "9fb43f9f-abb9-43d1-9bad-02fccb9f4755",
       "name": "Blitzkrieg"
+    },
+    {
+      "style": "possession",
+      "formation": "4-3-3",
+      "lineup": [
+        "85083795-e4c9-4c40-84a9-9e310531f7bc",
+        "348fcc0d-a16d-4c67-b78c-04da4bccbd70",
+        "66936b5b-0953-4bae-bbd5-92aff2d774a0",
+        "dbef5bfc-f6f6-4693-9c47-0566d870f06e",
+        "56d3b142-f548-4fad-9894-77cad156e7ac",
+        "6fcb834b-f8d5-452b-b759-dc9e0ae2317a",
+        "6bbee6a8-ed08-41f0-9c78-f90d4b8233ef",
+        "89f75ad1-d901-4839-81c6-240a311c715e",
+        "a9845c59-12ee-4a24-ae10-571725c54d42",
+        "75811d88-67bf-455a-98de-a3469da03099",
+        "2047d47b-b47e-4d9b-b80e-06f3ea7fa330"
+      ],
+      "formationLabel": "3-3-4",
+      "positionMap": {
+        "6fcb834b-f8d5-452b-b759-dc9e0ae2317a": "CM",
+        "6bbee6a8-ed08-41f0-9c78-f90d4b8233ef": "AM",
+        "89f75ad1-d901-4839-81c6-240a311c715e": "CM",
+        "a9845c59-12ee-4a24-ae10-571725c54d42": "LW",
+        "75811d88-67bf-455a-98de-a3469da03099": "ST",
+        "2047d47b-b47e-4d9b-b80e-06f3ea7fa330": "RW",
+        "dbef5bfc-f6f6-4693-9c47-0566d870f06e": "ST",
+        "56d3b142-f548-4fad-9894-77cad156e7ac": "RB",
+        "66936b5b-0953-4bae-bbd5-92aff2d774a0": "CB",
+        "85083795-e4c9-4c40-84a9-9e310531f7bc": "GK"
+      },
+      "tokenPositions": {
+        "6fcb834b-f8d5-452b-b759-dc9e0ae2317a": {
+          "x": 37.853658536585364,
+          "y": 50.21341870081366
+        },
+        "6bbee6a8-ed08-41f0-9c78-f90d4b8233ef": {
+          "x": 50,
+          "y": 33.34120314792584
+        },
+        "89f75ad1-d901-4839-81c6-240a311c715e": {
+          "x": 61.84146341463415,
+          "y": 49.35974389755902
+        },
+        "a9845c59-12ee-4a24-ae10-571725c54d42": {
+          "x": 12,
+          "y": 23
+        },
+        "75811d88-67bf-455a-98de-a3469da03099": {
+          "x": 60.97560975609756,
+          "y": 19.49393090569561
+        },
+        "2047d47b-b47e-4d9b-b80e-06f3ea7fa330": {
+          "x": 88,
+          "y": 23
+        },
+        "dbef5bfc-f6f6-4693-9c47-0566d870f06e": {
+          "x": 40.39024390243903,
+          "y": 19.712418300653596
+        },
+        "56d3b142-f548-4fad-9894-77cad156e7ac": {
+          "x": 88,
+          "y": 70
+        },
+        "66936b5b-0953-4bae-bbd5-92aff2d774a0": {
+          "x": 51.07317073170732,
+          "y": 76.26837401627317
+        },
+        "85083795-e4c9-4c40-84a9-9e310531f7bc": {
+          "x": 50,
+          "y": 88
+        }
+      },
+      "customStyles": [
+        {
+          "id": "750d482a-3224-4f99-a08c-61c54b510155",
+          "name": "Couscoupe",
+          "mods": {
+            "shotFreqMult": 1.1,
+            "foulRateMult": 1,
+            "midfieldMult": 1,
+            "attackMult": 1.15,
+            "defenseMult": 1.05
+          }
+        }
+      ],
+      "activeCustomStyleId": "750d482a-3224-4f99-a08c-61c54b510155",
+      "id": "0f906c8e-81b8-4b8f-a082-fa81eece7140",
+      "name": "Couscoupe"
     }
   ],
   "jerseyColor": "#b10606",
-  "activeTacticId": "9fb43f9f-abb9-43d1-9bad-02fccb9f4755",
+  "activeTacticId": "0f906c8e-81b8-4b8f-a082-fa81eece7140",
   "actionFoot": {
     "rating": 5,
     "funding": 100
