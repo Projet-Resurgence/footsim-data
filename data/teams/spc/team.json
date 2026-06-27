@@ -38,6 +38,48 @@
   },
   "recentMatches": [
     {
+      "matchId": "ivf6drfymqvcmc3w",
+      "playedAt": "2026-06-27T20:13:41.293Z",
+      "opponentSlug": "fsta",
+      "opponentName": "FSTA",
+      "homeTeamId": "4ba08162-cd67-4fe4-98d0-92064194885b",
+      "awayTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 5.7,
+      "cards": [
+        {
+          "minute": 50,
+          "playerId": "2a40f2a8-21e7-4d78-a889-fce6f644ca00",
+          "playerName": "Ping Cai",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "wst0z73xmqvcmc3w",
+      "playedAt": "2026-06-27T20:02:57.392Z",
+      "opponentSlug": "italie",
+      "opponentName": "Italie",
+      "homeTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "awayTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 2,
+      "opponentStrength": 62,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.3
+    },
+    {
       "matchId": "h03ggdqhmqvcmc3w",
       "playedAt": "2026-06-27T11:24:06.249Z",
       "opponentSlug": "nordrise",
