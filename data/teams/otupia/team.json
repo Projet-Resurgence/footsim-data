@@ -49,6 +49,54 @@
   "publishedAt": "2026-06-21T21:21:29.457Z",
   "recentMatches": [
     {
+      "matchId": "5n2i8r8dmqvcmc3w",
+      "playedAt": "2026-06-27T20:13:41.305Z",
+      "opponentSlug": "livonie",
+      "opponentName": "Livonie",
+      "homeTeamId": "ca4a42a7-44f6-40eb-a405-f2996edb1a56",
+      "awayTeamId": "6c4e5ecf-662a-43d5-9795-b038fe6e2072",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 6,
+      "opponentStrength": 61,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -7.7,
+      "cards": [
+        {
+          "minute": 10,
+          "playerId": "7f45e8f4-4d8c-4f8c-8d08-6f304bc668b8",
+          "playerName": "Jhon Urrego",
+          "type": "yellow"
+        },
+        {
+          "minute": 12,
+          "playerId": "c4d90be2-ffd1-4e5e-99c8-91571ec4ef07",
+          "playerName": "Renato Reyes",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "jmahq6hvmqvcmc3w",
+      "playedAt": "2026-06-27T20:08:47.152Z",
+      "opponentSlug": "serbie",
+      "opponentName": "Serbie",
+      "homeTeamId": "ca4a42a7-44f6-40eb-a405-f2996edb1a56",
+      "awayTeamId": "b88bacc7-be39-4426-9106-7263eec6a6e9",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.2
+    },
+    {
       "matchId": "lgx7nvrwmqvcmc3w",
       "playedAt": "2026-06-27T11:24:06.261Z",
       "opponentSlug": "5eme-internationale",
