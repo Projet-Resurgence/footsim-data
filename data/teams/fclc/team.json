@@ -11,6 +11,212 @@
   "formation": "4-3-3",
   "recentMatches": [
     {
+      "matchId": "jj07onigmqwt6yer",
+      "playedAt": "2026-06-27T20:35:50.022Z",
+      "opponentSlug": "empire-hussein",
+      "opponentName": "Empire Hussein",
+      "homeTeamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "awayTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 3,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.2,
+      "scorers": [
+        {
+          "minute": 19,
+          "playerId": "5f32168a-14df-4d52-a989-1b39439b3517",
+          "playerName": "Jhon Torres"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 28,
+          "playerId": "8e6ca1f6-ba3e-431b-8b80-2cc45318e0a9",
+          "playerName": "Gustavo Romero",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "67gb9xi3mqwt6yer",
+      "playedAt": "2026-06-27T20:34:40.275Z",
+      "opponentSlug": "5eme-internationale",
+      "opponentName": "5ème Internationale",
+      "homeTeamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "awayTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "homeAway": "home",
+      "scoreFor": 4,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.5,
+      "scorers": [
+        {
+          "minute": 2,
+          "playerId": "8e6ca1f6-ba3e-431b-8b80-2cc45318e0a9",
+          "playerName": "Gustavo Romero",
+          "assistId": "154edfa8-6176-460e-bc7d-9264ee047feb",
+          "assistName": "José Delgado"
+        },
+        {
+          "minute": 45,
+          "playerId": "8e6ca1f6-ba3e-431b-8b80-2cc45318e0a9",
+          "playerName": "Gustavo Romero"
+        },
+        {
+          "minute": 57,
+          "playerId": "8e6ca1f6-ba3e-431b-8b80-2cc45318e0a9",
+          "playerName": "Gustavo Romero",
+          "assistId": "d1f33281-0c4a-44f2-8485-bd164cce0749",
+          "assistName": "Barry Grant"
+        },
+        {
+          "minute": 93,
+          "playerId": "5f32168a-14df-4d52-a989-1b39439b3517",
+          "playerName": "Jhon Torres"
+        }
+      ]
+    },
+    {
+      "matchId": "dodmq2j8mqwt6yer",
+      "playedAt": "2026-06-27T20:33:33.178Z",
+      "opponentSlug": "italie",
+      "opponentName": "Italie",
+      "homeTeamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "awayTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 1,
+      "opponentStrength": 63,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.1,
+      "scorers": [
+        {
+          "minute": 15,
+          "playerId": "8e6ca1f6-ba3e-431b-8b80-2cc45318e0a9",
+          "playerName": "Gustavo Romero",
+          "assistId": "d1f33281-0c4a-44f2-8485-bd164cce0749",
+          "assistName": "Barry Grant"
+        },
+        {
+          "minute": 95,
+          "playerId": "d1f33281-0c4a-44f2-8485-bd164cce0749",
+          "playerName": "Barry Grant",
+          "assistId": "aca08af0-9097-4f69-99df-b10b11993d02",
+          "assistName": "Tomás Martínez"
+        }
+      ]
+    },
+    {
+      "matchId": "aojd98rnmqwt6yer",
+      "playedAt": "2026-06-27T20:31:18.105Z",
+      "opponentSlug": "antioche",
+      "opponentName": "Antioche",
+      "homeTeamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "awayTeamId": "8451e643-10d4-48bc-a4e6-4c12255695f4",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2,
+      "scorers": [
+        {
+          "minute": 21,
+          "playerId": "6117cfe3-e989-4194-a74c-cc457a0c667b",
+          "playerName": "Abelardo Valdés",
+          "assistId": "2745c3e9-6503-4baf-9a01-eb85f9179853",
+          "assistName": "Rafael Medina"
+        }
+      ]
+    },
+    {
+      "matchId": "jpyt6tz0mqwt6yer",
+      "playedAt": "2026-06-27T20:29:21.257Z",
+      "opponentSlug": "cote-d-ivoire",
+      "opponentName": "Côte d'Ivoire",
+      "homeTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "awayTeamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "homeAway": "away",
+      "scoreFor": 3,
+      "scoreAgainst": 2,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.1,
+      "scorers": [
+        {
+          "minute": 28,
+          "playerId": "5f32168a-14df-4d52-a989-1b39439b3517",
+          "playerName": "Jhon Torres",
+          "assistId": "aca08af0-9097-4f69-99df-b10b11993d02",
+          "assistName": "Tomás Martínez"
+        },
+        {
+          "minute": 31,
+          "playerId": "d1f33281-0c4a-44f2-8485-bd164cce0749",
+          "playerName": "Barry Grant",
+          "assistId": "5f32168a-14df-4d52-a989-1b39439b3517",
+          "assistName": "Jhon Torres"
+        },
+        {
+          "minute": 41,
+          "playerId": "5f32168a-14df-4d52-a989-1b39439b3517",
+          "playerName": "Jhon Torres",
+          "assistId": "aca08af0-9097-4f69-99df-b10b11993d02",
+          "assistName": "Tomás Martínez"
+        }
+      ]
+    },
+    {
+      "matchId": "ue7t082hmqwt6yer",
+      "playedAt": "2026-06-27T20:27:10.665Z",
+      "opponentSlug": "prometheus",
+      "opponentName": "Prometheus",
+      "homeTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "awayTeamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 0,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.1,
+      "scorers": [
+        {
+          "minute": 5,
+          "playerId": "8e6ca1f6-ba3e-431b-8b80-2cc45318e0a9",
+          "playerName": "Gustavo Romero"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 48,
+          "playerId": "1ee98c54-d49e-4195-a7d7-013321c6d36c",
+          "playerName": "Carlos Molina",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "5z8snp0fmqvcmc3w",
       "playedAt": "2026-06-27T20:13:41.297Z",
       "opponentSlug": "cedre",
