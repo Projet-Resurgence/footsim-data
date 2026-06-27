@@ -22,7 +22,7 @@
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-27T03:02:49.904Z",
+  "publishedAt": "2026-06-27T22:51:27.174Z",
   "tactics": {
     "style": "pressing",
     "formation": "3-5-2",
@@ -1657,5 +1657,6 @@
     }
   ],
   "injuries": [],
-  "suspensions": []
+  "suspensions": [],
+  "matchOutcome": "loss"
 }
