@@ -44,6 +44,106 @@
   },
   "recentMatches": [
     {
+      "matchId": "bf8364symqvcmc3w",
+      "playedAt": "2026-06-27T11:24:06.260Z",
+      "opponentSlug": "yamatai",
+      "opponentName": "Yamatai",
+      "homeTeamId": "d078bb55-7f06-4ed1-b048-1dd6524ecae9",
+      "awayTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 3,
+      "opponentStrength": 63,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.4,
+      "scorers": [
+        {
+          "minute": 35,
+          "playerId": "6e107cb7-c63b-485e-91ce-4149940ba9d0",
+          "playerName": "Scott Gonzalez",
+          "assistId": "41d6c15f-0b06-4f3c-a0e1-02aad4142017",
+          "assistName": "Brandon Young"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 57,
+          "playerId": "78141ecd-8081-4be7-a019-1952fa4dc51c",
+          "playerName": "Kyle Johnson",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "fytxw35rmqvcmc3w",
+      "playedAt": "2026-06-27T11:14:38.794Z",
+      "opponentSlug": "ccb",
+      "opponentName": "CCB",
+      "homeTeamId": "d078bb55-7f06-4ed1-b048-1dd6524ecae9",
+      "awayTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 3,
+      "opponentStrength": 61,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.2,
+      "scorers": [
+        {
+          "minute": 52,
+          "playerId": "a343e8d6-6962-4f8b-8bd0-88b34666e5e3",
+          "playerName": "Quinn Lewis"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 75,
+          "playerId": "78141ecd-8081-4be7-a019-1952fa4dc51c",
+          "playerName": "Kyle Johnson",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "2e1hd2shmqvcmc3w",
+      "playedAt": "2026-06-27T11:08:16.894Z",
+      "opponentSlug": "royaume-d-asha",
+      "opponentName": "Royaume d'Asha",
+      "homeTeamId": "d078bb55-7f06-4ed1-b048-1dd6524ecae9",
+      "awayTeamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -5.7,
+      "scorers": [
+        {
+          "minute": 71,
+          "playerId": "6e107cb7-c63b-485e-91ce-4149940ba9d0",
+          "playerName": "Scott Gonzalez",
+          "assistId": "41d6c15f-0b06-4f3c-a0e1-02aad4142017",
+          "assistName": "Brandon Young"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 84,
+          "playerId": "8a62fc8e-d125-4445-8f3a-8e2ab3378a78",
+          "playerName": "Jake Brown",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "z92esg8hmqvcmc3w",
       "playedAt": "2026-06-26T20:10:31.130Z",
       "opponentSlug": "voivodine",
