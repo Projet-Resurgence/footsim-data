@@ -27,7 +27,7 @@
       "63cba1c6-27e5-4311-91d8-92b5f3fde740"
     ]
   },
-  "publishedAt": "2026-06-27T19:37:46.625Z",
+  "publishedAt": "2026-06-27T19:42:09.582Z",
   "recentMatches": [
     {
       "matchId": "j82rvm02mqvcmc3w",
@@ -1306,5 +1306,6 @@
       "roundOccurred": 5
     }
   ],
-  "matchOutcome": "loss"
+  "matchOutcome": "loss",
+  "jerseyColor": "#ea8410"
 }
