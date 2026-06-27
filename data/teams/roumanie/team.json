@@ -47,6 +47,79 @@
   "publishedAt": "2026-06-25T13:07:40.274Z",
   "recentMatches": [
     {
+      "matchId": "sk4k3zyjmqvcmc3w",
+      "playedAt": "2026-06-27T11:24:06.258Z",
+      "opponentSlug": "osmanide",
+      "opponentName": "Osmanide",
+      "homeTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "awayTeamId": "63b3d538-b5f5-44d0-83b4-5d23d3cbcb22",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -5.7
+    },
+    {
+      "matchId": "g15dr52nmqvcmc3w",
+      "playedAt": "2026-06-27T11:14:38.795Z",
+      "opponentSlug": "otupia",
+      "opponentName": "Otupia",
+      "homeTeamId": "ca4a42a7-44f6-40eb-a405-f2996edb1a56",
+      "awayTeamId": "63b3d538-b5f5-44d0-83b4-5d23d3cbcb22",
+      "homeAway": "away",
+      "scoreFor": 4,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.5,
+      "scorers": [
+        {
+          "minute": 26,
+          "playerId": "c3057f3d-7a0d-4f7c-b6bf-9b476d86068e",
+          "playerName": "Gabriel Iancu"
+        },
+        {
+          "minute": 49,
+          "playerId": "71238cab-9618-4b76-bfce-f77bb61f76d0",
+          "playerName": "Dan Coman"
+        },
+        {
+          "minute": 71,
+          "playerId": "71238cab-9618-4b76-bfce-f77bb61f76d0",
+          "playerName": "Dan Coman"
+        },
+        {
+          "minute": 81,
+          "playerId": "c3057f3d-7a0d-4f7c-b6bf-9b476d86068e",
+          "playerName": "Gabriel Iancu"
+        }
+      ]
+    },
+    {
+      "matchId": "5qkqi3lvmqvcmc3w",
+      "playedAt": "2026-06-27T11:08:16.896Z",
+      "opponentSlug": "antioche",
+      "opponentName": "Antioche",
+      "homeTeamId": "8451e643-10d4-48bc-a4e6-4c12255695f4",
+      "awayTeamId": "63b3d538-b5f5-44d0-83b4-5d23d3cbcb22",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 4,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.7
+    },
+    {
       "matchId": "p5ipu1rumqvcmc3w",
       "playedAt": "2026-06-26T20:10:31.133Z",
       "opponentSlug": "cote-d-ivoire",
