@@ -30,6 +30,115 @@
   "publishedAt": "2026-06-27T20:37:45.895Z",
   "recentMatches": [
     {
+      "matchId": "227pxzfhmqwvirdm",
+      "playedAt": "2026-06-27T21:34:37.825Z",
+      "opponentSlug": "prometheus",
+      "opponentName": "Prometheus",
+      "homeTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "awayTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 2,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.2
+    },
+    {
+      "matchId": "l94zuh7wmqwvirdm",
+      "playedAt": "2026-06-27T21:33:57.137Z",
+      "opponentSlug": "royaume-d-asha",
+      "opponentName": "Royaume d'Asha",
+      "homeTeamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "awayTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "homeAway": "away",
+      "scoreFor": 5,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 3,
+      "scorers": [
+        {
+          "minute": 8,
+          "playerId": "b7b01260-368c-4f4e-9640-837c0bc13d27",
+          "playerName": "Fabio Morelli"
+        },
+        {
+          "minute": 13,
+          "playerId": "63cba1c6-27e5-4311-91d8-92b5f3fde740",
+          "playerName": "Cristian Lombardo",
+          "assistId": "09e3768b-d2b4-4ad9-8a05-a00a01d954e2",
+          "assistName": "Donato De Angelis"
+        },
+        {
+          "minute": 61,
+          "playerId": "c6663d52-24a7-4d5a-aaea-b02fd24652d6",
+          "playerName": "Samuele De Angelis",
+          "assistId": "b7b01260-368c-4f4e-9640-837c0bc13d27",
+          "assistName": "Fabio Morelli"
+        },
+        {
+          "minute": 78,
+          "playerId": "28caef8a-9b7f-4bae-a15b-b534c7bb14af",
+          "playerName": "Filippo Grasso",
+          "assistId": "e8cb564f-f280-44e9-aaa1-7515af4c2b9a",
+          "assistName": "Fabrizio Bruno"
+        },
+        {
+          "minute": 95,
+          "playerId": "c6663d52-24a7-4d5a-aaea-b02fd24652d6",
+          "playerName": "Samuele De Angelis",
+          "assistId": "09e3768b-d2b4-4ad9-8a05-a00a01d954e2",
+          "assistName": "Donato De Angelis"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 47,
+          "playerId": "28caef8a-9b7f-4bae-a15b-b534c7bb14af",
+          "playerName": "Filippo Grasso",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "tzee96f6mqwvirdm",
+      "playedAt": "2026-06-27T21:32:08.041Z",
+      "opponentSlug": "italie",
+      "opponentName": "Italie",
+      "homeTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "awayTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 2,
+      "opponentStrength": 63,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 3,
+          "playerId": "c6663d52-24a7-4d5a-aaea-b02fd24652d6",
+          "playerName": "Samuele De Angelis"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 51,
+          "playerId": "09e3768b-d2b4-4ad9-8a05-a00a01d954e2",
+          "playerName": "Donato De Angelis",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "6v6hx45gmqwu11n7",
       "playedAt": "2026-06-27T20:54:33.993Z",
       "opponentSlug": "deseret",
