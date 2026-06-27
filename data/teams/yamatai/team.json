@@ -28,6 +28,190 @@
   },
   "recentMatches": [
     {
+      "matchId": "sjadrzobmqwvirdm",
+      "playedAt": "2026-06-27T21:36:59.149Z",
+      "opponentSlug": "italie",
+      "opponentName": "Italie",
+      "homeTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "awayTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "homeAway": "away",
+      "scoreFor": 3,
+      "scoreAgainst": 2,
+      "opponentStrength": 63,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.1,
+      "scorers": [
+        {
+          "minute": 34,
+          "playerId": "862eeced-2bf5-4be5-966b-56639fe66d10",
+          "playerName": "Yuki Okamoto"
+        },
+        {
+          "minute": 44,
+          "playerId": "efab1044-6e12-4ab5-8353-5b9f7b0facab",
+          "playerName": "Genta Miyazaki",
+          "assistId": "e43f8cb6-5b88-4154-ac5b-d1285f15d8f1",
+          "assistName": "Haruto Sakamoto"
+        },
+        {
+          "minute": 64,
+          "playerId": "862eeced-2bf5-4be5-966b-56639fe66d10",
+          "playerName": "Yuki Okamoto"
+        }
+      ]
+    },
+    {
+      "matchId": "p1a3vq0smqwvirdm",
+      "playedAt": "2026-06-27T21:36:22.643Z",
+      "opponentSlug": "prometheus",
+      "opponentName": "Prometheus",
+      "homeTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "awayTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 3,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.7
+    },
+    {
+      "matchId": "38sqg4xkmqwvirdm",
+      "playedAt": "2026-06-27T21:35:50.048Z",
+      "opponentSlug": "cote-d-ivoire",
+      "opponentName": "Côte d'Ivoire",
+      "homeTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "awayTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 0,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.1,
+      "scorers": [
+        {
+          "minute": 53,
+          "playerId": "862eeced-2bf5-4be5-966b-56639fe66d10",
+          "playerName": "Yuki Okamoto",
+          "assistId": "83382722-ee55-4bb1-86bb-b7f9dc4dc0a2",
+          "assistName": "Tsubasa Fukuda"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 67,
+          "playerId": "18499d3a-2d1f-451f-b688-4db8270cb6d0",
+          "playerName": "Masaki Ota",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "4wa45hkdmqwvirdm",
+      "playedAt": "2026-06-27T21:34:37.825Z",
+      "opponentSlug": "5eme-internationale",
+      "opponentName": "5ème Internationale",
+      "homeTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "awayTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.5,
+      "scorers": [
+        {
+          "minute": 51,
+          "playerId": "ace455ea-f07e-4bbc-937a-5640da4d9c34",
+          "playerName": "Yuto Matsumoto",
+          "assistId": "324470fc-f9a6-4d99-a563-da0262006553",
+          "assistName": "Ren Kato"
+        },
+        {
+          "minute": 53,
+          "playerId": "862eeced-2bf5-4be5-966b-56639fe66d10",
+          "playerName": "Yuki Okamoto"
+        }
+      ]
+    },
+    {
+      "matchId": "hpzn3bc7mqwvirdm",
+      "playedAt": "2026-06-27T21:33:57.132Z",
+      "opponentSlug": "nouvelle-californie",
+      "opponentName": "Nouvelle Californie",
+      "homeTeamId": "8893e441-b5b6-49ea-b439-9c327b38d7c5",
+      "awayTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 0.7,
+      "scorers": [
+        {
+          "minute": 29,
+          "playerId": "862eeced-2bf5-4be5-966b-56639fe66d10",
+          "playerName": "Yuki Okamoto"
+        }
+      ]
+    },
+    {
+      "matchId": "bb93qdd0mqwvirdm",
+      "playedAt": "2026-06-27T21:32:08.040Z",
+      "opponentSlug": "spc",
+      "opponentName": "SPC",
+      "homeTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "awayTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "homeAway": "away",
+      "scoreFor": 3,
+      "scoreAgainst": 4,
+      "opponentStrength": 63,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 2,
+          "playerId": "862eeced-2bf5-4be5-966b-56639fe66d10",
+          "playerName": "Yuki Okamoto"
+        },
+        {
+          "minute": 73,
+          "playerId": "862eeced-2bf5-4be5-966b-56639fe66d10",
+          "playerName": "Yuki Okamoto"
+        },
+        {
+          "minute": 86,
+          "playerId": "862eeced-2bf5-4be5-966b-56639fe66d10",
+          "playerName": "Yuki Okamoto"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 61,
+          "playerId": "b65abc0b-6260-458c-876e-eaec8e306cc4",
+          "playerName": "Tatsuya Maeda",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "w9ammva1mqwu11n7",
       "playedAt": "2026-06-27T20:54:33.991Z",
       "opponentSlug": "cote-d-ivoire",
