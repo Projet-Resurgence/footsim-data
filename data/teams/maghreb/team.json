@@ -47,6 +47,86 @@
   "publishedAt": "2026-06-26T18:38:40.567Z",
   "recentMatches": [
     {
+      "matchId": "jg77oqg0mqvcmc3w",
+      "playedAt": "2026-06-27T11:24:06.244Z",
+      "opponentSlug": "nouvelle-californie",
+      "opponentName": "Nouvelle Californie",
+      "homeTeamId": "02a4b69e-0d91-4183-a72b-717c658782c6",
+      "awayTeamId": "8893e441-b5b6-49ea-b439-9c327b38d7c5",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 3,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.2,
+      "scorers": [
+        {
+          "minute": 49,
+          "playerId": "9a7df76c-3a55-46ca-a23b-3b64307172b3",
+          "playerName": "Anis Guerraoui"
+        }
+      ]
+    },
+    {
+      "matchId": "17mq2izhmqvcmc3w",
+      "playedAt": "2026-06-27T11:14:38.783Z",
+      "opponentSlug": "naibat-de-mandra",
+      "opponentName": "Naibat de Mandra",
+      "homeTeamId": "02a4b69e-0d91-4183-a72b-717c658782c6",
+      "awayTeamId": "fe2670d9-24c9-421f-8687-cd461e79e679",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 5,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.7,
+      "scorers": [
+        {
+          "minute": 58,
+          "playerId": "2692b3b3-6da3-4ab6-8ebf-2f63174a7100",
+          "playerName": "Sofiane Djerroudi",
+          "assistId": "d70115f1-6122-443b-a688-05009a773f85",
+          "assistName": "Hassen Berber"
+        },
+        {
+          "minute": 64,
+          "playerId": "2692b3b3-6da3-4ab6-8ebf-2f63174a7100",
+          "playerName": "Sofiane Djerroudi"
+        }
+      ]
+    },
+    {
+      "matchId": "xp3d2wa7mqvcmc3w",
+      "playedAt": "2026-06-27T11:08:16.881Z",
+      "opponentSlug": "fsta",
+      "opponentName": "FSTA",
+      "homeTeamId": "02a4b69e-0d91-4183-a72b-717c658782c6",
+      "awayTeamId": "4ba08162-cd67-4fe4-98d0-92064194885b",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 4,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.7,
+      "cards": [
+        {
+          "minute": 68,
+          "playerId": "7aed167b-9ef0-40b3-82f4-3e76b49217a4",
+          "playerName": "Yassine Djerroudi",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "n08xsao0mqvcmc3w",
       "playedAt": "2026-06-26T20:10:31.121Z",
       "opponentSlug": "uda",
