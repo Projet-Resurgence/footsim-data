@@ -167,6 +167,79 @@
   ],
   "recentMatches": [
     {
+      "matchId": "6y54vs1amqwvirdm",
+      "playedAt": "2026-06-27T21:34:37.828Z",
+      "opponentSlug": "cote-d-ivoire",
+      "opponentName": "Côte d'Ivoire",
+      "homeTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "awayTeamId": "7db62a2a-b398-4a35-9c11-4d5b4bf4570c",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 2,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.2,
+      "cards": [
+        {
+          "minute": 50,
+          "playerId": "dbc0de06-7355-4358-afa9-ca2200500ea7",
+          "playerName": "Omar Jumanne",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "sjhf51oqmqwvirdm",
+      "playedAt": "2026-06-27T21:33:57.143Z",
+      "opponentSlug": "osmanide",
+      "opponentName": "Osmanide",
+      "homeTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "awayTeamId": "7db62a2a-b398-4a35-9c11-4d5b4bf4570c",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7
+    },
+    {
+      "matchId": "7gcch1ummqwvirdm",
+      "playedAt": "2026-06-27T21:32:08.043Z",
+      "opponentSlug": "ccb",
+      "opponentName": "CCB",
+      "homeTeamId": "7db62a2a-b398-4a35-9c11-4d5b4bf4570c",
+      "awayTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 2,
+      "opponentStrength": 61,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 0.7,
+      "scorers": [
+        {
+          "minute": 23,
+          "playerId": "dbc0de06-7355-4358-afa9-ca2200500ea7",
+          "playerName": "Omar Jumanne",
+          "assistId": "0d76b8fe-76c5-4c18-88ac-565369944291",
+          "assistName": "Honest Warioba"
+        },
+        {
+          "minute": 58,
+          "playerId": "0d76b8fe-76c5-4c18-88ac-565369944291",
+          "playerName": "Honest Warioba"
+        }
+      ]
+    },
+    {
       "matchId": "9p37kt1ymqwt6yer",
       "playedAt": "2026-06-27T20:31:18.106Z",
       "opponentSlug": "uda",
