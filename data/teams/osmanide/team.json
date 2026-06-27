@@ -497,6 +497,131 @@
   ],
   "recentMatches": [
     {
+      "matchId": "y12fdmf3mqwvirdm",
+      "playedAt": "2026-06-27T21:35:50.044Z",
+      "opponentSlug": "italie",
+      "opponentName": "Italie",
+      "homeTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "awayTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 4,
+      "opponentStrength": 63,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.7
+    },
+    {
+      "matchId": "qmwu7arfmqwvirdm",
+      "playedAt": "2026-06-27T21:34:37.828Z",
+      "opponentSlug": "ccb",
+      "opponentName": "CCB",
+      "homeTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "awayTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "homeAway": "away",
+      "scoreFor": 3,
+      "scoreAgainst": 2,
+      "opponentStrength": 61,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2,
+      "scorers": [
+        {
+          "minute": 23,
+          "playerId": "209b7955-f460-488e-9eac-61580e6cd175",
+          "playerName": "Aykut Koç"
+        },
+        {
+          "minute": 36,
+          "playerId": "edc9811a-01b4-4509-9281-0015da15cab7",
+          "playerName": "Berkant Erden",
+          "assistId": "209b7955-f460-488e-9eac-61580e6cd175",
+          "assistName": "Aykut Koç"
+        },
+        {
+          "minute": 54,
+          "playerId": "209b7955-f460-488e-9eac-61580e6cd175",
+          "playerName": "Aykut Koç",
+          "assistId": "c8ce0f44-f254-4cf4-8acd-939678b433fd",
+          "assistName": "Necati Demir"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 92,
+          "playerId": "61f5c289-5b37-450a-84f7-d6a42fd1c8fc",
+          "playerName": "Cağlar Tekin",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "sjhf51oqmqwvirdm",
+      "playedAt": "2026-06-27T21:33:57.143Z",
+      "opponentSlug": "foi-primaris",
+      "opponentName": "Foi Primaris",
+      "homeTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "awayTeamId": "7db62a2a-b398-4a35-9c11-4d5b4bf4570c",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 0,
+      "opponentStrength": 64,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.1,
+      "scorers": [
+        {
+          "minute": 16,
+          "playerId": "edc9811a-01b4-4509-9281-0015da15cab7",
+          "playerName": "Berkant Erden",
+          "assistId": "e514f94f-3494-4f1b-9212-f6930a72411e",
+          "assistName": "Emir Pamuk"
+        }
+      ]
+    },
+    {
+      "matchId": "bgyl67zsmqwvirdm",
+      "playedAt": "2026-06-27T21:32:08.043Z",
+      "opponentSlug": "cote-d-ivoire",
+      "opponentName": "Côte d'Ivoire",
+      "homeTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "awayTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "homeAway": "away",
+      "scoreFor": 3,
+      "scoreAgainst": 4,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 12,
+          "playerId": "c8ce0f44-f254-4cf4-8acd-939678b433fd",
+          "playerName": "Necati Demir",
+          "assistId": "209b7955-f460-488e-9eac-61580e6cd175",
+          "assistName": "Aykut Koç"
+        },
+        {
+          "minute": 48,
+          "playerId": "209b7955-f460-488e-9eac-61580e6cd175",
+          "playerName": "Aykut Koç"
+        },
+        {
+          "minute": 66,
+          "playerId": "9d7fb4c5-31ca-4b0a-b8b9-fc8434e2cdd0",
+          "playerName": "İsmail Uçar"
+        }
+      ]
+    },
+    {
       "matchId": "36vlgvgpmqwt6yer",
       "playedAt": "2026-06-27T20:33:33.183Z",
       "opponentSlug": "empire-hussein",
