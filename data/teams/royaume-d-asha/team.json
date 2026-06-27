@@ -380,6 +380,112 @@
       ]
     },
     {
+      "matchId": "xc6pqdxlmqwv07xr",
+      "playedAt": "2026-06-27T21:19:36.702Z",
+      "opponentSlug": "osmanide",
+      "opponentName": "Osmanide",
+      "homeTeamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "awayTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 89,
+          "playerId": "57712de0-dde0-40a1-958f-7848cb7a593f",
+          "playerName": "Rasoul Fattahi"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 37,
+          "playerId": "7eca52c4-6db3-4e1f-b427-8b34ba951c75",
+          "playerName": "Pirouz Asghari",
+          "type": "yellow"
+        },
+        {
+          "minute": 97,
+          "playerId": "7eca52c4-6db3-4e1f-b427-8b34ba951c75",
+          "playerName": "Pirouz Asghari",
+          "type": "red"
+        }
+      ]
+    },
+    {
+      "matchId": "axsw97o9mqwv07xr",
+      "playedAt": "2026-06-27T21:18:05.104Z",
+      "opponentSlug": "deseret",
+      "opponentName": "Deseret",
+      "homeTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "awayTeamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 0,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 0.7,
+      "cards": [
+        {
+          "minute": 26,
+          "playerId": "077e30cd-6094-44fd-b93c-e30b75837090",
+          "playerName": "Siavash Shirazi",
+          "type": "yellow"
+        },
+        {
+          "minute": 80,
+          "playerId": "077e30cd-6094-44fd-b93c-e30b75837090",
+          "playerName": "Siavash Shirazi",
+          "type": "red"
+        }
+      ]
+    },
+    {
+      "matchId": "hg9zxxsgmqwv07xr",
+      "playedAt": "2026-06-27T21:16:57.104Z",
+      "opponentSlug": "ugp",
+      "opponentName": "UGP",
+      "homeTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "awayTeamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 2,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.2,
+      "cards": [
+        {
+          "minute": 66,
+          "playerId": "cba94e02-3b10-4a36-ae00-8066b99d02bd",
+          "playerName": "Nader Mansouri",
+          "type": "yellow"
+        },
+        {
+          "minute": 82,
+          "playerId": "d5f00f3c-2cd1-4ac2-b6b9-a60d357eb5c3",
+          "playerName": "Milad Rezaei",
+          "type": "yellow"
+        },
+        {
+          "minute": 92,
+          "playerId": "57712de0-dde0-40a1-958f-7848cb7a593f",
+          "playerName": "Rasoul Fattahi",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "3yeanqfymqvcmc3w",
       "playedAt": "2026-06-27T20:13:41.298Z",
       "opponentSlug": "ursi",
