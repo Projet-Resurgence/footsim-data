@@ -210,6 +210,120 @@
   "activeTacticId": "cea688e4-4263-4d8a-b859-eedfe2f31c41",
   "recentMatches": [
     {
+      "matchId": "k376cnhrmqvcmc3w",
+      "playedAt": "2026-06-27T11:21:02.529Z",
+      "opponentSlug": "cote-d-ivoire",
+      "opponentName": "Côte d'Ivoire",
+      "homeTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "awayTeamId": "6c4e5ecf-662a-43d5-9795-b038fe6e2072",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 3,
+      "opponentStrength": 62,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.3,
+      "scorers": [
+        {
+          "minute": 53,
+          "playerId": "ad17b3d4-b7cc-4e7f-ad90-c952e017613f",
+          "playerName": "Elīna Zariņš"
+        }
+      ]
+    },
+    {
+      "matchId": "v8biv3a7mqvcmc3w",
+      "playedAt": "2026-06-27T11:13:25.087Z",
+      "opponentSlug": "germanie",
+      "opponentName": "Germanie",
+      "homeTeamId": "6377412c-0d4c-47e7-ba24-52745e83cfaa",
+      "awayTeamId": "6c4e5ecf-662a-43d5-9795-b038fe6e2072",
+      "homeAway": "away",
+      "scoreFor": 4,
+      "scoreAgainst": 1,
+      "opponentStrength": 62,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.9,
+      "scorers": [
+        {
+          "minute": 23,
+          "playerId": "ad17b3d4-b7cc-4e7f-ad90-c952e017613f",
+          "playerName": "Elīna Zariņš"
+        },
+        {
+          "minute": 61,
+          "playerId": "ad17b3d4-b7cc-4e7f-ad90-c952e017613f",
+          "playerName": "Elīna Zariņš"
+        },
+        {
+          "minute": 75,
+          "playerId": "9e097b78-7d82-4de8-be52-255472133750",
+          "playerName": "Mārtiņš Lācis"
+        },
+        {
+          "minute": 81,
+          "playerId": "9e097b78-7d82-4de8-be52-255472133750",
+          "playerName": "Mārtiņš Lācis",
+          "assistId": "cf5ae32b-a107-4824-a8e7-2089a93cad9f",
+          "assistName": "Kaspars Zariņš"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 45,
+          "playerId": "706eb6ae-5250-4f51-ada6-a7d7be967fc9",
+          "playerName": "Normunds Puķe",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "b5yptx59mqvcmc3w",
+      "playedAt": "2026-06-27T11:08:16.899Z",
+      "opponentSlug": "aethel",
+      "opponentName": "Aethel",
+      "homeTeamId": "6c4e5ecf-662a-43d5-9795-b038fe6e2072",
+      "awayTeamId": "9aea33e4-a280-4ec7-8ad5-4852e3cf3439",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.5,
+      "scorers": [
+        {
+          "minute": 13,
+          "playerId": "9e097b78-7d82-4de8-be52-255472133750",
+          "playerName": "Mārtiņš Lācis",
+          "assistId": "ad17b3d4-b7cc-4e7f-ad90-c952e017613f",
+          "assistName": "Elīna Zariņš"
+        },
+        {
+          "minute": 25,
+          "playerId": "9e097b78-7d82-4de8-be52-255472133750",
+          "playerName": "Mārtiņš Lācis",
+          "assistId": "ad17b3d4-b7cc-4e7f-ad90-c952e017613f",
+          "assistName": "Elīna Zariņš"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 81,
+          "playerId": "706eb6ae-5250-4f51-ada6-a7d7be967fc9",
+          "playerName": "Normunds Puķe",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "od01csv0mqvdpc6g",
       "playedAt": "2026-06-26T20:32:06.296Z",
       "opponentSlug": "foi-primaris",
