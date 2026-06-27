@@ -25,7 +25,7 @@
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-26T21:37:09.486Z",
+  "publishedAt": "2026-06-27T23:45:12.191Z",
   "managerDiscordId": "950389750739664896",
   "tactics": {
     "formation": "5-3-2",
@@ -311,5 +311,6 @@
       "participantCount": 48,
       "cmfPoints": 17.9
     }
-  ]
+  ],
+  "matchOutcome": "loss"
 }
