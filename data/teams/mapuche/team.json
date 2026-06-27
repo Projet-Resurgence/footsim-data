@@ -47,6 +47,48 @@
   "publishedAt": "2026-06-25T10:54:07.121Z",
   "recentMatches": [
     {
+      "matchId": "nq5xblrpmqvcmc3w",
+      "playedAt": "2026-06-27T20:13:41.303Z",
+      "opponentSlug": "5eme-internationale",
+      "opponentName": "5ème Internationale",
+      "homeTeamId": "0779ee45-e790-4ff2-901b-ba22bd8b4d83",
+      "awayTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 3,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.7
+    },
+    {
+      "matchId": "7lbpzl8mmqvcmc3w",
+      "playedAt": "2026-06-27T20:08:47.150Z",
+      "opponentSlug": "roumanie",
+      "opponentName": "Roumanie",
+      "homeTeamId": "0779ee45-e790-4ff2-901b-ba22bd8b4d83",
+      "awayTeamId": "63b3d538-b5f5-44d0-83b4-5d23d3cbcb22",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 5.7,
+      "cards": [
+        {
+          "minute": 59,
+          "playerId": "abb8e25d-9215-4754-a702-9c7bcccba662",
+          "playerName": "Francisco Baeza",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "4tozu4ohmqvcmc3w",
       "playedAt": "2026-06-27T11:24:06.255Z",
       "opponentSlug": "rpdo",
