@@ -28,6 +28,153 @@
   },
   "recentMatches": [
     {
+      "matchId": "iys3e9jmmqwt6yer",
+      "playedAt": "2026-06-27T20:33:33.182Z",
+      "opponentSlug": "nouvelle-californie",
+      "opponentName": "Nouvelle Californie",
+      "homeTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "awayTeamId": "8893e441-b5b6-49ea-b439-9c327b38d7c5",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7
+    },
+    {
+      "matchId": "6fg0idegmqwt6yer",
+      "playedAt": "2026-06-27T20:31:18.107Z",
+      "opponentSlug": "deseret",
+      "opponentName": "Deseret",
+      "homeTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "awayTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "homeAway": "away",
+      "scoreFor": 3,
+      "scoreAgainst": 0,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.6,
+      "scorers": [
+        {
+          "minute": 33,
+          "playerId": "862eeced-2bf5-4be5-966b-56639fe66d10",
+          "playerName": "Yuki Okamoto",
+          "assistId": "e43f8cb6-5b88-4154-ac5b-d1285f15d8f1",
+          "assistName": "Haruto Sakamoto"
+        },
+        {
+          "minute": 77,
+          "playerId": "862eeced-2bf5-4be5-966b-56639fe66d10",
+          "playerName": "Yuki Okamoto",
+          "assistId": "45a62f33-b3f7-403d-8b43-a21924df4a63",
+          "assistName": "Toshiya Miyazaki"
+        },
+        {
+          "minute": 81,
+          "playerId": "862eeced-2bf5-4be5-966b-56639fe66d10",
+          "playerName": "Yuki Okamoto"
+        }
+      ]
+    },
+    {
+      "matchId": "uts3x84umqwt6yer",
+      "playedAt": "2026-06-27T20:29:21.260Z",
+      "opponentSlug": "osmanide",
+      "opponentName": "Osmanide",
+      "homeTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "awayTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2,
+      "scorers": [
+        {
+          "minute": 80,
+          "playerId": "efab1044-6e12-4ab5-8353-5b9f7b0facab",
+          "playerName": "Genta Miyazaki",
+          "assistId": "a576b423-7e81-4c96-8a04-6fed6153847b",
+          "assistName": "Yusuke Okada"
+        },
+        {
+          "minute": 91,
+          "playerId": "45a62f33-b3f7-403d-8b43-a21924df4a63",
+          "playerName": "Toshiya Miyazaki"
+        }
+      ]
+    },
+    {
+      "matchId": "otqalv83mqwt6yer",
+      "playedAt": "2026-06-27T20:27:10.668Z",
+      "opponentSlug": "spc",
+      "opponentName": "SPC",
+      "homeTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "awayTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "homeAway": "home",
+      "scoreFor": 4,
+      "scoreAgainst": 2,
+      "opponentStrength": 63,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.6,
+      "scorers": [
+        {
+          "minute": 15,
+          "playerId": "862eeced-2bf5-4be5-966b-56639fe66d10",
+          "playerName": "Yuki Okamoto",
+          "assistId": "45a62f33-b3f7-403d-8b43-a21924df4a63",
+          "assistName": "Toshiya Miyazaki"
+        },
+        {
+          "minute": 25,
+          "playerId": "862eeced-2bf5-4be5-966b-56639fe66d10",
+          "playerName": "Yuki Okamoto",
+          "assistId": "efab1044-6e12-4ab5-8353-5b9f7b0facab",
+          "assistName": "Genta Miyazaki"
+        },
+        {
+          "minute": 28,
+          "playerId": "efab1044-6e12-4ab5-8353-5b9f7b0facab",
+          "playerName": "Genta Miyazaki",
+          "assistId": "e43f8cb6-5b88-4154-ac5b-d1285f15d8f1",
+          "assistName": "Haruto Sakamoto"
+        },
+        {
+          "minute": 46,
+          "playerId": "45a62f33-b3f7-403d-8b43-a21924df4a63",
+          "playerName": "Toshiya Miyazaki",
+          "assistId": "862eeced-2bf5-4be5-966b-56639fe66d10",
+          "assistName": "Yuki Okamoto"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 57,
+          "playerId": "b65abc0b-6260-458c-876e-eaec8e306cc4",
+          "playerName": "Tatsuya Maeda",
+          "type": "yellow"
+        },
+        {
+          "minute": 75,
+          "playerId": "862eeced-2bf5-4be5-966b-56639fe66d10",
+          "playerName": "Yuki Okamoto",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "gtyhwyonmqvcmc3w",
       "playedAt": "2026-06-27T20:13:41.302Z",
       "opponentSlug": "rhodesie",
