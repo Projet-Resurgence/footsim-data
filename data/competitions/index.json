@@ -248,7 +248,10 @@
       "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
       "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
       "69b55842-3c2d-4eaa-b133-7dc8c90bcfff"
-    ]
+    ],
+    "kind": "amicale",
+    "scope": "internationale",
+    "importance": "mineur"
   },
   {
     "id": "0wj8ukun6dkmqskotcz",
