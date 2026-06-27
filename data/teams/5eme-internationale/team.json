@@ -17,7 +17,7 @@
     }
   ],
   "continent": "europe",
-  "publishedAt": "2026-06-26T10:00:09.939Z",
+  "publishedAt": "2026-06-27T10:45:56.429Z",
   "recentMatches": [
     {
       "matchId": "baczyeolmqvf2cr6",
@@ -831,9 +831,102 @@
       "activeCustomStyleId": "aba855a8-0fec-4cb3-80f6-6df1d0271169",
       "id": "eaf9de38-7034-483c-8f51-39a126818812",
       "name": "Sparta kick dans les baloballs"
+    },
+    {
+      "style": "chaos",
+      "formation": "3-4-3",
+      "lineup": [
+        "8dfe3c1b-ad91-4c62-a9c6-5ae0265bcc34",
+        "609de258-0ecd-46cb-aa38-645b1e005f4d",
+        "54b229fc-a2a8-4458-9b88-ff8cbccf565d",
+        "6ef59b0c-96ac-459b-8c5a-2080e923ce78",
+        "c23f3eb9-049b-4834-b371-619985d3ef86",
+        "b2d3034a-7398-4715-88ad-1943b28927eb",
+        "30c48de3-bd45-4195-a6d3-e7f59257bc2d",
+        "1a6dcc48-0a86-44da-a1fa-4aa0028f6161",
+        "0f37e5f2-34b6-42eb-a40d-a1cbed31548a",
+        "f75dc5fe-ff5c-474d-92dc-2ec670d9a600",
+        "1d7892d9-f47f-47a3-b41e-8622049075b2"
+      ],
+      "bench": [
+        "07a9712e-c5b6-4a90-b9c0-feebe7c8c3a7",
+        "8834d85a-a079-45ea-a3c2-4d0f0cde3277",
+        "ff945c9c-d73f-46c8-8e6f-741b5aed1d57",
+        "88a7347f-b2c3-4083-a5c6-bbac6e71ab76",
+        "556a9b5f-65fa-41c4-8682-0b608e690b47",
+        "30f29f34-1db2-4515-90d0-a533ad38fa0e",
+        "a8a62d2e-4852-45a3-884c-ff1078cd4f6b",
+        "880b99b6-b304-4c98-83b6-0e091d3632b9",
+        "008dddcd-95bf-48a1-9939-449b73992b5c",
+        "0aaf1ee4-fc64-4bf0-a867-368bc1c615ba",
+        "99b6d1d4-a819-4195-9bfc-8f0918ec7dda"
+      ],
+      "formationLabel": "3-2-2-3",
+      "positionMap": {
+        "609de258-0ecd-46cb-aa38-645b1e005f4d": "LB",
+        "54b229fc-a2a8-4458-9b88-ff8cbccf565d": "CB",
+        "6ef59b0c-96ac-459b-8c5a-2080e923ce78": "DM",
+        "1a6dcc48-0a86-44da-a1fa-4aa0028f6161": "RM",
+        "1d7892d9-f47f-47a3-b41e-8622049075b2": "DM",
+        "8dfe3c1b-ad91-4c62-a9c6-5ae0265bcc34": "GK",
+        "b2d3034a-7398-4715-88ad-1943b28927eb": "CM",
+        "30c48de3-bd45-4195-a6d3-e7f59257bc2d": "ST",
+        "f75dc5fe-ff5c-474d-92dc-2ec670d9a600": "RW",
+        "0f37e5f2-34b6-42eb-a40d-a1cbed31548a": "LW",
+        "c23f3eb9-049b-4834-b371-619985d3ef86": "CB"
+      },
+      "tokenPositions": {
+        "8dfe3c1b-ad91-4c62-a9c6-5ae0265bcc34": {
+          "x": 50,
+          "y": 88
+        },
+        "609de258-0ecd-46cb-aa38-645b1e005f4d": {
+          "x": 9.142857142857144,
+          "y": 61.33333333333333
+        },
+        "54b229fc-a2a8-4458-9b88-ff8cbccf565d": {
+          "x": 36.38095238095239,
+          "y": 78
+        },
+        "6ef59b0c-96ac-459b-8c5a-2080e923ce78": {
+          "x": 64.80952380952381,
+          "y": 57.49999999999999
+        },
+        "1a6dcc48-0a86-44da-a1fa-4aa0028f6161": {
+          "x": 88.95238095238098,
+          "y": 60.83333333333333
+        },
+        "1d7892d9-f47f-47a3-b41e-8622049075b2": {
+          "x": 31.80952380952382,
+          "y": 56.833333333333336
+        },
+        "b2d3034a-7398-4715-88ad-1943b28927eb": {
+          "x": 49.85714285714286,
+          "y": 41.833333333333336
+        },
+        "30c48de3-bd45-4195-a6d3-e7f59257bc2d": {
+          "x": 50.476190476190474,
+          "y": 22.166666666666668
+        },
+        "f75dc5fe-ff5c-474d-92dc-2ec670d9a600": {
+          "x": 74.04761904761905,
+          "y": 17
+        },
+        "0f37e5f2-34b6-42eb-a40d-a1cbed31548a": {
+          "x": 27.23809523809524,
+          "y": 16.666666666666664
+        },
+        "c23f3eb9-049b-4834-b371-619985d3ef86": {
+          "x": 61.0952380952381,
+          "y": 78.16666666666666
+        }
+      },
+      "customStyles": [],
+      "id": "c93035ab-45d9-4000-a56a-ef92fa9c5459",
+      "name": "Boris Yeltsine est le nom de mon chaton"
     }
   ],
-  "activeTacticId": "eaf9de38-7034-483c-8f51-39a126818812",
+  "activeTacticId": "c93035ab-45d9-4000-a56a-ef92fa9c5459",
   "injuries": [],
   "suspensions": [
     {
