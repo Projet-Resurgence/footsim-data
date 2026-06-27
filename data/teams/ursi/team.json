@@ -39,6 +39,80 @@
   "suspensions": [],
   "recentMatches": [
     {
+      "matchId": "c1i850ammqvcmc3w",
+      "playedAt": "2026-06-27T11:24:06.251Z",
+      "opponentSlug": "nova-orbis",
+      "opponentName": "Nova Orbis",
+      "homeTeamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+      "awayTeamId": "28f82804-8005-450a-b6d8-740533bf82b0",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -5.7,
+      "scorers": [
+        {
+          "minute": 53,
+          "playerId": "674490b6-409f-4e59-98de-907056600e0d",
+          "playerName": "Hafiz Yap"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 2,
+          "playerId": "59844368-113e-46a3-b49c-a98129fcd18b",
+          "playerName": "Sokha Oun",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "6jla08gwmqvcmc3w",
+      "playedAt": "2026-06-27T11:14:38.787Z",
+      "opponentSlug": "ksuta",
+      "opponentName": "Ksuta",
+      "homeTeamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+      "awayTeamId": "940ca331-c4a1-4b47-9124-47f1f0c0111b",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.2
+    },
+    {
+      "matchId": "u9xje25zmqvcmc3w",
+      "playedAt": "2026-06-27T11:08:16.886Z",
+      "opponentSlug": "crpac",
+      "opponentName": "CRPAC",
+      "homeTeamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+      "awayTeamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 3,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.7,
+      "cards": [
+        {
+          "minute": 75,
+          "playerId": "26cc21bd-b9ab-4f17-a0a4-99585945b225",
+          "playerName": "Yusof Soo",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "2tnhx0pomqvcmc3w",
       "playedAt": "2026-06-26T20:10:31.125Z",
       "opponentSlug": "cascadie",
