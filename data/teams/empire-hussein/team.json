@@ -806,7 +806,7 @@
       "89a0086b-0ff0-489e-a845-ca7b750f7403"
     ]
   },
-  "publishedAt": "2026-06-27T14:02:44.237Z",
+  "publishedAt": "2026-06-27T14:04:18.312Z",
   "cultures": [
     {
       "culture": "arabe",
@@ -971,10 +971,10 @@
           "id": "e02f57a3-aed6-482e-8e24-26fae34048ff",
           "name": "Haramball",
           "mods": {
-            "shotFreqMult": 1.15,
+            "shotFreqMult": 1,
             "foulRateMult": 0.7,
-            "midfieldMult": 1,
-            "attackMult": 1,
+            "midfieldMult": 1.25,
+            "attackMult": 0.8,
             "defenseMult": 1.3
           }
         }
