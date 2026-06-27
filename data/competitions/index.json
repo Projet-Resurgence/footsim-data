@@ -284,7 +284,10 @@
       "45002df1-cafe-4c04-814c-660868b56d95",
       "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
       "8893e441-b5b6-49ea-b439-9c327b38d7c5"
-    ]
+    ],
+    "kind": "amicale",
+    "scope": "internationale",
+    "importance": "mineur"
   },
   {
     "id": "mxznxeedy1pmqr3u9k5",
