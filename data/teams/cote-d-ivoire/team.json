@@ -334,6 +334,133 @@
   "suspensions": [],
   "recentMatches": [
     {
+      "matchId": "5qpk65afmqwt6yer",
+      "playedAt": "2026-06-27T20:31:18.103Z",
+      "opponentSlug": "prometheus",
+      "opponentName": "Prometheus",
+      "homeTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "awayTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 2,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.2,
+      "cards": [
+        {
+          "minute": 18,
+          "playerId": "341c2d91-99fc-4fee-8f22-02f672169c4d",
+          "playerName": "Kolo Gbagbo",
+          "type": "yellow"
+        },
+        {
+          "minute": 35,
+          "playerId": "1f2b7e31-8ff2-4bb3-b9e5-42ab5282bbb3",
+          "playerName": "Pascal Bamba",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "jpyt6tz0mqwt6yer",
+      "playedAt": "2026-06-27T20:29:21.257Z",
+      "opponentSlug": "fclc",
+      "opponentName": "FCLC",
+      "homeTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "awayTeamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 3,
+      "opponentStrength": 61,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 46,
+          "playerId": "0636869a-f34f-4bc5-b141-979c31bfd66d",
+          "playerName": "Arouna N'Goran",
+          "assistId": "83ea9621-e62e-41d4-af61-139486a33ccb",
+          "assistName": "Lacina Gradel"
+        },
+        {
+          "minute": 64,
+          "playerId": "f7d4fa4e-d3fb-4f2c-a7c4-aed6dfccbcdb",
+          "playerName": "Lacina Bony"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 5,
+          "playerId": "14259458-87a1-4f2c-9ac8-a884be29ea29",
+          "playerName": "Issiaka Diomandé",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "d7nzxtrbmqwt6yer",
+      "playedAt": "2026-06-27T20:27:10.664Z",
+      "opponentSlug": "antioche",
+      "opponentName": "Antioche",
+      "homeTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "awayTeamId": "8451e643-10d4-48bc-a4e6-4c12255695f4",
+      "homeAway": "home",
+      "scoreFor": 4,
+      "scoreAgainst": 3,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2,
+      "scorers": [
+        {
+          "minute": 17,
+          "playerId": "0636869a-f34f-4bc5-b141-979c31bfd66d",
+          "playerName": "Arouna N'Goran",
+          "assistId": "baccc6fb-0ec8-4dfb-b61e-521a85ef1fd8",
+          "assistName": "Fernand Kalou"
+        },
+        {
+          "minute": 19,
+          "playerId": "305ef8f4-3d72-4985-ac81-e47e5bc183af",
+          "playerName": "Kolo Essy",
+          "assistId": "0636869a-f34f-4bc5-b141-979c31bfd66d",
+          "assistName": "Arouna N'Goran"
+        },
+        {
+          "minute": 53,
+          "playerId": "1f2b7e31-8ff2-4bb3-b9e5-42ab5282bbb3",
+          "playerName": "Pascal Bamba"
+        },
+        {
+          "minute": 70,
+          "playerId": "f7d4fa4e-d3fb-4f2c-a7c4-aed6dfccbcdb",
+          "playerName": "Lacina Bony"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 50,
+          "playerId": "305ef8f4-3d72-4985-ac81-e47e5bc183af",
+          "playerName": "Kolo Essy",
+          "type": "yellow"
+        },
+        {
+          "minute": 60,
+          "playerId": "305ef8f4-3d72-4985-ac81-e47e5bc183af",
+          "playerName": "Kolo Essy",
+          "type": "red"
+        }
+      ]
+    },
+    {
       "matchId": "y4l5zgo3mqvcmc3w",
       "playedAt": "2026-06-27T20:13:41.306Z",
       "opponentSlug": "ufep",
