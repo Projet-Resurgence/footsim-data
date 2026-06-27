@@ -43,7 +43,7 @@
     "overall": 82
   },
   "jerseyColor": "#ffffff",
-  "publishedAt": "2026-06-27T19:42:50.674Z",
+  "publishedAt": "2026-06-27T20:37:36.057Z",
   "compHistory": [
     {
       "compId": "qtebnbbpzeomqpngrdv",
@@ -958,5 +958,6 @@
     }
   ],
   "injuries": [],
-  "suspensions": []
+  "suspensions": [],
+  "matchOutcome": "win"
 }
