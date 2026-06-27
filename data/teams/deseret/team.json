@@ -143,6 +143,18 @@
       "result": "participant",
       "phase": "group",
       "participantCount": 16
+    },
+    {
+      "compId": "rfe669lbjfmqwu11n7",
+      "compName": "Couscoupe",
+      "year": 2308,
+      "format": "groups_knockout",
+      "kind": "amicale",
+      "scope": "internationale",
+      "importance": "mineur",
+      "result": "finalist",
+      "phase": "F",
+      "participantCount": 16
     }
   ],
   "coach": {
