@@ -47,6 +47,48 @@
   "publishedAt": "2026-06-25T13:07:40.274Z",
   "recentMatches": [
     {
+      "matchId": "lo8mu7lxmqvcmc3w",
+      "playedAt": "2026-06-27T20:13:41.301Z",
+      "opponentSlug": "grande-bretagne",
+      "opponentName": "Grande-Bretagne",
+      "homeTeamId": "9a7b1eb4-ac4c-4bbd-9990-650d7754a955",
+      "awayTeamId": "63b3d538-b5f5-44d0-83b4-5d23d3cbcb22",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 4,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.7,
+      "cards": [
+        {
+          "minute": 31,
+          "playerId": "009204bd-f7d9-4b55-a201-1fff1ad43959",
+          "playerName": "Petre Anghel",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "7lbpzl8mmqvcmc3w",
+      "playedAt": "2026-06-27T20:08:47.150Z",
+      "opponentSlug": "mapuche",
+      "opponentName": "Mapuche",
+      "homeTeamId": "0779ee45-e790-4ff2-901b-ba22bd8b4d83",
+      "awayTeamId": "63b3d538-b5f5-44d0-83b4-5d23d3cbcb22",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 5.7
+    },
+    {
       "matchId": "sk4k3zyjmqvcmc3w",
       "playedAt": "2026-06-27T11:24:06.258Z",
       "opponentSlug": "osmanide",
