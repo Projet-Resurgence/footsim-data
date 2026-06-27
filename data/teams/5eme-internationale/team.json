@@ -17,7 +17,7 @@
     }
   ],
   "continent": "europe",
-  "publishedAt": "2026-06-27T18:32:34.033Z",
+  "publishedAt": "2026-06-27T19:34:26.084Z",
   "recentMatches": [
     {
       "matchId": "lgx7nvrwmqvcmc3w",
@@ -1033,6 +1033,5 @@
       "reason": "Carton rouge",
       "roundOccurred": 3
     }
-  ],
-  "matchOutcome": "win"
+  ]
 }
