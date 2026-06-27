@@ -214,6 +214,114 @@
   "suspensions": [],
   "recentMatches": [
     {
+      "matchId": "mknykqsnmqvcmc3w",
+      "playedAt": "2026-06-27T20:13:41.297Z",
+      "opponentSlug": "voivodine",
+      "opponentName": "Voïvodine",
+      "homeTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "awayTeamId": "28274f9a-bff0-42da-ac99-a6e3a9812a34",
+      "homeAway": "home",
+      "scoreFor": 5,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 18,
+      "scorers": [
+        {
+          "minute": 27,
+          "playerId": "4d38741c-7eaa-48e6-9239-632e339aa1cc",
+          "playerName": "Kirill Davydov",
+          "assistId": "688b0471-9199-4c65-9d73-a408fa96f582",
+          "assistName": "Eldar Antonov"
+        },
+        {
+          "minute": 36,
+          "playerId": "4d38741c-7eaa-48e6-9239-632e339aa1cc",
+          "playerName": "Kirill Davydov",
+          "assistId": "b57ca962-753d-4797-bf41-a7b0fa40ae61",
+          "assistName": "Roman Tsvetkov"
+        },
+        {
+          "minute": 39,
+          "playerId": "4d38741c-7eaa-48e6-9239-632e339aa1cc",
+          "playerName": "Kirill Davydov",
+          "assistId": "688b0471-9199-4c65-9d73-a408fa96f582",
+          "assistName": "Eldar Antonov"
+        },
+        {
+          "minute": 48,
+          "playerId": "da579017-cf8b-482c-b9d5-ec411cd825ff",
+          "playerName": "Mikhail Ivanov"
+        },
+        {
+          "minute": 73,
+          "playerId": "4d38741c-7eaa-48e6-9239-632e339aa1cc",
+          "playerName": "Kirill Davydov",
+          "assistId": "688b0471-9199-4c65-9d73-a408fa96f582",
+          "assistName": "Eldar Antonov"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 11,
+          "playerId": "8de90201-5f15-4595-9340-e7f4d0c7c845",
+          "playerName": "Roman Borisov",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "pczenif1mqvcmc3w",
+      "playedAt": "2026-06-27T20:03:59.659Z",
+      "opponentSlug": "nova-orbis",
+      "opponentName": "Nova Orbis",
+      "homeTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "awayTeamId": "28f82804-8005-450a-b6d8-740533bf82b0",
+      "homeAway": "home",
+      "scoreFor": 5,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 18,
+      "scorers": [
+        {
+          "minute": 45,
+          "playerId": "83d77c6f-a467-4aac-a746-fb82f51b6195",
+          "playerName": "Ruslan Kuznetsov"
+        },
+        {
+          "minute": 51,
+          "playerId": "b3624587-f65b-4349-9c05-2700a2caeb26",
+          "playerName": "Gleb Kovalev",
+          "assistId": "4d38741c-7eaa-48e6-9239-632e339aa1cc",
+          "assistName": "Kirill Davydov"
+        },
+        {
+          "minute": 59,
+          "playerId": "b3624587-f65b-4349-9c05-2700a2caeb26",
+          "playerName": "Gleb Kovalev"
+        },
+        {
+          "minute": 78,
+          "playerId": "b3624587-f65b-4349-9c05-2700a2caeb26",
+          "playerName": "Gleb Kovalev",
+          "assistId": "688b0471-9199-4c65-9d73-a408fa96f582",
+          "assistName": "Eldar Antonov"
+        },
+        {
+          "minute": 87,
+          "playerId": "b3624587-f65b-4349-9c05-2700a2caeb26",
+          "playerName": "Gleb Kovalev"
+        }
+      ]
+    },
+    {
       "matchId": "0z306rxhmqvcmc3w",
       "playedAt": "2026-06-27T11:24:06.250Z",
       "opponentSlug": "ksuta",
