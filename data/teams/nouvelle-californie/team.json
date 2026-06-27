@@ -253,6 +253,107 @@
   "activeTacticId": "ef3e9bca-8be0-4b91-93cd-a26b157e1ac3",
   "recentMatches": [
     {
+      "matchId": "jg77oqg0mqvcmc3w",
+      "playedAt": "2026-06-27T11:24:06.244Z",
+      "opponentSlug": "maghreb",
+      "opponentName": "Maghreb",
+      "homeTeamId": "02a4b69e-0d91-4183-a72b-717c658782c6",
+      "awayTeamId": "8893e441-b5b6-49ea-b439-9c327b38d7c5",
+      "homeAway": "away",
+      "scoreFor": 3,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.5,
+      "scorers": [
+        {
+          "minute": 16,
+          "playerId": "ff67131f-2280-43ab-92d8-5691a2b3119d",
+          "playerName": "Drake Scott"
+        },
+        {
+          "minute": 66,
+          "playerId": "cf5314bf-53e1-4a3e-af24-ccc2d3c45afb",
+          "playerName": "Kyle Scott",
+          "assistId": "bc218980-a8a5-4b09-9f8f-05af300343bb",
+          "assistName": "Quinn Walker"
+        },
+        {
+          "minute": 85,
+          "playerId": "cf5314bf-53e1-4a3e-af24-ccc2d3c45afb",
+          "playerName": "Kyle Scott"
+        }
+      ]
+    },
+    {
+      "matchId": "zkr2uzpjmqvcmc3w",
+      "playedAt": "2026-06-27T11:14:38.784Z",
+      "opponentSlug": "fsta",
+      "opponentName": "FSTA",
+      "homeTeamId": "4ba08162-cd67-4fe4-98d0-92064194885b",
+      "awayTeamId": "8893e441-b5b6-49ea-b439-9c327b38d7c5",
+      "homeAway": "away",
+      "scoreFor": 4,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 18,
+      "scorers": [
+        {
+          "minute": 5,
+          "playerId": "ff67131f-2280-43ab-92d8-5691a2b3119d",
+          "playerName": "Drake Scott",
+          "assistId": "1a9632e2-73d1-4104-b48e-cea93a0570f4",
+          "assistName": "Reed Martin"
+        },
+        {
+          "minute": 13,
+          "playerId": "ff67131f-2280-43ab-92d8-5691a2b3119d",
+          "playerName": "Drake Scott"
+        },
+        {
+          "minute": 83,
+          "playerId": "cf5314bf-53e1-4a3e-af24-ccc2d3c45afb",
+          "playerName": "Kyle Scott"
+        },
+        {
+          "minute": 88,
+          "playerId": "ff67131f-2280-43ab-92d8-5691a2b3119d",
+          "playerName": "Drake Scott"
+        }
+      ]
+    },
+    {
+      "matchId": "fsc9xflumqvcmc3w",
+      "playedAt": "2026-06-27T11:03:04.299Z",
+      "opponentSlug": "italie",
+      "opponentName": "Italie",
+      "homeTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "awayTeamId": "8893e441-b5b6-49ea-b439-9c327b38d7c5",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 2,
+      "opponentStrength": 62,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -5.8,
+      "scorers": [
+        {
+          "minute": 86,
+          "playerId": "ff67131f-2280-43ab-92d8-5691a2b3119d",
+          "playerName": "Drake Scott"
+        }
+      ]
+    },
+    {
       "matchId": "7yt8f47jmqvf2cr6",
       "playedAt": "2026-06-26T21:05:27.027Z",
       "opponentSlug": "uda",
