@@ -25,7 +25,7 @@
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-27T21:12:34.165Z",
+  "publishedAt": "2026-06-27T21:27:00.157Z",
   "managerDiscordId": "1477619366890573926",
   "compHistory": [
     {
@@ -183,330 +183,28 @@
   },
   "savedTactics": [
     {
-      "style": "pressing",
-      "formation": "4-4-2",
+      "style": "long-ball",
+      "formation": "3-4-3",
       "lineup": [
         "85083795-e4c9-4c40-84a9-9e310531f7bc",
-        "348fcc0d-a16d-4c67-b78c-04da4bccbd70",
-        "96c29aa9-3f0a-4cac-910c-2effd9ff3ed0",
         "66936b5b-0953-4bae-bbd5-92aff2d774a0",
-        "56d3b142-f548-4fad-9894-77cad156e7ac",
+        "93dd1f5c-318b-47ea-9eee-dabd2aab5bb5",
+        "c79f2ac7-f76e-4663-ab02-b597a6f29d4c",
         "043bd3ea-5b57-4c20-823d-adf11c7e3549",
         "6fcb834b-f8d5-452b-b759-dc9e0ae2317a",
         "89f75ad1-d901-4839-81c6-240a311c715e",
         "1359ee0e-7555-453d-83fe-befe00c8a218",
-        "dbef5bfc-f6f6-4693-9c47-0566d870f06e",
-        "75811d88-67bf-455a-98de-a3469da03099"
-      ],
-      "customStyles": [],
-      "id": "dc5171c8-885b-423b-b01a-62ec6b5c1fab",
-      "name": "Tactique 2"
-    },
-    {
-      "style": "pressing",
-      "formation": "3-4-1-2",
-      "lineup": [
-        "85083795-e4c9-4c40-84a9-9e310531f7bc",
-        "66936b5b-0953-4bae-bbd5-92aff2d774a0",
-        "08b02cbd-8ca2-446a-99f9-cf428d7296c1",
-        "96c29aa9-3f0a-4cac-910c-2effd9ff3ed0",
-        "043bd3ea-5b57-4c20-823d-adf11c7e3549",
-        "6fcb834b-f8d5-452b-b759-dc9e0ae2317a",
-        "89f75ad1-d901-4839-81c6-240a311c715e",
-        "1359ee0e-7555-453d-83fe-befe00c8a218",
-        "6b9a2f65-7821-482b-a431-2471bf95cced",
+        "a9845c59-12ee-4a24-ae10-571725c54d42",
         "75811d88-67bf-455a-98de-a3469da03099",
-        "dbef5bfc-f6f6-4693-9c47-0566d870f06e"
-      ],
-      "plannedSubs": [
-        {
-          "outId": "75811d88-67bf-455a-98de-a3469da03099",
-          "inId": "9c29dc0b-4808-46d8-a9b8-f9e820d0050f",
-          "minute": 80
-        }
+        "2047d47b-b47e-4d9b-b80e-06f3ea7fa330"
       ],
       "customStyles": [],
-      "id": "45967b3e-719c-4f86-bcc5-8fb94588c9e3",
-      "name": "Coupe Italie"
-    },
-    {
-      "style": "possession",
-      "formation": "3-5-2",
-      "lineup": [
-        "85083795-e4c9-4c40-84a9-9e310531f7bc",
-        "66936b5b-0953-4bae-bbd5-92aff2d774a0",
-        "08b02cbd-8ca2-446a-99f9-cf428d7296c1",
-        "96c29aa9-3f0a-4cac-910c-2effd9ff3ed0",
-        "043bd3ea-5b57-4c20-823d-adf11c7e3549",
-        "35db503a-9356-4a02-821e-13c9b8691320",
-        "6fcb834b-f8d5-452b-b759-dc9e0ae2317a",
-        "89f75ad1-d901-4839-81c6-240a311c715e",
-        "1359ee0e-7555-453d-83fe-befe00c8a218",
-        "75811d88-67bf-455a-98de-a3469da03099",
-        "dbef5bfc-f6f6-4693-9c47-0566d870f06e"
-      ],
-      "customStyles": [],
-      "id": "71b96e4c-2fcf-440c-8750-77a795e36e5c",
+      "id": "ec43e5ce-b8cd-4d1a-996d-f34c2688b343",
       "name": "Tactique 1"
-    },
-    {
-      "style": "possession",
-      "formation": "4-3-3",
-      "lineup": [
-        "0b8442e5-279c-4ff9-9afa-84daae83d2d4",
-        "71d0c11d-476b-48f9-bda4-853a89f84137",
-        "ab5384da-fa38-4656-9a9e-5c9159b696b6",
-        "66936b5b-0953-4bae-bbd5-92aff2d774a0",
-        "2e95b2e8-a6ce-450c-aba4-f2bf4b04d34b",
-        "b310b60f-9927-40cc-ba20-d7c6a8d53a92",
-        "6fcb834b-f8d5-452b-b759-dc9e0ae2317a",
-        "4d44eca8-b887-4ba2-8dfa-e56d2b5f6037",
-        "dbef5bfc-f6f6-4693-9c47-0566d870f06e",
-        "8ba90e05-fd97-4efe-9c03-cb1c18848767",
-        "2047d47b-b47e-4d9b-b80e-06f3ea7fa330"
-      ],
-      "formationLabel": "3-3-4",
-      "customStyles": [],
-      "id": "817e9720-0c8d-4810-a0d6-2f487a4083d8",
-      "name": "Djihad"
-    },
-    {
-      "style": "possession",
-      "formation": "4-4-2",
-      "lineup": [
-        "85083795-e4c9-4c40-84a9-9e310531f7bc",
-        "348fcc0d-a16d-4c67-b78c-04da4bccbd70",
-        "66936b5b-0953-4bae-bbd5-92aff2d774a0",
-        "96c29aa9-3f0a-4cac-910c-2effd9ff3ed0",
-        "56d3b142-f548-4fad-9894-77cad156e7ac",
-        "043bd3ea-5b57-4c20-823d-adf11c7e3549",
-        "6fcb834b-f8d5-452b-b759-dc9e0ae2317a",
-        "89f75ad1-d901-4839-81c6-240a311c715e",
-        "1359ee0e-7555-453d-83fe-befe00c8a218",
-        "dbef5bfc-f6f6-4693-9c47-0566d870f06e",
-        "75811d88-67bf-455a-98de-a3469da03099"
-      ],
-      "customStyles": [],
-      "id": "c0ec5482-1cf6-4063-8784-acd6560f3e59",
-      "name": "Tactique 4"
-    },
-    {
-      "style": "possession",
-      "formation": "4-4-2",
-      "lineup": [
-        "85083795-e4c9-4c40-84a9-9e310531f7bc",
-        "348fcc0d-a16d-4c67-b78c-04da4bccbd70",
-        "66936b5b-0953-4bae-bbd5-92aff2d774a0",
-        "96c29aa9-3f0a-4cac-910c-2effd9ff3ed0",
-        "56d3b142-f548-4fad-9894-77cad156e7ac",
-        "043bd3ea-5b57-4c20-823d-adf11c7e3549",
-        "6fcb834b-f8d5-452b-b759-dc9e0ae2317a",
-        "89f75ad1-d901-4839-81c6-240a311c715e",
-        "1359ee0e-7555-453d-83fe-befe00c8a218",
-        "dbef5bfc-f6f6-4693-9c47-0566d870f06e",
-        "75811d88-67bf-455a-98de-a3469da03099"
-      ],
-      "customStyles": [
-        {
-          "id": "235b7ead-e342-4068-b3a0-37d763f366f4",
-          "name": "Djihad",
-          "mods": {
-            "shotFreqMult": 1.05,
-            "foulRateMult": 1,
-            "midfieldMult": 1.05,
-            "attackMult": 1.2,
-            "defenseMult": 1
-          }
-        }
-      ],
-      "activeCustomStyleId": "235b7ead-e342-4068-b3a0-37d763f366f4",
-      "id": "057f72b8-d4e3-4a9b-8647-6f9216c8a8e9",
-      "name": "Djihad "
-    },
-    {
-      "style": "possession",
-      "formation": "4-3-3",
-      "lineup": [
-        "85083795-e4c9-4c40-84a9-9e310531f7bc",
-        "348fcc0d-a16d-4c67-b78c-04da4bccbd70",
-        "66936b5b-0953-4bae-bbd5-92aff2d774a0",
-        "96c29aa9-3f0a-4cac-910c-2effd9ff3ed0",
-        "56d3b142-f548-4fad-9894-77cad156e7ac",
-        "a9845c59-12ee-4a24-ae10-571725c54d42",
-        "6fcb834b-f8d5-452b-b759-dc9e0ae2317a",
-        "89f75ad1-d901-4839-81c6-240a311c715e",
-        "2047d47b-b47e-4d9b-b80e-06f3ea7fa330",
-        "75811d88-67bf-455a-98de-a3469da03099",
-        "dbef5bfc-f6f6-4693-9c47-0566d870f06e"
-      ],
-      "formationLabel": "4-2-4",
-      "positionMap": {
-        "6fcb834b-f8d5-452b-b759-dc9e0ae2317a": "CM",
-        "89f75ad1-d901-4839-81c6-240a311c715e": "CM",
-        "66936b5b-0953-4bae-bbd5-92aff2d774a0": "CB",
-        "96c29aa9-3f0a-4cac-910c-2effd9ff3ed0": "CB",
-        "56d3b142-f548-4fad-9894-77cad156e7ac": "RB",
-        "348fcc0d-a16d-4c67-b78c-04da4bccbd70": "LB",
-        "85083795-e4c9-4c40-84a9-9e310531f7bc": "GK",
-        "75811d88-67bf-455a-98de-a3469da03099": "ST",
-        "2047d47b-b47e-4d9b-b80e-06f3ea7fa330": "RW",
-        "dbef5bfc-f6f6-4693-9c47-0566d870f06e": "ST",
-        "a9845c59-12ee-4a24-ae10-571725c54d42": "LW"
-      },
-      "tokenPositions": {
-        "6fcb834b-f8d5-452b-b759-dc9e0ae2317a": {
-          "x": 34,
-          "y": 49
-        },
-        "89f75ad1-d901-4839-81c6-240a311c715e": {
-          "x": 66,
-          "y": 49
-        },
-        "66936b5b-0953-4bae-bbd5-92aff2d774a0": {
-          "x": 34,
-          "y": 72
-        },
-        "96c29aa9-3f0a-4cac-910c-2effd9ff3ed0": {
-          "x": 66,
-          "y": 72
-        },
-        "56d3b142-f548-4fad-9894-77cad156e7ac": {
-          "x": 88,
-          "y": 70
-        },
-        "348fcc0d-a16d-4c67-b78c-04da4bccbd70": {
-          "x": 12,
-          "y": 70
-        },
-        "85083795-e4c9-4c40-84a9-9e310531f7bc": {
-          "x": 50,
-          "y": 88
-        },
-        "75811d88-67bf-455a-98de-a3469da03099": {
-          "x": 37.65853658536586,
-          "y": 14.451113778844874
-        },
-        "2047d47b-b47e-4d9b-b80e-06f3ea7fa330": {
-          "x": 88.03658536585365,
-          "y": 21.18847539015606
-        },
-        "dbef5bfc-f6f6-4693-9c47-0566d870f06e": {
-          "x": 63.25609756097561,
-          "y": 14.451113778844874
-        },
-        "a9845c59-12ee-4a24-ae10-571725c54d42": {
-          "x": 12.878048780487806,
-          "y": 21.18847539015606
-        }
-      },
-      "customStyles": [
-        {
-          "id": "617de066-6a32-4c3a-96e0-bae3e0ec2bba",
-          "name": "Nsm",
-          "mods": {
-            "shotFreqMult": 1,
-            "foulRateMult": 1,
-            "midfieldMult": 1,
-            "attackMult": 1.15,
-            "defenseMult": 1.15
-          }
-        }
-      ],
-      "activeCustomStyleId": "617de066-6a32-4c3a-96e0-bae3e0ec2bba",
-      "id": "9fb43f9f-abb9-43d1-9bad-02fccb9f4755",
-      "name": "Blitzkrieg"
-    },
-    {
-      "style": "possession",
-      "formation": "4-3-3",
-      "lineup": [
-        "85083795-e4c9-4c40-84a9-9e310531f7bc",
-        "348fcc0d-a16d-4c67-b78c-04da4bccbd70",
-        "66936b5b-0953-4bae-bbd5-92aff2d774a0",
-        "dbef5bfc-f6f6-4693-9c47-0566d870f06e",
-        "56d3b142-f548-4fad-9894-77cad156e7ac",
-        "6fcb834b-f8d5-452b-b759-dc9e0ae2317a",
-        "6bbee6a8-ed08-41f0-9c78-f90d4b8233ef",
-        "89f75ad1-d901-4839-81c6-240a311c715e",
-        "a9845c59-12ee-4a24-ae10-571725c54d42",
-        "75811d88-67bf-455a-98de-a3469da03099",
-        "2047d47b-b47e-4d9b-b80e-06f3ea7fa330"
-      ],
-      "formationLabel": "3-3-4",
-      "positionMap": {
-        "6fcb834b-f8d5-452b-b759-dc9e0ae2317a": "CM",
-        "6bbee6a8-ed08-41f0-9c78-f90d4b8233ef": "AM",
-        "89f75ad1-d901-4839-81c6-240a311c715e": "CM",
-        "a9845c59-12ee-4a24-ae10-571725c54d42": "LW",
-        "75811d88-67bf-455a-98de-a3469da03099": "ST",
-        "2047d47b-b47e-4d9b-b80e-06f3ea7fa330": "RW",
-        "dbef5bfc-f6f6-4693-9c47-0566d870f06e": "ST",
-        "56d3b142-f548-4fad-9894-77cad156e7ac": "RB",
-        "66936b5b-0953-4bae-bbd5-92aff2d774a0": "CB",
-        "85083795-e4c9-4c40-84a9-9e310531f7bc": "GK"
-      },
-      "tokenPositions": {
-        "6fcb834b-f8d5-452b-b759-dc9e0ae2317a": {
-          "x": 37.853658536585364,
-          "y": 50.21341870081366
-        },
-        "6bbee6a8-ed08-41f0-9c78-f90d4b8233ef": {
-          "x": 50,
-          "y": 33.34120314792584
-        },
-        "89f75ad1-d901-4839-81c6-240a311c715e": {
-          "x": 61.84146341463415,
-          "y": 49.35974389755902
-        },
-        "a9845c59-12ee-4a24-ae10-571725c54d42": {
-          "x": 12,
-          "y": 23
-        },
-        "75811d88-67bf-455a-98de-a3469da03099": {
-          "x": 60.97560975609756,
-          "y": 19.49393090569561
-        },
-        "2047d47b-b47e-4d9b-b80e-06f3ea7fa330": {
-          "x": 88,
-          "y": 23
-        },
-        "dbef5bfc-f6f6-4693-9c47-0566d870f06e": {
-          "x": 40.39024390243903,
-          "y": 19.712418300653596
-        },
-        "56d3b142-f548-4fad-9894-77cad156e7ac": {
-          "x": 88,
-          "y": 70
-        },
-        "66936b5b-0953-4bae-bbd5-92aff2d774a0": {
-          "x": 51.07317073170732,
-          "y": 76.26837401627317
-        },
-        "85083795-e4c9-4c40-84a9-9e310531f7bc": {
-          "x": 50,
-          "y": 88
-        }
-      },
-      "customStyles": [
-        {
-          "id": "750d482a-3224-4f99-a08c-61c54b510155",
-          "name": "Couscoupe",
-          "mods": {
-            "shotFreqMult": 1.1,
-            "foulRateMult": 1,
-            "midfieldMult": 1,
-            "attackMult": 1.15,
-            "defenseMult": 1.05
-          }
-        }
-      ],
-      "activeCustomStyleId": "750d482a-3224-4f99-a08c-61c54b510155",
-      "id": "0f906c8e-81b8-4b8f-a082-fa81eece7140",
-      "name": "Couscoupe"
     }
   ],
   "jerseyColor": "#b10606",
-  "activeTacticId": "9fb43f9f-abb9-43d1-9bad-02fccb9f4755",
+  "activeTacticId": "ec43e5ce-b8cd-4d1a-996d-f34c2688b343",
   "actionFoot": {
     "rating": 5,
     "funding": 100
