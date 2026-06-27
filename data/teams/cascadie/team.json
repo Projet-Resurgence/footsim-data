@@ -122,6 +122,99 @@
   ],
   "recentMatches": [
     {
+      "matchId": "ra40oehwmqwv07xr",
+      "playedAt": "2026-06-27T21:19:36.698Z",
+      "opponentSlug": "rsotp",
+      "opponentName": "RSOTP",
+      "homeTeamId": "e5bac765-f354-41a2-b940-1e97fba04c20",
+      "awayTeamId": "57fffbee-9163-4497-87cd-b887abf87078",
+      "homeAway": "home",
+      "scoreFor": 3,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.5,
+      "scorers": [
+        {
+          "minute": 23,
+          "playerId": "85e2a475-46ba-4c11-bfbe-224d76d41444",
+          "playerName": "Shane Robinson"
+        },
+        {
+          "minute": 75,
+          "playerId": "b0154c01-14be-4433-9969-a213fac276d2",
+          "playerName": "Travis King",
+          "assistId": "6e316db9-712b-4be0-80a5-c378b089aed4",
+          "assistName": "Jackson Williams"
+        },
+        {
+          "minute": 93,
+          "playerId": "fd6f53cc-5850-41bd-86e0-80c7d059cf8a",
+          "playerName": "Tyler Adams"
+        }
+      ]
+    },
+    {
+      "matchId": "uvvwcvfkmqwv07xr",
+      "playedAt": "2026-06-27T21:18:05.097Z",
+      "opponentSlug": "uda",
+      "opponentName": "UDA",
+      "homeTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "awayTeamId": "e5bac765-f354-41a2-b940-1e97fba04c20",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 7,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -2.7,
+      "cards": [
+        {
+          "minute": 16,
+          "playerId": "fd6f53cc-5850-41bd-86e0-80c7d059cf8a",
+          "playerName": "Tyler Adams",
+          "type": "yellow"
+        },
+        {
+          "minute": 43,
+          "playerId": "b2327fde-0082-4315-ada3-e69863b5de6d",
+          "playerName": "Kevin Wright",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "l6bktimzmqwv07xr",
+      "playedAt": "2026-06-27T21:16:57.096Z",
+      "opponentSlug": "italie",
+      "opponentName": "Italie",
+      "homeTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "awayTeamId": "e5bac765-f354-41a2-b940-1e97fba04c20",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 2,
+      "opponentStrength": 63,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 21,
+          "playerId": "fd6f53cc-5850-41bd-86e0-80c7d059cf8a",
+          "playerName": "Tyler Adams",
+          "assistId": "6e316db9-712b-4be0-80a5-c378b089aed4",
+          "assistName": "Jackson Williams"
+        }
+      ]
+    },
+    {
       "matchId": "ymtyqirumqvcmc3w",
       "playedAt": "2026-06-27T20:13:41.291Z",
       "opponentSlug": "atlantique",
