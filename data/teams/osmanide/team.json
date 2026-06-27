@@ -485,6 +485,70 @@
   ],
   "recentMatches": [
     {
+      "matchId": "p0hi1snqmqvcmc3w",
+      "playedAt": "2026-06-27T20:13:41.303Z",
+      "opponentSlug": "serbie",
+      "opponentName": "Serbie",
+      "homeTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "awayTeamId": "b88bacc7-be39-4426-9106-7263eec6a6e9",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17,
+      "scorers": [
+        {
+          "minute": 90,
+          "playerId": "209b7955-f460-488e-9eac-61580e6cd175",
+          "playerName": "Aykut Koç"
+        }
+      ]
+    },
+    {
+      "matchId": "5t7vv48nmqvcmc3w",
+      "playedAt": "2026-06-27T20:04:43.565Z",
+      "opponentSlug": "5eme-internationale",
+      "opponentName": "5ème Internationale",
+      "homeTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "awayTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17,
+      "scorers": [
+        {
+          "minute": 78,
+          "playerId": "c8ce0f44-f254-4cf4-8acd-939678b433fd",
+          "playerName": "Necati Demir",
+          "assistId": "ede13b76-4f1b-466f-a570-d2782bc0fb70",
+          "assistName": "Ömer Güneş"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 8,
+          "playerId": "e514f94f-3494-4f1b-9212-f6930a72411e",
+          "playerName": "Emir Pamuk",
+          "type": "yellow"
+        },
+        {
+          "minute": 44,
+          "playerId": "209b7955-f460-488e-9eac-61580e6cd175",
+          "playerName": "Aykut Koç",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "sk4k3zyjmqvcmc3w",
       "playedAt": "2026-06-27T11:24:06.258Z",
       "opponentSlug": "roumanie",
