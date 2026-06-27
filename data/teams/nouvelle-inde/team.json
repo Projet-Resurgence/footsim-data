@@ -44,6 +44,80 @@
   "publishedAt": "2026-06-21T13:42:54.712Z",
   "recentMatches": [
     {
+      "matchId": "s6aym1yxmqvcmc3w",
+      "playedAt": "2026-06-27T20:13:41.295Z",
+      "opponentSlug": "nova-orbis",
+      "opponentName": "Nova Orbis",
+      "homeTeamId": "a3427d5b-8081-4363-a9fd-1ac7de7e9144",
+      "awayTeamId": "28f82804-8005-450a-b6d8-740533bf82b0",
+      "homeAway": "home",
+      "scoreFor": 4,
+      "scoreAgainst": 3,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17,
+      "scorers": [
+        {
+          "minute": 49,
+          "playerId": "79d8955f-704e-4d7d-a375-8ba5dfd634dd",
+          "playerName": "Manish Joshi"
+        },
+        {
+          "minute": 56,
+          "playerId": "79d8955f-704e-4d7d-a375-8ba5dfd634dd",
+          "playerName": "Manish Joshi"
+        },
+        {
+          "minute": 59,
+          "playerId": "79d8955f-704e-4d7d-a375-8ba5dfd634dd",
+          "playerName": "Manish Joshi",
+          "assistId": "ca663a86-ccbf-416c-b3ba-7e19be7d0653",
+          "assistName": "Ravi Joshi"
+        },
+        {
+          "minute": 70,
+          "playerId": "79d8955f-704e-4d7d-a375-8ba5dfd634dd",
+          "playerName": "Manish Joshi"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 32,
+          "playerId": "0ff35ab7-a296-4c5b-9007-6b185fcea3a0",
+          "playerName": "Ishaan Reddy",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "fepxkh0omqvcmc3w",
+      "playedAt": "2026-06-27T20:08:47.144Z",
+      "opponentSlug": "ksuta",
+      "opponentName": "Ksuta",
+      "homeTeamId": "a3427d5b-8081-4363-a9fd-1ac7de7e9144",
+      "awayTeamId": "940ca331-c4a1-4b47-9124-47f1f0c0111b",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 5.7,
+      "cards": [
+        {
+          "minute": 47,
+          "playerId": "ee6107ab-aec5-4a7e-9259-a75b3aeea6a7",
+          "playerName": "Rahul Upadhyay",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "zivmp81lmqvcmc3w",
       "playedAt": "2026-06-27T11:24:06.248Z",
       "opponentSlug": "crpac",
