@@ -11,6 +11,101 @@
   "formation": "4-3-3",
   "recentMatches": [
     {
+      "matchId": "p1fg6ikumqvcmc3w",
+      "playedAt": "2026-06-27T20:10:03.384Z",
+      "opponentSlug": "italie",
+      "opponentName": "Italie",
+      "homeTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "awayTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "homeAway": "away",
+      "scoreFor": 3,
+      "scoreAgainst": 1,
+      "opponentStrength": 62,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.9,
+      "scorers": [
+        {
+          "minute": 36,
+          "playerId": "ed16332a-25e3-4919-b479-a6810362efb9",
+          "playerName": "Essam Lamlom",
+          "assistId": "698a3b66-bffb-494b-822d-68025a22deac",
+          "assistName": "Jad Zakhour"
+        },
+        {
+          "minute": 39,
+          "playerId": "16f8645a-2a66-4763-8e71-ca6e9832d693",
+          "playerName": "Oussama Nasri",
+          "assistId": "2f13674a-aee2-4333-b7de-903e4d80b20c",
+          "assistName": "Rami Salhi"
+        },
+        {
+          "minute": 84,
+          "playerId": "ed7eb980-155d-4aee-9cbf-092a44bfc8c1",
+          "playerName": "Nabil Hariri"
+        }
+      ]
+    },
+    {
+      "matchId": "jbr7yksrmqvcmc3w",
+      "playedAt": "2026-06-27T20:08:47.145Z",
+      "opponentSlug": "nordrise",
+      "opponentName": "Nordrise",
+      "homeTeamId": "e601e0d9-7e45-4c53-bb41-16ccd12e9a06",
+      "awayTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "homeAway": "away",
+      "scoreFor": 6,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 18,
+      "scorers": [
+        {
+          "minute": 4,
+          "playerId": "ed7eb980-155d-4aee-9cbf-092a44bfc8c1",
+          "playerName": "Nabil Hariri",
+          "assistId": "8745a1a2-e456-4d0e-8ddd-610658c8a559",
+          "assistName": "Magdy El-Baz"
+        },
+        {
+          "minute": 6,
+          "playerId": "ed7eb980-155d-4aee-9cbf-092a44bfc8c1",
+          "playerName": "Nabil Hariri",
+          "assistId": "8745a1a2-e456-4d0e-8ddd-610658c8a559",
+          "assistName": "Magdy El-Baz"
+        },
+        {
+          "minute": 15,
+          "playerId": "8745a1a2-e456-4d0e-8ddd-610658c8a559",
+          "playerName": "Magdy El-Baz",
+          "assistId": "ed7eb980-155d-4aee-9cbf-092a44bfc8c1",
+          "assistName": "Nabil Hariri"
+        },
+        {
+          "minute": 18,
+          "playerId": "ed16332a-25e3-4919-b479-a6810362efb9",
+          "playerName": "Essam Lamlom"
+        },
+        {
+          "minute": 26,
+          "playerId": "ed7eb980-155d-4aee-9cbf-092a44bfc8c1",
+          "playerName": "Nabil Hariri"
+        },
+        {
+          "minute": 48,
+          "playerId": "8745a1a2-e456-4d0e-8ddd-610658c8a559",
+          "playerName": "Magdy El-Baz",
+          "assistId": "ed7eb980-155d-4aee-9cbf-092a44bfc8c1",
+          "assistName": "Nabil Hariri"
+        }
+      ]
+    },
+    {
       "matchId": "bo0el0rjmqvcmc3w",
       "playedAt": "2026-06-27T11:19:26.278Z",
       "opponentSlug": "fclc",
