@@ -132,6 +132,197 @@
       ]
     },
     {
+      "matchId": "72yvug3zmqwv07xs",
+      "playedAt": "2026-06-27T21:22:48.672Z",
+      "opponentSlug": "spc",
+      "opponentName": "SPC",
+      "homeTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "awayTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 0,
+      "opponentStrength": 63,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.1,
+      "scorers": [
+        {
+          "minute": 48,
+          "playerId": "30c48de3-bd45-4195-a6d3-e7f59257bc2d",
+          "playerName": "Jérôme Achier",
+          "assistId": "f75dc5fe-ff5c-474d-92dc-2ec670d9a600",
+          "assistName": "Sébastien Bernard"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 27,
+          "playerId": "8dfe3c1b-ad91-4c62-a9c6-5ae0265bcc34",
+          "playerName": "Thomas Nicolas",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "cdj0hkmfmqwv07xs",
+      "playedAt": "2026-06-27T21:21:30.358Z",
+      "opponentSlug": "cote-d-ivoire",
+      "opponentName": "Côte d'Ivoire",
+      "homeTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "awayTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 1,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.1,
+      "scorers": [
+        {
+          "minute": 24,
+          "playerId": "30c48de3-bd45-4195-a6d3-e7f59257bc2d",
+          "playerName": "Jérôme Achier"
+        },
+        {
+          "minute": 44,
+          "playerId": "f75dc5fe-ff5c-474d-92dc-2ec670d9a600",
+          "playerName": "Sébastien Bernard",
+          "assistId": "6ef59b0c-96ac-459b-8c5a-2080e923ce78",
+          "assistName": "Léo Meyer"
+        }
+      ]
+    },
+    {
+      "matchId": "jt0wv5pcmqwv07xs",
+      "playedAt": "2026-06-27T21:20:50.251Z",
+      "opponentSlug": "uda",
+      "opponentName": "UDA",
+      "homeTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "awayTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 0,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.6,
+      "scorers": [
+        {
+          "minute": 37,
+          "playerId": "b2d3034a-7398-4715-88ad-1943b28927eb",
+          "playerName": "Florian Lopez",
+          "assistId": "1a6dcc48-0a86-44da-a1fa-4aa0028f6161",
+          "assistName": "Valentin Dubois"
+        },
+        {
+          "minute": 79,
+          "playerId": "30c48de3-bd45-4195-a6d3-e7f59257bc2d",
+          "playerName": "Jérôme Achier"
+        }
+      ]
+    },
+    {
+      "matchId": "bhj5l0pymqwv07xr",
+      "playedAt": "2026-06-27T21:19:36.701Z",
+      "opponentSlug": "nouvelle-californie",
+      "opponentName": "Nouvelle Californie",
+      "homeTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "awayTeamId": "8893e441-b5b6-49ea-b439-9c327b38d7c5",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2,
+      "scorers": [
+        {
+          "minute": 36,
+          "playerId": "30c48de3-bd45-4195-a6d3-e7f59257bc2d",
+          "playerName": "Jérôme Achier",
+          "assistId": "1a6dcc48-0a86-44da-a1fa-4aa0028f6161",
+          "assistName": "Valentin Dubois"
+        },
+        {
+          "minute": 84,
+          "playerId": "30c48de3-bd45-4195-a6d3-e7f59257bc2d",
+          "playerName": "Jérôme Achier"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 46,
+          "playerId": "c23f3eb9-049b-4834-b371-619985d3ef86",
+          "playerName": "Jules Garcia",
+          "type": "yellow"
+        },
+        {
+          "minute": 63,
+          "playerId": "ff945c9c-d73f-46c8-8e6f-741b5aed1d57",
+          "playerName": "Tanguy Gautier",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "x3ccjl6emqwv07xr",
+      "playedAt": "2026-06-27T21:18:05.103Z",
+      "opponentSlug": "prometheus",
+      "opponentName": "Prometheus",
+      "homeTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "awayTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 1,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.1,
+      "scorers": [
+        {
+          "minute": 30,
+          "playerId": "0f37e5f2-34b6-42eb-a40d-a1cbed31548a",
+          "playerName": "Paul Marchand",
+          "assistId": "1d7892d9-f47f-47a3-b41e-8622049075b2",
+          "assistName": "Henri Simon"
+        },
+        {
+          "minute": 35,
+          "playerId": "30c48de3-bd45-4195-a6d3-e7f59257bc2d",
+          "playerName": "Jérôme Achier",
+          "assistId": "f75dc5fe-ff5c-474d-92dc-2ec670d9a600",
+          "assistName": "Sébastien Bernard"
+        }
+      ]
+    },
+    {
+      "matchId": "se3re26gmqwv07xr",
+      "playedAt": "2026-06-27T21:16:57.102Z",
+      "opponentSlug": "spc",
+      "opponentName": "SPC",
+      "homeTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "awayTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 2,
+      "opponentStrength": 63,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.2
+    },
+    {
       "matchId": "4pwm9ztimqwu11n7",
       "playedAt": "2026-06-27T20:58:18.502Z",
       "opponentSlug": "ccb",
