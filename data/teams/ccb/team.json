@@ -54,6 +54,110 @@
   },
   "recentMatches": [
     {
+      "matchId": "qmwu7arfmqwvirdm",
+      "playedAt": "2026-06-27T21:34:37.828Z",
+      "opponentSlug": "osmanide",
+      "opponentName": "Osmanide",
+      "homeTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "awayTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 3,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 39,
+          "playerId": "afb3247a-c91a-4352-9008-b30a1fb17733",
+          "playerName": "Liam Williams"
+        },
+        {
+          "minute": 82,
+          "playerId": "3485a9f3-c86e-4378-a689-d66274d56746",
+          "playerName": "Kevin Thompson",
+          "assistId": "afb3247a-c91a-4352-9008-b30a1fb17733",
+          "assistName": "Liam Williams"
+        }
+      ]
+    },
+    {
+      "matchId": "b6x0u8jxmqwvirdm",
+      "playedAt": "2026-06-27T21:33:57.141Z",
+      "opponentSlug": "cote-d-ivoire",
+      "opponentName": "Côte d'Ivoire",
+      "homeTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "awayTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 1,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 0.7,
+      "scorers": [
+        {
+          "minute": 83,
+          "playerId": "3485a9f3-c86e-4378-a689-d66274d56746",
+          "playerName": "Kevin Thompson",
+          "assistId": "afb3247a-c91a-4352-9008-b30a1fb17733",
+          "assistName": "Liam Williams"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 16,
+          "playerId": "afb3247a-c91a-4352-9008-b30a1fb17733",
+          "playerName": "Liam Williams",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "7gcch1ummqwvirdm",
+      "playedAt": "2026-06-27T21:32:08.043Z",
+      "opponentSlug": "foi-primaris",
+      "opponentName": "Foi Primaris",
+      "homeTeamId": "7db62a2a-b398-4a35-9c11-4d5b4bf4570c",
+      "awayTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 2,
+      "opponentStrength": 64,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 0.7,
+      "scorers": [
+        {
+          "minute": 55,
+          "playerId": "4c1df5ee-4c61-454b-a817-1c24699e8f99",
+          "playerName": "Jordan Mitchell",
+          "assistId": "5d165f97-694f-4e10-ad43-7e01e408729a",
+          "assistName": "Evan Campbell"
+        },
+        {
+          "minute": 71,
+          "playerId": "2ff78f0a-b6d6-4694-a08a-57cd8d8f75c6",
+          "playerName": "François Martel"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 5,
+          "playerId": "44e712fb-26e6-4278-9d9f-0de27edfe5d5",
+          "playerName": "Nathan Morin",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "4pwm9ztimqwu11n7",
       "playedAt": "2026-06-27T20:58:18.502Z",
       "opponentSlug": "5eme-internationale",
