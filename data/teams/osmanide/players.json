@@ -10054,7 +10054,7 @@
       "technical": {
         "passing": 13,
         "crossing": 16,
-        "dribbling": 11,
+        "dribbling": 14,
         "finishing": 20,
         "firstTouch": 10,
         "heading": 19,
@@ -10073,7 +10073,7 @@
       },
       "physical": {
         "pace": 15,
-        "acceleration": 9,
+        "acceleration": 15,
         "strength": 12,
         "stamina": 15,
         "agility": 13,
@@ -10082,7 +10082,7 @@
       },
       "goalkeeping": null
     },
-    "overall": 85
+    "overall": 86
   },
   {
     "id": "e3f5abc9-66fc-496f-8939-d45c5299705d",
