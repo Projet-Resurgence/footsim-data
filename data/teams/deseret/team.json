@@ -22,7 +22,7 @@
   "playerCount": 500,
   "formation": "4-3-3",
   "managerDiscordId": "1214007771620577311",
-  "publishedAt": "2026-06-27T20:44:39.663Z",
+  "publishedAt": "2026-06-27T20:45:58.113Z",
   "compHistory": [
     {
       "compId": "qtebnbbpzeomqpngrdv",
@@ -1311,5 +1311,6 @@
   "actionFoot": {
     "rating": 5,
     "funding": 115
-  }
+  },
+  "matchOutcome": "win"
 }
