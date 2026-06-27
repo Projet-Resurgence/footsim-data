@@ -176,6 +176,204 @@
   },
   "recentMatches": [
     {
+      "matchId": "idn4pcromqwu11n7",
+      "playedAt": "2026-06-27T20:59:23.199Z",
+      "opponentSlug": "nouvelle-californie",
+      "opponentName": "Nouvelle Californie",
+      "homeTeamId": "8893e441-b5b6-49ea-b439-9c327b38d7c5",
+      "awayTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 3,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 85,
+          "playerId": "470e4f61-dc93-4005-92a5-7dc9ed642d61",
+          "playerName": "Jackson Campbell"
+        },
+        {
+          "minute": 91,
+          "playerId": "d3cda266-31eb-46c1-a9ee-2c1aa808d4b4",
+          "playerName": "Trevor Nelson",
+          "assistId": "51734e56-6364-48ce-aa7b-470b5a778a0b",
+          "assistName": "Nathan Baker"
+        }
+      ]
+    },
+    {
+      "matchId": "s525pif5mqwu11n7",
+      "playedAt": "2026-06-27T20:57:46.175Z",
+      "opponentSlug": "5eme-internationale",
+      "opponentName": "5ème Internationale",
+      "homeTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "awayTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.5,
+      "scorers": [
+        {
+          "minute": 33,
+          "playerId": "51734e56-6364-48ce-aa7b-470b5a778a0b",
+          "playerName": "Nathan Baker",
+          "assistId": "60812871-655a-4d99-8cf6-b47be478b3d2",
+          "assistName": "Austin Thomas"
+        },
+        {
+          "minute": 62,
+          "playerId": "470e4f61-dc93-4005-92a5-7dc9ed642d61",
+          "playerName": "Jackson Campbell",
+          "assistId": "edfd7424-ec03-4090-9bae-efc4014f4955",
+          "assistName": "Scott Moore"
+        }
+      ]
+    },
+    {
+      "matchId": "96vp3mr3mqwu11n7",
+      "playedAt": "2026-06-27T20:56:59.072Z",
+      "opponentSlug": "prometheus",
+      "opponentName": "Prometheus",
+      "homeTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "awayTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 0,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.1,
+      "scorers": [
+        {
+          "minute": 7,
+          "playerId": "470e4f61-dc93-4005-92a5-7dc9ed642d61",
+          "playerName": "Jackson Campbell",
+          "assistId": "4e44c8f6-ea9f-470c-a3a3-ea4f1fa82662",
+          "assistName": "Jordan Brown"
+        }
+      ]
+    },
+    {
+      "matchId": "6v6hx45gmqwu11n7",
+      "playedAt": "2026-06-27T20:54:33.993Z",
+      "opponentSlug": "ugp",
+      "opponentName": "UGP",
+      "homeTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "awayTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 1,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.1,
+      "scorers": [
+        {
+          "minute": 2,
+          "playerId": "262568b4-1d7b-48fe-8f03-1bf32a4e6915",
+          "playerName": "Chase Walker",
+          "assistId": "60812871-655a-4d99-8cf6-b47be478b3d2",
+          "assistName": "Austin Thomas"
+        },
+        {
+          "minute": 47,
+          "playerId": "470e4f61-dc93-4005-92a5-7dc9ed642d61",
+          "playerName": "Jackson Campbell"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 23,
+          "playerId": "0dd0b1a4-1bd3-491b-bdb5-2104eac0b7e4",
+          "playerName": "Finn Parker",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "md0b1qnumqwu11n7",
+      "playedAt": "2026-06-27T20:52:41.409Z",
+      "opponentSlug": "italie",
+      "opponentName": "Italie",
+      "homeTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "awayTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 0,
+      "opponentStrength": 63,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.1,
+      "scorers": [
+        {
+          "minute": 3,
+          "playerId": "470e4f61-dc93-4005-92a5-7dc9ed642d61",
+          "playerName": "Jackson Campbell"
+        }
+      ]
+    },
+    {
+      "matchId": "6rm1bsyumqwu11n7",
+      "playedAt": "2026-06-27T20:50:18.530Z",
+      "opponentSlug": "5eme-internationale",
+      "opponentName": "5ème Internationale",
+      "homeTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "awayTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "homeAway": "home",
+      "scoreFor": 4,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 3,
+      "scorers": [
+        {
+          "minute": 36,
+          "playerId": "51734e56-6364-48ce-aa7b-470b5a778a0b",
+          "playerName": "Nathan Baker",
+          "assistId": "60812871-655a-4d99-8cf6-b47be478b3d2",
+          "assistName": "Austin Thomas"
+        },
+        {
+          "minute": 39,
+          "playerId": "262568b4-1d7b-48fe-8f03-1bf32a4e6915",
+          "playerName": "Chase Walker",
+          "assistId": "60812871-655a-4d99-8cf6-b47be478b3d2",
+          "assistName": "Austin Thomas"
+        },
+        {
+          "minute": 49,
+          "playerId": "262568b4-1d7b-48fe-8f03-1bf32a4e6915",
+          "playerName": "Chase Walker"
+        },
+        {
+          "minute": 70,
+          "playerId": "470e4f61-dc93-4005-92a5-7dc9ed642d61",
+          "playerName": "Jackson Campbell",
+          "assistId": "fe059e20-aea8-47a4-b870-d7be575af230",
+          "assistName": "Ryan Martin"
+        }
+      ]
+    },
+    {
       "matchId": "6fg0idegmqwt6yer",
       "playedAt": "2026-06-27T20:31:18.107Z",
       "opponentSlug": "yamatai",
