@@ -479,6 +479,243 @@
       ]
     },
     {
+      "matchId": "vfh6fikymqwv07xs",
+      "playedAt": "2026-06-27T21:22:01.691Z",
+      "opponentSlug": "osmanide",
+      "opponentName": "Osmanide",
+      "homeTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "awayTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 43,
+          "playerId": "305ef8f4-3d72-4985-ac81-e47e5bc183af",
+          "playerName": "Kolo Essy"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 69,
+          "playerId": "1f2b7e31-8ff2-4bb3-b9e5-42ab5282bbb3",
+          "playerName": "Pascal Bamba",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "cdj0hkmfmqwv07xs",
+      "playedAt": "2026-06-27T21:21:30.358Z",
+      "opponentSlug": "5eme-internationale",
+      "opponentName": "5ème Internationale",
+      "homeTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "awayTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 21,
+          "playerId": "1f2b7e31-8ff2-4bb3-b9e5-42ab5282bbb3",
+          "playerName": "Pascal Bamba"
+        }
+      ]
+    },
+    {
+      "matchId": "gd15d401mqwv07xs",
+      "playedAt": "2026-06-27T21:20:50.252Z",
+      "opponentSlug": "italie",
+      "opponentName": "Italie",
+      "homeTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "awayTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "homeAway": "home",
+      "scoreFor": 3,
+      "scoreAgainst": 0,
+      "opponentStrength": 63,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.6,
+      "scorers": [
+        {
+          "minute": 35,
+          "playerId": "1f2b7e31-8ff2-4bb3-b9e5-42ab5282bbb3",
+          "playerName": "Pascal Bamba"
+        },
+        {
+          "minute": 62,
+          "playerId": "1f2b7e31-8ff2-4bb3-b9e5-42ab5282bbb3",
+          "playerName": "Pascal Bamba",
+          "assistId": "2e2f29f9-653b-4528-a87b-b4003dca2f4b",
+          "assistName": "Wague Ibrahimovic"
+        },
+        {
+          "minute": 65,
+          "playerId": "0636869a-f34f-4bc5-b141-979c31bfd66d",
+          "playerName": "Arouna N'Goran",
+          "assistId": "2e2f29f9-653b-4528-a87b-b4003dca2f4b",
+          "assistName": "Wague Ibrahimovic"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 38,
+          "playerId": "305ef8f4-3d72-4985-ac81-e47e5bc183af",
+          "playerName": "Kolo Essy",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "pxa9ho0dmqwv07xr",
+      "playedAt": "2026-06-27T21:19:36.698Z",
+      "opponentSlug": "foi-primaris",
+      "opponentName": "Foi Primaris",
+      "homeTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "awayTeamId": "7db62a2a-b398-4a35-9c11-4d5b4bf4570c",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 0,
+      "opponentStrength": 64,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.1,
+      "scorers": [
+        {
+          "minute": 75,
+          "playerId": "305ef8f4-3d72-4985-ac81-e47e5bc183af",
+          "playerName": "Kolo Essy",
+          "assistId": "e1afab4f-2e72-417f-990e-dbf3705beeed",
+          "assistName": "Kolo Niamké"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 76,
+          "playerId": "341c2d91-99fc-4fee-8f22-02f672169c4d",
+          "playerName": "Kolo Gbagbo",
+          "type": "yellow"
+        },
+        {
+          "minute": 84,
+          "playerId": "34aea6b4-2695-4cce-b75a-0c8cf85a8385",
+          "playerName": "Bassem Gradel",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "g1imcbfhmqwv07xr",
+      "playedAt": "2026-06-27T21:18:05.100Z",
+      "opponentSlug": "ursi",
+      "opponentName": "URSI",
+      "homeTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "awayTeamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+      "homeAway": "home",
+      "scoreFor": 5,
+      "scoreAgainst": 0,
+      "opponentStrength": 62,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 3,
+      "scorers": [
+        {
+          "minute": 32,
+          "playerId": "83ea9621-e62e-41d4-af61-139486a33ccb",
+          "playerName": "Lacina Gradel",
+          "assistId": "0636869a-f34f-4bc5-b141-979c31bfd66d",
+          "assistName": "Arouna N'Goran"
+        },
+        {
+          "minute": 59,
+          "playerId": "83ea9621-e62e-41d4-af61-139486a33ccb",
+          "playerName": "Lacina Gradel",
+          "assistId": "2e2f29f9-653b-4528-a87b-b4003dca2f4b",
+          "assistName": "Wague Ibrahimovic"
+        },
+        {
+          "minute": 63,
+          "playerId": "1f2b7e31-8ff2-4bb3-b9e5-42ab5282bbb3",
+          "playerName": "Pascal Bamba",
+          "assistId": "2e2f29f9-653b-4528-a87b-b4003dca2f4b",
+          "assistName": "Wague Ibrahimovic"
+        },
+        {
+          "minute": 85,
+          "playerId": "1f2b7e31-8ff2-4bb3-b9e5-42ab5282bbb3",
+          "playerName": "Pascal Bamba",
+          "assistId": "f7d4fa4e-d3fb-4f2c-a7c4-aed6dfccbcdb",
+          "assistName": "Lacina Bony"
+        },
+        {
+          "minute": 94,
+          "playerId": "f7d4fa4e-d3fb-4f2c-a7c4-aed6dfccbcdb",
+          "playerName": "Lacina Bony",
+          "assistId": "83ea9621-e62e-41d4-af61-139486a33ccb",
+          "assistName": "Lacina Gradel"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 12,
+          "playerId": "14259458-87a1-4f2c-9ac8-a884be29ea29",
+          "playerName": "Issiaka Diomandé",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "wns7moynmqwv07xr",
+      "playedAt": "2026-06-27T21:16:57.097Z",
+      "opponentSlug": "crpac",
+      "opponentName": "CRPAC",
+      "homeTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "awayTeamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.5,
+      "scorers": [
+        {
+          "minute": 19,
+          "playerId": "e1afab4f-2e72-417f-990e-dbf3705beeed",
+          "playerName": "Kolo Niamké",
+          "assistId": "2e2f29f9-653b-4528-a87b-b4003dca2f4b",
+          "assistName": "Wague Ibrahimovic"
+        },
+        {
+          "minute": 60,
+          "playerId": "1f2b7e31-8ff2-4bb3-b9e5-42ab5282bbb3",
+          "playerName": "Pascal Bamba",
+          "assistId": "baccc6fb-0ec8-4dfb-b61e-521a85ef1fd8",
+          "assistName": "Fernand Kalou"
+        }
+      ]
+    },
+    {
       "matchId": "w9ammva1mqwu11n7",
       "playedAt": "2026-06-27T20:54:33.991Z",
       "opponentSlug": "yamatai",
