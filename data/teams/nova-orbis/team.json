@@ -49,6 +49,94 @@
   "publishedAt": "2026-06-26T21:38:37.666Z",
   "recentMatches": [
     {
+      "matchId": "s6aym1yxmqvcmc3w",
+      "playedAt": "2026-06-27T20:13:41.295Z",
+      "opponentSlug": "nouvelle-inde",
+      "opponentName": "Nouvelle Inde",
+      "homeTeamId": "a3427d5b-8081-4363-a9fd-1ac7de7e9144",
+      "awayTeamId": "28f82804-8005-450a-b6d8-740533bf82b0",
+      "homeAway": "away",
+      "scoreFor": 3,
+      "scoreAgainst": 4,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -5.7,
+      "scorers": [
+        {
+          "minute": 26,
+          "playerId": "5dfc4b16-0c97-4315-adea-3323b3cbdf15",
+          "playerName": "Thiago Alves"
+        },
+        {
+          "minute": 27,
+          "playerId": "5dfc4b16-0c97-4315-adea-3323b3cbdf15",
+          "playerName": "Thiago Alves",
+          "assistId": "4f4b1894-3661-458e-bb4b-e2335a41fd8f",
+          "assistName": "Gabriel Campos"
+        },
+        {
+          "minute": 77,
+          "playerId": "c71c2a27-4b87-47da-9c2c-b6e76854ce7a",
+          "playerName": "Firmino Rodrigues"
+        }
+      ]
+    },
+    {
+      "matchId": "pczenif1mqvcmc3w",
+      "playedAt": "2026-06-27T20:03:59.659Z",
+      "opponentSlug": "prometheus",
+      "opponentName": "Prometheus",
+      "homeTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "awayTeamId": "28f82804-8005-450a-b6d8-740533bf82b0",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 5,
+      "opponentStrength": 64,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -7,
+      "scorers": [
+        {
+          "minute": 94,
+          "playerId": "42af70a5-fe84-4567-b9f1-560bfab8d9af",
+          "playerName": "Thiago Oliveira",
+          "assistId": "5dfc4b16-0c97-4315-adea-3323b3cbdf15",
+          "assistName": "Thiago Alves"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 6,
+          "playerId": "b6ab5d26-ac92-435e-8d23-100c558c5c71",
+          "playerName": "Henrique Oliveira",
+          "type": "red"
+        },
+        {
+          "minute": 73,
+          "playerId": "42af70a5-fe84-4567-b9f1-560bfab8d9af",
+          "playerName": "Thiago Oliveira",
+          "type": "yellow"
+        },
+        {
+          "minute": 75,
+          "playerId": "65bd825f-a88e-4d11-b23a-28c6106ec320",
+          "playerName": "Vinícius Fonseca",
+          "type": "yellow"
+        },
+        {
+          "minute": 88,
+          "playerId": "65bd825f-a88e-4d11-b23a-28c6106ec320",
+          "playerName": "Vinícius Fonseca",
+          "type": "red"
+        }
+      ]
+    },
+    {
       "matchId": "c1i850ammqvcmc3w",
       "playedAt": "2026-06-27T11:24:06.251Z",
       "opponentSlug": "ursi",
