@@ -48,6 +48,108 @@
   "publishedAt": "2026-06-21T13:29:35.814Z",
   "recentMatches": [
     {
+      "matchId": "0z306rxhmqvcmc3w",
+      "playedAt": "2026-06-27T11:24:06.250Z",
+      "opponentSlug": "prometheus",
+      "opponentName": "Prometheus",
+      "homeTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "awayTeamId": "940ca331-c4a1-4b47-9124-47f1f0c0111b",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 2,
+      "opponentStrength": 64,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.5
+    },
+    {
+      "matchId": "6jla08gwmqvcmc3w",
+      "playedAt": "2026-06-27T11:14:38.787Z",
+      "opponentSlug": "ursi",
+      "opponentName": "URSI",
+      "homeTeamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+      "awayTeamId": "940ca331-c4a1-4b47-9124-47f1f0c0111b",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 0,
+      "opponentStrength": 62,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.9,
+      "scorers": [
+        {
+          "minute": 21,
+          "playerId": "ee019909-426e-4e3d-a18f-51f5ba920422",
+          "playerName": "Carlos Ganda",
+          "assistId": "ec952366-f3a7-4039-a5d6-84abdf952f32",
+          "assistName": "Gilberto Zaire"
+        },
+        {
+          "minute": 80,
+          "playerId": "860fae57-f419-46f4-9343-c463c569f525",
+          "playerName": "Dinis Geraldo"
+        }
+      ]
+    },
+    {
+      "matchId": "l70brpc7mqvcmc3w",
+      "playedAt": "2026-06-27T11:08:16.887Z",
+      "opponentSlug": "romain-d-orient",
+      "opponentName": "Romain d'Orient",
+      "homeTeamId": "a4339c19-4507-45d0-a8e7-ab33c8fe64c0",
+      "awayTeamId": "940ca331-c4a1-4b47-9124-47f1f0c0111b",
+      "homeAway": "away",
+      "scoreFor": 3,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.5,
+      "scorers": [
+        {
+          "minute": 32,
+          "playerId": "89b476ba-0bbb-4fcd-8504-af0ddcc43f84",
+          "playerName": "Quintino Geraldo",
+          "assistId": "ec952366-f3a7-4039-a5d6-84abdf952f32",
+          "assistName": "Gilberto Zaire"
+        },
+        {
+          "minute": 47,
+          "playerId": "41fc981c-8348-476e-bf50-1050891c2e79",
+          "playerName": "Ivo Benguela",
+          "assistId": "860fae57-f419-46f4-9343-c463c569f525",
+          "assistName": "Dinis Geraldo"
+        },
+        {
+          "minute": 55,
+          "playerId": "41fc981c-8348-476e-bf50-1050891c2e79",
+          "playerName": "Ivo Benguela",
+          "assistId": "ee019909-426e-4e3d-a18f-51f5ba920422",
+          "assistName": "Carlos Ganda"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 68,
+          "playerId": "860fae57-f419-46f4-9343-c463c569f525",
+          "playerName": "Dinis Geraldo",
+          "type": "yellow"
+        },
+        {
+          "minute": 72,
+          "playerId": "ec952366-f3a7-4039-a5d6-84abdf952f32",
+          "playerName": "Gilberto Zaire",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "pj6cf3ormqvcmc3w",
       "playedAt": "2026-06-26T20:10:31.127Z",
       "opponentSlug": "rhodesie",
