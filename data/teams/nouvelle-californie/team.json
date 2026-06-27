@@ -237,6 +237,95 @@
   "activeTacticId": "9e1a176b-7372-4e1f-90da-22bd01876573",
   "recentMatches": [
     {
+      "matchId": "s6ncjbmkmqwvirdm",
+      "playedAt": "2026-06-27T21:34:37.824Z",
+      "opponentSlug": "spc",
+      "opponentName": "SPC",
+      "homeTeamId": "8893e441-b5b6-49ea-b439-9c327b38d7c5",
+      "awayTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 4,
+      "opponentStrength": 63,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.2,
+      "scorers": [
+        {
+          "minute": 47,
+          "playerId": "a65feb8f-59b8-400f-9384-653435b3d0f8",
+          "playerName": "Brody Mitchell"
+        },
+        {
+          "minute": 91,
+          "playerId": "cf5314bf-53e1-4a3e-af24-ccc2d3c45afb",
+          "playerName": "Kyle Scott",
+          "assistId": "a65feb8f-59b8-400f-9384-653435b3d0f8",
+          "assistName": "Brody Mitchell"
+        }
+      ]
+    },
+    {
+      "matchId": "hpzn3bc7mqwvirdm",
+      "playedAt": "2026-06-27T21:33:57.132Z",
+      "opponentSlug": "yamatai",
+      "opponentName": "Yamatai",
+      "homeTeamId": "8893e441-b5b6-49ea-b439-9c327b38d7c5",
+      "awayTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 1,
+      "opponentStrength": 63,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 0.7,
+      "scorers": [
+        {
+          "minute": 46,
+          "playerId": "1a9632e2-73d1-4104-b48e-cea93a0570f4",
+          "playerName": "Reed Martin",
+          "assistId": "ff67131f-2280-43ab-92d8-5691a2b3119d",
+          "assistName": "Drake Scott"
+        }
+      ]
+    },
+    {
+      "matchId": "cisgo0wemqwvirdm",
+      "playedAt": "2026-06-27T21:32:08.039Z",
+      "opponentSlug": "5eme-internationale",
+      "opponentName": "5ème Internationale",
+      "homeTeamId": "8893e441-b5b6-49ea-b439-9c327b38d7c5",
+      "awayTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 3,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.2,
+      "scorers": [
+        {
+          "minute": 59,
+          "playerId": "ff67131f-2280-43ab-92d8-5691a2b3119d",
+          "playerName": "Drake Scott"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 70,
+          "playerId": "bc218980-a8a5-4b09-9f8f-05af300343bb",
+          "playerName": "Quinn Walker",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "idn4pcromqwu11n7",
       "playedAt": "2026-06-27T20:59:23.199Z",
       "opponentSlug": "deseret",
