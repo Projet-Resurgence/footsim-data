@@ -20,6 +20,118 @@
   "publishedAt": "2026-06-27T21:25:46.523Z",
   "recentMatches": [
     {
+      "matchId": "4wa45hkdmqwvirdm",
+      "playedAt": "2026-06-27T21:34:37.825Z",
+      "opponentSlug": "yamatai",
+      "opponentName": "Yamatai",
+      "homeTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "awayTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 2,
+      "opponentStrength": 63,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.2,
+      "cards": [
+        {
+          "minute": 59,
+          "playerId": "1d7892d9-f47f-47a3-b41e-8622049075b2",
+          "playerName": "Henri Simon",
+          "type": "yellow"
+        },
+        {
+          "minute": 68,
+          "playerId": "1a6dcc48-0a86-44da-a1fa-4aa0028f6161",
+          "playerName": "Valentin Dubois",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "9gwfwavymqwvirdm",
+      "playedAt": "2026-06-27T21:33:57.134Z",
+      "opponentSlug": "spc",
+      "opponentName": "SPC",
+      "homeTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "awayTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 3,
+      "opponentStrength": 63,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 26,
+          "playerId": "30c48de3-bd45-4195-a6d3-e7f59257bc2d",
+          "playerName": "Jérôme Achier"
+        },
+        {
+          "minute": 80,
+          "playerId": "30c48de3-bd45-4195-a6d3-e7f59257bc2d",
+          "playerName": "Jérôme Achier",
+          "assistId": "0f37e5f2-34b6-42eb-a40d-a1cbed31548a",
+          "assistName": "Paul Marchand"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 13,
+          "playerId": "1a6dcc48-0a86-44da-a1fa-4aa0028f6161",
+          "playerName": "Valentin Dubois",
+          "type": "yellow"
+        },
+        {
+          "minute": 16,
+          "playerId": "8dfe3c1b-ad91-4c62-a9c6-5ae0265bcc34",
+          "playerName": "Thomas Nicolas",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "cisgo0wemqwvirdm",
+      "playedAt": "2026-06-27T21:32:08.039Z",
+      "opponentSlug": "nouvelle-californie",
+      "opponentName": "Nouvelle Californie",
+      "homeTeamId": "8893e441-b5b6-49ea-b439-9c327b38d7c5",
+      "awayTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "homeAway": "away",
+      "scoreFor": 3,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.5,
+      "scorers": [
+        {
+          "minute": 42,
+          "playerId": "b2d3034a-7398-4715-88ad-1943b28927eb",
+          "playerName": "Florian Lopez",
+          "assistId": "30f29f34-1db2-4515-90d0-a533ad38fa0e",
+          "assistName": "Mathis Dubois"
+        },
+        {
+          "minute": 65,
+          "playerId": "30c48de3-bd45-4195-a6d3-e7f59257bc2d",
+          "playerName": "Jérôme Achier"
+        },
+        {
+          "minute": 75,
+          "playerId": "b2d3034a-7398-4715-88ad-1943b28927eb",
+          "playerName": "Florian Lopez"
+        }
+      ]
+    },
+    {
       "matchId": "lgx7nvrwmqvcmc3w",
       "playedAt": "2026-06-27T11:24:06.261Z",
       "opponentSlug": "otupia",
