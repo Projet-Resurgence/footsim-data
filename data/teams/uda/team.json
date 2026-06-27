@@ -513,6 +513,181 @@
   },
   "recentMatches": [
     {
+      "matchId": "jt0wv5pcmqwv07xs",
+      "playedAt": "2026-06-27T21:20:50.251Z",
+      "opponentSlug": "5eme-internationale",
+      "opponentName": "5ème Internationale",
+      "homeTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "awayTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.2
+    },
+    {
+      "matchId": "kc3e3dbvmqwv07xr",
+      "playedAt": "2026-06-27T21:19:36.697Z",
+      "opponentSlug": "italie",
+      "opponentName": "Italie",
+      "homeTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "awayTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 2,
+      "opponentStrength": 63,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 0.7,
+      "scorers": [
+        {
+          "minute": 48,
+          "playerId": "c132a33d-878d-4758-84dc-4b8a0b520295",
+          "playerName": "Cong Tang",
+          "assistId": "6fcb834b-f8d5-452b-b759-dc9e0ae2317a",
+          "assistName": "Kai Liang"
+        },
+        {
+          "minute": 66,
+          "playerId": "75811d88-67bf-455a-98de-a3469da03099",
+          "playerName": "Sheng Han"
+        }
+      ]
+    },
+    {
+      "matchId": "uvvwcvfkmqwv07xr",
+      "playedAt": "2026-06-27T21:18:05.097Z",
+      "opponentSlug": "cascadie",
+      "opponentName": "Cascadie",
+      "homeTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "awayTeamId": "e5bac765-f354-41a2-b940-1e97fba04c20",
+      "homeAway": "home",
+      "scoreFor": 7,
+      "scoreAgainst": 0,
+      "opponentStrength": 62,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 3,
+      "scorers": [
+        {
+          "minute": 2,
+          "playerId": "75811d88-67bf-455a-98de-a3469da03099",
+          "playerName": "Sheng Han",
+          "assistId": "a9845c59-12ee-4a24-ae10-571725c54d42",
+          "assistName": "Zhi Cai"
+        },
+        {
+          "minute": 10,
+          "playerId": "75811d88-67bf-455a-98de-a3469da03099",
+          "playerName": "Sheng Han",
+          "assistId": "6fcb834b-f8d5-452b-b759-dc9e0ae2317a",
+          "assistName": "Kai Liang"
+        },
+        {
+          "minute": 35,
+          "playerId": "75811d88-67bf-455a-98de-a3469da03099",
+          "playerName": "Sheng Han",
+          "assistId": "a9845c59-12ee-4a24-ae10-571725c54d42",
+          "assistName": "Zhi Cai"
+        },
+        {
+          "minute": 54,
+          "playerId": "dbef5bfc-f6f6-4693-9c47-0566d870f06e",
+          "playerName": "Ou Lu",
+          "assistId": "a9845c59-12ee-4a24-ae10-571725c54d42",
+          "assistName": "Zhi Cai"
+        },
+        {
+          "minute": 63,
+          "playerId": "dbef5bfc-f6f6-4693-9c47-0566d870f06e",
+          "playerName": "Ou Lu"
+        },
+        {
+          "minute": 71,
+          "playerId": "75811d88-67bf-455a-98de-a3469da03099",
+          "playerName": "Sheng Han"
+        },
+        {
+          "minute": 76,
+          "playerId": "c132a33d-878d-4758-84dc-4b8a0b520295",
+          "playerName": "Cong Tang",
+          "assistId": "a9845c59-12ee-4a24-ae10-571725c54d42",
+          "assistName": "Zhi Cai"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 70,
+          "playerId": "c132a33d-878d-4758-84dc-4b8a0b520295",
+          "playerName": "Cong Tang",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "n1dedb9umqwv07xr",
+      "playedAt": "2026-06-27T21:16:57.094Z",
+      "opponentSlug": "rsotp",
+      "opponentName": "RSOTP",
+      "homeTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "awayTeamId": "57fffbee-9163-4497-87cd-b887abf87078",
+      "homeAway": "home",
+      "scoreFor": 6,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 3,
+      "scorers": [
+        {
+          "minute": 18,
+          "playerId": "75811d88-67bf-455a-98de-a3469da03099",
+          "playerName": "Sheng Han"
+        },
+        {
+          "minute": 27,
+          "playerId": "2047d47b-b47e-4d9b-b80e-06f3ea7fa330",
+          "playerName": "Lei Luo"
+        },
+        {
+          "minute": 28,
+          "playerId": "dbef5bfc-f6f6-4693-9c47-0566d870f06e",
+          "playerName": "Ou Lu"
+        },
+        {
+          "minute": 50,
+          "playerId": "dbef5bfc-f6f6-4693-9c47-0566d870f06e",
+          "playerName": "Ou Lu",
+          "assistId": "6fcb834b-f8d5-452b-b759-dc9e0ae2317a",
+          "assistName": "Kai Liang"
+        },
+        {
+          "minute": 80,
+          "playerId": "c132a33d-878d-4758-84dc-4b8a0b520295",
+          "playerName": "Cong Tang",
+          "assistId": "75811d88-67bf-455a-98de-a3469da03099",
+          "assistName": "Sheng Han"
+        },
+        {
+          "minute": 92,
+          "playerId": "dbef5bfc-f6f6-4693-9c47-0566d870f06e",
+          "playerName": "Ou Lu",
+          "assistId": "a9845c59-12ee-4a24-ae10-571725c54d42",
+          "assistName": "Zhi Cai"
+        }
+      ]
+    },
+    {
       "matchId": "mpcintwgmqwu11n7",
       "playedAt": "2026-06-27T20:56:59.074Z",
       "opponentSlug": "5eme-internationale",
