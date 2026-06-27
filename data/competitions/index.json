@@ -148,7 +148,7 @@
   },
   {
     "id": "rz1qemn56rmmqtyr6yf",
-    "name": "Kebab World Cup",
+    "name": "Kebab Cup",
     "format": "groups_knockout",
     "status": "completed",
     "teamCount": 16,
@@ -172,7 +172,10 @@
       "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
       "df16509b-c6c2-43ce-abae-7c077e85ba22",
       "8451e643-10d4-48bc-a4e6-4c12255695f4"
-    ]
+    ],
+    "kind": "amicale",
+    "scope": "internationale",
+    "importance": "mineur"
   },
   {
     "id": "uevrnvlpnvmqty1zqg",
