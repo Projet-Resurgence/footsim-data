@@ -30,6 +30,80 @@
   "publishedAt": "2026-06-27T20:37:45.895Z",
   "recentMatches": [
     {
+      "matchId": "lwrbu31hmqwt6yer",
+      "playedAt": "2026-06-27T20:31:18.109Z",
+      "opponentSlug": "empire-hussein",
+      "opponentName": "Empire Hussein",
+      "homeTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "awayTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 1,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "cards": [
+        {
+          "minute": 62,
+          "playerId": "e8cb564f-f280-44e9-aaa1-7515af4c2b9a",
+          "playerName": "Fabrizio Bruno",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "hifvshowmqwt6yer",
+      "playedAt": "2026-06-27T20:29:21.262Z",
+      "opponentSlug": "nova-orbis",
+      "opponentName": "Nova Orbis",
+      "homeTeamId": "28f82804-8005-450a-b6d8-740533bf82b0",
+      "awayTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "cards": [
+        {
+          "minute": 86,
+          "playerId": "edd4bb45-d83c-4421-8f10-63bba4605082",
+          "playerName": "Pietro Romano",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "45gbas0imqwt6yer",
+      "playedAt": "2026-06-27T20:27:10.670Z",
+      "opponentSlug": "nouvelle-californie",
+      "opponentName": "Nouvelle Californie",
+      "homeTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "awayTeamId": "8893e441-b5b6-49ea-b439-9c327b38d7c5",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 14,
+          "playerId": "c0b175e4-3ae0-4184-9118-b1c25aef5498",
+          "playerName": "Marcello Bruno"
+        }
+      ]
+    },
+    {
       "matchId": "6aqs5idgmqvcmc3w",
       "playedAt": "2026-06-27T20:10:53.536Z",
       "opponentSlug": "germanie",
