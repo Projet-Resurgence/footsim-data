@@ -329,6 +329,73 @@
       ]
     },
     {
+      "matchId": "aays3yirmqwv07xr",
+      "playedAt": "2026-06-27T21:19:36.701Z",
+      "opponentSlug": "ugp",
+      "opponentName": "UGP",
+      "homeTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "awayTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 4,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.7,
+      "cards": [
+        {
+          "minute": 44,
+          "playerId": "0dd0b1a4-1bd3-491b-bdb5-2104eac0b7e4",
+          "playerName": "Finn Parker",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "axsw97o9mqwv07xr",
+      "playedAt": "2026-06-27T21:18:05.104Z",
+      "opponentSlug": "royaume-d-asha",
+      "opponentName": "Royaume d'Asha",
+      "homeTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "awayTeamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 0.7
+    },
+    {
+      "matchId": "3fakryhhmqwv07xr",
+      "playedAt": "2026-06-27T21:16:57.103Z",
+      "opponentSlug": "osmanide",
+      "opponentName": "Osmanide",
+      "homeTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "awayTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 0.7,
+      "cards": [
+        {
+          "minute": 80,
+          "playerId": "0dd0b1a4-1bd3-491b-bdb5-2104eac0b7e4",
+          "playerName": "Finn Parker",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "idn4pcromqwu11n7",
       "playedAt": "2026-06-27T20:59:23.199Z",
       "opponentSlug": "nouvelle-californie",
