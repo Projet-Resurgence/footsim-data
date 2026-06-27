@@ -12371,7 +12371,7 @@
       "technical": {
         "passing": 11,
         "crossing": 14,
-        "dribbling": 19,
+        "dribbling": 20,
         "finishing": 20,
         "firstTouch": 20,
         "heading": 20,
@@ -12384,7 +12384,7 @@
         "decisions": 16,
         "composure": 20,
         "anticipation": 12,
-        "offTheBall": 11,
+        "offTheBall": 13,
         "aggression": 15,
         "workRate": 11
       },
@@ -12399,7 +12399,7 @@
       },
       "goalkeeping": null
     },
-    "overall": 88
+    "overall": 90
   },
   {
     "id": "8d128065-480f-4c1d-bf16-38619dfa6f6b",
