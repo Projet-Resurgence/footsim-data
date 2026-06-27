@@ -47,6 +47,96 @@
   "publishedAt": "2026-06-25T10:54:07.121Z",
   "recentMatches": [
     {
+      "matchId": "4tozu4ohmqvcmc3w",
+      "playedAt": "2026-06-27T11:24:06.255Z",
+      "opponentSlug": "rpdo",
+      "opponentName": "RPDO",
+      "homeTeamId": "0779ee45-e790-4ff2-901b-ba22bd8b4d83",
+      "awayTeamId": "3b7016ec-ba5d-4b54-9f1f-95d2e3ff84bf",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17,
+      "scorers": [
+        {
+          "minute": 26,
+          "playerId": "3857f7bb-749d-407c-970d-cb74ca4dfaac",
+          "playerName": "Mauricio Muñoz",
+          "assistId": "abb8e25d-9215-4754-a702-9c7bcccba662",
+          "assistName": "Francisco Baeza"
+        }
+      ]
+    },
+    {
+      "matchId": "vdk24utgmqvcmc3w",
+      "playedAt": "2026-06-27T11:14:38.792Z",
+      "opponentSlug": "cedre",
+      "opponentName": "Cèdre",
+      "homeTeamId": "0779ee45-e790-4ff2-901b-ba22bd8b4d83",
+      "awayTeamId": "292037a2-3b7a-40e7-b9fa-37a11d157341",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17,
+      "scorers": [
+        {
+          "minute": 31,
+          "playerId": "d83d1afa-92ad-4020-8266-0a6056ae769c",
+          "playerName": "Arturo Morales"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 90,
+          "playerId": "658c32f6-c1c5-42ac-96aa-c5a19ba59187",
+          "playerName": "Xavier Cáceres",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "epqums6dmqvcmc3w",
+      "playedAt": "2026-06-27T11:08:16.890Z",
+      "opponentSlug": "texas",
+      "opponentName": "Texas",
+      "homeTeamId": "0779ee45-e790-4ff2-901b-ba22bd8b4d83",
+      "awayTeamId": "0cf5d3c2-39e2-4cfc-be26-279bf438a4c0",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17,
+      "scorers": [
+        {
+          "minute": 95,
+          "playerId": "658c32f6-c1c5-42ac-96aa-c5a19ba59187",
+          "playerName": "Xavier Cáceres"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 2,
+          "playerId": "38ca6aec-cb23-4823-8e4c-18f773f22f9d",
+          "playerName": "Felipe Cáceres",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "s7s27x3smqvcmc3w",
       "playedAt": "2026-06-26T20:10:31.128Z",
       "opponentSlug": "empire-hussein",
