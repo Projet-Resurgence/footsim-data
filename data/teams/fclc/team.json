@@ -11,6 +11,75 @@
   "formation": "4-3-3",
   "recentMatches": [
     {
+      "matchId": "5z8snp0fmqvcmc3w",
+      "playedAt": "2026-06-27T20:13:41.297Z",
+      "opponentSlug": "cedre",
+      "opponentName": "Cèdre",
+      "homeTeamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "awayTeamId": "292037a2-3b7a-40e7-b9fa-37a11d157341",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17,
+      "scorers": [
+        {
+          "minute": 27,
+          "playerId": "5f32168a-14df-4d52-a989-1b39439b3517",
+          "playerName": "Jhon Torres"
+        }
+      ]
+    },
+    {
+      "matchId": "6wn2xfvsmqvcmc3w",
+      "playedAt": "2026-06-27T20:08:47.146Z",
+      "opponentSlug": "texas",
+      "opponentName": "Texas",
+      "homeTeamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "awayTeamId": "0cf5d3c2-39e2-4cfc-be26-279bf438a4c0",
+      "homeAway": "home",
+      "scoreFor": 4,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 18,
+      "scorers": [
+        {
+          "minute": 18,
+          "playerId": "8e6ca1f6-ba3e-431b-8b80-2cc45318e0a9",
+          "playerName": "Gustavo Romero"
+        },
+        {
+          "minute": 66,
+          "playerId": "8e6ca1f6-ba3e-431b-8b80-2cc45318e0a9",
+          "playerName": "Gustavo Romero",
+          "assistId": "aca08af0-9097-4f69-99df-b10b11993d02",
+          "assistName": "Tomás Martínez"
+        },
+        {
+          "minute": 68,
+          "playerId": "5f32168a-14df-4d52-a989-1b39439b3517",
+          "playerName": "Jhon Torres",
+          "assistId": "d1f33281-0c4a-44f2-8485-bd164cce0749",
+          "assistName": "Barry Grant"
+        },
+        {
+          "minute": 89,
+          "playerId": "5f32168a-14df-4d52-a989-1b39439b3517",
+          "playerName": "Jhon Torres",
+          "assistId": "3202268e-ee1e-4b33-8a5a-91bf16b51619",
+          "assistName": "Istas Zephyr"
+        }
+      ]
+    },
+    {
       "matchId": "bo0el0rjmqvcmc3w",
       "playedAt": "2026-06-27T11:19:26.278Z",
       "opponentSlug": "empire-hussein",
