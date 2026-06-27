@@ -310,6 +310,64 @@
   "suspensions": [],
   "recentMatches": [
     {
+      "matchId": "nyjil670mqwvirdm",
+      "playedAt": "2026-06-27T21:34:37.826Z",
+      "opponentSlug": "italie",
+      "opponentName": "Italie",
+      "homeTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "awayTeamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 3,
+      "opponentStrength": 63,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.7
+    },
+    {
+      "matchId": "l94zuh7wmqwvirdm",
+      "playedAt": "2026-06-27T21:33:57.137Z",
+      "opponentSlug": "ugp",
+      "opponentName": "UGP",
+      "homeTeamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "awayTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 5,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -2.7
+    },
+    {
+      "matchId": "9ksms2jvmqwvirdm",
+      "playedAt": "2026-06-27T21:32:08.041Z",
+      "opponentSlug": "prometheus",
+      "opponentName": "Prometheus",
+      "homeTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "awayTeamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 4,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.7,
+      "scorers": [
+        {
+          "minute": 77,
+          "playerId": "57712de0-dde0-40a1-958f-7848cb7a593f",
+          "playerName": "Rasoul Fattahi"
+        }
+      ]
+    },
+    {
       "matchId": "3yeanqfymqvcmc3w",
       "playedAt": "2026-06-27T20:13:41.298Z",
       "opponentSlug": "ursi",
