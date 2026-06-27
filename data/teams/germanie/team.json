@@ -132,6 +132,106 @@
   ],
   "recentMatches": [
     {
+      "matchId": "b3vyrw5cmqwu11n7",
+      "playedAt": "2026-06-27T20:54:33.995Z",
+      "opponentSlug": "crpac",
+      "opponentName": "CRPAC",
+      "homeTeamId": "6377412c-0d4c-47e7-ba24-52745e83cfaa",
+      "awayTeamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 3,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.7,
+      "cards": [
+        {
+          "minute": 82,
+          "playerId": "6b2442dd-168b-4f8a-884f-19b5fc5b1355",
+          "playerName": "Erik Roth",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "lutydqrsmqwu11n7",
+      "playedAt": "2026-06-27T20:52:41.411Z",
+      "opponentSlug": "uda",
+      "opponentName": "UDA",
+      "homeTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "awayTeamId": "6377412c-0d4c-47e7-ba24-52745e83cfaa",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 5,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -2.7,
+      "cards": [
+        {
+          "minute": 62,
+          "playerId": "e5a951b2-9510-4234-9756-691a4822918b",
+          "playerName": "Kai Kaiser",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "0xydbvfsmqwu11n7",
+      "playedAt": "2026-06-27T20:50:18.531Z",
+      "opponentSlug": "spc",
+      "opponentName": "SPC",
+      "homeTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "awayTeamId": "6377412c-0d4c-47e7-ba24-52745e83cfaa",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 7,
+      "opponentStrength": 63,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -2.7,
+      "scorers": [
+        {
+          "minute": 62,
+          "playerId": "c610394c-a4b7-4d4e-8dda-ce1c628c20f5",
+          "playerName": "Killian Perrin"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 35,
+          "playerId": "4cff8ba1-7087-4bca-ae92-20cf4d9599b9",
+          "playerName": "Théo Morin",
+          "type": "yellow"
+        },
+        {
+          "minute": 68,
+          "playerId": "4cff8ba1-7087-4bca-ae92-20cf4d9599b9",
+          "playerName": "Théo Morin",
+          "type": "red"
+        },
+        {
+          "minute": 79,
+          "playerId": "6b2442dd-168b-4f8a-884f-19b5fc5b1355",
+          "playerName": "Erik Roth",
+          "type": "yellow"
+        },
+        {
+          "minute": 93,
+          "playerId": "1eac2205-354c-4bf3-ac5a-f1bd85d4a540",
+          "playerName": "Maxence Bonnet",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "6aqs5idgmqvcmc3w",
       "playedAt": "2026-06-27T20:10:53.536Z",
       "opponentSlug": "ugp",
