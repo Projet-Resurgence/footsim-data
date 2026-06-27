@@ -48,6 +48,87 @@
   "publishedAt": "2026-06-26T21:36:33.811Z",
   "recentMatches": [
     {
+      "matchId": "h03ggdqhmqvcmc3w",
+      "playedAt": "2026-06-27T11:24:06.249Z",
+      "opponentSlug": "spc",
+      "opponentName": "SPC",
+      "homeTeamId": "e601e0d9-7e45-4c53-bb41-16ccd12e9a06",
+      "awayTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 3,
+      "opponentStrength": 62,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.8,
+      "cards": [
+        {
+          "minute": 20,
+          "playerId": "0d7b3a7a-9798-470f-9df5-a9a17b244eb0",
+          "playerName": "Tiina Koskinen",
+          "type": "red"
+        }
+      ]
+    },
+    {
+      "matchId": "rjmv97zfmqvcmc3w",
+      "playedAt": "2026-06-27T11:14:38.786Z",
+      "opponentSlug": "perou",
+      "opponentName": "Pérou",
+      "homeTeamId": "e601e0d9-7e45-4c53-bb41-16ccd12e9a06",
+      "awayTeamId": "f3fda074-0648-4d1f-a413-281bbf6d7d59",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 2,
+      "opponentStrength": 61,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 5.7,
+      "scorers": [
+        {
+          "minute": 33,
+          "playerId": "2e3f2476-c746-4315-9d99-ec1c1f680f3d",
+          "playerName": "Pekka Leinonen",
+          "assistId": "68f72a75-0d4b-446a-95be-1a0b948b8205",
+          "assistName": "Ilkka Ikonen"
+        },
+        {
+          "minute": 69,
+          "playerId": "2e3f2476-c746-4315-9d99-ec1c1f680f3d",
+          "playerName": "Pekka Leinonen"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 48,
+          "playerId": "5ccbda44-e379-4826-a3bb-a09774b689a2",
+          "playerName": "Kari Toivonen",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "wb8dxti4mqvcmc3w",
+      "playedAt": "2026-06-27T11:08:16.884Z",
+      "opponentSlug": "lusitanie",
+      "opponentName": "Lusitanie",
+      "homeTeamId": "e601e0d9-7e45-4c53-bb41-16ccd12e9a06",
+      "awayTeamId": "2256fe5a-993b-4007-8191-47ebe93a3e70",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 3,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.7
+    },
+    {
       "matchId": "vekiq3kemqvcmc3w",
       "playedAt": "2026-06-26T20:10:31.124Z",
       "opponentSlug": "nouvelle-californie",
