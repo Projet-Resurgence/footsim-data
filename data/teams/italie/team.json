@@ -134,6 +134,170 @@
   ],
   "recentMatches": [
     {
+      "matchId": "dodmq2j8mqwt6yer",
+      "playedAt": "2026-06-27T20:33:33.178Z",
+      "opponentSlug": "fclc",
+      "opponentName": "FCLC",
+      "homeTeamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "awayTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 2,
+      "opponentStrength": 61,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 94,
+          "playerId": "b1f21ed9-7d98-4635-853f-375daf3bd629",
+          "playerName": "Cosimo De Santis"
+        }
+      ]
+    },
+    {
+      "matchId": "sxwz6941mqwt6yer",
+      "playedAt": "2026-06-27T20:31:18.107Z",
+      "opponentSlug": "5eme-internationale",
+      "opponentName": "5ème Internationale",
+      "homeTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "awayTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 21,
+          "playerId": "cff29621-0d97-4df2-8eda-e5794b15e4e0",
+          "playerName": "Franco Barbieri",
+          "assistId": "9adf7857-617e-441c-bd7b-8b06912b9e7b",
+          "assistName": "Marco Sala"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 71,
+          "playerId": "1112f785-5cf3-4def-9832-f90b8f5faed5",
+          "playerName": "Alessandro Mariani",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "fwv8ziq9mqwt6yer",
+      "playedAt": "2026-06-27T20:29:21.258Z",
+      "opponentSlug": "uda",
+      "opponentName": "UDA",
+      "homeTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "awayTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "homeAway": "away",
+      "scoreFor": 3,
+      "scoreAgainst": 2,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.1,
+      "scorers": [
+        {
+          "minute": 18,
+          "playerId": "6279380c-2ca6-4327-aabb-c1c3dbcf92f8",
+          "playerName": "Vincenzo Cattaneo",
+          "assistId": "9adf7857-617e-441c-bd7b-8b06912b9e7b",
+          "assistName": "Marco Sala"
+        },
+        {
+          "minute": 64,
+          "playerId": "cf861f67-c8bc-4f53-9f04-2e22fc880308",
+          "playerName": "Mario Santoro"
+        },
+        {
+          "minute": 69,
+          "playerId": "1112f785-5cf3-4def-9832-f90b8f5faed5",
+          "playerName": "Alessandro Mariani"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 29,
+          "playerId": "77b41aa4-9124-493b-979c-2cf608e62882",
+          "playerName": "Stefano Messina",
+          "type": "yellow"
+        },
+        {
+          "minute": 55,
+          "playerId": "1112f785-5cf3-4def-9832-f90b8f5faed5",
+          "playerName": "Alessandro Mariani",
+          "type": "yellow"
+        },
+        {
+          "minute": 72,
+          "playerId": "9adf7857-617e-441c-bd7b-8b06912b9e7b",
+          "playerName": "Marco Sala",
+          "type": "yellow"
+        },
+        {
+          "minute": 81,
+          "playerId": "e21eba70-7de4-45dc-8bf5-952b0aede9ee",
+          "playerName": "Luca Grasso",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "9qfyyi4vmqwt6yer",
+      "playedAt": "2026-06-27T20:27:10.667Z",
+      "opponentSlug": "foi-primaris",
+      "opponentName": "Foi Primaris",
+      "homeTeamId": "7db62a2a-b398-4a35-9c11-4d5b4bf4570c",
+      "awayTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "homeAway": "away",
+      "scoreFor": 3,
+      "scoreAgainst": 0,
+      "opponentStrength": 64,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.6,
+      "scorers": [
+        {
+          "minute": 7,
+          "playerId": "6279380c-2ca6-4327-aabb-c1c3dbcf92f8",
+          "playerName": "Vincenzo Cattaneo",
+          "assistId": "5f427fb1-e23a-453a-acf7-a4e8a7aa8db0",
+          "assistName": "Pietro Ferrara"
+        },
+        {
+          "minute": 58,
+          "playerId": "1112f785-5cf3-4def-9832-f90b8f5faed5",
+          "playerName": "Alessandro Mariani"
+        },
+        {
+          "minute": 92,
+          "playerId": "cf861f67-c8bc-4f53-9f04-2e22fc880308",
+          "playerName": "Mario Santoro"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 50,
+          "playerId": "77b41aa4-9124-493b-979c-2cf608e62882",
+          "playerName": "Stefano Messina",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "p1fg6ikumqvcmc3w",
       "playedAt": "2026-06-27T20:10:03.384Z",
       "opponentSlug": "empire-hussein",
