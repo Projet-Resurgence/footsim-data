@@ -46,6 +46,93 @@
   },
   "recentMatches": [
     {
+      "matchId": "5hpnwl2fmqvcmc3w",
+      "playedAt": "2026-06-27T11:24:06.254Z",
+      "opponentSlug": "cedre",
+      "opponentName": "Cèdre",
+      "homeTeamId": "9a7b1eb4-ac4c-4bbd-9990-650d7754a955",
+      "awayTeamId": "292037a2-3b7a-40e7-b9fa-37a11d157341",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17,
+      "scorers": [
+        {
+          "minute": 46,
+          "playerId": "3c42d211-0730-4392-bdb1-a9f6b34d3d6d",
+          "playerName": "Joseph Green",
+          "assistId": "186915d9-49f7-4fde-92bd-3833a213880b",
+          "assistName": "Harry Cox"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 14,
+          "playerId": "157f3f89-53f4-4925-9a53-22098a0bd45f",
+          "playerName": "Joshua Simpson",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "7kyy1vwumqvcmc3w",
+      "playedAt": "2026-06-27T11:14:38.791Z",
+      "opponentSlug": "texas",
+      "opponentName": "Texas",
+      "homeTeamId": "9a7b1eb4-ac4c-4bbd-9990-650d7754a955",
+      "awayTeamId": "0cf5d3c2-39e2-4cfc-be26-279bf438a4c0",
+      "homeAway": "home",
+      "scoreFor": 3,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.5,
+      "scorers": [
+        {
+          "minute": 2,
+          "playerId": "2fab3c6b-4e76-41e7-a219-f3a5acb7c78f",
+          "playerName": "Jonathan Cook",
+          "assistId": "3c42d211-0730-4392-bdb1-a9f6b34d3d6d",
+          "assistName": "Joseph Green"
+        },
+        {
+          "minute": 24,
+          "playerId": "39f461df-de86-48dd-814f-0372b28b4071",
+          "playerName": "Theo Bell"
+        },
+        {
+          "minute": 67,
+          "playerId": "a07809ce-0731-43fb-b32c-0fd4f80cfe33",
+          "playerName": "Ryan Clarke"
+        }
+      ]
+    },
+    {
+      "matchId": "fbblmc5kmqvcmc3w",
+      "playedAt": "2026-06-27T11:08:16.888Z",
+      "opponentSlug": "empire-hussein",
+      "opponentName": "Empire Hussein",
+      "homeTeamId": "9a7b1eb4-ac4c-4bbd-9990-650d7754a955",
+      "awayTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 0,
+      "opponentStrength": 65,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 6
+    },
+    {
       "matchId": "pnloum4fmqvcmc3w",
       "playedAt": "2026-06-26T20:10:31.127Z",
       "opponentSlug": "spc",
