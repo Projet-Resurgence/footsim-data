@@ -176,6 +176,147 @@
   },
   "recentMatches": [
     {
+      "matchId": "67j5zowwmqwvirdm",
+      "playedAt": "2026-06-27T21:35:50.045Z",
+      "opponentSlug": "prometheus",
+      "opponentName": "Prometheus",
+      "homeTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "awayTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 3,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.7
+    },
+    {
+      "matchId": "sxd45qvpmqwvirdm",
+      "playedAt": "2026-06-27T21:34:37.826Z",
+      "opponentSlug": "uda",
+      "opponentName": "UDA",
+      "homeTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "awayTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 0,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.6,
+      "scorers": [
+        {
+          "minute": 6,
+          "playerId": "470e4f61-dc93-4005-92a5-7dc9ed642d61",
+          "playerName": "Jackson Campbell",
+          "assistId": "262568b4-1d7b-48fe-8f03-1bf32a4e6915",
+          "assistName": "Chase Walker"
+        },
+        {
+          "minute": 67,
+          "playerId": "fe059e20-aea8-47a4-b870-d7be575af230",
+          "playerName": "Ryan Martin",
+          "assistId": "edfd7424-ec03-4090-9bae-efc4014f4955",
+          "assistName": "Scott Moore"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 85,
+          "playerId": "0dd0b1a4-1bd3-491b-bdb5-2104eac0b7e4",
+          "playerName": "Finn Parker",
+          "type": "red"
+        }
+      ]
+    },
+    {
+      "matchId": "mep54m80mqwvirdm",
+      "playedAt": "2026-06-27T21:33:57.140Z",
+      "opponentSlug": "antioche",
+      "opponentName": "Antioche",
+      "homeTeamId": "8451e643-10d4-48bc-a4e6-4c12255695f4",
+      "awayTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "homeAway": "away",
+      "scoreFor": 3,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.5,
+      "scorers": [
+        {
+          "minute": 21,
+          "playerId": "470e4f61-dc93-4005-92a5-7dc9ed642d61",
+          "playerName": "Jackson Campbell",
+          "assistId": "60812871-655a-4d99-8cf6-b47be478b3d2",
+          "assistName": "Austin Thomas"
+        },
+        {
+          "minute": 81,
+          "playerId": "262568b4-1d7b-48fe-8f03-1bf32a4e6915",
+          "playerName": "Chase Walker"
+        },
+        {
+          "minute": 91,
+          "playerId": "470e4f61-dc93-4005-92a5-7dc9ed642d61",
+          "playerName": "Jackson Campbell",
+          "assistId": "60812871-655a-4d99-8cf6-b47be478b3d2",
+          "assistName": "Austin Thomas"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 95,
+          "playerId": "51734e56-6364-48ce-aa7b-470b5a778a0b",
+          "playerName": "Nathan Baker",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "vkbtgw2tmqwvirdm",
+      "playedAt": "2026-06-27T21:32:08.042Z",
+      "opponentSlug": "livonie",
+      "opponentName": "Livonie",
+      "homeTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "awayTeamId": "6c4e5ecf-662a-43d5-9795-b038fe6e2072",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 3,
+      "opponentStrength": 62,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 28,
+          "playerId": "262568b4-1d7b-48fe-8f03-1bf32a4e6915",
+          "playerName": "Chase Walker"
+        },
+        {
+          "minute": 30,
+          "playerId": "51734e56-6364-48ce-aa7b-470b5a778a0b",
+          "playerName": "Nathan Baker"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 58,
+          "playerId": "0daed997-0e22-4c9b-ba72-d8f1ad45d1a9",
+          "playerName": "Dylan Miller",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "idn4pcromqwu11n7",
       "playedAt": "2026-06-27T20:59:23.199Z",
       "opponentSlug": "nouvelle-californie",
