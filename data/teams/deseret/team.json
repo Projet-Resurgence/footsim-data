@@ -1306,7 +1306,30 @@
     }
   ],
   "activeTacticId": "ae135a51-0500-4d2a-9ead-8cec319b57b7",
-  "injuries": [],
+  "injuries": [
+    {
+      "id": "df88b95f-2599-473c-9442-164559a103bd",
+      "playerId": "262568b4-1d7b-48fe-8f03-1bf32a4e6915",
+      "playerName": "Chase Walker",
+      "teamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "cause": "match",
+      "severity": "modérée",
+      "matchesRemaining": 3,
+      "description": "Déchirure musculaire partielle — indisponible plusieurs semaines.",
+      "roundOccurred": 6
+    },
+    {
+      "id": "6a2ad8fd-6105-4a55-b761-296f4317967c",
+      "playerId": "edfd7424-ec03-4090-9bae-efc4014f4955",
+      "playerName": "Scott Moore",
+      "teamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "cause": "match",
+      "severity": "grave",
+      "matchesRemaining": 5,
+      "description": "Fracture de la cheville — opération chirurgicale probable.",
+      "roundOccurred": 6
+    }
+  ],
   "suspensions": [],
   "actionFoot": {
     "rating": 5,

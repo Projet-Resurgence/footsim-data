@@ -1128,7 +1128,17 @@
     }
   ],
   "injuries": [],
-  "suspensions": [],
+  "suspensions": [
+    {
+      "id": "a2cd9c22-5c5d-4caa-875a-badef8884bb8",
+      "subjectId": "e3e1ec99-423f-475d-b4d9-e5a7b9bbb145",
+      "subjectName": "Dényl Polynice",
+      "teamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "matchesRemaining": 1,
+      "reason": "Carton rouge",
+      "roundOccurred": 4
+    }
+  ],
   "actionFoot": {
     "rating": 5,
     "funding": 75
