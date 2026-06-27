@@ -48,6 +48,93 @@
   "publishedAt": "2026-06-25T10:57:08.856Z",
   "recentMatches": [
     {
+      "matchId": "pk9kdh2umqvcmc3w",
+      "playedAt": "2026-06-27T11:24:06.245Z",
+      "opponentSlug": "naibat-de-mandra",
+      "opponentName": "Naibat de Mandra",
+      "homeTeamId": "fe2670d9-24c9-421f-8687-cd461e79e679",
+      "awayTeamId": "cc7eb9cc-9a93-44ee-89c7-f2c6e915a221",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.2,
+      "cards": [
+        {
+          "minute": 75,
+          "playerId": "cec68270-7df7-4b6a-8585-571ebdb11ef1",
+          "playerName": "Spencer Green",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "4gd9g968mqvcmc3w",
+      "playedAt": "2026-06-27T11:14:38.784Z",
+      "opponentSlug": "uda",
+      "opponentName": "UDA",
+      "homeTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "awayTeamId": "cc7eb9cc-9a93-44ee-89c7-f2c6e915a221",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 4,
+      "opponentStrength": 63,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.9,
+      "scorers": [
+        {
+          "minute": 4,
+          "playerId": "47384c17-46d4-48c1-bf42-f82a053c5492",
+          "playerName": "Mason Walker"
+        }
+      ]
+    },
+    {
+      "matchId": "adb1hxaqmqvcmc3w",
+      "playedAt": "2026-06-27T11:08:16.883Z",
+      "opponentSlug": "nouvelle-inde",
+      "opponentName": "Nouvelle Inde",
+      "homeTeamId": "a3427d5b-8081-4363-a9fd-1ac7de7e9144",
+      "awayTeamId": "cc7eb9cc-9a93-44ee-89c7-f2c6e915a221",
+      "homeAway": "away",
+      "scoreFor": 3,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.5,
+      "scorers": [
+        {
+          "minute": 30,
+          "playerId": "cec68270-7df7-4b6a-8585-571ebdb11ef1",
+          "playerName": "Spencer Green",
+          "assistId": "d2916657-2e00-4b08-9ce2-1b5930249db8",
+          "assistName": "Wyatt Jackson"
+        },
+        {
+          "minute": 68,
+          "playerId": "cec68270-7df7-4b6a-8585-571ebdb11ef1",
+          "playerName": "Spencer Green"
+        },
+        {
+          "minute": 94,
+          "playerId": "08e862cf-4df6-404f-b10b-f62b70081762",
+          "playerName": "Ethan White",
+          "assistId": "beb8d602-081a-4956-9e7c-864d1e104e67",
+          "assistName": "Wyatt Smith"
+        }
+      ]
+    },
+    {
       "matchId": "8gr8a300mqvcmc3w",
       "playedAt": "2026-06-26T20:10:31.124Z",
       "opponentSlug": "prometheus",
