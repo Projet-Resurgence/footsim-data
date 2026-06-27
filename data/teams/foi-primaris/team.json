@@ -155,6 +155,145 @@
   ],
   "recentMatches": [
     {
+      "matchId": "5p321teqmqvcmc3w",
+      "playedAt": "2026-06-27T11:21:35.096Z",
+      "opponentSlug": "germanie",
+      "opponentName": "Germanie",
+      "homeTeamId": "7db62a2a-b398-4a35-9c11-4d5b4bf4570c",
+      "awayTeamId": "6377412c-0d4c-47e7-ba24-52745e83cfaa",
+      "homeAway": "home",
+      "scoreFor": 10,
+      "scoreAgainst": 0,
+      "opponentStrength": 62,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 18.4,
+      "scorers": [
+        {
+          "minute": 16,
+          "playerId": "dbc0de06-7355-4358-afa9-ca2200500ea7",
+          "playerName": "Omar Jumanne",
+          "assistId": "48c23223-9363-4a29-a7d0-d04b8be6bfde",
+          "assistName": "Kilima Kigwangalla"
+        },
+        {
+          "minute": 54,
+          "playerId": "3ad7f7fc-6c82-4c2e-a421-e0c60a674725",
+          "playerName": "Hamisi Issa"
+        },
+        {
+          "minute": 59,
+          "playerId": "0d76b8fe-76c5-4c18-88ac-565369944291",
+          "playerName": "Honest Warioba"
+        },
+        {
+          "minute": 62,
+          "playerId": "dbc0de06-7355-4358-afa9-ca2200500ea7",
+          "playerName": "Omar Jumanne",
+          "assistId": "f957270c-e47a-471d-8390-43df1e7264ea",
+          "assistName": "Zuberi Ally"
+        },
+        {
+          "minute": 63,
+          "playerId": "dbc0de06-7355-4358-afa9-ca2200500ea7",
+          "playerName": "Omar Jumanne",
+          "assistId": "2f7b6b71-8e62-40ca-8e15-04954d39c835",
+          "assistName": "Honest Kigwangalla"
+        },
+        {
+          "minute": 67,
+          "playerId": "8cf58f9f-3eb8-4f84-b835-2ee678bd69f4",
+          "playerName": "Omar Pinda",
+          "assistId": "2f7b6b71-8e62-40ca-8e15-04954d39c835",
+          "assistName": "Honest Kigwangalla"
+        },
+        {
+          "minute": 70,
+          "playerId": "3ad7f7fc-6c82-4c2e-a421-e0c60a674725",
+          "playerName": "Hamisi Issa",
+          "assistId": "0d76b8fe-76c5-4c18-88ac-565369944291",
+          "assistName": "Honest Warioba"
+        },
+        {
+          "minute": 81,
+          "playerId": "dbc0de06-7355-4358-afa9-ca2200500ea7",
+          "playerName": "Omar Jumanne",
+          "assistId": "48c23223-9363-4a29-a7d0-d04b8be6bfde",
+          "assistName": "Kilima Kigwangalla"
+        },
+        {
+          "minute": 83,
+          "playerId": "3ad7f7fc-6c82-4c2e-a421-e0c60a674725",
+          "playerName": "Hamisi Issa"
+        },
+        {
+          "minute": 85,
+          "playerId": "dbc0de06-7355-4358-afa9-ca2200500ea7",
+          "playerName": "Omar Jumanne"
+        }
+      ]
+    },
+    {
+      "matchId": "5m5pcmp3mqvcmc3w",
+      "playedAt": "2026-06-27T11:14:38.796Z",
+      "opponentSlug": "aethel",
+      "opponentName": "Aethel",
+      "homeTeamId": "7db62a2a-b398-4a35-9c11-4d5b4bf4570c",
+      "awayTeamId": "9aea33e4-a280-4ec7-8ad5-4852e3cf3439",
+      "homeAway": "home",
+      "scoreFor": 4,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 18,
+      "scorers": [
+        {
+          "minute": 46,
+          "playerId": "8cf58f9f-3eb8-4f84-b835-2ee678bd69f4",
+          "playerName": "Omar Pinda",
+          "assistId": "2f7b6b71-8e62-40ca-8e15-04954d39c835",
+          "assistName": "Honest Kigwangalla"
+        },
+        {
+          "minute": 63,
+          "playerId": "dbc0de06-7355-4358-afa9-ca2200500ea7",
+          "playerName": "Omar Jumanne"
+        },
+        {
+          "minute": 72,
+          "playerId": "8cf58f9f-3eb8-4f84-b835-2ee678bd69f4",
+          "playerName": "Omar Pinda"
+        },
+        {
+          "minute": 94,
+          "playerId": "8cf58f9f-3eb8-4f84-b835-2ee678bd69f4",
+          "playerName": "Omar Pinda"
+        }
+      ]
+    },
+    {
+      "matchId": "we981h0vmqvcmc3w",
+      "playedAt": "2026-06-27T11:06:23.567Z",
+      "opponentSlug": "deseret",
+      "opponentName": "Deseret",
+      "homeTeamId": "7db62a2a-b398-4a35-9c11-4d5b4bf4570c",
+      "awayTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 1,
+      "opponentStrength": 64,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6
+    },
+    {
       "matchId": "na2fi0grmqvdpc6g",
       "playedAt": "2026-06-26T20:34:45.978Z",
       "opponentSlug": "deseret",
