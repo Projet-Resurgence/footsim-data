@@ -49,6 +49,84 @@
   "publishedAt": "2026-06-27T12:24:41.139Z",
   "recentMatches": [
     {
+      "matchId": "np6a8nufmqvcmc3w",
+      "playedAt": "2026-06-27T20:13:41.304Z",
+      "opponentSlug": "etat-de-floride",
+      "opponentName": "État de Floride",
+      "homeTeamId": "d078bb55-7f06-4ed1-b048-1dd6524ecae9",
+      "awayTeamId": "9aea33e4-a280-4ec7-8ad5-4852e3cf3439",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 3,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.7,
+      "cards": [
+        {
+          "minute": 56,
+          "playerId": "47edad9b-8354-4e69-89ff-07476a1083ad",
+          "playerName": "Noah Clark",
+          "type": "yellow"
+        },
+        {
+          "minute": 67,
+          "playerId": "1117e335-05eb-44b3-8220-a306f9062ee5",
+          "playerName": "Tyler Edwards",
+          "type": "yellow"
+        },
+        {
+          "minute": 87,
+          "playerId": "14036c19-c4dd-46e3-8a63-e0fc476c2763",
+          "playerName": "Trevor Wright",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "4558qoujmqvcmc3w",
+      "playedAt": "2026-06-27T20:08:47.153Z",
+      "opponentSlug": "ugp",
+      "opponentName": "UGP",
+      "homeTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "awayTeamId": "9aea33e4-a280-4ec7-8ad5-4852e3cf3439",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 1,
+      "opponentStrength": 65,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 18.1,
+      "scorers": [
+        {
+          "minute": 33,
+          "playerId": "278ed168-d6b2-4544-b52e-d9f8a35a1566",
+          "playerName": "Connor Martinez",
+          "assistId": "22a407a1-a7e6-462a-bfb3-22864d7676d1",
+          "assistName": "Noah Baker"
+        },
+        {
+          "minute": 39,
+          "playerId": "1117e335-05eb-44b3-8220-a306f9062ee5",
+          "playerName": "Tyler Edwards",
+          "assistId": "47edad9b-8354-4e69-89ff-07476a1083ad",
+          "assistName": "Noah Clark"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 52,
+          "playerId": "a2ec207f-fce0-49d8-b55c-31ed6951a0b6",
+          "playerName": "Ryan Collins",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "zb05ltz4mqvcmc3w",
       "playedAt": "2026-06-27T11:24:06.263Z",
       "opponentSlug": "ufep",
