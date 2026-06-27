@@ -66,6 +66,69 @@
   "suspensions": [],
   "recentMatches": [
     {
+      "matchId": "ivf6drfymqvcmc3w",
+      "playedAt": "2026-06-27T20:13:41.293Z",
+      "opponentSlug": "spc",
+      "opponentName": "SPC",
+      "homeTeamId": "4ba08162-cd67-4fe4-98d0-92064194885b",
+      "awayTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 0,
+      "opponentStrength": 62,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 5.8,
+      "cards": [
+        {
+          "minute": 76,
+          "playerId": "728bb9f9-7b81-4aad-97ee-e6b80d8a9ae7",
+          "playerName": "Sascha Weber",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "4rkbzcl0mqvcmc3w",
+      "playedAt": "2026-06-27T20:08:47.142Z",
+      "opponentSlug": "perou",
+      "opponentName": "Pérou",
+      "homeTeamId": "4ba08162-cd67-4fe4-98d0-92064194885b",
+      "awayTeamId": "f3fda074-0648-4d1f-a413-281bbf6d7d59",
+      "homeAway": "home",
+      "scoreFor": 3,
+      "scoreAgainst": 0,
+      "opponentStrength": 61,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.7,
+      "scorers": [
+        {
+          "minute": 5,
+          "playerId": "463b2a1a-5b55-4f0e-a150-f26d2adddf99",
+          "playerName": "Bernd Mayer",
+          "assistId": "9b1626f5-fe6b-45a5-b56b-9f257253945f",
+          "assistName": "Walter Schmitz"
+        },
+        {
+          "minute": 60,
+          "playerId": "463b2a1a-5b55-4f0e-a150-f26d2adddf99",
+          "playerName": "Bernd Mayer"
+        },
+        {
+          "minute": 93,
+          "playerId": "c9a454cb-6c22-42ba-aea6-0215ec660feb",
+          "playerName": "Lennart Huber",
+          "assistId": "9b1626f5-fe6b-45a5-b56b-9f257253945f",
+          "assistName": "Walter Schmitz"
+        }
+      ]
+    },
+    {
       "matchId": "vaqujh0umqvcmc3w",
       "playedAt": "2026-06-27T11:24:06.246Z",
       "opponentSlug": "lusitanie",
