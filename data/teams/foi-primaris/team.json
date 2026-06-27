@@ -167,6 +167,89 @@
   ],
   "recentMatches": [
     {
+      "matchId": "9p37kt1ymqwt6yer",
+      "playedAt": "2026-06-27T20:31:18.106Z",
+      "opponentSlug": "uda",
+      "opponentName": "UDA",
+      "homeTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "awayTeamId": "7db62a2a-b398-4a35-9c11-4d5b4bf4570c",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 2,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 49,
+          "playerId": "0d76b8fe-76c5-4c18-88ac-565369944291",
+          "playerName": "Honest Warioba"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 21,
+          "playerId": "2f7b6b71-8e62-40ca-8e15-04954d39c835",
+          "playerName": "Honest Kigwangalla",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "kwwx9gf2mqwt6yer",
+      "playedAt": "2026-06-27T20:29:21.259Z",
+      "opponentSlug": "5eme-internationale",
+      "opponentName": "5ème Internationale",
+      "homeTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "awayTeamId": "7db62a2a-b398-4a35-9c11-4d5b4bf4570c",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 13,
+          "playerId": "0d76b8fe-76c5-4c18-88ac-565369944291",
+          "playerName": "Honest Warioba",
+          "assistId": "dbc0de06-7355-4358-afa9-ca2200500ea7",
+          "assistName": "Omar Jumanne"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 77,
+          "playerId": "feacf042-11f7-416b-b4ce-b6635ffd6caf",
+          "playerName": "Honest Pinda",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "9qfyyi4vmqwt6yer",
+      "playedAt": "2026-06-27T20:27:10.667Z",
+      "opponentSlug": "italie",
+      "opponentName": "Italie",
+      "homeTeamId": "7db62a2a-b398-4a35-9c11-4d5b4bf4570c",
+      "awayTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 3,
+      "opponentStrength": 63,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.7
+    },
+    {
       "matchId": "je6o27i0mqvcmc3w",
       "playedAt": "2026-06-27T20:12:28.720Z",
       "opponentSlug": "antioche",
