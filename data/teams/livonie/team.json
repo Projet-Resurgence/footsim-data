@@ -210,6 +210,76 @@
   "activeTacticId": "cea688e4-4263-4d8a-b859-eedfe2f31c41",
   "recentMatches": [
     {
+      "matchId": "5n2i8r8dmqvcmc3w",
+      "playedAt": "2026-06-27T20:13:41.305Z",
+      "opponentSlug": "otupia",
+      "opponentName": "Otupia",
+      "homeTeamId": "ca4a42a7-44f6-40eb-a405-f2996edb1a56",
+      "awayTeamId": "6c4e5ecf-662a-43d5-9795-b038fe6e2072",
+      "homeAway": "away",
+      "scoreFor": 6,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 18,
+      "scorers": [
+        {
+          "minute": 2,
+          "playerId": "9e097b78-7d82-4de8-be52-255472133750",
+          "playerName": "Mārtiņš Lācis"
+        },
+        {
+          "minute": 35,
+          "playerId": "9e097b78-7d82-4de8-be52-255472133750",
+          "playerName": "Mārtiņš Lācis"
+        },
+        {
+          "minute": 51,
+          "playerId": "8e3974f2-ad78-4d66-bb64-9774c8779854",
+          "playerName": "Reinis Upenieks",
+          "assistId": "3c4665d8-66af-459e-942e-d0d67cf26412",
+          "assistName": "Rolands Balodis"
+        },
+        {
+          "minute": 76,
+          "playerId": "ad17b3d4-b7cc-4e7f-ad90-c952e017613f",
+          "playerName": "Elīna Zariņš"
+        },
+        {
+          "minute": 80,
+          "playerId": "ad17b3d4-b7cc-4e7f-ad90-c952e017613f",
+          "playerName": "Elīna Zariņš",
+          "assistId": "8e3974f2-ad78-4d66-bb64-9774c8779854",
+          "assistName": "Reinis Upenieks"
+        },
+        {
+          "minute": 88,
+          "playerId": "9e097b78-7d82-4de8-be52-255472133750",
+          "playerName": "Mārtiņš Lācis"
+        }
+      ]
+    },
+    {
+      "matchId": "e0ltmswvmqvcmc3w",
+      "playedAt": "2026-06-27T20:05:45.467Z",
+      "opponentSlug": "antioche",
+      "opponentName": "Antioche",
+      "homeTeamId": "8451e643-10d4-48bc-a4e6-4c12255695f4",
+      "awayTeamId": "6c4e5ecf-662a-43d5-9795-b038fe6e2072",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 6,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -7.7
+    },
+    {
       "matchId": "k376cnhrmqvcmc3w",
       "playedAt": "2026-06-27T11:21:02.529Z",
       "opponentSlug": "cote-d-ivoire",
