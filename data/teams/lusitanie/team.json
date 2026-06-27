@@ -47,6 +47,86 @@
   "suspensions": [],
   "recentMatches": [
     {
+      "matchId": "x8lzc349mqvcmc3w",
+      "playedAt": "2026-06-27T20:13:41.290Z",
+      "opponentSlug": "maghreb",
+      "opponentName": "Maghreb",
+      "homeTeamId": "02a4b69e-0d91-4183-a72b-717c658782c6",
+      "awayTeamId": "2256fe5a-993b-4007-8191-47ebe93a3e70",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.5,
+      "scorers": [
+        {
+          "minute": 9,
+          "playerId": "a9512eea-4eca-4aca-9bb3-01f275cc17dc",
+          "playerName": "Eduardo Ramos",
+          "assistId": "3d353af7-ca24-4724-95d7-e5d831f07094",
+          "assistName": "Alberto Soares"
+        },
+        {
+          "minute": 80,
+          "playerId": "a9512eea-4eca-4aca-9bb3-01f275cc17dc",
+          "playerName": "Eduardo Ramos",
+          "assistId": "2037c282-da8e-4cd1-a0ad-01f282a53e9d",
+          "assistName": "Joaquim Sá"
+        }
+      ]
+    },
+    {
+      "matchId": "tv3p3s6qmqvcmc3w",
+      "playedAt": "2026-06-27T20:08:47.141Z",
+      "opponentSlug": "nouvelle-californie",
+      "opponentName": "Nouvelle Californie",
+      "homeTeamId": "8893e441-b5b6-49ea-b439-9c327b38d7c5",
+      "awayTeamId": "2256fe5a-993b-4007-8191-47ebe93a3e70",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 3,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -5.7,
+      "scorers": [
+        {
+          "minute": 51,
+          "playerId": "661827df-7602-47ac-bfea-a7a3d9199e8a",
+          "playerName": "Inácio Marques",
+          "assistId": "2037c282-da8e-4cd1-a0ad-01f282a53e9d",
+          "assistName": "Joaquim Sá"
+        },
+        {
+          "minute": 64,
+          "playerId": "fc27f8d0-136b-48fc-9756-14fe1bd17f54",
+          "playerName": "Eduardo Gomes",
+          "assistId": "ad02a5f1-2cdf-41b6-a283-481fdcd995d9",
+          "assistName": "Nuno Sousa"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 30,
+          "playerId": "1c1883fd-1641-4a76-b8ae-12d74403e211",
+          "playerName": "Lourenço Reis",
+          "type": "red"
+        },
+        {
+          "minute": 60,
+          "playerId": "fc27f8d0-136b-48fc-9756-14fe1bd17f54",
+          "playerName": "Eduardo Gomes",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "vaqujh0umqvcmc3w",
       "playedAt": "2026-06-27T11:24:06.246Z",
       "opponentSlug": "fsta",
