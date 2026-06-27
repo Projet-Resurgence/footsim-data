@@ -45,6 +45,96 @@
   "publishedAt": "2026-06-25T11:24:39.901Z",
   "recentMatches": [
     {
+      "matchId": "zb05ltz4mqvcmc3w",
+      "playedAt": "2026-06-27T11:24:06.263Z",
+      "opponentSlug": "aethel",
+      "opponentName": "Aethel",
+      "homeTeamId": "833feec7-4a6a-4ec4-876a-d97306e404b8",
+      "awayTeamId": "9aea33e4-a280-4ec7-8ad5-4852e3cf3439",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -5.7,
+      "scorers": [
+        {
+          "minute": 11,
+          "playerId": "40869ca3-7523-44f8-8fc9-5a8feaed6ca1",
+          "playerName": "Gavin Nelson",
+          "assistId": "cf455d73-92fd-4529-98f6-8d621d53bbf3",
+          "assistName": "Alistair Bailey"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 88,
+          "playerId": "7e989c2d-164c-4dc2-bd0a-fd80a3208ef0",
+          "playerName": "Jack Morris",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "bgnig8h4mqvcmc3w",
+      "playedAt": "2026-06-27T11:14:38.795Z",
+      "opponentSlug": "deseret",
+      "opponentName": "Deseret",
+      "homeTeamId": "833feec7-4a6a-4ec4-876a-d97306e404b8",
+      "awayTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 2,
+      "opponentStrength": 64,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.5,
+      "cards": [
+        {
+          "minute": 11,
+          "playerId": "3e4f565f-44d3-4e2d-94ab-37c265406557",
+          "playerName": "Callum Turner",
+          "type": "red"
+        }
+      ]
+    },
+    {
+      "matchId": "s3hvykrnmqvcmc3w",
+      "playedAt": "2026-06-27T11:08:16.897Z",
+      "opponentSlug": "yamatai",
+      "opponentName": "Yamatai",
+      "homeTeamId": "833feec7-4a6a-4ec4-876a-d97306e404b8",
+      "awayTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 3,
+      "opponentStrength": 63,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.9,
+      "cards": [
+        {
+          "minute": 16,
+          "playerId": "3e4f565f-44d3-4e2d-94ab-37c265406557",
+          "playerName": "Callum Turner",
+          "type": "yellow"
+        },
+        {
+          "minute": 17,
+          "playerId": "3937c017-9ae6-48b1-a2d6-dd70c829bfac",
+          "playerName": "Gavin Morris",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "big2gk2hmqvcmc3w",
       "playedAt": "2026-06-26T20:10:31.132Z",
       "opponentSlug": "ccb",
