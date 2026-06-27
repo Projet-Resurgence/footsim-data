@@ -28,6 +28,113 @@
   },
   "recentMatches": [
     {
+      "matchId": "bf8364symqvcmc3w",
+      "playedAt": "2026-06-27T11:24:06.260Z",
+      "opponentSlug": "etat-de-floride",
+      "opponentName": "État de Floride",
+      "homeTeamId": "d078bb55-7f06-4ed1-b048-1dd6524ecae9",
+      "awayTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "homeAway": "away",
+      "scoreFor": 3,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.5,
+      "scorers": [
+        {
+          "minute": 12,
+          "playerId": "862eeced-2bf5-4be5-966b-56639fe66d10",
+          "playerName": "Yuki Okamoto",
+          "assistId": "83382722-ee55-4bb1-86bb-b7f9dc4dc0a2",
+          "assistName": "Tsubasa Fukuda"
+        },
+        {
+          "minute": 41,
+          "playerId": "324470fc-f9a6-4d99-a563-da0262006553",
+          "playerName": "Ren Kato"
+        },
+        {
+          "minute": 43,
+          "playerId": "862eeced-2bf5-4be5-966b-56639fe66d10",
+          "playerName": "Yuki Okamoto"
+        }
+      ]
+    },
+    {
+      "matchId": "621kxzdimqvcmc3w",
+      "playedAt": "2026-06-27T11:11:34.436Z",
+      "opponentSlug": "ugp",
+      "opponentName": "UGP",
+      "homeTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "awayTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 3,
+      "opponentStrength": 65,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6,
+      "scorers": [
+        {
+          "minute": 89,
+          "playerId": "45a62f33-b3f7-403d-8b43-a21924df4a63",
+          "playerName": "Toshiya Miyazaki"
+        },
+        {
+          "minute": 92,
+          "playerId": "862eeced-2bf5-4be5-966b-56639fe66d10",
+          "playerName": "Yuki Okamoto",
+          "assistId": "a576b423-7e81-4c96-8a04-6fed6153847b",
+          "assistName": "Yusuke Okada"
+        }
+      ]
+    },
+    {
+      "matchId": "s3hvykrnmqvcmc3w",
+      "playedAt": "2026-06-27T11:08:16.897Z",
+      "opponentSlug": "ufep",
+      "opponentName": "UFEP",
+      "homeTeamId": "833feec7-4a6a-4ec4-876a-d97306e404b8",
+      "awayTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "homeAway": "away",
+      "scoreFor": 3,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.5,
+      "scorers": [
+        {
+          "minute": 24,
+          "playerId": "862eeced-2bf5-4be5-966b-56639fe66d10",
+          "playerName": "Yuki Okamoto",
+          "assistId": "324470fc-f9a6-4d99-a563-da0262006553",
+          "assistName": "Ren Kato"
+        },
+        {
+          "minute": 26,
+          "playerId": "862eeced-2bf5-4be5-966b-56639fe66d10",
+          "playerName": "Yuki Okamoto",
+          "assistId": "efab1044-6e12-4ab5-8353-5b9f7b0facab",
+          "assistName": "Genta Miyazaki"
+        },
+        {
+          "minute": 69,
+          "playerId": "862eeced-2bf5-4be5-966b-56639fe66d10",
+          "playerName": "Yuki Okamoto",
+          "assistId": "efab1044-6e12-4ab5-8353-5b9f7b0facab",
+          "assistName": "Genta Miyazaki"
+        }
+      ]
+    },
+    {
       "matchId": "xjucb8qzmqvdpc6g",
       "playedAt": "2026-06-26T20:29:49.419Z",
       "opponentSlug": "ugp",
