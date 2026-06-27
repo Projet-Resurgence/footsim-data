@@ -47,6 +47,70 @@
   "publishedAt": "2026-06-26T18:38:40.567Z",
   "recentMatches": [
     {
+      "matchId": "x8lzc349mqvcmc3w",
+      "playedAt": "2026-06-27T20:13:41.290Z",
+      "opponentSlug": "lusitanie",
+      "opponentName": "Lusitanie",
+      "homeTeamId": "02a4b69e-0d91-4183-a72b-717c658782c6",
+      "awayTeamId": "2256fe5a-993b-4007-8191-47ebe93a3e70",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.2,
+      "cards": [
+        {
+          "minute": 12,
+          "playerId": "7aed167b-9ef0-40b3-82f4-3e76b49217a4",
+          "playerName": "Yassine Djerroudi",
+          "type": "red"
+        },
+        {
+          "minute": 63,
+          "playerId": "b65d3096-f984-4bc0-8f47-2c04110101b3",
+          "playerName": "Jawad Amrani",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "npxn90nmmqvcmc3w",
+      "playedAt": "2026-06-27T20:08:47.140Z",
+      "opponentSlug": "atlantique",
+      "opponentName": "Atlantique",
+      "homeTeamId": "02a4b69e-0d91-4183-a72b-717c658782c6",
+      "awayTeamId": "cc7eb9cc-9a93-44ee-89c7-f2c6e915a221",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.5,
+      "scorers": [
+        {
+          "minute": 41,
+          "playerId": "8e5a2ea0-d277-4ebc-b2ba-01abd63027a0",
+          "playerName": "Idir Aït-Idir",
+          "assistId": "9a7df76c-3a55-46ca-a23b-3b64307172b3",
+          "assistName": "Anis Guerraoui"
+        },
+        {
+          "minute": 84,
+          "playerId": "b097c586-5ca3-4fc8-83a9-eef3c973d3c2",
+          "playerName": "Abdelkader Taouil",
+          "assistId": "d70115f1-6122-443b-a688-05009a773f85",
+          "assistName": "Hassen Berber"
+        }
+      ]
+    },
+    {
       "matchId": "jg77oqg0mqvcmc3w",
       "playedAt": "2026-06-27T11:24:06.244Z",
       "opponentSlug": "nouvelle-californie",
