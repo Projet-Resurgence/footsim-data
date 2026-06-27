@@ -29,6 +29,99 @@
   "managerDiscordId": "1473103141728944171",
   "recentMatches": [
     {
+      "matchId": "84inr60ymqwvirdm",
+      "playedAt": "2026-06-27T21:34:37.827Z",
+      "opponentSlug": "livonie",
+      "opponentName": "Livonie",
+      "homeTeamId": "6c4e5ecf-662a-43d5-9795-b038fe6e2072",
+      "awayTeamId": "8451e643-10d4-48bc-a4e6-4c12255695f4",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 2,
+      "opponentStrength": 62,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 0.7,
+      "scorers": [
+        {
+          "minute": 73,
+          "playerId": "7b59d16c-915c-4eda-8fe3-e5ac6c43c86b",
+          "playerName": "Mert Gültekin",
+          "assistId": "f9e60e6a-0703-4810-9238-253fa3eb04a8",
+          "assistName": "Habib Nassar"
+        },
+        {
+          "minute": 95,
+          "playerId": "7b59d16c-915c-4eda-8fe3-e5ac6c43c86b",
+          "playerName": "Mert Gültekin"
+        }
+      ]
+    },
+    {
+      "matchId": "mep54m80mqwvirdm",
+      "playedAt": "2026-06-27T21:33:57.140Z",
+      "opponentSlug": "deseret",
+      "opponentName": "Deseret",
+      "homeTeamId": "8451e643-10d4-48bc-a4e6-4c12255695f4",
+      "awayTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 3,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.2,
+      "scorers": [
+        {
+          "minute": 75,
+          "playerId": "878bd360-c46e-492a-9214-de5da09ea87a",
+          "playerName": "Harun Aydoğan"
+        }
+      ]
+    },
+    {
+      "matchId": "4baihydjmqwvirdm",
+      "playedAt": "2026-06-27T21:32:08.042Z",
+      "opponentSlug": "uda",
+      "opponentName": "UDA",
+      "homeTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "awayTeamId": "8451e643-10d4-48bc-a4e6-4c12255695f4",
+      "homeAway": "away",
+      "scoreFor": 3,
+      "scoreAgainst": 1,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.6,
+      "scorers": [
+        {
+          "minute": 60,
+          "playerId": "878bd360-c46e-492a-9214-de5da09ea87a",
+          "playerName": "Harun Aydoğan"
+        },
+        {
+          "minute": 72,
+          "playerId": "2d105f15-6085-4c10-a990-0a81180604de",
+          "playerName": "Alper Karakaya",
+          "assistId": "878bd360-c46e-492a-9214-de5da09ea87a",
+          "assistName": "Harun Aydoğan"
+        },
+        {
+          "minute": 79,
+          "playerId": "7b59d16c-915c-4eda-8fe3-e5ac6c43c86b",
+          "playerName": "Mert Gültekin",
+          "assistId": "f9e60e6a-0703-4810-9238-253fa3eb04a8",
+          "assistName": "Habib Nassar"
+        }
+      ]
+    },
+    {
       "matchId": "aojd98rnmqwt6yer",
       "playedAt": "2026-06-27T20:31:18.105Z",
       "opponentSlug": "fclc",
