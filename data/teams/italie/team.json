@@ -146,6 +146,259 @@
   ],
   "recentMatches": [
     {
+      "matchId": "sjadrzobmqwvirdm",
+      "playedAt": "2026-06-27T21:36:59.149Z",
+      "opponentSlug": "yamatai",
+      "opponentName": "Yamatai",
+      "homeTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "awayTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 3,
+      "opponentStrength": 63,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 8,
+          "playerId": "cf861f67-c8bc-4f53-9f04-2e22fc880308",
+          "playerName": "Mario Santoro"
+        },
+        {
+          "minute": 15,
+          "playerId": "cf861f67-c8bc-4f53-9f04-2e22fc880308",
+          "playerName": "Mario Santoro",
+          "assistId": "9adf7857-617e-441c-bd7b-8b06912b9e7b",
+          "assistName": "Marco Sala"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 51,
+          "playerId": "825639c6-47a2-4c0c-b400-711891a83d56",
+          "playerName": "Andrea Serra",
+          "type": "yellow"
+        },
+        {
+          "minute": 82,
+          "playerId": "e21eba70-7de4-45dc-8bf5-952b0aede9ee",
+          "playerName": "Luca Grasso",
+          "type": "red"
+        }
+      ]
+    },
+    {
+      "matchId": "0nre1w0nmqwvirdm",
+      "playedAt": "2026-06-27T21:36:22.642Z",
+      "opponentSlug": "spc",
+      "opponentName": "SPC",
+      "homeTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "awayTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "homeAway": "away",
+      "scoreFor": 4,
+      "scoreAgainst": 5,
+      "opponentStrength": 63,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 18,
+          "playerId": "cf861f67-c8bc-4f53-9f04-2e22fc880308",
+          "playerName": "Mario Santoro"
+        },
+        {
+          "minute": 24,
+          "playerId": "f85ddf37-2eb9-4f98-817e-010fff3ec06d",
+          "playerName": "Antonio Amato"
+        },
+        {
+          "minute": 35,
+          "playerId": "cf861f67-c8bc-4f53-9f04-2e22fc880308",
+          "playerName": "Mario Santoro",
+          "assistId": "59c523c8-c14f-4b99-90b3-e3e05804b829",
+          "assistName": "Marcello Sartori"
+        },
+        {
+          "minute": 87,
+          "playerId": "6279380c-2ca6-4327-aabb-c1c3dbcf92f8",
+          "playerName": "Vincenzo Cattaneo"
+        }
+      ]
+    },
+    {
+      "matchId": "y12fdmf3mqwvirdm",
+      "playedAt": "2026-06-27T21:35:50.044Z",
+      "opponentSlug": "osmanide",
+      "opponentName": "Osmanide",
+      "homeTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "awayTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "homeAway": "home",
+      "scoreFor": 4,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 3,
+      "scorers": [
+        {
+          "minute": 95,
+          "playerId": "cf861f67-c8bc-4f53-9f04-2e22fc880308",
+          "playerName": "Mario Santoro",
+          "assistId": "59c523c8-c14f-4b99-90b3-e3e05804b829",
+          "assistName": "Marcello Sartori"
+        },
+        {
+          "minute": 96,
+          "playerId": "cf861f67-c8bc-4f53-9f04-2e22fc880308",
+          "playerName": "Mario Santoro",
+          "assistId": "59c523c8-c14f-4b99-90b3-e3e05804b829",
+          "assistName": "Marcello Sartori"
+        },
+        {
+          "minute": 102,
+          "playerId": "e21eba70-7de4-45dc-8bf5-952b0aede9ee",
+          "playerName": "Luca Grasso"
+        },
+        {
+          "minute": 122,
+          "playerId": "e21eba70-7de4-45dc-8bf5-952b0aede9ee",
+          "playerName": "Luca Grasso"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 17,
+          "playerId": "9adf7857-617e-441c-bd7b-8b06912b9e7b",
+          "playerName": "Marco Sala",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "nyjil670mqwvirdm",
+      "playedAt": "2026-06-27T21:34:37.826Z",
+      "opponentSlug": "royaume-d-asha",
+      "opponentName": "Royaume d'Asha",
+      "homeTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "awayTeamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "homeAway": "home",
+      "scoreFor": 3,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.5,
+      "scorers": [
+        {
+          "minute": 38,
+          "playerId": "cff29621-0d97-4df2-8eda-e5794b15e4e0",
+          "playerName": "Franco Barbieri"
+        },
+        {
+          "minute": 47,
+          "playerId": "cf861f67-c8bc-4f53-9f04-2e22fc880308",
+          "playerName": "Mario Santoro",
+          "assistId": "59c523c8-c14f-4b99-90b3-e3e05804b829",
+          "assistName": "Marcello Sartori"
+        },
+        {
+          "minute": 74,
+          "playerId": "cff29621-0d97-4df2-8eda-e5794b15e4e0",
+          "playerName": "Franco Barbieri",
+          "assistId": "cf861f67-c8bc-4f53-9f04-2e22fc880308",
+          "assistName": "Mario Santoro"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 56,
+          "playerId": "e21eba70-7de4-45dc-8bf5-952b0aede9ee",
+          "playerName": "Luca Grasso",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "cdrd4vfsmqwvirdm",
+      "playedAt": "2026-06-27T21:33:57.136Z",
+      "opponentSlug": "prometheus",
+      "opponentName": "Prometheus",
+      "homeTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "awayTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 0,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.6,
+      "scorers": [
+        {
+          "minute": 55,
+          "playerId": "e21eba70-7de4-45dc-8bf5-952b0aede9ee",
+          "playerName": "Luca Grasso",
+          "assistId": "5f427fb1-e23a-453a-acf7-a4e8a7aa8db0",
+          "assistName": "Pietro Ferrara"
+        },
+        {
+          "minute": 57,
+          "playerId": "cf861f67-c8bc-4f53-9f04-2e22fc880308",
+          "playerName": "Mario Santoro"
+        }
+      ]
+    },
+    {
+      "matchId": "tzee96f6mqwvirdm",
+      "playedAt": "2026-06-27T21:32:08.041Z",
+      "opponentSlug": "ugp",
+      "opponentName": "UGP",
+      "homeTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "awayTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 1,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.1,
+      "scorers": [
+        {
+          "minute": 10,
+          "playerId": "cf861f67-c8bc-4f53-9f04-2e22fc880308",
+          "playerName": "Mario Santoro"
+        },
+        {
+          "minute": 33,
+          "playerId": "cf861f67-c8bc-4f53-9f04-2e22fc880308",
+          "playerName": "Mario Santoro",
+          "assistId": "e21eba70-7de4-45dc-8bf5-952b0aede9ee",
+          "assistName": "Luca Grasso"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 62,
+          "playerId": "f38ac7a8-6588-434f-a9d6-5dd503c1dc44",
+          "playerName": "Giuseppe Costa",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "oakx1s5ymqwu11n7",
       "playedAt": "2026-06-27T20:54:33.994Z",
       "opponentSlug": "5eme-internationale",
