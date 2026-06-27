@@ -310,6 +310,67 @@
   "suspensions": [],
   "recentMatches": [
     {
+      "matchId": "3yeanqfymqvcmc3w",
+      "playedAt": "2026-06-27T20:13:41.298Z",
+      "opponentSlug": "ursi",
+      "opponentName": "URSI",
+      "homeTeamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+      "awayTeamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 0,
+      "opponentStrength": 62,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.4,
+      "scorers": [
+        {
+          "minute": 77,
+          "playerId": "d5f00f3c-2cd1-4ac2-b6b9-a60d357eb5c3",
+          "playerName": "Milad Rezaei"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 3,
+          "playerId": "541fbce5-29ef-4c5f-83fd-9e0a42d404fb",
+          "playerName": "Nima Rezaei",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "pxktofihmqvcmc3w",
+      "playedAt": "2026-06-27T20:08:47.148Z",
+      "opponentSlug": "romain-d-orient",
+      "opponentName": "Romain d'Orient",
+      "homeTeamId": "a4339c19-4507-45d0-a8e7-ab33c8fe64c0",
+      "awayTeamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17,
+      "scorers": [
+        {
+          "minute": 36,
+          "playerId": "d5f00f3c-2cd1-4ac2-b6b9-a60d357eb5c3",
+          "playerName": "Milad Rezaei"
+        },
+        {
+          "minute": 53,
+          "playerId": "cba94e02-3b10-4a36-ae00-8066b99d02bd",
+          "playerName": "Nader Mansouri"
+        }
+      ]
+    },
+    {
       "matchId": "2n8q4tagmqvcmc3w",
       "playedAt": "2026-06-27T11:24:06.255Z",
       "opponentSlug": "rhodesie",
