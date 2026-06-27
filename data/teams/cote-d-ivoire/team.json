@@ -346,6 +346,92 @@
   "suspensions": [],
   "recentMatches": [
     {
+      "matchId": "w9ammva1mqwu11n7",
+      "playedAt": "2026-06-27T20:54:33.991Z",
+      "opponentSlug": "yamatai",
+      "opponentName": "Yamatai",
+      "homeTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "awayTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 1,
+      "opponentStrength": 63,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.1,
+      "scorers": [
+        {
+          "minute": 18,
+          "playerId": "1f2b7e31-8ff2-4bb3-b9e5-42ab5282bbb3",
+          "playerName": "Pascal Bamba"
+        },
+        {
+          "minute": 48,
+          "playerId": "305ef8f4-3d72-4985-ac81-e47e5bc183af",
+          "playerName": "Kolo Essy"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 59,
+          "playerId": "305ef8f4-3d72-4985-ac81-e47e5bc183af",
+          "playerName": "Kolo Essy",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "qjijn81ymqwu11n7",
+      "playedAt": "2026-06-27T20:52:41.407Z",
+      "opponentSlug": "ccb",
+      "opponentName": "CCB",
+      "homeTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "awayTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 1,
+      "opponentStrength": 61,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7
+    },
+    {
+      "matchId": "4w7gxez3mqwu11n7",
+      "playedAt": "2026-06-27T20:50:18.528Z",
+      "opponentSlug": "nouvelle-californie",
+      "opponentName": "Nouvelle Californie",
+      "homeTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "awayTeamId": "8893e441-b5b6-49ea-b439-9c327b38d7c5",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 63,
+          "playerId": "f7d4fa4e-d3fb-4f2c-a7c4-aed6dfccbcdb",
+          "playerName": "Lacina Bony"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 57,
+          "playerId": "1f2b7e31-8ff2-4bb3-b9e5-42ab5282bbb3",
+          "playerName": "Pascal Bamba",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "5qpk65afmqwt6yer",
       "playedAt": "2026-06-27T20:31:18.103Z",
       "opponentSlug": "prometheus",
