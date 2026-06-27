@@ -310,6 +310,118 @@
   "suspensions": [],
   "recentMatches": [
     {
+      "matchId": "2n8q4tagmqvcmc3w",
+      "playedAt": "2026-06-27T11:24:06.255Z",
+      "opponentSlug": "rhodesie",
+      "opponentName": "Rhodésie",
+      "homeTeamId": "49938bc7-e78d-441e-907b-75a788e98216",
+      "awayTeamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "homeAway": "away",
+      "scoreFor": 3,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.5,
+      "scorers": [
+        {
+          "minute": 53,
+          "playerId": "cba94e02-3b10-4a36-ae00-8066b99d02bd",
+          "playerName": "Nader Mansouri"
+        },
+        {
+          "minute": 62,
+          "playerId": "cba94e02-3b10-4a36-ae00-8066b99d02bd",
+          "playerName": "Nader Mansouri"
+        },
+        {
+          "minute": 71,
+          "playerId": "57712de0-dde0-40a1-958f-7848cb7a593f",
+          "playerName": "Rasoul Fattahi",
+          "assistId": "27f453f6-0f2c-4a59-b5f3-7f8173382036",
+          "assistName": "Hooman Tabatabai"
+        }
+      ]
+    },
+    {
+      "matchId": "x0opx0ozmqvcmc3w",
+      "playedAt": "2026-06-27T11:14:38.793Z",
+      "opponentSlug": "coree",
+      "opponentName": "Corée",
+      "homeTeamId": "495d8db0-d1b7-49fd-bb3d-dcecda27eb95",
+      "awayTeamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 4,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.2,
+      "scorers": [
+        {
+          "minute": 5,
+          "playerId": "d5f00f3c-2cd1-4ac2-b6b9-a60d357eb5c3",
+          "playerName": "Milad Rezaei",
+          "assistId": "2f1ebcdf-99d5-4d81-8f42-94b78045b588",
+          "assistName": "Issa Ahmadi"
+        },
+        {
+          "minute": 48,
+          "playerId": "7eca52c4-6db3-4e1f-b427-8b34ba951c75",
+          "playerName": "Pirouz Asghari",
+          "assistId": "57712de0-dde0-40a1-958f-7848cb7a593f",
+          "assistName": "Rasoul Fattahi"
+        }
+      ]
+    },
+    {
+      "matchId": "2e1hd2shmqvcmc3w",
+      "playedAt": "2026-06-27T11:08:16.894Z",
+      "opponentSlug": "etat-de-floride",
+      "opponentName": "État de Floride",
+      "homeTeamId": "d078bb55-7f06-4ed1-b048-1dd6524ecae9",
+      "awayTeamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17,
+      "scorers": [
+        {
+          "minute": 25,
+          "playerId": "077e30cd-6094-44fd-b93c-e30b75837090",
+          "playerName": "Siavash Shirazi"
+        },
+        {
+          "minute": 92,
+          "playerId": "d5f00f3c-2cd1-4ac2-b6b9-a60d357eb5c3",
+          "playerName": "Milad Rezaei"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 79,
+          "playerId": "d5f00f3c-2cd1-4ac2-b6b9-a60d357eb5c3",
+          "playerName": "Milad Rezaei",
+          "type": "yellow"
+        },
+        {
+          "minute": 96,
+          "playerId": "cba94e02-3b10-4a36-ae00-8066b99d02bd",
+          "playerName": "Nader Mansouri",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "lsbjqsg3mqvdpc6g",
       "playedAt": "2026-06-26T20:29:49.422Z",
       "opponentSlug": "5eme-internationale",
