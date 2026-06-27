@@ -17,7 +17,10 @@
       "110159bd-411c-409a-ba07-95216b092ba4",
       "6f3d1170-2f22-4f74-905b-8cbb55058954",
       "8893e441-b5b6-49ea-b439-9c327b38d7c5"
-    ]
+    ],
+    "kind": "amicale",
+    "scope": "internationale",
+    "importance": "mineur"
   },
   {
     "id": "wrqunwescfgmqvegaw8",
@@ -37,10 +40,7 @@
       "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
       "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
       "4050e7b8-0b32-4225-b936-2947890e501c"
-    ],
-    "kind": "amicale",
-    "scope": "internationale",
-    "importance": "mineur"
+    ]
   },
   {
     "id": "o95873n61nkmqvdpc6f",
