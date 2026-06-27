@@ -40,7 +40,10 @@
       "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
       "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
       "4050e7b8-0b32-4225-b936-2947890e501c"
-    ]
+    ],
+    "kind": "amicale",
+    "scope": "internationale",
+    "importance": "mineur"
   },
   {
     "id": "o95873n61nkmqvdpc6f",
