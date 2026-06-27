@@ -1,5 +1,27 @@
 [
   {
+    "id": "150mzyn3s1hmqwupoia",
+    "name": "Coupe de l'Opium",
+    "format": "groups_knockout",
+    "status": "ongoing",
+    "teamCount": 8,
+    "createdAt": "2026-06-27T21:07:35.122Z",
+    "year": 2308,
+    "teamIds": [
+      "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "4050e7b8-0b32-4225-b936-2947890e501c",
+      "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "110159bd-411c-409a-ba07-95216b092ba4",
+      "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "31dbe023-a8f1-4325-9813-afa3d8e217fa"
+    ],
+    "kind": "amicale",
+    "scope": "internationale",
+    "importance": "mineur"
+  },
+  {
     "id": "rfe669lbjfmqwu11n7",
     "name": "Couscoupe",
     "format": "groups_knockout",
