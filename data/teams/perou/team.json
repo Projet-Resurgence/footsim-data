@@ -50,6 +50,119 @@
   "suspensions": [],
   "recentMatches": [
     {
+      "matchId": "u8furexomqvcmc3w",
+      "playedAt": "2026-06-27T11:24:06.247Z",
+      "opponentSlug": "italie",
+      "opponentName": "Italie",
+      "homeTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "awayTeamId": "f3fda074-0648-4d1f-a413-281bbf6d7d59",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 3,
+      "opponentStrength": 62,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.8,
+      "cards": [
+        {
+          "minute": 48,
+          "playerId": "b1572533-6b8f-4db8-ac80-3c805497e91f",
+          "playerName": "Víctor Mamani",
+          "type": "yellow"
+        },
+        {
+          "minute": 81,
+          "playerId": "06cb1bc9-137b-43ab-b598-8f9b6d50dfbe",
+          "playerName": "Wilmer Mamani",
+          "type": "yellow"
+        },
+        {
+          "minute": 94,
+          "playerId": "9a325bf0-69b0-4904-bde2-36576849f7db",
+          "playerName": "Luis Vásquez",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "rjmv97zfmqvcmc3w",
+      "playedAt": "2026-06-27T11:14:38.786Z",
+      "opponentSlug": "nordrise",
+      "opponentName": "Nordrise",
+      "homeTeamId": "e601e0d9-7e45-4c53-bb41-16ccd12e9a06",
+      "awayTeamId": "f3fda074-0648-4d1f-a413-281bbf6d7d59",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 5.7,
+      "scorers": [
+        {
+          "minute": 49,
+          "playerId": "b398ba30-bbb2-45e8-82ad-7e1600e93f1c",
+          "playerName": "Luis Valdivia"
+        },
+        {
+          "minute": 53,
+          "playerId": "b398ba30-bbb2-45e8-82ad-7e1600e93f1c",
+          "playerName": "Luis Valdivia",
+          "assistId": "9a325bf0-69b0-4904-bde2-36576849f7db",
+          "assistName": "Luis Vásquez"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 4,
+          "playerId": "9a325bf0-69b0-4904-bde2-36576849f7db",
+          "playerName": "Luis Vásquez",
+          "type": "yellow"
+        },
+        {
+          "minute": 86,
+          "playerId": "b1572533-6b8f-4db8-ac80-3c805497e91f",
+          "playerName": "Víctor Mamani",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "bmtxheiimqvcmc3w",
+      "playedAt": "2026-06-27T11:08:16.885Z",
+      "opponentSlug": "fclc",
+      "opponentName": "FCLC",
+      "homeTeamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "awayTeamId": "f3fda074-0648-4d1f-a413-281bbf6d7d59",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 3,
+      "opponentStrength": 61,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.7,
+      "cards": [
+        {
+          "minute": 14,
+          "playerId": "ce880ef1-8290-494a-9ad6-299406a327b6",
+          "playerName": "Erick Fuentes",
+          "type": "yellow"
+        },
+        {
+          "minute": 60,
+          "playerId": "2d91a8ef-1762-42b9-9f87-f9088f1401db",
+          "playerName": "Wilder Calisaya",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "imweu027mqvcmc3w",
       "playedAt": "2026-06-26T20:10:31.125Z",
       "opponentSlug": "castille",
