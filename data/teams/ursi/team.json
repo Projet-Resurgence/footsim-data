@@ -49,6 +49,86 @@
   ],
   "recentMatches": [
     {
+      "matchId": "uclt94nomqwv07xr",
+      "playedAt": "2026-06-27T21:19:36.699Z",
+      "opponentSlug": "crpac",
+      "opponentName": "CRPAC",
+      "homeTeamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+      "awayTeamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "cards": [
+        {
+          "minute": 2,
+          "playerId": "65a0ba07-91ec-4016-990c-5b03e5d62002",
+          "playerName": "Khánh La",
+          "type": "yellow"
+        },
+        {
+          "minute": 6,
+          "playerId": "59844368-113e-46a3-b49c-a98129fcd18b",
+          "playerName": "Sokha Oun",
+          "type": "yellow"
+        },
+        {
+          "minute": 79,
+          "playerId": "59844368-113e-46a3-b49c-a98129fcd18b",
+          "playerName": "Sokha Oun",
+          "type": "red"
+        }
+      ]
+    },
+    {
+      "matchId": "g1imcbfhmqwv07xr",
+      "playedAt": "2026-06-27T21:18:05.100Z",
+      "opponentSlug": "cote-d-ivoire",
+      "opponentName": "Côte d'Ivoire",
+      "homeTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "awayTeamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 5,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -2.7
+    },
+    {
+      "matchId": "g4c4tn3mmqwv07xr",
+      "playedAt": "2026-06-27T21:16:57.099Z",
+      "opponentSlug": "foi-primaris",
+      "opponentName": "Foi Primaris",
+      "homeTeamId": "7db62a2a-b398-4a35-9c11-4d5b4bf4570c",
+      "awayTeamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 2,
+      "opponentStrength": 64,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 55,
+          "playerId": "9361f7e8-ea7e-4eb9-a289-b0a29b009e23",
+          "playerName": "Wira Yap",
+          "assistId": "3b88b99f-5143-4c7d-8cb2-0e682e5f0560",
+          "assistName": "Ghazali bin Ali"
+        }
+      ]
+    },
+    {
       "matchId": "3yeanqfymqvcmc3w",
       "playedAt": "2026-06-27T20:13:41.298Z",
       "opponentSlug": "royaume-d-asha",
