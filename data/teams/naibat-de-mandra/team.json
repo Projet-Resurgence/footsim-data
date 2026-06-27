@@ -69,6 +69,126 @@
   },
   "recentMatches": [
     {
+      "matchId": "pk9kdh2umqvcmc3w",
+      "playedAt": "2026-06-27T11:24:06.245Z",
+      "opponentSlug": "atlantique",
+      "opponentName": "Atlantique",
+      "homeTeamId": "fe2670d9-24c9-421f-8687-cd461e79e679",
+      "awayTeamId": "cc7eb9cc-9a93-44ee-89c7-f2c6e915a221",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.5,
+      "scorers": [
+        {
+          "minute": 20,
+          "playerId": "917d1a12-cb85-4195-9195-d3b5c809b3ce",
+          "playerName": "Bereket Urge"
+        },
+        {
+          "minute": 56,
+          "playerId": "917d1a12-cb85-4195-9195-d3b5c809b3ce",
+          "playerName": "Bereket Urge",
+          "assistId": "0523b0c9-e91b-4e30-ae2a-df96c48339e9",
+          "assistName": "Biruk Bekele"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 91,
+          "playerId": "0cc252be-56fa-44af-aeec-873e92364a44",
+          "playerName": "Dereje Gebremichael",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "17mq2izhmqvcmc3w",
+      "playedAt": "2026-06-27T11:14:38.783Z",
+      "opponentSlug": "maghreb",
+      "opponentName": "Maghreb",
+      "homeTeamId": "02a4b69e-0d91-4183-a72b-717c658782c6",
+      "awayTeamId": "fe2670d9-24c9-421f-8687-cd461e79e679",
+      "homeAway": "away",
+      "scoreFor": 5,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.5,
+      "scorers": [
+        {
+          "minute": 4,
+          "playerId": "ddcf4415-aac3-4f61-a721-4354fbda0d30",
+          "playerName": "Bereket Demissie"
+        },
+        {
+          "minute": 16,
+          "playerId": "917d1a12-cb85-4195-9195-d3b5c809b3ce",
+          "playerName": "Bereket Urge"
+        },
+        {
+          "minute": 45,
+          "playerId": "ddcf4415-aac3-4f61-a721-4354fbda0d30",
+          "playerName": "Bereket Demissie",
+          "assistId": "6922161b-41d1-4dc0-9ee2-6d48486869a3",
+          "assistName": "Getachew Kebede"
+        },
+        {
+          "minute": 63,
+          "playerId": "0cc252be-56fa-44af-aeec-873e92364a44",
+          "playerName": "Dereje Gebremichael"
+        },
+        {
+          "minute": 78,
+          "playerId": "917d1a12-cb85-4195-9195-d3b5c809b3ce",
+          "playerName": "Bereket Urge",
+          "assistId": "ddcf4415-aac3-4f61-a721-4354fbda0d30",
+          "assistName": "Bereket Demissie"
+        }
+      ]
+    },
+    {
+      "matchId": "9xl3woolmqvcmc3w",
+      "playedAt": "2026-06-27T11:08:16.882Z",
+      "opponentSlug": "uda",
+      "opponentName": "UDA",
+      "homeTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "awayTeamId": "fe2670d9-24c9-421f-8687-cd461e79e679",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 4,
+      "opponentStrength": 63,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.4,
+      "scorers": [
+        {
+          "minute": 43,
+          "playerId": "6e98729a-9b3b-4454-a58b-35595dab5a72",
+          "playerName": "Daahir Farah",
+          "assistId": "ddcf4415-aac3-4f61-a721-4354fbda0d30",
+          "assistName": "Bereket Demissie"
+        },
+        {
+          "minute": 56,
+          "playerId": "0523b0c9-e91b-4e30-ae2a-df96c48339e9",
+          "playerName": "Biruk Bekele",
+          "assistId": "b6a6a4aa-0f79-413a-827b-f74c21cccfca",
+          "assistName": "Biruk Fikre"
+        }
+      ]
+    },
+    {
       "matchId": "llwioqgimqvcmc3w",
       "playedAt": "2026-06-26T20:10:31.123Z",
       "opponentSlug": "nouvelle-inde",
