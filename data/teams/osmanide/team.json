@@ -634,6 +634,167 @@
       ]
     },
     {
+      "matchId": "vfh6fikymqwv07xs",
+      "playedAt": "2026-06-27T21:22:01.691Z",
+      "opponentSlug": "cote-d-ivoire",
+      "opponentName": "Côte d'Ivoire",
+      "homeTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "awayTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 1,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.1,
+      "scorers": [
+        {
+          "minute": 61,
+          "playerId": "209b7955-f460-488e-9eac-61580e6cd175",
+          "playerName": "Aykut Koç",
+          "assistId": "ede13b76-4f1b-466f-a570-d2782bc0fb70",
+          "assistName": "Ömer Güneş"
+        },
+        {
+          "minute": 87,
+          "playerId": "c8ce0f44-f254-4cf4-8acd-939678b433fd",
+          "playerName": "Necati Demir"
+        }
+      ]
+    },
+    {
+      "matchId": "sicmzuommqwv07xs",
+      "playedAt": "2026-06-27T21:21:30.358Z",
+      "opponentSlug": "spc",
+      "opponentName": "SPC",
+      "homeTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "awayTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 3,
+      "opponentStrength": 63,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.7,
+      "cards": [
+        {
+          "minute": 19,
+          "playerId": "6061a302-ddf9-4363-b86b-9059f1a42e3f",
+          "playerName": "Onur Öztürk",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "az6l5urrmqwv07xs",
+      "playedAt": "2026-06-27T21:20:50.253Z",
+      "opponentSlug": "ugp",
+      "opponentName": "UGP",
+      "homeTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "awayTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 1,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.1,
+      "scorers": [
+        {
+          "minute": 8,
+          "playerId": "ede13b76-4f1b-466f-a570-d2782bc0fb70",
+          "playerName": "Ömer Güneş",
+          "assistId": "9d7fb4c5-31ca-4b0a-b8b9-fc8434e2cdd0",
+          "assistName": "İsmail Uçar"
+        },
+        {
+          "minute": 27,
+          "playerId": "c8ce0f44-f254-4cf4-8acd-939678b433fd",
+          "playerName": "Necati Demir"
+        }
+      ]
+    },
+    {
+      "matchId": "xc6pqdxlmqwv07xr",
+      "playedAt": "2026-06-27T21:19:36.702Z",
+      "opponentSlug": "royaume-d-asha",
+      "opponentName": "Royaume d'Asha",
+      "homeTeamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "awayTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2,
+      "scorers": [
+        {
+          "minute": 3,
+          "playerId": "209b7955-f460-488e-9eac-61580e6cd175",
+          "playerName": "Aykut Koç",
+          "assistId": "7fb15150-b98d-40ef-9a18-b567a0026982",
+          "assistName": "Ömer Bulut"
+        },
+        {
+          "minute": 75,
+          "playerId": "209b7955-f460-488e-9eac-61580e6cd175",
+          "playerName": "Aykut Koç"
+        }
+      ]
+    },
+    {
+      "matchId": "aru7tmcgmqwv07xr",
+      "playedAt": "2026-06-27T21:18:05.105Z",
+      "opponentSlug": "ugp",
+      "opponentName": "UGP",
+      "homeTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "awayTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 3,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.2,
+      "scorers": [
+        {
+          "minute": 50,
+          "playerId": "54cd0042-b65c-4f11-83ff-893f5b7ea988",
+          "playerName": "Polat Kahraman",
+          "assistId": "ede13b76-4f1b-466f-a570-d2782bc0fb70",
+          "assistName": "Ömer Güneş"
+        }
+      ]
+    },
+    {
+      "matchId": "3fakryhhmqwv07xr",
+      "playedAt": "2026-06-27T21:16:57.103Z",
+      "opponentSlug": "deseret",
+      "opponentName": "Deseret",
+      "homeTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "awayTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 0,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 0.7
+    },
+    {
       "matchId": "36vlgvgpmqwt6yer",
       "playedAt": "2026-06-27T20:33:33.183Z",
       "opponentSlug": "empire-hussein",
