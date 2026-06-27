@@ -277,6 +277,271 @@
   "activeTacticId": "ef3e9bca-8be0-4b91-93cd-a26b157e1ac3",
   "recentMatches": [
     {
+      "matchId": "idn4pcromqwu11n7",
+      "playedAt": "2026-06-27T20:59:23.199Z",
+      "opponentSlug": "deseret",
+      "opponentName": "Deseret",
+      "homeTeamId": "8893e441-b5b6-49ea-b439-9c327b38d7c5",
+      "awayTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "homeAway": "home",
+      "scoreFor": 3,
+      "scoreAgainst": 2,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.1,
+      "scorers": [
+        {
+          "minute": 11,
+          "playerId": "ad460321-9523-4b72-bd3b-e40dd3ac9634",
+          "playerName": "Dylan Hall"
+        },
+        {
+          "minute": 55,
+          "playerId": "ad460321-9523-4b72-bd3b-e40dd3ac9634",
+          "playerName": "Dylan Hall",
+          "assistId": "c95ba95b-d3cf-4478-a938-5510f2b526df",
+          "assistName": "Preston Phillips"
+        },
+        {
+          "minute": 89,
+          "playerId": "ff67131f-2280-43ab-92d8-5691a2b3119d",
+          "playerName": "Drake Scott",
+          "assistId": "ad460321-9523-4b72-bd3b-e40dd3ac9634",
+          "assistName": "Dylan Hall"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 63,
+          "playerId": "1ed65238-1a32-420a-bb85-312e570667d8",
+          "playerName": "Tanner Phillips",
+          "type": "yellow"
+        },
+        {
+          "minute": 72,
+          "playerId": "ad460321-9523-4b72-bd3b-e40dd3ac9634",
+          "playerName": "Dylan Hall",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "yg8uzjrgmqwu11n7",
+      "playedAt": "2026-06-27T20:57:46.175Z",
+      "opponentSlug": "ccb",
+      "opponentName": "CCB",
+      "homeTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "awayTeamId": "8893e441-b5b6-49ea-b439-9c327b38d7c5",
+      "homeAway": "away",
+      "scoreFor": 3,
+      "scoreAgainst": 0,
+      "opponentStrength": 61,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.5,
+      "scorers": [
+        {
+          "minute": 14,
+          "playerId": "1a9632e2-73d1-4104-b48e-cea93a0570f4",
+          "playerName": "Reed Martin",
+          "assistId": "cf5314bf-53e1-4a3e-af24-ccc2d3c45afb",
+          "assistName": "Kyle Scott"
+        },
+        {
+          "minute": 44,
+          "playerId": "1ed65238-1a32-420a-bb85-312e570667d8",
+          "playerName": "Tanner Phillips",
+          "assistId": "ff67131f-2280-43ab-92d8-5691a2b3119d",
+          "assistName": "Drake Scott"
+        },
+        {
+          "minute": 67,
+          "playerId": "1ed65238-1a32-420a-bb85-312e570667d8",
+          "playerName": "Tanner Phillips",
+          "assistId": "bc218980-a8a5-4b09-9f8f-05af300343bb",
+          "assistName": "Quinn Walker"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 77,
+          "playerId": "1ed65238-1a32-420a-bb85-312e570667d8",
+          "playerName": "Tanner Phillips",
+          "type": "yellow"
+        },
+        {
+          "minute": 88,
+          "playerId": "bc218980-a8a5-4b09-9f8f-05af300343bb",
+          "playerName": "Quinn Walker",
+          "type": "red"
+        }
+      ]
+    },
+    {
+      "matchId": "0hsp19z7mqwu11n7",
+      "playedAt": "2026-06-27T20:56:59.071Z",
+      "opponentSlug": "spc",
+      "opponentName": "SPC",
+      "homeTeamId": "8893e441-b5b6-49ea-b439-9c327b38d7c5",
+      "awayTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 0,
+      "opponentStrength": 63,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.1,
+      "scorers": [
+        {
+          "minute": 11,
+          "playerId": "1a9632e2-73d1-4104-b48e-cea93a0570f4",
+          "playerName": "Reed Martin",
+          "assistId": "ddd4e196-c90d-4557-8a87-c918c1129904",
+          "assistName": "Liam Thompson"
+        }
+      ]
+    },
+    {
+      "matchId": "qzkr480fmqwu11n7",
+      "playedAt": "2026-06-27T20:54:33.992Z",
+      "opponentSlug": "ccb",
+      "opponentName": "CCB",
+      "homeTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "awayTeamId": "8893e441-b5b6-49ea-b439-9c327b38d7c5",
+      "homeAway": "away",
+      "scoreFor": 3,
+      "scoreAgainst": 1,
+      "opponentStrength": 61,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.5,
+      "scorers": [
+        {
+          "minute": 36,
+          "playerId": "1a9632e2-73d1-4104-b48e-cea93a0570f4",
+          "playerName": "Reed Martin",
+          "assistId": "774f7bdf-306b-4175-a2ad-9684f15b70f1",
+          "assistName": "Scott Davis"
+        },
+        {
+          "minute": 37,
+          "playerId": "1a9632e2-73d1-4104-b48e-cea93a0570f4",
+          "playerName": "Reed Martin",
+          "assistId": "ddd4e196-c90d-4557-8a87-c918c1129904",
+          "assistName": "Liam Thompson"
+        },
+        {
+          "minute": 55,
+          "playerId": "ff67131f-2280-43ab-92d8-5691a2b3119d",
+          "playerName": "Drake Scott",
+          "assistId": "cf5314bf-53e1-4a3e-af24-ccc2d3c45afb",
+          "assistName": "Kyle Scott"
+        }
+      ]
+    },
+    {
+      "matchId": "g519k1cjmqwu11n7",
+      "playedAt": "2026-06-27T20:52:41.408Z",
+      "opponentSlug": "yamatai",
+      "opponentName": "Yamatai",
+      "homeTeamId": "8893e441-b5b6-49ea-b439-9c327b38d7c5",
+      "awayTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "homeAway": "home",
+      "scoreFor": 3,
+      "scoreAgainst": 1,
+      "opponentStrength": 63,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.6,
+      "scorers": [
+        {
+          "minute": 2,
+          "playerId": "cf5314bf-53e1-4a3e-af24-ccc2d3c45afb",
+          "playerName": "Kyle Scott",
+          "assistId": "ddd4e196-c90d-4557-8a87-c918c1129904",
+          "assistName": "Liam Thompson"
+        },
+        {
+          "minute": 4,
+          "playerId": "ff67131f-2280-43ab-92d8-5691a2b3119d",
+          "playerName": "Drake Scott",
+          "assistId": "774f7bdf-306b-4175-a2ad-9684f15b70f1",
+          "assistName": "Scott Davis"
+        },
+        {
+          "minute": 38,
+          "playerId": "ff67131f-2280-43ab-92d8-5691a2b3119d",
+          "playerName": "Drake Scott",
+          "assistId": "774f7bdf-306b-4175-a2ad-9684f15b70f1",
+          "assistName": "Scott Davis"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 40,
+          "playerId": "0bc06914-db75-4b40-886a-cf1dbeeb7321",
+          "playerName": "Blake Hill",
+          "type": "yellow"
+        },
+        {
+          "minute": 43,
+          "playerId": "4442233d-a219-4e3a-b0aa-184ef02d7c88",
+          "playerName": "Landon Davis",
+          "type": "yellow"
+        },
+        {
+          "minute": 72,
+          "playerId": "bc218980-a8a5-4b09-9f8f-05af300343bb",
+          "playerName": "Quinn Walker",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "4w7gxez3mqwu11n7",
+      "playedAt": "2026-06-27T20:50:18.528Z",
+      "opponentSlug": "cote-d-ivoire",
+      "opponentName": "Côte d'Ivoire",
+      "homeTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "awayTeamId": "8893e441-b5b6-49ea-b439-9c327b38d7c5",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 1,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.1,
+      "scorers": [
+        {
+          "minute": 27,
+          "playerId": "ff67131f-2280-43ab-92d8-5691a2b3119d",
+          "playerName": "Drake Scott",
+          "assistId": "cf5314bf-53e1-4a3e-af24-ccc2d3c45afb",
+          "assistName": "Kyle Scott"
+        },
+        {
+          "minute": 53,
+          "playerId": "ff67131f-2280-43ab-92d8-5691a2b3119d",
+          "playerName": "Drake Scott",
+          "assistId": "1a9632e2-73d1-4104-b48e-cea93a0570f4",
+          "assistName": "Reed Martin"
+        }
+      ]
+    },
+    {
       "matchId": "03froksymqwt6yer",
       "playedAt": "2026-06-27T20:35:50.024Z",
       "opponentSlug": "5eme-internationale",
