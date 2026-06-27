@@ -53,6 +53,87 @@
   "suspensions": [],
   "recentMatches": [
     {
+      "matchId": "kmu5bb7qmqvcmc3w",
+      "playedAt": "2026-06-27T11:24:06.252Z",
+      "opponentSlug": "castille",
+      "opponentName": "Castille",
+      "homeTeamId": "55c94018-aa17-477e-86d3-722caf57df20",
+      "awayTeamId": "0cf5d3c2-39e2-4cfc-be26-279bf438a4c0",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 3,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.7,
+      "cards": [
+        {
+          "minute": 49,
+          "playerId": "543d6f3c-6cfc-43b1-905e-712da192aa7a",
+          "playerName": "Noah Young",
+          "type": "yellow"
+        },
+        {
+          "minute": 66,
+          "playerId": "57691541-d291-4ba5-ba39-8a3acb014ad9",
+          "playerName": "Aiyana Ironbow",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "7kyy1vwumqvcmc3w",
+      "playedAt": "2026-06-27T11:14:38.791Z",
+      "opponentSlug": "grande-bretagne",
+      "opponentName": "Grande-Bretagne",
+      "homeTeamId": "9a7b1eb4-ac4c-4bbd-9990-650d7754a955",
+      "awayTeamId": "0cf5d3c2-39e2-4cfc-be26-279bf438a4c0",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 3,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.7,
+      "cards": [
+        {
+          "minute": 90,
+          "playerId": "543d6f3c-6cfc-43b1-905e-712da192aa7a",
+          "playerName": "Noah Young",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "epqums6dmqvcmc3w",
+      "playedAt": "2026-06-27T11:08:16.890Z",
+      "opponentSlug": "mapuche",
+      "opponentName": "Mapuche",
+      "homeTeamId": "0779ee45-e790-4ff2-901b-ba22bd8b4d83",
+      "awayTeamId": "0cf5d3c2-39e2-4cfc-be26-279bf438a4c0",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -5.7,
+      "cards": [
+        {
+          "minute": 94,
+          "playerId": "57691541-d291-4ba5-ba39-8a3acb014ad9",
+          "playerName": "Aiyana Ironbow",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "8z7mfpwqmqvcmc3w",
       "playedAt": "2026-06-26T20:10:31.129Z",
       "opponentSlug": "osmanide",
