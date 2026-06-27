@@ -211,6 +211,92 @@
   },
   "recentMatches": [
     {
+      "matchId": "sxd45qvpmqwvirdm",
+      "playedAt": "2026-06-27T21:34:37.826Z",
+      "opponentSlug": "deseret",
+      "opponentName": "Deseret",
+      "homeTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "awayTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 2,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.2,
+      "cards": [
+        {
+          "minute": 50,
+          "playerId": "93dd1f5c-318b-47ea-9eee-dabd2aab5bb5",
+          "playerName": "Fang Deng",
+          "type": "yellow"
+        },
+        {
+          "minute": 72,
+          "playerId": "c132a33d-878d-4758-84dc-4b8a0b520295",
+          "playerName": "Cong Tang",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "qhbtpn8smqwvirdm",
+      "playedAt": "2026-06-27T21:33:57.139Z",
+      "opponentSlug": "livonie",
+      "opponentName": "Livonie",
+      "homeTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "awayTeamId": "6c4e5ecf-662a-43d5-9795-b038fe6e2072",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 2,
+      "opponentStrength": 62,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 0.7,
+      "scorers": [
+        {
+          "minute": 81,
+          "playerId": "2047d47b-b47e-4d9b-b80e-06f3ea7fa330",
+          "playerName": "Lei Luo"
+        },
+        {
+          "minute": 88,
+          "playerId": "75811d88-67bf-455a-98de-a3469da03099",
+          "playerName": "Sheng Han",
+          "assistId": "6fcb834b-f8d5-452b-b759-dc9e0ae2317a",
+          "assistName": "Kai Liang"
+        }
+      ]
+    },
+    {
+      "matchId": "4baihydjmqwvirdm",
+      "playedAt": "2026-06-27T21:32:08.042Z",
+      "opponentSlug": "antioche",
+      "opponentName": "Antioche",
+      "homeTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "awayTeamId": "8451e643-10d4-48bc-a4e6-4c12255695f4",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 3,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.2,
+      "scorers": [
+        {
+          "minute": 19,
+          "playerId": "a9845c59-12ee-4a24-ae10-571725c54d42",
+          "playerName": "Zhi Cai"
+        }
+      ]
+    },
+    {
       "matchId": "jt0wv5pcmqwv07xs",
       "playedAt": "2026-06-27T21:20:50.251Z",
       "opponentSlug": "5eme-internationale",
