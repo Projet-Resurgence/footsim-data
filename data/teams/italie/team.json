@@ -146,6 +146,82 @@
   ],
   "recentMatches": [
     {
+      "matchId": "oakx1s5ymqwu11n7",
+      "playedAt": "2026-06-27T20:54:33.994Z",
+      "opponentSlug": "5eme-internationale",
+      "opponentName": "5ème Internationale",
+      "homeTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "awayTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "cards": [
+        {
+          "minute": 48,
+          "playerId": "825639c6-47a2-4c0c-b400-711891a83d56",
+          "playerName": "Andrea Serra",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "md0b1qnumqwu11n7",
+      "playedAt": "2026-06-27T20:52:41.409Z",
+      "opponentSlug": "deseret",
+      "opponentName": "Deseret",
+      "homeTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "awayTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 1,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "cards": [
+        {
+          "minute": 10,
+          "playerId": "9adf7857-617e-441c-bd7b-8b06912b9e7b",
+          "playerName": "Marco Sala",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "le6rivixmqwu11n7",
+      "playedAt": "2026-06-27T20:50:18.530Z",
+      "opponentSlug": "ugp",
+      "opponentName": "UGP",
+      "homeTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "awayTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 5,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.7,
+      "scorers": [
+        {
+          "minute": 21,
+          "playerId": "cf861f67-c8bc-4f53-9f04-2e22fc880308",
+          "playerName": "Mario Santoro",
+          "assistId": "e21eba70-7de4-45dc-8bf5-952b0aede9ee",
+          "assistName": "Luca Grasso"
+        }
+      ]
+    },
+    {
       "matchId": "dodmq2j8mqwt6yer",
       "playedAt": "2026-06-27T20:33:33.178Z",
       "opponentSlug": "fclc",
