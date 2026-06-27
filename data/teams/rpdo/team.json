@@ -47,6 +47,76 @@
   "publishedAt": "2026-06-25T11:21:35.763Z",
   "recentMatches": [
     {
+      "matchId": "7flvwrlqmqvcmc3w",
+      "playedAt": "2026-06-27T20:13:41.299Z",
+      "opponentSlug": "castille",
+      "opponentName": "Castille",
+      "homeTeamId": "55c94018-aa17-477e-86d3-722caf57df20",
+      "awayTeamId": "3b7016ec-ba5d-4b54-9f1f-95d2e3ff84bf",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 5.7,
+      "cards": [
+        {
+          "minute": 86,
+          "playerId": "9471eb93-b528-494f-a7c3-9f7fee832e3c",
+          "playerName": "Gavin Bailey",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "qdxt1gbsmqvcmc3w",
+      "playedAt": "2026-06-27T20:08:47.149Z",
+      "opponentSlug": "grande-bretagne",
+      "opponentName": "Grande-Bretagne",
+      "homeTeamId": "9a7b1eb4-ac4c-4bbd-9990-650d7754a955",
+      "awayTeamId": "3b7016ec-ba5d-4b54-9f1f-95d2e3ff84bf",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17,
+      "scorers": [
+        {
+          "minute": 10,
+          "playerId": "7d531f08-bf11-40f4-9fbe-90cc7f1a320d",
+          "playerName": "Gavin Peterson",
+          "assistId": "1d5e9834-9e7e-4bc7-8c7f-b5a69c754e20",
+          "assistName": "Aaron Harris"
+        },
+        {
+          "minute": 58,
+          "playerId": "f967682b-ac1d-4251-b1e6-7e20b3a5714a",
+          "playerName": "Lachlan Baker"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 51,
+          "playerId": "9471eb93-b528-494f-a7c3-9f7fee832e3c",
+          "playerName": "Gavin Bailey",
+          "type": "yellow"
+        },
+        {
+          "minute": 56,
+          "playerId": "f38fd0ad-3e85-437e-832e-dc762b92d1df",
+          "playerName": "Lachlan Williams",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "4tozu4ohmqvcmc3w",
       "playedAt": "2026-06-27T11:24:06.255Z",
       "opponentSlug": "mapuche",
