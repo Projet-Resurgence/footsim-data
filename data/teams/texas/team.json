@@ -53,6 +53,63 @@
   "suspensions": [],
   "recentMatches": [
     {
+      "matchId": "k77zwpkpmqvcmc3w",
+      "playedAt": "2026-06-27T20:13:41.296Z",
+      "opponentSlug": "nordrise",
+      "opponentName": "Nordrise",
+      "homeTeamId": "e601e0d9-7e45-4c53-bb41-16ccd12e9a06",
+      "awayTeamId": "0cf5d3c2-39e2-4cfc-be26-279bf438a4c0",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 3,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.2,
+      "scorers": [
+        {
+          "minute": 69,
+          "playerId": "bc98e98a-ec90-4b4c-97b6-f4387eafe932",
+          "playerName": "Colton Nelson",
+          "assistId": "a9707d26-81ad-4a4c-baf7-3dac6ec01110",
+          "assistName": "Chatan Boldtree"
+        }
+      ]
+    },
+    {
+      "matchId": "6wn2xfvsmqvcmc3w",
+      "playedAt": "2026-06-27T20:08:47.146Z",
+      "opponentSlug": "fclc",
+      "opponentName": "FCLC",
+      "homeTeamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "awayTeamId": "0cf5d3c2-39e2-4cfc-be26-279bf438a4c0",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 4,
+      "opponentStrength": 61,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.7,
+      "cards": [
+        {
+          "minute": 21,
+          "playerId": "698be8a7-68c2-4f09-b43a-945412e612a1",
+          "playerName": "Ethan Phillips",
+          "type": "yellow"
+        },
+        {
+          "minute": 36,
+          "playerId": "698be8a7-68c2-4f09-b43a-945412e612a1",
+          "playerName": "Ethan Phillips",
+          "type": "red"
+        }
+      ]
+    },
+    {
       "matchId": "kmu5bb7qmqvcmc3w",
       "playedAt": "2026-06-27T11:24:06.252Z",
       "opponentSlug": "castille",
