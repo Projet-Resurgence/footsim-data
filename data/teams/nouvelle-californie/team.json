@@ -1403,18 +1403,6 @@
       "cmfPoints": 2.7
     }
   ],
-  "injuries": [
-    {
-      "id": "e9ac488e-0a2e-4451-9a36-9b6fb2d0deaa",
-      "playerId": "a65feb8f-59b8-400f-9384-653435b3d0f8",
-      "playerName": "Brody Mitchell",
-      "teamId": "8893e441-b5b6-49ea-b439-9c327b38d7c5",
-      "cause": "match",
-      "severity": "grave",
-      "matchesRemaining": 3,
-      "description": "Déchirure totale des ischio-jambiers — longue convalescence.",
-      "roundOccurred": 5
-    }
-  ],
+  "injuries": [],
   "suspensions": []
 }

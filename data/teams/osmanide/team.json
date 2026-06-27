@@ -1346,18 +1346,6 @@
       "cmfPoints": -1.1
     }
   ],
-  "injuries": [
-    {
-      "id": "4f016d37-ea12-4825-85d8-15f7013072c4",
-      "playerId": "9d7fb4c5-31ca-4b0a-b8b9-fc8434e2cdd0",
-      "playerName": "İsmail Uçar",
-      "teamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
-      "cause": "match",
-      "severity": "modérée",
-      "matchesRemaining": 2,
-      "description": "Fracture de fatigue détectée — mise au repos forcée.",
-      "roundOccurred": 4
-    }
-  ],
+  "injuries": [],
   "suspensions": []
 }

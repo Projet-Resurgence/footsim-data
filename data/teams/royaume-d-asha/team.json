@@ -307,7 +307,17 @@
     }
   ],
   "injuries": [],
-  "suspensions": [],
+  "suspensions": [
+    {
+      "id": "9b558de0-c399-4795-8593-ac19bcc80423",
+      "subjectId": "7eca52c4-6db3-4e1f-b427-8b34ba951c75",
+      "subjectName": "Pirouz Asghari",
+      "teamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "matchesRemaining": 1,
+      "reason": "Carton rouge",
+      "roundOccurred": 3
+    }
+  ],
   "recentMatches": [
     {
       "matchId": "3yeanqfymqvcmc3w",
