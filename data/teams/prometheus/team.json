@@ -16,7 +16,7 @@
     "europe"
   ],
   "kind": "national",
-  "globalStrength": 64,
+  "globalStrength": 65,
   "createdAt": "2026-06-21T09:37:05.242Z",
   "createdBy": "772821169664426025",
   "ownerId": "772821169664426025",
@@ -41,7 +41,7 @@
     "overall": 82
   },
   "jerseyColor": "#150404",
-  "publishedAt": "2026-06-26T23:45:42.468Z",
+  "publishedAt": "2026-06-27T03:19:40.348Z",
   "compHistory": [
     {
       "compId": "ifernu3ytbmqr3areq",
@@ -905,6 +905,6 @@
   ],
   "actionFoot": {
     "rating": 9,
-    "funding": 235
+    "funding": 75
   }
 }
