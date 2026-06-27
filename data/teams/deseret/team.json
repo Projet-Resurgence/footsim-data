@@ -152,6 +152,112 @@
   },
   "recentMatches": [
     {
+      "matchId": "j82rvm02mqvcmc3w",
+      "playedAt": "2026-06-27T11:20:27.705Z",
+      "opponentSlug": "ugp",
+      "opponentName": "UGP",
+      "homeTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "awayTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 3,
+      "opponentStrength": 65,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6,
+      "scorers": [
+        {
+          "minute": 17,
+          "playerId": "470e4f61-dc93-4005-92a5-7dc9ed642d61",
+          "playerName": "Jackson Campbell"
+        },
+        {
+          "minute": 88,
+          "playerId": "470e4f61-dc93-4005-92a5-7dc9ed642d61",
+          "playerName": "Jackson Campbell"
+        }
+      ]
+    },
+    {
+      "matchId": "bgnig8h4mqvcmc3w",
+      "playedAt": "2026-06-27T11:14:38.795Z",
+      "opponentSlug": "ufep",
+      "opponentName": "UFEP",
+      "homeTeamId": "833feec7-4a6a-4ec4-876a-d97306e404b8",
+      "awayTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.5,
+      "scorers": [
+        {
+          "minute": 62,
+          "playerId": "470e4f61-dc93-4005-92a5-7dc9ed642d61",
+          "playerName": "Jackson Campbell",
+          "assistId": "60812871-655a-4d99-8cf6-b47be478b3d2",
+          "assistName": "Austin Thomas"
+        },
+        {
+          "minute": 68,
+          "playerId": "51734e56-6364-48ce-aa7b-470b5a778a0b",
+          "playerName": "Nathan Baker",
+          "assistId": "262568b4-1d7b-48fe-8f03-1bf32a4e6915",
+          "assistName": "Chase Walker"
+        }
+      ]
+    },
+    {
+      "matchId": "we981h0vmqvcmc3w",
+      "playedAt": "2026-06-27T11:06:23.567Z",
+      "opponentSlug": "foi-primaris",
+      "opponentName": "Foi Primaris",
+      "homeTeamId": "7db62a2a-b398-4a35-9c11-4d5b4bf4570c",
+      "awayTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17,
+      "scorers": [
+        {
+          "minute": 38,
+          "playerId": "262568b4-1d7b-48fe-8f03-1bf32a4e6915",
+          "playerName": "Chase Walker"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 31,
+          "playerId": "484dcf4b-43d4-424d-911e-79227783d582",
+          "playerName": "Quinn Wright",
+          "type": "yellow"
+        },
+        {
+          "minute": 39,
+          "playerId": "470e4f61-dc93-4005-92a5-7dc9ed642d61",
+          "playerName": "Jackson Campbell",
+          "type": "yellow"
+        },
+        {
+          "minute": 50,
+          "playerId": "0daed997-0e22-4c9b-ba72-d8f1ad45d1a9",
+          "playerName": "Dylan Miller",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "uj0uigzamqvf2cr6",
       "playedAt": "2026-06-26T21:05:27.026Z",
       "opponentSlug": "cote-d-ivoire",
