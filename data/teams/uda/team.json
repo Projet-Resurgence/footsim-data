@@ -401,6 +401,161 @@
   },
   "recentMatches": [
     {
+      "matchId": "hm27icfkmqvcmc3w",
+      "playedAt": "2026-06-27T11:18:46.079Z",
+      "opponentSlug": "cascadie",
+      "opponentName": "Cascadie",
+      "homeTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "awayTeamId": "e5bac765-f354-41a2-b940-1e97fba04c20",
+      "homeAway": "home",
+      "scoreFor": 6,
+      "scoreAgainst": 0,
+      "opponentStrength": 62,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 18.4,
+      "scorers": [
+        {
+          "minute": 3,
+          "playerId": "75811d88-67bf-455a-98de-a3469da03099",
+          "playerName": "Sheng Han",
+          "assistId": "6fcb834b-f8d5-452b-b759-dc9e0ae2317a",
+          "assistName": "Kai Liang"
+        },
+        {
+          "minute": 31,
+          "playerId": "75811d88-67bf-455a-98de-a3469da03099",
+          "playerName": "Sheng Han",
+          "assistId": "a9845c59-12ee-4a24-ae10-571725c54d42",
+          "assistName": "Zhi Cai"
+        },
+        {
+          "minute": 36,
+          "playerId": "2047d47b-b47e-4d9b-b80e-06f3ea7fa330",
+          "playerName": "Lei Luo",
+          "assistId": "6fcb834b-f8d5-452b-b759-dc9e0ae2317a",
+          "assistName": "Kai Liang"
+        },
+        {
+          "minute": 45,
+          "playerId": "dbef5bfc-f6f6-4693-9c47-0566d870f06e",
+          "playerName": "Ou Lu"
+        },
+        {
+          "minute": 46,
+          "playerId": "75811d88-67bf-455a-98de-a3469da03099",
+          "playerName": "Sheng Han",
+          "assistId": "2047d47b-b47e-4d9b-b80e-06f3ea7fa330",
+          "assistName": "Lei Luo"
+        },
+        {
+          "minute": 88,
+          "playerId": "75811d88-67bf-455a-98de-a3469da03099",
+          "playerName": "Sheng Han"
+        }
+      ]
+    },
+    {
+      "matchId": "4gd9g968mqvcmc3w",
+      "playedAt": "2026-06-27T11:14:38.784Z",
+      "opponentSlug": "atlantique",
+      "opponentName": "Atlantique",
+      "homeTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "awayTeamId": "cc7eb9cc-9a93-44ee-89c7-f2c6e915a221",
+      "homeAway": "home",
+      "scoreFor": 4,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.5,
+      "scorers": [
+        {
+          "minute": 41,
+          "playerId": "a9845c59-12ee-4a24-ae10-571725c54d42",
+          "playerName": "Zhi Cai",
+          "assistId": "89f75ad1-d901-4839-81c6-240a311c715e",
+          "assistName": "Peng Yao"
+        },
+        {
+          "minute": 51,
+          "playerId": "dbef5bfc-f6f6-4693-9c47-0566d870f06e",
+          "playerName": "Ou Lu",
+          "assistId": "6fcb834b-f8d5-452b-b759-dc9e0ae2317a",
+          "assistName": "Kai Liang"
+        },
+        {
+          "minute": 89,
+          "playerId": "c132a33d-878d-4758-84dc-4b8a0b520295",
+          "playerName": "Cong Tang",
+          "assistId": "6fcb834b-f8d5-452b-b759-dc9e0ae2317a",
+          "assistName": "Kai Liang"
+        },
+        {
+          "minute": 90,
+          "playerId": "c132a33d-878d-4758-84dc-4b8a0b520295",
+          "playerName": "Cong Tang",
+          "assistId": "2047d47b-b47e-4d9b-b80e-06f3ea7fa330",
+          "assistName": "Lei Luo"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 15,
+          "playerId": "85083795-e4c9-4c40-84a9-9e310531f7bc",
+          "playerName": "Jun Pan",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "9xl3woolmqvcmc3w",
+      "playedAt": "2026-06-27T11:08:16.882Z",
+      "opponentSlug": "naibat-de-mandra",
+      "opponentName": "Naibat de Mandra",
+      "homeTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "awayTeamId": "fe2670d9-24c9-421f-8687-cd461e79e679",
+      "homeAway": "home",
+      "scoreFor": 4,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.5,
+      "scorers": [
+        {
+          "minute": 35,
+          "playerId": "75811d88-67bf-455a-98de-a3469da03099",
+          "playerName": "Sheng Han",
+          "assistId": "2047d47b-b47e-4d9b-b80e-06f3ea7fa330",
+          "assistName": "Lei Luo"
+        },
+        {
+          "minute": 36,
+          "playerId": "dbef5bfc-f6f6-4693-9c47-0566d870f06e",
+          "playerName": "Ou Lu",
+          "assistId": "89f75ad1-d901-4839-81c6-240a311c715e",
+          "assistName": "Peng Yao"
+        },
+        {
+          "minute": 58,
+          "playerId": "c132a33d-878d-4758-84dc-4b8a0b520295",
+          "playerName": "Cong Tang"
+        },
+        {
+          "minute": 92,
+          "playerId": "2047d47b-b47e-4d9b-b80e-06f3ea7fa330",
+          "playerName": "Lei Luo"
+        }
+      ]
+    },
+    {
       "matchId": "7yh54o9umqvf2cr7",
       "playedAt": "2026-06-26T21:09:08.624Z",
       "opponentSlug": "ugp",
