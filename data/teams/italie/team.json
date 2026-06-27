@@ -411,6 +411,138 @@
       ]
     },
     {
+      "matchId": "gd15d401mqwv07xs",
+      "playedAt": "2026-06-27T21:20:50.252Z",
+      "opponentSlug": "cote-d-ivoire",
+      "opponentName": "Côte d'Ivoire",
+      "homeTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "awayTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 3,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.7,
+      "cards": [
+        {
+          "minute": 16,
+          "playerId": "c56d1d29-8131-43f3-934e-3128d5651b25",
+          "playerName": "Marco Villa",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "kc3e3dbvmqwv07xr",
+      "playedAt": "2026-06-27T21:19:36.697Z",
+      "opponentSlug": "uda",
+      "opponentName": "UDA",
+      "homeTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "awayTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 2,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 0.7,
+      "scorers": [
+        {
+          "minute": 64,
+          "playerId": "cff29621-0d97-4df2-8eda-e5794b15e4e0",
+          "playerName": "Franco Barbieri"
+        },
+        {
+          "minute": 77,
+          "playerId": "cf861f67-c8bc-4f53-9f04-2e22fc880308",
+          "playerName": "Mario Santoro"
+        }
+      ]
+    },
+    {
+      "matchId": "bmq99ahfmqwv07xr",
+      "playedAt": "2026-06-27T21:18:05.099Z",
+      "opponentSlug": "rsotp",
+      "opponentName": "RSOTP",
+      "homeTeamId": "57fffbee-9163-4497-87cd-b887abf87078",
+      "awayTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.5,
+      "scorers": [
+        {
+          "minute": 39,
+          "playerId": "cf861f67-c8bc-4f53-9f04-2e22fc880308",
+          "playerName": "Mario Santoro",
+          "assistId": "9adf7857-617e-441c-bd7b-8b06912b9e7b",
+          "assistName": "Marco Sala"
+        },
+        {
+          "minute": 87,
+          "playerId": "cf861f67-c8bc-4f53-9f04-2e22fc880308",
+          "playerName": "Mario Santoro"
+        }
+      ]
+    },
+    {
+      "matchId": "l6bktimzmqwv07xr",
+      "playedAt": "2026-06-27T21:16:57.096Z",
+      "opponentSlug": "cascadie",
+      "opponentName": "Cascadie",
+      "homeTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "awayTeamId": "e5bac765-f354-41a2-b940-1e97fba04c20",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 1,
+      "opponentStrength": 62,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2,
+      "scorers": [
+        {
+          "minute": 61,
+          "playerId": "1112f785-5cf3-4def-9832-f90b8f5faed5",
+          "playerName": "Alessandro Mariani",
+          "assistId": "5f427fb1-e23a-453a-acf7-a4e8a7aa8db0",
+          "assistName": "Pietro Ferrara"
+        },
+        {
+          "minute": 81,
+          "playerId": "e21eba70-7de4-45dc-8bf5-952b0aede9ee",
+          "playerName": "Luca Grasso",
+          "assistId": "1112f785-5cf3-4def-9832-f90b8f5faed5",
+          "assistName": "Alessandro Mariani"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 78,
+          "playerId": "f38ac7a8-6588-434f-a9d6-5dd503c1dc44",
+          "playerName": "Giuseppe Costa",
+          "type": "yellow"
+        },
+        {
+          "minute": 90,
+          "playerId": "e21eba70-7de4-45dc-8bf5-952b0aede9ee",
+          "playerName": "Luca Grasso",
+          "type": "red"
+        }
+      ]
+    },
+    {
       "matchId": "oakx1s5ymqwu11n7",
       "playedAt": "2026-06-27T20:54:33.994Z",
       "opponentSlug": "5eme-internationale",
