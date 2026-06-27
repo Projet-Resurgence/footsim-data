@@ -214,6 +214,114 @@
   "suspensions": [],
   "recentMatches": [
     {
+      "matchId": "0z306rxhmqvcmc3w",
+      "playedAt": "2026-06-27T11:24:06.250Z",
+      "opponentSlug": "ksuta",
+      "opponentName": "Ksuta",
+      "homeTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "awayTeamId": "940ca331-c4a1-4b47-9124-47f1f0c0111b",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.5,
+      "scorers": [
+        {
+          "minute": 13,
+          "playerId": "da579017-cf8b-482c-b9d5-ec411cd825ff",
+          "playerName": "Mikhail Ivanov"
+        },
+        {
+          "minute": 42,
+          "playerId": "4d38741c-7eaa-48e6-9239-632e339aa1cc",
+          "playerName": "Kirill Davydov"
+        }
+      ]
+    },
+    {
+      "matchId": "2vb83f2fmqvcmc3w",
+      "playedAt": "2026-06-27T11:10:04.425Z",
+      "opponentSlug": "crpac",
+      "opponentName": "CRPAC",
+      "homeTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "awayTeamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17,
+      "scorers": [
+        {
+          "minute": 4,
+          "playerId": "83d77c6f-a467-4aac-a746-fb82f51b6195",
+          "playerName": "Ruslan Kuznetsov"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 25,
+          "playerId": "688b0471-9199-4c65-9d73-a408fa96f582",
+          "playerName": "Eldar Antonov",
+          "type": "yellow"
+        },
+        {
+          "minute": 29,
+          "playerId": "787dbb6a-4a5e-45fb-9fe1-231c5e47fb5c",
+          "playerName": "Stepan Kovalev",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "fhrmrfalmqvcmc3w",
+      "playedAt": "2026-06-27T11:03:40.350Z",
+      "opponentSlug": "cascadie",
+      "opponentName": "Cascadie",
+      "homeTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "awayTeamId": "e5bac765-f354-41a2-b940-1e97fba04c20",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 1,
+      "opponentStrength": 62,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.4,
+      "scorers": [
+        {
+          "minute": 16,
+          "playerId": "4d38741c-7eaa-48e6-9239-632e339aa1cc",
+          "playerName": "Kirill Davydov",
+          "assistId": "b57ca962-753d-4797-bf41-a7b0fa40ae61",
+          "assistName": "Roman Tsvetkov"
+        },
+        {
+          "minute": 57,
+          "playerId": "b57ca962-753d-4797-bf41-a7b0fa40ae61",
+          "playerName": "Roman Tsvetkov",
+          "assistId": "da579017-cf8b-482c-b9d5-ec411cd825ff",
+          "assistName": "Mikhail Ivanov"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 19,
+          "playerId": "8de90201-5f15-4595-9340-e7f4d0c7c845",
+          "playerName": "Roman Borisov",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "fg3ww88dmqvdpc6g",
       "playedAt": "2026-06-26T20:35:43.777Z",
       "opponentSlug": "ugp",
