@@ -184,6 +184,115 @@
   "activeTacticId": "0591aee1-c35a-436f-b91c-70cdeef15de1",
   "recentMatches": [
     {
+      "matchId": "b3vyrw5cmqwu11n7",
+      "playedAt": "2026-06-27T20:54:33.995Z",
+      "opponentSlug": "germanie",
+      "opponentName": "Germanie",
+      "homeTeamId": "6377412c-0d4c-47e7-ba24-52745e83cfaa",
+      "awayTeamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+      "homeAway": "away",
+      "scoreFor": 3,
+      "scoreAgainst": 0,
+      "opponentStrength": 62,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.5,
+      "scorers": [
+        {
+          "minute": 15,
+          "playerId": "e9d777cb-bfb4-47cc-ae7a-e4469220646d",
+          "playerName": "Nuriddin Rajabov",
+          "assistId": "6e5f0687-03ee-48cb-ada5-f749128a5aa1",
+          "assistName": "Nodir Dehqonov"
+        },
+        {
+          "minute": 45,
+          "playerId": "e9d777cb-bfb4-47cc-ae7a-e4469220646d",
+          "playerName": "Nuriddin Rajabov",
+          "assistId": "44dd0a8e-e330-4c81-84f1-4b7975880da4",
+          "assistName": "Olzhas Faizullin"
+        },
+        {
+          "minute": 57,
+          "playerId": "7349dfc9-098e-49b1-beaf-36e1218e7c31",
+          "playerName": "Ruslan Chorotegin",
+          "assistId": "eec18e15-3246-4c6f-a033-f10a81718945",
+          "assistName": "Elbek Isoqov"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 2,
+          "playerId": "7349dfc9-098e-49b1-beaf-36e1218e7c31",
+          "playerName": "Ruslan Chorotegin",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "mox6avfzmqwu11n7",
+      "playedAt": "2026-06-27T20:52:41.411Z",
+      "opponentSlug": "spc",
+      "opponentName": "SPC",
+      "homeTeamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+      "awayTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 2,
+      "opponentStrength": 63,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 69,
+          "playerId": "7349dfc9-098e-49b1-beaf-36e1218e7c31",
+          "playerName": "Ruslan Chorotegin"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 55,
+          "playerId": "53f0236a-ead3-4585-9453-ea7be4bc2776",
+          "playerName": "Jamshid Valiyev",
+          "type": "yellow"
+        },
+        {
+          "minute": 71,
+          "playerId": "53f0236a-ead3-4585-9453-ea7be4bc2776",
+          "playerName": "Jamshid Valiyev",
+          "type": "red"
+        },
+        {
+          "minute": 83,
+          "playerId": "613c2771-c3d9-44a0-b3ad-3476e39f55fc",
+          "playerName": "Xurshid Fozilов",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "6mq9lmz4mqwu11n7",
+      "playedAt": "2026-06-27T20:50:18.531Z",
+      "opponentSlug": "uda",
+      "opponentName": "UDA",
+      "homeTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "awayTeamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 4,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.7
+    },
+    {
       "matchId": "aui3dkbomqvcmc3w",
       "playedAt": "2026-06-27T20:13:41.292Z",
       "opponentSlug": "naibat-de-mandra",
