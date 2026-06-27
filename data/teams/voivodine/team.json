@@ -45,6 +45,55 @@
   "publishedAt": "2026-06-26T21:42:05.975Z",
   "recentMatches": [
     {
+      "matchId": "mknykqsnmqvcmc3w",
+      "playedAt": "2026-06-27T20:13:41.297Z",
+      "opponentSlug": "prometheus",
+      "opponentName": "Prometheus",
+      "homeTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "awayTeamId": "28274f9a-bff0-42da-ac99-a6e3a9812a34",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 5,
+      "opponentStrength": 64,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -7,
+      "scorers": [
+        {
+          "minute": 50,
+          "playerId": "2b7e9d06-8d92-420c-a607-122f2d0aeecd",
+          "playerName": "Borislav Marinković"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 29,
+          "playerId": "240e5ebc-0e43-4b79-8b3c-6b3aa769bb22",
+          "playerName": "Časlav Nedeljković",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "dkugri3qmqvcmc3w",
+      "playedAt": "2026-06-27T20:08:47.146Z",
+      "opponentSlug": "ursi",
+      "opponentName": "URSI",
+      "homeTeamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+      "awayTeamId": "28274f9a-bff0-42da-ac99-a6e3a9812a34",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 3,
+      "opponentStrength": 62,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.8
+    },
+    {
       "matchId": "8tgw1veqmqvcmc3w",
       "playedAt": "2026-06-27T11:24:06.253Z",
       "opponentSlug": "romain-d-orient",
