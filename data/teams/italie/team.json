@@ -122,6 +122,75 @@
   ],
   "recentMatches": [
     {
+      "matchId": "p1fg6ikumqvcmc3w",
+      "playedAt": "2026-06-27T20:10:03.384Z",
+      "opponentSlug": "empire-hussein",
+      "opponentName": "Empire Hussein",
+      "homeTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "awayTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 3,
+      "opponentStrength": 65,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.5,
+      "scorers": [
+        {
+          "minute": 2,
+          "playerId": "cff29621-0d97-4df2-8eda-e5794b15e4e0",
+          "playerName": "Franco Barbieri"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 24,
+          "playerId": "9adf7857-617e-441c-bd7b-8b06912b9e7b",
+          "playerName": "Marco Sala",
+          "type": "yellow"
+        },
+        {
+          "minute": 76,
+          "playerId": "9adf7857-617e-441c-bd7b-8b06912b9e7b",
+          "playerName": "Marco Sala",
+          "type": "red"
+        }
+      ]
+    },
+    {
+      "matchId": "wst0z73xmqvcmc3w",
+      "playedAt": "2026-06-27T20:02:57.392Z",
+      "opponentSlug": "spc",
+      "opponentName": "SPC",
+      "homeTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "awayTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 0,
+      "opponentStrength": 62,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.9,
+      "scorers": [
+        {
+          "minute": 17,
+          "playerId": "cf861f67-c8bc-4f53-9f04-2e22fc880308",
+          "playerName": "Mario Santoro",
+          "assistId": "e21eba70-7de4-45dc-8bf5-952b0aede9ee",
+          "assistName": "Luca Grasso"
+        },
+        {
+          "minute": 88,
+          "playerId": "cf861f67-c8bc-4f53-9f04-2e22fc880308",
+          "playerName": "Mario Santoro"
+        }
+      ]
+    },
+    {
       "matchId": "u8furexomqvcmc3w",
       "playedAt": "2026-06-27T11:24:06.247Z",
       "opponentSlug": "perou",
