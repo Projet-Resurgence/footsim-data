@@ -155,6 +155,55 @@
   ],
   "recentMatches": [
     {
+      "matchId": "je6o27i0mqvcmc3w",
+      "playedAt": "2026-06-27T20:12:28.720Z",
+      "opponentSlug": "antioche",
+      "opponentName": "Antioche",
+      "homeTeamId": "8451e643-10d4-48bc-a4e6-4c12255695f4",
+      "awayTeamId": "7db62a2a-b398-4a35-9c11-4d5b4bf4570c",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -5.7,
+      "scorers": [
+        {
+          "minute": 83,
+          "playerId": "8cf58f9f-3eb8-4f84-b835-2ee678bd69f4",
+          "playerName": "Omar Pinda"
+        }
+      ]
+    },
+    {
+      "matchId": "t0jisootmqvcmc3w",
+      "playedAt": "2026-06-27T20:07:38.475Z",
+      "opponentSlug": "cote-d-ivoire",
+      "opponentName": "Côte d'Ivoire",
+      "homeTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "awayTeamId": "7db62a2a-b398-4a35-9c11-4d5b4bf4570c",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 5,
+      "opponentStrength": 62,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -7.8,
+      "cards": [
+        {
+          "minute": 33,
+          "playerId": "48c23223-9363-4a29-a7d0-d04b8be6bfde",
+          "playerName": "Kilima Kigwangalla",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "5p321teqmqvcmc3w",
       "playedAt": "2026-06-27T11:21:35.096Z",
       "opponentSlug": "germanie",
