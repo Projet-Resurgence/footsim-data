@@ -18,7 +18,7 @@
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-27T21:10:45.816Z",
+  "publishedAt": "2026-06-27T22:18:43.907Z",
   "tactics": {
     "style": "ultra-defensif",
     "formation": "5-4-1",
@@ -2141,6 +2141,5 @@
   "actionFoot": {
     "rating": 5,
     "funding": 140
-  },
-  "matchOutcome": "win"
+  }
 }
