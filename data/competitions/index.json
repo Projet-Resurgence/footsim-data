@@ -3,9 +3,10 @@
     "id": "hdm26u87p65mqwv07xr",
     "name": "Coupe de l'Opium",
     "format": "groups_knockout",
-    "status": "ongoing",
+    "status": "completed",
     "teamCount": 16,
     "createdAt": "2026-06-27T21:15:46.864Z",
+    "winner": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
     "year": 2308,
     "teamIds": [
       "6f3d1170-2f22-4f74-905b-8cbb55058954",
