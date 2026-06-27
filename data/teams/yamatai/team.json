@@ -28,6 +28,82 @@
   },
   "recentMatches": [
     {
+      "matchId": "gtyhwyonmqvcmc3w",
+      "playedAt": "2026-06-27T20:13:41.302Z",
+      "opponentSlug": "rhodesie",
+      "opponentName": "Rhodésie",
+      "homeTeamId": "49938bc7-e78d-441e-907b-75a788e98216",
+      "awayTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "homeAway": "away",
+      "scoreFor": 5,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 18,
+      "scorers": [
+        {
+          "minute": 5,
+          "playerId": "324470fc-f9a6-4d99-a563-da0262006553",
+          "playerName": "Ren Kato",
+          "assistId": "45a62f33-b3f7-403d-8b43-a21924df4a63",
+          "assistName": "Toshiya Miyazaki"
+        },
+        {
+          "minute": 17,
+          "playerId": "efab1044-6e12-4ab5-8353-5b9f7b0facab",
+          "playerName": "Genta Miyazaki"
+        },
+        {
+          "minute": 24,
+          "playerId": "862eeced-2bf5-4be5-966b-56639fe66d10",
+          "playerName": "Yuki Okamoto",
+          "assistId": "83382722-ee55-4bb1-86bb-b7f9dc4dc0a2",
+          "assistName": "Tsubasa Fukuda"
+        },
+        {
+          "minute": 42,
+          "playerId": "45a62f33-b3f7-403d-8b43-a21924df4a63",
+          "playerName": "Toshiya Miyazaki",
+          "assistId": "324470fc-f9a6-4d99-a563-da0262006553",
+          "assistName": "Ren Kato"
+        },
+        {
+          "minute": 71,
+          "playerId": "862eeced-2bf5-4be5-966b-56639fe66d10",
+          "playerName": "Yuki Okamoto",
+          "assistId": "efab1044-6e12-4ab5-8353-5b9f7b0facab",
+          "assistName": "Genta Miyazaki"
+        }
+      ]
+    },
+    {
+      "matchId": "isoeihp8mqvcmc3w",
+      "playedAt": "2026-06-27T20:06:29.819Z",
+      "opponentSlug": "coree",
+      "opponentName": "Corée",
+      "homeTeamId": "495d8db0-d1b7-49fd-bb3d-dcecda27eb95",
+      "awayTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -5.7,
+      "scorers": [
+        {
+          "minute": 22,
+          "playerId": "45a62f33-b3f7-403d-8b43-a21924df4a63",
+          "playerName": "Toshiya Miyazaki"
+        }
+      ]
+    },
+    {
       "matchId": "bf8364symqvcmc3w",
       "playedAt": "2026-06-27T11:24:06.260Z",
       "opponentSlug": "etat-de-floride",
