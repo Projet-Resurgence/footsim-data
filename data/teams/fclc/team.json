@@ -11,6 +11,105 @@
   "formation": "4-3-3",
   "recentMatches": [
     {
+      "matchId": "bo0el0rjmqvcmc3w",
+      "playedAt": "2026-06-27T11:19:26.278Z",
+      "opponentSlug": "empire-hussein",
+      "opponentName": "Empire Hussein",
+      "homeTeamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "awayTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 2,
+      "opponentStrength": 65,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6,
+      "scorers": [
+        {
+          "minute": 44,
+          "playerId": "5f32168a-14df-4d52-a989-1b39439b3517",
+          "playerName": "Jhon Torres"
+        }
+      ]
+    },
+    {
+      "matchId": "barwlesgmqvcmc3w",
+      "playedAt": "2026-06-27T11:10:44.658Z",
+      "opponentSlug": "spc",
+      "opponentName": "SPC",
+      "homeTeamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "awayTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 2,
+      "opponentStrength": 62,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 5.8,
+      "scorers": [
+        {
+          "minute": 75,
+          "playerId": "5f32168a-14df-4d52-a989-1b39439b3517",
+          "playerName": "Jhon Torres",
+          "assistId": "aca08af0-9097-4f69-99df-b10b11993d02",
+          "assistName": "Tomás Martínez"
+        },
+        {
+          "minute": 85,
+          "playerId": "5f32168a-14df-4d52-a989-1b39439b3517",
+          "playerName": "Jhon Torres"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 36,
+          "playerId": "1ee98c54-d49e-4195-a7d7-013321c6d36c",
+          "playerName": "Carlos Molina",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "bmtxheiimqvcmc3w",
+      "playedAt": "2026-06-27T11:08:16.885Z",
+      "opponentSlug": "perou",
+      "opponentName": "Pérou",
+      "homeTeamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "awayTeamId": "f3fda074-0648-4d1f-a413-281bbf6d7d59",
+      "homeAway": "home",
+      "scoreFor": 3,
+      "scoreAgainst": 0,
+      "opponentStrength": 61,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.7,
+      "scorers": [
+        {
+          "minute": 10,
+          "playerId": "5f32168a-14df-4d52-a989-1b39439b3517",
+          "playerName": "Jhon Torres"
+        },
+        {
+          "minute": 28,
+          "playerId": "0cde6afa-5371-4d50-84b0-42c5dce8e58c",
+          "playerName": "Ricot Moise",
+          "assistId": "aca08af0-9097-4f69-99df-b10b11993d02",
+          "assistName": "Tomás Martínez"
+        },
+        {
+          "minute": 74,
+          "playerId": "0bed9f5f-41ab-468b-87f7-5372a81470dc",
+          "playerName": "Antonio Hernández"
+        }
+      ]
+    },
+    {
       "matchId": "vaxm2ns0mqvegaw8",
       "playedAt": "2026-06-26T20:49:16.326Z",
       "opponentSlug": "cote-d-ivoire",
