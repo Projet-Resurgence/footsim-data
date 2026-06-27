@@ -66,6 +66,117 @@
   "suspensions": [],
   "recentMatches": [
     {
+      "matchId": "vaqujh0umqvcmc3w",
+      "playedAt": "2026-06-27T11:24:06.246Z",
+      "opponentSlug": "lusitanie",
+      "opponentName": "Lusitanie",
+      "homeTeamId": "4ba08162-cd67-4fe4-98d0-92064194885b",
+      "awayTeamId": "2256fe5a-993b-4007-8191-47ebe93a3e70",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.5,
+      "scorers": [
+        {
+          "minute": 42,
+          "playerId": "463b2a1a-5b55-4f0e-a150-f26d2adddf99",
+          "playerName": "Bernd Mayer"
+        },
+        {
+          "minute": 87,
+          "playerId": "c9a454cb-6c22-42ba-aea6-0215ec660feb",
+          "playerName": "Lennart Huber"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 44,
+          "playerId": "1faeca41-38a6-4fe5-b220-a8a0240712ce",
+          "playerName": "Noah Ludwig",
+          "type": "yellow"
+        },
+        {
+          "minute": 80,
+          "playerId": "728bb9f9-7b81-4aad-97ee-e6b80d8a9ae7",
+          "playerName": "Sascha Weber",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "zkr2uzpjmqvcmc3w",
+      "playedAt": "2026-06-27T11:14:38.784Z",
+      "opponentSlug": "nouvelle-californie",
+      "opponentName": "Nouvelle Californie",
+      "homeTeamId": "4ba08162-cd67-4fe4-98d0-92064194885b",
+      "awayTeamId": "8893e441-b5b6-49ea-b439-9c327b38d7c5",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 4,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.7,
+      "cards": [
+        {
+          "minute": 36,
+          "playerId": "70e39a9c-653c-4844-a252-1e02d3890bbf",
+          "playerName": "Heinz Mayer",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "xp3d2wa7mqvcmc3w",
+      "playedAt": "2026-06-27T11:08:16.881Z",
+      "opponentSlug": "maghreb",
+      "opponentName": "Maghreb",
+      "homeTeamId": "02a4b69e-0d91-4183-a72b-717c658782c6",
+      "awayTeamId": "4ba08162-cd67-4fe4-98d0-92064194885b",
+      "homeAway": "away",
+      "scoreFor": 4,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 18,
+      "scorers": [
+        {
+          "minute": 18,
+          "playerId": "c2ede6e7-74a3-4898-82d9-e02543537272",
+          "playerName": "Marcel Walter",
+          "assistId": "7de5fdbb-45a5-4899-8802-654b57ca3ae2",
+          "assistName": "Kevin Braun"
+        },
+        {
+          "minute": 57,
+          "playerId": "c9a454cb-6c22-42ba-aea6-0215ec660feb",
+          "playerName": "Lennart Huber"
+        },
+        {
+          "minute": 84,
+          "playerId": "9b1626f5-fe6b-45a5-b56b-9f257253945f",
+          "playerName": "Walter Schmitz"
+        },
+        {
+          "minute": 87,
+          "playerId": "c9a454cb-6c22-42ba-aea6-0215ec660feb",
+          "playerName": "Lennart Huber",
+          "assistId": "c2ede6e7-74a3-4898-82d9-e02543537272",
+          "assistName": "Marcel Walter"
+        }
+      ]
+    },
+    {
       "matchId": "ae9wgx13mqvcmc3w",
       "playedAt": "2026-06-26T20:10:31.122Z",
       "opponentSlug": "italie",
