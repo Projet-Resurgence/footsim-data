@@ -152,6 +152,73 @@
   },
   "recentMatches": [
     {
+      "matchId": "96c18wqgmqvcmc3w",
+      "playedAt": "2026-06-27T20:11:48.885Z",
+      "opponentSlug": "coree",
+      "opponentName": "Corée",
+      "homeTeamId": "495d8db0-d1b7-49fd-bb3d-dcecda27eb95",
+      "awayTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.5,
+      "scorers": [
+        {
+          "minute": 10,
+          "playerId": "262568b4-1d7b-48fe-8f03-1bf32a4e6915",
+          "playerName": "Chase Walker",
+          "assistId": "4e44c8f6-ea9f-470c-a3a3-ea4f1fa82662",
+          "assistName": "Jordan Brown"
+        },
+        {
+          "minute": 62,
+          "playerId": "262568b4-1d7b-48fe-8f03-1bf32a4e6915",
+          "playerName": "Chase Walker"
+        }
+      ]
+    },
+    {
+      "matchId": "u0aq0ggkmqvcmc3w",
+      "playedAt": "2026-06-27T20:08:47.151Z",
+      "opponentSlug": "etat-de-floride",
+      "opponentName": "État de Floride",
+      "homeTeamId": "d078bb55-7f06-4ed1-b048-1dd6524ecae9",
+      "awayTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "homeAway": "away",
+      "scoreFor": 3,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.5,
+      "scorers": [
+        {
+          "minute": 21,
+          "playerId": "51734e56-6364-48ce-aa7b-470b5a778a0b",
+          "playerName": "Nathan Baker"
+        },
+        {
+          "minute": 29,
+          "playerId": "51734e56-6364-48ce-aa7b-470b5a778a0b",
+          "playerName": "Nathan Baker"
+        },
+        {
+          "minute": 69,
+          "playerId": "470e4f61-dc93-4005-92a5-7dc9ed642d61",
+          "playerName": "Jackson Campbell",
+          "assistId": "4e44c8f6-ea9f-470c-a3a3-ea4f1fa82662",
+          "assistName": "Jordan Brown"
+        }
+      ]
+    },
+    {
       "matchId": "j82rvm02mqvcmc3w",
       "playedAt": "2026-06-27T11:20:27.705Z",
       "opponentSlug": "ugp",
