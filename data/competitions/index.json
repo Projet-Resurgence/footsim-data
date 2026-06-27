@@ -65,7 +65,10 @@
       "6f3d1170-2f22-4f74-905b-8cbb55058954",
       "45002df1-cafe-4c04-814c-660868b56d95",
       "8451e643-10d4-48bc-a4e6-4c12255695f4"
-    ]
+    ],
+    "kind": "amicale",
+    "scope": "internationale",
+    "importance": "mineur"
   },
   {
     "id": "af83y9vgrammqvcmc3w",
@@ -144,10 +147,7 @@
       "2256fe5a-993b-4007-8191-47ebe93a3e70",
       "31dbe023-a8f1-4325-9813-afa3d8e217fa",
       "0fe98426-628d-4e12-a4c7-9a71e599160f"
-    ],
-    "kind": "amicale",
-    "scope": "internationale",
-    "importance": "mineur"
+    ]
   },
   {
     "id": "rz1qemn56rmmqtyr6yf",
