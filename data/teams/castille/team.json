@@ -118,6 +118,47 @@
   ],
   "recentMatches": [
     {
+      "matchId": "7flvwrlqmqvcmc3w",
+      "playedAt": "2026-06-27T20:13:41.299Z",
+      "opponentSlug": "rpdo",
+      "opponentName": "RPDO",
+      "homeTeamId": "55c94018-aa17-477e-86d3-722caf57df20",
+      "awayTeamId": "3b7016ec-ba5d-4b54-9f1f-95d2e3ff84bf",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 5.7
+    },
+    {
+      "matchId": "f9nd6o9umqvcmc3w",
+      "playedAt": "2026-06-27T20:08:47.147Z",
+      "opponentSlug": "cedre",
+      "opponentName": "Cèdre",
+      "homeTeamId": "55c94018-aa17-477e-86d3-722caf57df20",
+      "awayTeamId": "292037a2-3b7a-40e7-b9fa-37a11d157341",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17,
+      "scorers": [
+        {
+          "minute": 6,
+          "playerId": "ee6ed1a4-5d2e-4b22-b508-4af846e588ad",
+          "playerName": "Gabriel León"
+        }
+      ]
+    },
+    {
       "matchId": "kmu5bb7qmqvcmc3w",
       "playedAt": "2026-06-27T11:24:06.252Z",
       "opponentSlug": "texas",
