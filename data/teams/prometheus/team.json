@@ -238,6 +238,158 @@
   "suspensions": [],
   "recentMatches": [
     {
+      "matchId": "96vp3mr3mqwu11n7",
+      "playedAt": "2026-06-27T20:56:59.072Z",
+      "opponentSlug": "deseret",
+      "opponentName": "Deseret",
+      "homeTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "awayTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 1,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "cards": [
+        {
+          "minute": 12,
+          "playerId": "688b0471-9199-4c65-9d73-a408fa96f582",
+          "playerName": "Eldar Antonov",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "emgve1wgmqwu11n7",
+      "playedAt": "2026-06-27T20:54:33.989Z",
+      "opponentSlug": "empire-hussein",
+      "opponentName": "Empire Hussein",
+      "homeTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "awayTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "homeAway": "away",
+      "scoreFor": 4,
+      "scoreAgainst": 3,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.1,
+      "scorers": [
+        {
+          "minute": 8,
+          "playerId": "b57ca962-753d-4797-bf41-a7b0fa40ae61",
+          "playerName": "Roman Tsvetkov",
+          "assistId": "688b0471-9199-4c65-9d73-a408fa96f582",
+          "assistName": "Eldar Antonov"
+        },
+        {
+          "minute": 25,
+          "playerId": "da579017-cf8b-482c-b9d5-ec411cd825ff",
+          "playerName": "Mikhail Ivanov",
+          "assistId": "4d38741c-7eaa-48e6-9239-632e339aa1cc",
+          "assistName": "Kirill Davydov"
+        },
+        {
+          "minute": 56,
+          "playerId": "4d38741c-7eaa-48e6-9239-632e339aa1cc",
+          "playerName": "Kirill Davydov",
+          "assistId": "1e0470a8-b280-4175-a997-fa49568f8830",
+          "assistName": "Stanislav Novikov"
+        },
+        {
+          "minute": 69,
+          "playerId": "4d38741c-7eaa-48e6-9239-632e339aa1cc",
+          "playerName": "Kirill Davydov"
+        }
+      ]
+    },
+    {
+      "matchId": "xkjt411fmqwu11n7",
+      "playedAt": "2026-06-27T20:52:41.405Z",
+      "opponentSlug": "nova-orbis",
+      "opponentName": "Nova Orbis",
+      "homeTeamId": "28f82804-8005-450a-b6d8-740533bf82b0",
+      "awayTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "homeAway": "away",
+      "scoreFor": 4,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 3,
+      "scorers": [
+        {
+          "minute": 8,
+          "playerId": "60342249-23bb-4564-9620-91c2a141b9ad",
+          "playerName": "Pyotr Stepanov"
+        },
+        {
+          "minute": 69,
+          "playerId": "b3624587-f65b-4349-9c05-2700a2caeb26",
+          "playerName": "Gleb Kovalev",
+          "assistId": "4d38741c-7eaa-48e6-9239-632e339aa1cc",
+          "assistName": "Kirill Davydov"
+        },
+        {
+          "minute": 71,
+          "playerId": "4d38741c-7eaa-48e6-9239-632e339aa1cc",
+          "playerName": "Kirill Davydov",
+          "assistId": "60342249-23bb-4564-9620-91c2a141b9ad",
+          "assistName": "Pyotr Stepanov"
+        },
+        {
+          "minute": 77,
+          "playerId": "83d77c6f-a467-4aac-a746-fb82f51b6195",
+          "playerName": "Ruslan Kuznetsov"
+        }
+      ]
+    },
+    {
+      "matchId": "17bg6rybmqwu11n7",
+      "playedAt": "2026-06-27T20:50:18.527Z",
+      "opponentSlug": "fclc",
+      "opponentName": "FCLC",
+      "homeTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "awayTeamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 2,
+      "opponentStrength": 61,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 0.7,
+      "scorers": [
+        {
+          "minute": 36,
+          "playerId": "b57ca962-753d-4797-bf41-a7b0fa40ae61",
+          "playerName": "Roman Tsvetkov",
+          "assistId": "787dbb6a-4a5e-45fb-9fe1-231c5e47fb5c",
+          "assistName": "Stepan Kovalev"
+        },
+        {
+          "minute": 77,
+          "playerId": "4d38741c-7eaa-48e6-9239-632e339aa1cc",
+          "playerName": "Kirill Davydov"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 13,
+          "playerId": "da579017-cf8b-482c-b9d5-ec411cd825ff",
+          "playerName": "Mikhail Ivanov",
+          "type": "red"
+        }
+      ]
+    },
+    {
       "matchId": "oomfppdvmqwt6yer",
       "playedAt": "2026-06-27T20:33:33.180Z",
       "opponentSlug": "5eme-internationale",
