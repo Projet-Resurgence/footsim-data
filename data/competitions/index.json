@@ -332,7 +332,10 @@
       "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
       "31dbe023-a8f1-4325-9813-afa3d8e217fa",
       "8893e441-b5b6-49ea-b439-9c327b38d7c5"
-    ]
+    ],
+    "kind": "amicale",
+    "scope": "internationale",
+    "importance": "mineur"
   },
   {
     "id": "qtebnbbpzeomqpngrdv",
