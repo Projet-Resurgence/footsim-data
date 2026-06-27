@@ -485,6 +485,91 @@
   ],
   "recentMatches": [
     {
+      "matchId": "sk4k3zyjmqvcmc3w",
+      "playedAt": "2026-06-27T11:24:06.258Z",
+      "opponentSlug": "roumanie",
+      "opponentName": "Roumanie",
+      "homeTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "awayTeamId": "63b3d538-b5f5-44d0-83b4-5d23d3cbcb22",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17,
+      "scorers": [
+        {
+          "minute": 19,
+          "playerId": "c8ce0f44-f254-4cf4-8acd-939678b433fd",
+          "playerName": "Necati Demir"
+        }
+      ]
+    },
+    {
+      "matchId": "n5kajxt2mqvcmc3w",
+      "playedAt": "2026-06-27T11:14:38.794Z",
+      "opponentSlug": "rpdo",
+      "opponentName": "RPDO",
+      "homeTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "awayTeamId": "3b7016ec-ba5d-4b54-9f1f-95d2e3ff84bf",
+      "homeAway": "home",
+      "scoreFor": 3,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.5,
+      "scorers": [
+        {
+          "minute": 12,
+          "playerId": "9d7fb4c5-31ca-4b0a-b8b9-fc8434e2cdd0",
+          "playerName": "İsmail Uçar"
+        },
+        {
+          "minute": 40,
+          "playerId": "9d7fb4c5-31ca-4b0a-b8b9-fc8434e2cdd0",
+          "playerName": "İsmail Uçar",
+          "assistId": "7fb15150-b98d-40ef-9a18-b567a0026982",
+          "assistName": "Ömer Bulut"
+        },
+        {
+          "minute": 54,
+          "playerId": "c8ce0f44-f254-4cf4-8acd-939678b433fd",
+          "playerName": "Necati Demir"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 37,
+          "playerId": "6061a302-ddf9-4363-b86b-9059f1a42e3f",
+          "playerName": "Onur Öztürk",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "gay9w228mqvcmc3w",
+      "playedAt": "2026-06-27T11:08:16.893Z",
+      "opponentSlug": "cedre",
+      "opponentName": "Cèdre",
+      "homeTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "awayTeamId": "292037a2-3b7a-40e7-b9fa-37a11d157341",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -5.7
+    },
+    {
       "matchId": "8z7mfpwqmqvcmc3w",
       "playedAt": "2026-06-26T20:10:31.129Z",
       "opponentSlug": "texas",
