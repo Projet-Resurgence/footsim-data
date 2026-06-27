@@ -3,9 +3,10 @@
     "id": "loennthhwl9mqwvirdm",
     "name": "Coupe Cheeseburger",
     "format": "groups_knockout",
-    "status": "ongoing",
+    "status": "completed",
     "teamCount": 16,
     "createdAt": "2026-06-27T21:30:11.866Z",
+    "winner": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
     "year": 2308,
     "teamIds": [
       "8893e441-b5b6-49ea-b439-9c327b38d7c5",
