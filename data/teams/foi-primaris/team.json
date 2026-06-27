@@ -37,7 +37,7 @@
     "afrique"
   ],
   "managerDiscordId": "327726564748034050",
-  "publishedAt": "2026-06-27T03:22:23.620Z",
+  "publishedAt": "2026-06-27T18:32:11.778Z",
   "coach": {
     "id": "479b6de4-f4fc-4952-98a2-db2be30d5aec",
     "firstName": "Omari",
@@ -757,5 +757,6 @@
   "actionFoot": {
     "rating": 5,
     "funding": 190
-  }
+  },
+  "matchOutcome": "loss"
 }
