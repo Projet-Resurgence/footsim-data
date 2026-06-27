@@ -510,7 +510,7 @@
       "892948fc-f22f-48f4-b6af-6ebeaa6db607"
     ]
   },
-  "publishedAt": "2026-06-27T12:49:12.533Z",
+  "publishedAt": "2026-06-27T17:22:32.739Z",
   "cultures": [
     {
       "culture": "cubain",
@@ -845,5 +845,6 @@
   "actionFoot": {
     "rating": 5,
     "funding": 75
-  }
+  },
+  "matchOutcome": "win"
 }
