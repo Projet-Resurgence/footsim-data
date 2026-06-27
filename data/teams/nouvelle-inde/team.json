@@ -44,6 +44,102 @@
   "publishedAt": "2026-06-21T13:42:54.712Z",
   "recentMatches": [
     {
+      "matchId": "zivmp81lmqvcmc3w",
+      "playedAt": "2026-06-27T11:24:06.248Z",
+      "opponentSlug": "crpac",
+      "opponentName": "CRPAC",
+      "homeTeamId": "a3427d5b-8081-4363-a9fd-1ac7de7e9144",
+      "awayTeamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -5.7,
+      "scorers": [
+        {
+          "minute": 53,
+          "playerId": "6581e334-8bee-4a12-ad57-e25ad9b61aac",
+          "playerName": "Rajan Dubey",
+          "assistId": "611e079f-c6f2-4c5e-9bcf-bc261d22fc3f",
+          "assistName": "Sachin Yadav"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 77,
+          "playerId": "9c8979eb-c4bb-47d9-9725-a928c4631e39",
+          "playerName": "Govind Varma",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "ca99vml8mqvcmc3w",
+      "playedAt": "2026-06-27T11:14:38.786Z",
+      "opponentSlug": "cascadie",
+      "opponentName": "Cascadie",
+      "homeTeamId": "a3427d5b-8081-4363-a9fd-1ac7de7e9144",
+      "awayTeamId": "e5bac765-f354-41a2-b940-1e97fba04c20",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 3,
+      "opponentStrength": 62,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.8,
+      "cards": [
+        {
+          "minute": 51,
+          "playerId": "611e079f-c6f2-4c5e-9bcf-bc261d22fc3f",
+          "playerName": "Sachin Yadav",
+          "type": "yellow"
+        },
+        {
+          "minute": 85,
+          "playerId": "0ff35ab7-a296-4c5b-9007-6b185fcea3a0",
+          "playerName": "Ishaan Reddy",
+          "type": "yellow"
+        },
+        {
+          "minute": 91,
+          "playerId": "6581e334-8bee-4a12-ad57-e25ad9b61aac",
+          "playerName": "Rajan Dubey",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "adb1hxaqmqvcmc3w",
+      "playedAt": "2026-06-27T11:08:16.883Z",
+      "opponentSlug": "atlantique",
+      "opponentName": "Atlantique",
+      "homeTeamId": "a3427d5b-8081-4363-a9fd-1ac7de7e9144",
+      "awayTeamId": "cc7eb9cc-9a93-44ee-89c7-f2c6e915a221",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 3,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.7,
+      "cards": [
+        {
+          "minute": 27,
+          "playerId": "0ff35ab7-a296-4c5b-9007-6b185fcea3a0",
+          "playerName": "Ishaan Reddy",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "llwioqgimqvcmc3w",
       "playedAt": "2026-06-26T20:10:31.123Z",
       "opponentSlug": "naibat-de-mandra",
