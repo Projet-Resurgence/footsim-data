@@ -806,7 +806,7 @@
       "89a0086b-0ff0-489e-a845-ca7b750f7403"
     ]
   },
-  "publishedAt": "2026-06-27T02:44:12.973Z",
+  "publishedAt": "2026-06-27T13:45:51.500Z",
   "cultures": [
     {
       "culture": "arabe",
@@ -1041,9 +1041,42 @@
           "y": 19.166666666666668
         }
       }
+    },
+    {
+      "style": "possession",
+      "formation": "4-3-3",
+      "lineup": [
+        "aff7b68e-f32e-47eb-ab8e-96007c9b2a38",
+        "235a908b-765d-4f6b-8d22-9bac5aae1521",
+        "4da3fb23-004e-4bc2-b23d-54eb6e91ca6e",
+        "7f6136f7-cfc9-406b-b5c7-5af79cc74bdc",
+        "e3571e6e-3b8e-4472-9a38-ea4c81fa2e6d",
+        "8745a1a2-e456-4d0e-8ddd-610658c8a559",
+        "698a3b66-bffb-494b-822d-68025a22deac",
+        "2f13674a-aee2-4333-b7de-903e4d80b20c",
+        "d58d678c-09a1-4228-923f-7ebfc1a2411c",
+        "ed7eb980-155d-4aee-9cbf-092a44bfc8c1",
+        "16f8645a-2a66-4763-8e71-ca6e9832d693"
+      ],
+      "customStyles": [
+        {
+          "id": "4eea26d1-0160-4390-86a2-4d1b82fdaf10",
+          "name": "Offensif",
+          "mods": {
+            "shotFreqMult": 1.1,
+            "foulRateMult": 1,
+            "midfieldMult": 1.1,
+            "attackMult": 1.1,
+            "defenseMult": 1
+          }
+        }
+      ],
+      "activeCustomStyleId": "4eea26d1-0160-4390-86a2-4d1b82fdaf10",
+      "id": "09adc477-0793-4dfa-91bb-7f76581e13cc",
+      "name": "Shai Hulud Tactic"
     }
   ],
-  "activeTacticId": "06ee2f2b-5998-4d94-840f-351a98e81559",
+  "activeTacticId": "09adc477-0793-4dfa-91bb-7f76581e13cc",
   "actionFoot": {
     "rating": 5,
     "funding": 200
