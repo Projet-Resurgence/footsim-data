@@ -110,6 +110,109 @@
   ],
   "recentMatches": [
     {
+      "matchId": "hm27icfkmqvcmc3w",
+      "playedAt": "2026-06-27T11:18:46.079Z",
+      "opponentSlug": "uda",
+      "opponentName": "UDA",
+      "homeTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "awayTeamId": "e5bac765-f354-41a2-b940-1e97fba04c20",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 6,
+      "opponentStrength": 63,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -7.9
+    },
+    {
+      "matchId": "ca99vml8mqvcmc3w",
+      "playedAt": "2026-06-27T11:14:38.786Z",
+      "opponentSlug": "nouvelle-inde",
+      "opponentName": "Nouvelle Inde",
+      "homeTeamId": "a3427d5b-8081-4363-a9fd-1ac7de7e9144",
+      "awayTeamId": "e5bac765-f354-41a2-b940-1e97fba04c20",
+      "homeAway": "away",
+      "scoreFor": 3,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.5,
+      "scorers": [
+        {
+          "minute": 27,
+          "playerId": "fd6f53cc-5850-41bd-86e0-80c7d059cf8a",
+          "playerName": "Tyler Adams",
+          "assistId": "b2327fde-0082-4315-ada3-e69863b5de6d",
+          "assistName": "Kevin Wright"
+        },
+        {
+          "minute": 59,
+          "playerId": "b0154c01-14be-4433-9969-a213fac276d2",
+          "playerName": "Travis King",
+          "assistId": "fd6f53cc-5850-41bd-86e0-80c7d059cf8a",
+          "assistName": "Tyler Adams"
+        },
+        {
+          "minute": 82,
+          "playerId": "b0154c01-14be-4433-9969-a213fac276d2",
+          "playerName": "Travis King",
+          "assistId": "6e316db9-712b-4be0-80a5-c378b089aed4",
+          "assistName": "Jackson Williams"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 29,
+          "playerId": "2a42b34e-8c8b-46c3-9c8a-4acd856543b1",
+          "playerName": "Quinn Wilson",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "fhrmrfalmqvcmc3w",
+      "playedAt": "2026-06-27T11:03:40.350Z",
+      "opponentSlug": "prometheus",
+      "opponentName": "Prometheus",
+      "homeTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "awayTeamId": "e5bac765-f354-41a2-b940-1e97fba04c20",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 2,
+      "opponentStrength": 64,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6,
+      "scorers": [
+        {
+          "minute": 18,
+          "playerId": "fd6f53cc-5850-41bd-86e0-80c7d059cf8a",
+          "playerName": "Tyler Adams"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 20,
+          "playerId": "9812be72-58ac-4854-84f8-256895115efc",
+          "playerName": "Brody Collins",
+          "type": "red"
+        },
+        {
+          "minute": 65,
+          "playerId": "2a42b34e-8c8b-46c3-9c8a-4acd856543b1",
+          "playerName": "Quinn Wilson",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "2tnhx0pomqvcmc3w",
       "playedAt": "2026-06-26T20:10:31.125Z",
       "opponentSlug": "ursi",
