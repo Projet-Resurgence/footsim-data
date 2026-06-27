@@ -196,6 +196,98 @@
   "activeTacticId": "0591aee1-c35a-436f-b91c-70cdeef15de1",
   "recentMatches": [
     {
+      "matchId": "uclt94nomqwv07xr",
+      "playedAt": "2026-06-27T21:19:36.699Z",
+      "opponentSlug": "ursi",
+      "opponentName": "URSI",
+      "homeTeamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+      "awayTeamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 0,
+      "opponentStrength": 62,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2,
+      "scorers": [
+        {
+          "minute": 67,
+          "playerId": "613c2771-c3d9-44a0-b3ad-3476e39f55fc",
+          "playerName": "Xurshid Fozilов"
+        }
+      ]
+    },
+    {
+      "matchId": "kjvalne9mqwv07xr",
+      "playedAt": "2026-06-27T21:18:05.102Z",
+      "opponentSlug": "foi-primaris",
+      "opponentName": "Foi Primaris",
+      "homeTeamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+      "awayTeamId": "7db62a2a-b398-4a35-9c11-4d5b4bf4570c",
+      "homeAway": "home",
+      "scoreFor": 4,
+      "scoreAgainst": 4,
+      "opponentStrength": 64,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 0.7,
+      "scorers": [
+        {
+          "minute": 19,
+          "playerId": "613c2771-c3d9-44a0-b3ad-3476e39f55fc",
+          "playerName": "Xurshid Fozilов"
+        },
+        {
+          "minute": 46,
+          "playerId": "613c2771-c3d9-44a0-b3ad-3476e39f55fc",
+          "playerName": "Xurshid Fozilов",
+          "assistId": "cb24125f-ea8d-48bc-9db2-d65308c08bc9",
+          "assistName": "Akylbek Akhunov"
+        },
+        {
+          "minute": 56,
+          "playerId": "613c2771-c3d9-44a0-b3ad-3476e39f55fc",
+          "playerName": "Xurshid Fozilов",
+          "assistId": "eec18e15-3246-4c6f-a033-f10a81718945",
+          "assistName": "Elbek Isoqov"
+        },
+        {
+          "minute": 65,
+          "playerId": "613c2771-c3d9-44a0-b3ad-3476e39f55fc",
+          "playerName": "Xurshid Fozilов"
+        }
+      ]
+    },
+    {
+      "matchId": "wns7moynmqwv07xr",
+      "playedAt": "2026-06-27T21:16:57.097Z",
+      "opponentSlug": "cote-d-ivoire",
+      "opponentName": "Côte d'Ivoire",
+      "homeTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "awayTeamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 2,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.2,
+      "cards": [
+        {
+          "minute": 51,
+          "playerId": "f158da6b-6aab-4a2c-9eca-a30214525e78",
+          "playerName": "Komil Ganiyev",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "b3vyrw5cmqwu11n7",
       "playedAt": "2026-06-27T20:54:33.995Z",
       "opponentSlug": "germanie",
