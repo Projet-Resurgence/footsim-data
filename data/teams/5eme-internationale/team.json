@@ -1023,15 +1023,5 @@
   ],
   "activeTacticId": "c93035ab-45d9-4000-a56a-ef92fa9c5459",
   "injuries": [],
-  "suspensions": [
-    {
-      "id": "755d13d3-c3fa-4a19-a17e-8bb7080e79c7",
-      "subjectId": "8dfe3c1b-ad91-4c62-a9c6-5ae0265bcc34",
-      "subjectName": "Thomas Nicolas",
-      "teamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
-      "matchesRemaining": 1,
-      "reason": "Carton rouge",
-      "roundOccurred": 3
-    }
-  ]
+  "suspensions": []
 }

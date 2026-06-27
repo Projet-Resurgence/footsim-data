@@ -947,17 +947,7 @@
     }
   ],
   "injuries": [],
-  "suspensions": [
-    {
-      "id": "6c447e35-6bb2-483a-9dd8-c704998e1456",
-      "subjectId": "afb3247a-c91a-4352-9008-b30a1fb17733",
-      "subjectName": "Liam Williams",
-      "teamId": "45002df1-cafe-4c04-814c-660868b56d95",
-      "matchesRemaining": 1,
-      "reason": "Carton rouge",
-      "roundOccurred": 6
-    }
-  ],
+  "suspensions": [],
   "jerseyColor": "#0264e3",
   "actionFoot": {
     "rating": 5,

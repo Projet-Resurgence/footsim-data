@@ -1618,19 +1618,7 @@
   ],
   "managerDiscordId": "1302403450566610944",
   "jerseyColor": "#4b1111",
-  "injuries": [
-    {
-      "id": "68a767f8-fff5-4ae7-9884-97b96eccb540",
-      "playerId": "b922c816-b6dd-47bd-9306-89ee6209ae7d",
-      "playerName": "Yang Wu",
-      "teamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
-      "cause": "match",
-      "severity": "légère",
-      "matchesRemaining": 1,
-      "description": "Cheville tordue légèrement — réévaluation avant le prochain match.",
-      "roundOccurred": 6
-    }
-  ],
+  "injuries": [],
   "suspensions": [],
   "actionFoot": {
     "rating": 5,
