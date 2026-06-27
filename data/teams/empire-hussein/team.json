@@ -11,6 +11,85 @@
   "formation": "4-3-3",
   "recentMatches": [
     {
+      "matchId": "bo0el0rjmqvcmc3w",
+      "playedAt": "2026-06-27T11:19:26.278Z",
+      "opponentSlug": "fclc",
+      "opponentName": "FCLC",
+      "homeTeamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "awayTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 1,
+      "opponentStrength": 61,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.2,
+      "scorers": [
+        {
+          "minute": 13,
+          "playerId": "8745a1a2-e456-4d0e-8ddd-610658c8a559",
+          "playerName": "Magdy El-Baz"
+        },
+        {
+          "minute": 61,
+          "playerId": "ed7eb980-155d-4aee-9cbf-092a44bfc8c1",
+          "playerName": "Nabil Hariri",
+          "assistId": "16f8645a-2a66-4763-8e71-ca6e9832d693",
+          "assistName": "Oussama Nasri"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 3,
+          "playerId": "d58d678c-09a1-4228-923f-7ebfc1a2411c",
+          "playerName": "Abdallah El-Meniawy",
+          "type": "yellow"
+        },
+        {
+          "minute": 10,
+          "playerId": "4da3fb23-004e-4bc2-b23d-54eb6e91ca6e",
+          "playerName": "Hamada Ezzat",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "mufpbqarmqvcmc3w",
+      "playedAt": "2026-06-27T11:14:38.788Z",
+      "opponentSlug": "castille",
+      "opponentName": "Castille",
+      "homeTeamId": "55c94018-aa17-477e-86d3-722caf57df20",
+      "awayTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -5.7
+    },
+    {
+      "matchId": "fbblmc5kmqvcmc3w",
+      "playedAt": "2026-06-27T11:08:16.888Z",
+      "opponentSlug": "grande-bretagne",
+      "opponentName": "Grande-Bretagne",
+      "homeTeamId": "9a7b1eb4-ac4c-4bbd-9990-650d7754a955",
+      "awayTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 5.7
+    },
+    {
       "matchId": "ikxvi321mqvf2cr6",
       "playedAt": "2026-06-26T21:05:27.026Z",
       "opponentSlug": "ugp",
