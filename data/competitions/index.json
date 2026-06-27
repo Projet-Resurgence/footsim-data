@@ -304,7 +304,10 @@
       "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
       "f3fda074-0648-4d1f-a413-281bbf6d7d59",
       "69b55842-3c2d-4eaa-b133-7dc8c90bcfff"
-    ]
+    ],
+    "kind": "amicale",
+    "scope": "internationale",
+    "importance": "mineur"
   },
   {
     "id": "ifernu3ytbmqr3areq",
