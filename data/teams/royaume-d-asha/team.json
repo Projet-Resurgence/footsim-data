@@ -21,7 +21,7 @@
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-26T19:45:07.419Z",
+  "publishedAt": "2026-06-27T00:29:15.254Z",
   "coach": {
     "id": "ab0ff2e5-f23c-4849-8b01-99d0a695f067",
     "firstName": "Ziad",
@@ -817,5 +817,5 @@
     }
   ],
   "managerDiscordId": "216601705758851072",
-  "jerseyColor": "#e63c3c"
+  "jerseyColor": "#8300b3"
 }
