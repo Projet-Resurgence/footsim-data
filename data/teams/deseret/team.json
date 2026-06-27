@@ -22,7 +22,7 @@
   "playerCount": 500,
   "formation": "4-3-3",
   "managerDiscordId": "1214007771620577311",
-  "publishedAt": "2026-06-27T03:21:42.657Z",
+  "publishedAt": "2026-06-27T20:44:39.663Z",
   "compHistory": [
     {
       "compId": "qtebnbbpzeomqpngrdv",
@@ -1270,9 +1270,42 @@
       "activeCustomStyleId": "8a747770-21e0-4090-bdde-3087089f91dc",
       "id": "2604e460-d674-463e-b338-2b2a15a52673",
       "name": "Tactique 3"
+    },
+    {
+      "style": "possession",
+      "formation": "4-3-3",
+      "lineup": [
+        "0dd0b1a4-1bd3-491b-bdb5-2104eac0b7e4",
+        "ea268443-4d5d-4c84-bf2a-2b69fdc7d352",
+        "40daaade-1892-415e-a625-8889de0c0099",
+        "76439b7e-424d-415c-92f5-a046eecdd17f",
+        "0daed997-0e22-4c9b-ba72-d8f1ad45d1a9",
+        "4e44c8f6-ea9f-470c-a3a3-ea4f1fa82662",
+        "60812871-655a-4d99-8cf6-b47be478b3d2",
+        "fe059e20-aea8-47a4-b870-d7be575af230",
+        "262568b4-1d7b-48fe-8f03-1bf32a4e6915",
+        "470e4f61-dc93-4005-92a5-7dc9ed642d61",
+        "51734e56-6364-48ce-aa7b-470b5a778a0b"
+      ],
+      "customStyles": [
+        {
+          "id": "38d12d5e-38bd-4781-9766-e94cfb97c51c",
+          "name": "Jnounaball",
+          "mods": {
+            "shotFreqMult": 1.1,
+            "foulRateMult": 0.7,
+            "midfieldMult": 1.05,
+            "attackMult": 1.1,
+            "defenseMult": 1.2
+          }
+        }
+      ],
+      "activeCustomStyleId": "38d12d5e-38bd-4781-9766-e94cfb97c51c",
+      "id": "ae135a51-0500-4d2a-9ead-8cec319b57b7",
+      "name": "Tactique 4"
     }
   ],
-  "activeTacticId": "2604e460-d674-463e-b338-2b2a15a52673",
+  "activeTacticId": "ae135a51-0500-4d2a-9ead-8cec319b57b7",
   "injuries": [],
   "suspensions": [],
   "actionFoot": {
