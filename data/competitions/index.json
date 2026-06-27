@@ -3,9 +3,10 @@
     "id": "bmi1jmlxjkrmqwt6yer",
     "name": "Coupe du Riz",
     "format": "groups_knockout",
-    "status": "ongoing",
+    "status": "completed",
     "teamCount": 16,
     "createdAt": "2026-06-27T20:25:01.875Z",
+    "winner": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
     "year": 2308,
     "teamIds": [
       "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
