@@ -151,6 +151,18 @@
       "result": "semi",
       "phase": "3rd",
       "participantCount": 16
+    },
+    {
+      "compId": "bmi1jmlxjkrmqwt6yer",
+      "compName": "Coupe du Riz",
+      "year": 2308,
+      "format": "groups_knockout",
+      "kind": "amicale",
+      "scope": "internationale",
+      "importance": "mineur",
+      "result": "participant",
+      "phase": "group",
+      "participantCount": 16
     }
   ],
   "recentMatches": [
