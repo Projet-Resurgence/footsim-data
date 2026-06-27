@@ -172,6 +172,67 @@
   "activeTacticId": "0591aee1-c35a-436f-b91c-70cdeef15de1",
   "recentMatches": [
     {
+      "matchId": "aui3dkbomqvcmc3w",
+      "playedAt": "2026-06-27T20:13:41.292Z",
+      "opponentSlug": "naibat-de-mandra",
+      "opponentName": "Naibat de Mandra",
+      "homeTeamId": "fe2670d9-24c9-421f-8687-cd461e79e679",
+      "awayTeamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.2
+    },
+    {
+      "matchId": "u7p6a1c7mqvcmc3w",
+      "playedAt": "2026-06-27T20:08:47.143Z",
+      "opponentSlug": "uda",
+      "opponentName": "UDA",
+      "homeTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "awayTeamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+      "homeAway": "away",
+      "scoreFor": 3,
+      "scoreAgainst": 2,
+      "opponentStrength": 63,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.7,
+      "scorers": [
+        {
+          "minute": 2,
+          "playerId": "613c2771-c3d9-44a0-b3ad-3476e39f55fc",
+          "playerName": "Xurshid Fozilов"
+        },
+        {
+          "minute": 11,
+          "playerId": "613c2771-c3d9-44a0-b3ad-3476e39f55fc",
+          "playerName": "Xurshid Fozilов"
+        },
+        {
+          "minute": 48,
+          "playerId": "613c2771-c3d9-44a0-b3ad-3476e39f55fc",
+          "playerName": "Xurshid Fozilов",
+          "assistId": "7349dfc9-098e-49b1-beaf-36e1218e7c31",
+          "assistName": "Ruslan Chorotegin"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 78,
+          "playerId": "f158da6b-6aab-4a2c-9eca-a30214525e78",
+          "playerName": "Komil Ganiyev",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "zivmp81lmqvcmc3w",
       "playedAt": "2026-06-27T11:24:06.248Z",
       "opponentSlug": "nouvelle-inde",
