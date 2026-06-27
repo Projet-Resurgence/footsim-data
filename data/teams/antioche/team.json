@@ -29,6 +29,88 @@
   "managerDiscordId": "1473103141728944171",
   "recentMatches": [
     {
+      "matchId": "aojd98rnmqwt6yer",
+      "playedAt": "2026-06-27T20:31:18.105Z",
+      "opponentSlug": "fclc",
+      "opponentName": "FCLC",
+      "homeTeamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "awayTeamId": "8451e643-10d4-48bc-a4e6-4c12255695f4",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 1,
+      "opponentStrength": 61,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "cards": [
+        {
+          "minute": 73,
+          "playerId": "878bd360-c46e-492a-9214-de5da09ea87a",
+          "playerName": "Harun Aydoğan",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "w0x570tsmqwt6yer",
+      "playedAt": "2026-06-27T20:29:21.258Z",
+      "opponentSlug": "prometheus",
+      "opponentName": "Prometheus",
+      "homeTeamId": "8451e643-10d4-48bc-a4e6-4c12255695f4",
+      "awayTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 4,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.7
+    },
+    {
+      "matchId": "d7nzxtrbmqwt6yer",
+      "playedAt": "2026-06-27T20:27:10.664Z",
+      "opponentSlug": "cote-d-ivoire",
+      "opponentName": "Côte d'Ivoire",
+      "homeTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "awayTeamId": "8451e643-10d4-48bc-a4e6-4c12255695f4",
+      "homeAway": "away",
+      "scoreFor": 3,
+      "scoreAgainst": 4,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 26,
+          "playerId": "2d105f15-6085-4c10-a990-0a81180604de",
+          "playerName": "Alper Karakaya",
+          "assistId": "b54932e1-c5be-4b37-8d4c-707b35b5d81d",
+          "assistName": "Harun Tosun"
+        },
+        {
+          "minute": 52,
+          "playerId": "b54932e1-c5be-4b37-8d4c-707b35b5d81d",
+          "playerName": "Harun Tosun",
+          "assistId": "878bd360-c46e-492a-9214-de5da09ea87a",
+          "assistName": "Harun Aydoğan"
+        },
+        {
+          "minute": 77,
+          "playerId": "7b59d16c-915c-4eda-8fe3-e5ac6c43c86b",
+          "playerName": "Mert Gültekin",
+          "assistId": "88f29f4d-3a3c-4fae-8a07-30276733ccf1",
+          "assistName": "Egemen Arslan"
+        }
+      ]
+    },
+    {
       "matchId": "je6o27i0mqvcmc3w",
       "playedAt": "2026-06-27T20:12:28.720Z",
       "opponentSlug": "foi-primaris",
