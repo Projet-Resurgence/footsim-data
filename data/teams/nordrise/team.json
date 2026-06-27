@@ -48,6 +48,77 @@
   "publishedAt": "2026-06-26T21:36:33.811Z",
   "recentMatches": [
     {
+      "matchId": "k77zwpkpmqvcmc3w",
+      "playedAt": "2026-06-27T20:13:41.296Z",
+      "opponentSlug": "texas",
+      "opponentName": "Texas",
+      "homeTeamId": "e601e0d9-7e45-4c53-bb41-16ccd12e9a06",
+      "awayTeamId": "0cf5d3c2-39e2-4cfc-be26-279bf438a4c0",
+      "homeAway": "home",
+      "scoreFor": 3,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.5,
+      "scorers": [
+        {
+          "minute": 25,
+          "playerId": "af177f14-2a44-4eca-90a0-b6744bd4af2c",
+          "playerName": "Juhani Mäkelä"
+        },
+        {
+          "minute": 48,
+          "playerId": "bdc11fcc-0eec-4e30-bfc1-b9c83ece75ae",
+          "playerName": "Aino Väisänen",
+          "assistId": "825c3e16-e9ca-4009-b345-833f01e8cc11",
+          "assistName": "Minna Kärkkäinen"
+        },
+        {
+          "minute": 76,
+          "playerId": "af177f14-2a44-4eca-90a0-b6744bd4af2c",
+          "playerName": "Juhani Mäkelä",
+          "assistId": "d2f12aad-79bc-4c9d-8f5d-7ce08aa13f5e",
+          "assistName": "Leena Miettinen"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 11,
+          "playerId": "d4dcd536-1211-49fd-a914-d8488bb4e59d",
+          "playerName": "Sari Turunen",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "jbr7yksrmqvcmc3w",
+      "playedAt": "2026-06-27T20:08:47.145Z",
+      "opponentSlug": "empire-hussein",
+      "opponentName": "Empire Hussein",
+      "homeTeamId": "e601e0d9-7e45-4c53-bb41-16ccd12e9a06",
+      "awayTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 6,
+      "opponentStrength": 65,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -8,
+      "cards": [
+        {
+          "minute": 50,
+          "playerId": "d4dcd536-1211-49fd-a914-d8488bb4e59d",
+          "playerName": "Sari Turunen",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "h03ggdqhmqvcmc3w",
       "playedAt": "2026-06-27T11:24:06.249Z",
       "opponentSlug": "spc",
