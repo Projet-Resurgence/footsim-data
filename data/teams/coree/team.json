@@ -47,6 +47,121 @@
   "compHistory": [],
   "recentMatches": [
     {
+      "matchId": "l3f5rx6pmqvcmc3w",
+      "playedAt": "2026-06-27T11:24:06.257Z",
+      "opponentSlug": "ccb",
+      "opponentName": "CCB",
+      "homeTeamId": "495d8db0-d1b7-49fd-bb3d-dcecda27eb95",
+      "awayTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "homeAway": "home",
+      "scoreFor": 3,
+      "scoreAgainst": 2,
+      "opponentStrength": 61,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.2,
+      "scorers": [
+        {
+          "minute": 10,
+          "playerId": "b864885a-5a49-41ac-9411-6d506994384f",
+          "playerName": "Joon-woo Pyeon"
+        },
+        {
+          "minute": 62,
+          "playerId": "f1c10d3c-bb26-4489-9639-780e72a2bf20",
+          "playerName": "Yu-min Moon",
+          "assistId": "85687546-17f3-43a1-9449-faec0f9fac22",
+          "assistName": "Hyun-woo Shin"
+        },
+        {
+          "minute": 69,
+          "playerId": "b864885a-5a49-41ac-9411-6d506994384f",
+          "playerName": "Joon-woo Pyeon",
+          "assistId": "85687546-17f3-43a1-9449-faec0f9fac22",
+          "assistName": "Hyun-woo Shin"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 89,
+          "playerId": "f1c10d3c-bb26-4489-9639-780e72a2bf20",
+          "playerName": "Yu-min Moon",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "x0opx0ozmqvcmc3w",
+      "playedAt": "2026-06-27T11:14:38.793Z",
+      "opponentSlug": "royaume-d-asha",
+      "opponentName": "Royaume d'Asha",
+      "homeTeamId": "495d8db0-d1b7-49fd-bb3d-dcecda27eb95",
+      "awayTeamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "homeAway": "home",
+      "scoreFor": 4,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.5,
+      "scorers": [
+        {
+          "minute": 9,
+          "playerId": "837adf66-97e0-4ed1-8edc-47bf6361febc",
+          "playerName": "Eun-woo Kong"
+        },
+        {
+          "minute": 56,
+          "playerId": "837adf66-97e0-4ed1-8edc-47bf6361febc",
+          "playerName": "Eun-woo Kong"
+        },
+        {
+          "minute": 77,
+          "playerId": "f1c10d3c-bb26-4489-9639-780e72a2bf20",
+          "playerName": "Yu-min Moon",
+          "assistId": "1d64145e-c37d-45f2-92a0-9763798e07bd",
+          "assistName": "Hyun-tae Hwangbo"
+        },
+        {
+          "minute": 94,
+          "playerId": "837adf66-97e0-4ed1-8edc-47bf6361febc",
+          "playerName": "Eun-woo Kong",
+          "assistId": "b864885a-5a49-41ac-9411-6d506994384f",
+          "assistName": "Joon-woo Pyeon"
+        }
+      ]
+    },
+    {
+      "matchId": "h788tbrsmqvcmc3w",
+      "playedAt": "2026-06-27T11:08:16.891Z",
+      "opponentSlug": "voivodine",
+      "opponentName": "Voïvodine",
+      "homeTeamId": "495d8db0-d1b7-49fd-bb3d-dcecda27eb95",
+      "awayTeamId": "28274f9a-bff0-42da-ac99-a6e3a9812a34",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17,
+      "scorers": [
+        {
+          "minute": 95,
+          "playerId": "837adf66-97e0-4ed1-8edc-47bf6361febc",
+          "playerName": "Eun-woo Kong",
+          "assistId": "f1c10d3c-bb26-4489-9639-780e72a2bf20",
+          "assistName": "Yu-min Moon"
+        }
+      ]
+    },
+    {
       "matchId": "z4k9j0h5mqvcmc3w",
       "playedAt": "2026-06-26T20:10:31.129Z",
       "opponentSlug": "nova-orbis",
