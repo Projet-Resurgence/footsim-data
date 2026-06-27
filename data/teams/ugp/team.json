@@ -139,6 +139,152 @@
       ]
     },
     {
+      "matchId": "az6l5urrmqwv07xs",
+      "playedAt": "2026-06-27T21:20:50.253Z",
+      "opponentSlug": "osmanide",
+      "opponentName": "Osmanide",
+      "homeTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "awayTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 73,
+          "playerId": "c6663d52-24a7-4d5a-aaea-b02fd24652d6",
+          "playerName": "Samuele De Angelis",
+          "assistId": "442b01e6-c161-4845-8c2b-3261255abcdb",
+          "assistName": "Luca Marini"
+        }
+      ]
+    },
+    {
+      "matchId": "aays3yirmqwv07xr",
+      "playedAt": "2026-06-27T21:19:36.701Z",
+      "opponentSlug": "deseret",
+      "opponentName": "Deseret",
+      "homeTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "awayTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "homeAway": "away",
+      "scoreFor": 4,
+      "scoreAgainst": 0,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 3.1,
+      "scorers": [
+        {
+          "minute": 30,
+          "playerId": "c6663d52-24a7-4d5a-aaea-b02fd24652d6",
+          "playerName": "Samuele De Angelis"
+        },
+        {
+          "minute": 54,
+          "playerId": "c6663d52-24a7-4d5a-aaea-b02fd24652d6",
+          "playerName": "Samuele De Angelis"
+        },
+        {
+          "minute": 81,
+          "playerId": "c6663d52-24a7-4d5a-aaea-b02fd24652d6",
+          "playerName": "Samuele De Angelis"
+        },
+        {
+          "minute": 94,
+          "playerId": "c6663d52-24a7-4d5a-aaea-b02fd24652d6",
+          "playerName": "Samuele De Angelis",
+          "assistId": "720e2681-c6f2-46e5-b610-9604d3a9e92c",
+          "assistName": "Davide Mancini"
+        }
+      ]
+    },
+    {
+      "matchId": "aru7tmcgmqwv07xr",
+      "playedAt": "2026-06-27T21:18:05.105Z",
+      "opponentSlug": "osmanide",
+      "opponentName": "Osmanide",
+      "homeTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "awayTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "homeAway": "away",
+      "scoreFor": 3,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.5,
+      "scorers": [
+        {
+          "minute": 58,
+          "playerId": "c0b175e4-3ae0-4184-9118-b1c25aef5498",
+          "playerName": "Marcello Bruno",
+          "assistId": "63cba1c6-27e5-4311-91d8-92b5f3fde740",
+          "assistName": "Cristian Lombardo"
+        },
+        {
+          "minute": 70,
+          "playerId": "63cba1c6-27e5-4311-91d8-92b5f3fde740",
+          "playerName": "Cristian Lombardo",
+          "assistId": "c0b175e4-3ae0-4184-9118-b1c25aef5498",
+          "assistName": "Marcello Bruno"
+        },
+        {
+          "minute": 73,
+          "playerId": "63cba1c6-27e5-4311-91d8-92b5f3fde740",
+          "playerName": "Cristian Lombardo",
+          "assistId": "720e2681-c6f2-46e5-b610-9604d3a9e92c",
+          "assistName": "Davide Mancini"
+        }
+      ]
+    },
+    {
+      "matchId": "hg9zxxsgmqwv07xr",
+      "playedAt": "2026-06-27T21:16:57.104Z",
+      "opponentSlug": "royaume-d-asha",
+      "opponentName": "Royaume d'Asha",
+      "homeTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "awayTeamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.5,
+      "scorers": [
+        {
+          "minute": 63,
+          "playerId": "720e2681-c6f2-46e5-b610-9604d3a9e92c",
+          "playerName": "Davide Mancini"
+        },
+        {
+          "minute": 75,
+          "playerId": "63cba1c6-27e5-4311-91d8-92b5f3fde740",
+          "playerName": "Cristian Lombardo",
+          "assistId": "720e2681-c6f2-46e5-b610-9604d3a9e92c",
+          "assistName": "Davide Mancini"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 29,
+          "playerId": "09e3768b-d2b4-4ad9-8a05-a00a01d954e2",
+          "playerName": "Donato De Angelis",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "6v6hx45gmqwu11n7",
       "playedAt": "2026-06-27T20:54:33.993Z",
       "opponentSlug": "deseret",
