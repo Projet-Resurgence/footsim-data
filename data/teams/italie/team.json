@@ -122,6 +122,131 @@
   ],
   "recentMatches": [
     {
+      "matchId": "u8furexomqvcmc3w",
+      "playedAt": "2026-06-27T11:24:06.247Z",
+      "opponentSlug": "perou",
+      "opponentName": "Pérou",
+      "homeTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "awayTeamId": "f3fda074-0648-4d1f-a413-281bbf6d7d59",
+      "homeAway": "home",
+      "scoreFor": 3,
+      "scoreAgainst": 0,
+      "opponentStrength": 61,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.7,
+      "scorers": [
+        {
+          "minute": 25,
+          "playerId": "cf861f67-c8bc-4f53-9f04-2e22fc880308",
+          "playerName": "Mario Santoro",
+          "assistId": "9adf7857-617e-441c-bd7b-8b06912b9e7b",
+          "assistName": "Marco Sala"
+        },
+        {
+          "minute": 39,
+          "playerId": "cf861f67-c8bc-4f53-9f04-2e22fc880308",
+          "playerName": "Mario Santoro"
+        },
+        {
+          "minute": 46,
+          "playerId": "cf861f67-c8bc-4f53-9f04-2e22fc880308",
+          "playerName": "Mario Santoro"
+        }
+      ]
+    },
+    {
+      "matchId": "azdpjz04mqvcmc3w",
+      "playedAt": "2026-06-27T11:14:38.785Z",
+      "opponentSlug": "lusitanie",
+      "opponentName": "Lusitanie",
+      "homeTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "awayTeamId": "2256fe5a-993b-4007-8191-47ebe93a3e70",
+      "homeAway": "home",
+      "scoreFor": 3,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17,
+      "scorers": [
+        {
+          "minute": 47,
+          "playerId": "cf861f67-c8bc-4f53-9f04-2e22fc880308",
+          "playerName": "Mario Santoro"
+        },
+        {
+          "minute": 48,
+          "playerId": "1112f785-5cf3-4def-9832-f90b8f5faed5",
+          "playerName": "Alessandro Mariani",
+          "assistId": "e21eba70-7de4-45dc-8bf5-952b0aede9ee",
+          "assistName": "Luca Grasso"
+        },
+        {
+          "minute": 66,
+          "playerId": "e21eba70-7de4-45dc-8bf5-952b0aede9ee",
+          "playerName": "Luca Grasso"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 18,
+          "playerId": "cbf3071d-8755-4c81-95b5-a944e07b76b2",
+          "playerName": "Salvatore Villa",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "fsc9xflumqvcmc3w",
+      "playedAt": "2026-06-27T11:03:04.299Z",
+      "opponentSlug": "nouvelle-californie",
+      "opponentName": "Nouvelle Californie",
+      "homeTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "awayTeamId": "8893e441-b5b6-49ea-b439-9c327b38d7c5",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17,
+      "scorers": [
+        {
+          "minute": 33,
+          "playerId": "cf861f67-c8bc-4f53-9f04-2e22fc880308",
+          "playerName": "Mario Santoro",
+          "assistId": "cff29621-0d97-4df2-8eda-e5794b15e4e0",
+          "assistName": "Franco Barbieri"
+        },
+        {
+          "minute": 51,
+          "playerId": "1112f785-5cf3-4def-9832-f90b8f5faed5",
+          "playerName": "Alessandro Mariani"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 22,
+          "playerId": "77b41aa4-9124-493b-979c-2cf608e62882",
+          "playerName": "Stefano Messina",
+          "type": "red"
+        },
+        {
+          "minute": 44,
+          "playerId": "f38ac7a8-6588-434f-a9d6-5dd503c1dc44",
+          "playerName": "Giuseppe Costa",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "ae9wgx13mqvcmc3w",
       "playedAt": "2026-06-26T20:10:31.122Z",
       "opponentSlug": "fsta",
