@@ -11,6 +11,228 @@
   "formation": "4-3-3",
   "recentMatches": [
     {
+      "matchId": "jj07onigmqwt6yer",
+      "playedAt": "2026-06-27T20:35:50.022Z",
+      "opponentSlug": "fclc",
+      "opponentName": "FCLC",
+      "homeTeamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "awayTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "homeAway": "away",
+      "scoreFor": 3,
+      "scoreAgainst": 1,
+      "opponentStrength": 61,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.5,
+      "scorers": [
+        {
+          "minute": 53,
+          "playerId": "ed7eb980-155d-4aee-9cbf-092a44bfc8c1",
+          "playerName": "Nabil Hariri",
+          "assistId": "16f8645a-2a66-4763-8e71-ca6e9832d693",
+          "assistName": "Oussama Nasri"
+        },
+        {
+          "minute": 62,
+          "playerId": "ed7eb980-155d-4aee-9cbf-092a44bfc8c1",
+          "playerName": "Nabil Hariri"
+        },
+        {
+          "minute": 85,
+          "playerId": "ed7eb980-155d-4aee-9cbf-092a44bfc8c1",
+          "playerName": "Nabil Hariri",
+          "assistId": "16c65b71-fb58-4e95-a4ba-2c1ee6079633",
+          "assistName": "Bassem Salem"
+        }
+      ]
+    },
+    {
+      "matchId": "4fy6zgptmqwt6yer",
+      "playedAt": "2026-06-27T20:34:40.276Z",
+      "opponentSlug": "nouvelle-californie",
+      "opponentName": "Nouvelle Californie",
+      "homeTeamId": "8893e441-b5b6-49ea-b439-9c327b38d7c5",
+      "awayTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2,
+      "scorers": [
+        {
+          "minute": 3,
+          "playerId": "ed7eb980-155d-4aee-9cbf-092a44bfc8c1",
+          "playerName": "Nabil Hariri",
+          "assistId": "698a3b66-bffb-494b-822d-68025a22deac",
+          "assistName": "Jad Zakhour"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 73,
+          "playerId": "d58d678c-09a1-4228-923f-7ebfc1a2411c",
+          "playerName": "Abdallah El-Meniawy",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "36vlgvgpmqwt6yer",
+      "playedAt": "2026-06-27T20:33:33.183Z",
+      "opponentSlug": "osmanide",
+      "opponentName": "Osmanide",
+      "homeTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "awayTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2,
+      "scorers": [
+        {
+          "minute": 13,
+          "playerId": "3e0d0cc9-8252-430d-ab33-8efac83ea04e",
+          "playerName": "Nizar Hakim"
+        },
+        {
+          "minute": 36,
+          "playerId": "16f8645a-2a66-4763-8e71-ca6e9832d693",
+          "playerName": "Oussama Nasri"
+        }
+      ]
+    },
+    {
+      "matchId": "lwrbu31hmqwt6yer",
+      "playedAt": "2026-06-27T20:31:18.109Z",
+      "opponentSlug": "ugp",
+      "opponentName": "UGP",
+      "homeTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "awayTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 0,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.1,
+      "scorers": [
+        {
+          "minute": 11,
+          "playerId": "ed7eb980-155d-4aee-9cbf-092a44bfc8c1",
+          "playerName": "Nabil Hariri"
+        }
+      ]
+    },
+    {
+      "matchId": "aqd769mlmqwt6yer",
+      "playedAt": "2026-06-27T20:29:21.261Z",
+      "opponentSlug": "nouvelle-californie",
+      "opponentName": "Nouvelle Californie",
+      "homeTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "awayTeamId": "8893e441-b5b6-49ea-b439-9c327b38d7c5",
+      "homeAway": "home",
+      "scoreFor": 3,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.5,
+      "scorers": [
+        {
+          "minute": 22,
+          "playerId": "3e0d0cc9-8252-430d-ab33-8efac83ea04e",
+          "playerName": "Nizar Hakim",
+          "assistId": "698a3b66-bffb-494b-822d-68025a22deac",
+          "assistName": "Jad Zakhour"
+        },
+        {
+          "minute": 30,
+          "playerId": "ed7eb980-155d-4aee-9cbf-092a44bfc8c1",
+          "playerName": "Nabil Hariri"
+        },
+        {
+          "minute": 87,
+          "playerId": "d58d678c-09a1-4228-923f-7ebfc1a2411c",
+          "playerName": "Abdallah El-Meniawy",
+          "assistId": "2f13674a-aee2-4333-b7de-903e4d80b20c",
+          "assistName": "Rami Salhi"
+        }
+      ]
+    },
+    {
+      "matchId": "vdmu48gvmqwt6yer",
+      "playedAt": "2026-06-27T20:27:10.669Z",
+      "opponentSlug": "nova-orbis",
+      "opponentName": "Nova Orbis",
+      "homeTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "awayTeamId": "28f82804-8005-450a-b6d8-740533bf82b0",
+      "homeAway": "home",
+      "scoreFor": 6,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 3,
+      "scorers": [
+        {
+          "minute": 24,
+          "playerId": "ed7eb980-155d-4aee-9cbf-092a44bfc8c1",
+          "playerName": "Nabil Hariri"
+        },
+        {
+          "minute": 29,
+          "playerId": "ed7eb980-155d-4aee-9cbf-092a44bfc8c1",
+          "playerName": "Nabil Hariri",
+          "assistId": "8745a1a2-e456-4d0e-8ddd-610658c8a559",
+          "assistName": "Magdy El-Baz"
+        },
+        {
+          "minute": 44,
+          "playerId": "8745a1a2-e456-4d0e-8ddd-610658c8a559",
+          "playerName": "Magdy El-Baz"
+        },
+        {
+          "minute": 60,
+          "playerId": "8745a1a2-e456-4d0e-8ddd-610658c8a559",
+          "playerName": "Magdy El-Baz"
+        },
+        {
+          "minute": 67,
+          "playerId": "16c65b71-fb58-4e95-a4ba-2c1ee6079633",
+          "playerName": "Bassem Salem"
+        },
+        {
+          "minute": 73,
+          "playerId": "ed7eb980-155d-4aee-9cbf-092a44bfc8c1",
+          "playerName": "Nabil Hariri"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 47,
+          "playerId": "2f13674a-aee2-4333-b7de-903e4d80b20c",
+          "playerName": "Rami Salhi",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "p1fg6ikumqvcmc3w",
       "playedAt": "2026-06-27T20:10:03.384Z",
       "opponentSlug": "italie",
