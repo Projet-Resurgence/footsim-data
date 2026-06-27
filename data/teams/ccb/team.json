@@ -54,6 +54,96 @@
   },
   "recentMatches": [
     {
+      "matchId": "1l5qc9usmqvcmc3w",
+      "playedAt": "2026-06-27T20:13:41.300Z",
+      "opponentSlug": "romain-d-orient",
+      "opponentName": "Romain d'Orient",
+      "homeTeamId": "a4339c19-4507-45d0-a8e7-ab33c8fe64c0",
+      "awayTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "homeAway": "away",
+      "scoreFor": 5,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 18,
+      "scorers": [
+        {
+          "minute": 38,
+          "playerId": "7c185c3b-b756-4e27-a573-b4ff397a3821",
+          "playerName": "Jean-Luc Garneau"
+        },
+        {
+          "minute": 45,
+          "playerId": "cf9cb854-71a7-497a-a24a-75038a58e648",
+          "playerName": "Noah Williams"
+        },
+        {
+          "minute": 57,
+          "playerId": "7c185c3b-b756-4e27-a573-b4ff397a3821",
+          "playerName": "Jean-Luc Garneau",
+          "assistId": "c8c2dbe4-df80-489b-a6b9-bba593860c98",
+          "assistName": "Spencer Clark"
+        },
+        {
+          "minute": 64,
+          "playerId": "7c185c3b-b756-4e27-a573-b4ff397a3821",
+          "playerName": "Jean-Luc Garneau"
+        },
+        {
+          "minute": 74,
+          "playerId": "7c185c3b-b756-4e27-a573-b4ff397a3821",
+          "playerName": "Jean-Luc Garneau"
+        }
+      ]
+    },
+    {
+      "matchId": "o43wbi5pmqvcmc3w",
+      "playedAt": "2026-06-27T20:08:47.149Z",
+      "opponentSlug": "rhodesie",
+      "opponentName": "Rhodésie",
+      "homeTeamId": "49938bc7-e78d-441e-907b-75a788e98216",
+      "awayTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "homeAway": "away",
+      "scoreFor": 3,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.5,
+      "scorers": [
+        {
+          "minute": 36,
+          "playerId": "7c185c3b-b756-4e27-a573-b4ff397a3821",
+          "playerName": "Jean-Luc Garneau"
+        },
+        {
+          "minute": 49,
+          "playerId": "7c185c3b-b756-4e27-a573-b4ff397a3821",
+          "playerName": "Jean-Luc Garneau"
+        },
+        {
+          "minute": 87,
+          "playerId": "cf9cb854-71a7-497a-a24a-75038a58e648",
+          "playerName": "Noah Williams",
+          "assistId": "7c185c3b-b756-4e27-a573-b4ff397a3821",
+          "assistName": "Jean-Luc Garneau"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 14,
+          "playerId": "44e712fb-26e6-4278-9d9f-0de27edfe5d5",
+          "playerName": "Nathan Morin",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "l3f5rx6pmqvcmc3w",
       "playedAt": "2026-06-27T11:24:06.257Z",
       "opponentSlug": "coree",
