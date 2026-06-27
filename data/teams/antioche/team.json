@@ -29,6 +29,157 @@
   "managerDiscordId": "1473103141728944171",
   "recentMatches": [
     {
+      "matchId": "akwwuy8fmqvcmc3w",
+      "playedAt": "2026-06-27T11:24:06.262Z",
+      "opponentSlug": "serbie",
+      "opponentName": "Serbie",
+      "homeTeamId": "8451e643-10d4-48bc-a4e6-4c12255695f4",
+      "awayTeamId": "b88bacc7-be39-4426-9106-7263eec6a6e9",
+      "homeAway": "home",
+      "scoreFor": 7,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 18,
+      "scorers": [
+        {
+          "minute": 13,
+          "playerId": "b54932e1-c5be-4b37-8d4c-707b35b5d81d",
+          "playerName": "Harun Tosun",
+          "assistId": "f9e60e6a-0703-4810-9238-253fa3eb04a8",
+          "assistName": "Habib Nassar"
+        },
+        {
+          "minute": 20,
+          "playerId": "f9e60e6a-0703-4810-9238-253fa3eb04a8",
+          "playerName": "Habib Nassar"
+        },
+        {
+          "minute": 38,
+          "playerId": "2d105f15-6085-4c10-a990-0a81180604de",
+          "playerName": "Alper Karakaya"
+        },
+        {
+          "minute": 55,
+          "playerId": "2d105f15-6085-4c10-a990-0a81180604de",
+          "playerName": "Alper Karakaya",
+          "assistId": "878bd360-c46e-492a-9214-de5da09ea87a",
+          "assistName": "Harun Aydoğan"
+        },
+        {
+          "minute": 64,
+          "playerId": "7b59d16c-915c-4eda-8fe3-e5ac6c43c86b",
+          "playerName": "Mert Gültekin",
+          "assistId": "88f29f4d-3a3c-4fae-8a07-30276733ccf1",
+          "assistName": "Egemen Arslan"
+        },
+        {
+          "minute": 70,
+          "playerId": "7b59d16c-915c-4eda-8fe3-e5ac6c43c86b",
+          "playerName": "Mert Gültekin"
+        },
+        {
+          "minute": 92,
+          "playerId": "7b59d16c-915c-4eda-8fe3-e5ac6c43c86b",
+          "playerName": "Mert Gültekin",
+          "assistId": "c830358d-2dd0-4d72-a4ff-547b77d0cdc8",
+          "assistName": "Cağlar Uslu"
+        }
+      ]
+    },
+    {
+      "matchId": "kkdsiaqjmqvcmc3w",
+      "playedAt": "2026-06-27T11:12:35.803Z",
+      "opponentSlug": "5eme-internationale",
+      "opponentName": "5ème Internationale",
+      "homeTeamId": "8451e643-10d4-48bc-a4e6-4c12255695f4",
+      "awayTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "homeAway": "home",
+      "scoreFor": 3,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.5,
+      "scorers": [
+        {
+          "minute": 77,
+          "playerId": "2d105f15-6085-4c10-a990-0a81180604de",
+          "playerName": "Alper Karakaya"
+        },
+        {
+          "minute": 85,
+          "playerId": "7b59d16c-915c-4eda-8fe3-e5ac6c43c86b",
+          "playerName": "Mert Gültekin",
+          "assistId": "878bd360-c46e-492a-9214-de5da09ea87a",
+          "assistName": "Harun Aydoğan"
+        },
+        {
+          "minute": 91,
+          "playerId": "2d105f15-6085-4c10-a990-0a81180604de",
+          "playerName": "Alper Karakaya"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 46,
+          "playerId": "88f29f4d-3a3c-4fae-8a07-30276733ccf1",
+          "playerName": "Egemen Arslan",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "5qkqi3lvmqvcmc3w",
+      "playedAt": "2026-06-27T11:08:16.896Z",
+      "opponentSlug": "roumanie",
+      "opponentName": "Roumanie",
+      "homeTeamId": "8451e643-10d4-48bc-a4e6-4c12255695f4",
+      "awayTeamId": "63b3d538-b5f5-44d0-83b4-5d23d3cbcb22",
+      "homeAway": "home",
+      "scoreFor": 4,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 18,
+      "scorers": [
+        {
+          "minute": 16,
+          "playerId": "b54932e1-c5be-4b37-8d4c-707b35b5d81d",
+          "playerName": "Harun Tosun",
+          "assistId": "5061bf51-aaf6-4bed-8cac-a37afbc16344",
+          "assistName": "Burak Çakmak"
+        },
+        {
+          "minute": 23,
+          "playerId": "b54932e1-c5be-4b37-8d4c-707b35b5d81d",
+          "playerName": "Harun Tosun"
+        },
+        {
+          "minute": 42,
+          "playerId": "2d105f15-6085-4c10-a990-0a81180604de",
+          "playerName": "Alper Karakaya",
+          "assistId": "878bd360-c46e-492a-9214-de5da09ea87a",
+          "assistName": "Harun Aydoğan"
+        },
+        {
+          "minute": 62,
+          "playerId": "7b59d16c-915c-4eda-8fe3-e5ac6c43c86b",
+          "playerName": "Mert Gültekin",
+          "assistId": "878bd360-c46e-492a-9214-de5da09ea87a",
+          "assistName": "Harun Aydoğan"
+        }
+      ]
+    },
+    {
       "matchId": "cpmje3yhmqvdpc6g",
       "playedAt": "2026-06-26T20:29:49.423Z",
       "opponentSlug": "ccb",
