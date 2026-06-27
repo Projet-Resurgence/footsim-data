@@ -52,6 +52,69 @@
   "compHistory": [],
   "recentMatches": [
     {
+      "matchId": "1l5qc9usmqvcmc3w",
+      "playedAt": "2026-06-27T20:13:41.300Z",
+      "opponentSlug": "ccb",
+      "opponentName": "CCB",
+      "homeTeamId": "a4339c19-4507-45d0-a8e7-ab33c8fe64c0",
+      "awayTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 5,
+      "opponentStrength": 61,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -7.7,
+      "cards": [
+        {
+          "minute": 33,
+          "playerId": "f4c3f550-7bb2-4942-bcf1-67862943e509",
+          "playerName": "Andreas Tsipras",
+          "type": "yellow"
+        },
+        {
+          "minute": 95,
+          "playerId": "df5ee835-312d-4557-a2c6-dbfee435a12b",
+          "playerName": "Efstathios Vasileiou",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "pxktofihmqvcmc3w",
+      "playedAt": "2026-06-27T20:08:47.148Z",
+      "opponentSlug": "royaume-d-asha",
+      "opponentName": "Royaume d'Asha",
+      "homeTeamId": "a4339c19-4507-45d0-a8e7-ab33c8fe64c0",
+      "awayTeamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -5.7,
+      "scorers": [
+        {
+          "minute": 79,
+          "playerId": "f4c3f550-7bb2-4942-bcf1-67862943e509",
+          "playerName": "Andreas Tsipras"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 48,
+          "playerId": "37be583d-8e1d-4bad-8fb4-8aa1a0d62c25",
+          "playerName": "Petros Manolis",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "8tgw1veqmqvcmc3w",
       "playedAt": "2026-06-27T11:24:06.253Z",
       "opponentSlug": "voivodine",
