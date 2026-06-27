@@ -30,6 +30,123 @@
   "publishedAt": "2026-06-27T20:37:45.895Z",
   "recentMatches": [
     {
+      "matchId": "6v6hx45gmqwu11n7",
+      "playedAt": "2026-06-27T20:54:33.993Z",
+      "opponentSlug": "deseret",
+      "opponentName": "Deseret",
+      "homeTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "awayTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 2,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 83,
+          "playerId": "c6663d52-24a7-4d5a-aaea-b02fd24652d6",
+          "playerName": "Samuele De Angelis",
+          "assistId": "e8cb564f-f280-44e9-aaa1-7515af4c2b9a",
+          "assistName": "Fabrizio Bruno"
+        }
+      ]
+    },
+    {
+      "matchId": "rhtjlpr6mqwu11n7",
+      "playedAt": "2026-06-27T20:52:41.410Z",
+      "opponentSlug": "5eme-internationale",
+      "opponentName": "5ème Internationale",
+      "homeTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "awayTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 3,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 62,
+          "playerId": "c6663d52-24a7-4d5a-aaea-b02fd24652d6",
+          "playerName": "Samuele De Angelis"
+        },
+        {
+          "minute": 86,
+          "playerId": "720e2681-c6f2-46e5-b610-9604d3a9e92c",
+          "playerName": "Davide Mancini",
+          "assistId": "63cba1c6-27e5-4311-91d8-92b5f3fde740",
+          "assistName": "Cristian Lombardo"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 66,
+          "playerId": "c0b175e4-3ae0-4184-9118-b1c25aef5498",
+          "playerName": "Marcello Bruno",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "le6rivixmqwu11n7",
+      "playedAt": "2026-06-27T20:50:18.530Z",
+      "opponentSlug": "italie",
+      "opponentName": "Italie",
+      "homeTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "awayTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "homeAway": "home",
+      "scoreFor": 5,
+      "scoreAgainst": 1,
+      "opponentStrength": 63,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 3.1,
+      "scorers": [
+        {
+          "minute": 10,
+          "playerId": "c6663d52-24a7-4d5a-aaea-b02fd24652d6",
+          "playerName": "Samuele De Angelis"
+        },
+        {
+          "minute": 15,
+          "playerId": "63cba1c6-27e5-4311-91d8-92b5f3fde740",
+          "playerName": "Cristian Lombardo",
+          "assistId": "442b01e6-c161-4845-8c2b-3261255abcdb",
+          "assistName": "Luca Marini"
+        },
+        {
+          "minute": 46,
+          "playerId": "c6663d52-24a7-4d5a-aaea-b02fd24652d6",
+          "playerName": "Samuele De Angelis",
+          "assistId": "63cba1c6-27e5-4311-91d8-92b5f3fde740",
+          "assistName": "Cristian Lombardo"
+        },
+        {
+          "minute": 72,
+          "playerId": "c6663d52-24a7-4d5a-aaea-b02fd24652d6",
+          "playerName": "Samuele De Angelis",
+          "assistId": "63cba1c6-27e5-4311-91d8-92b5f3fde740",
+          "assistName": "Cristian Lombardo"
+        },
+        {
+          "minute": 85,
+          "playerId": "720e2681-c6f2-46e5-b610-9604d3a9e92c",
+          "playerName": "Davide Mancini",
+          "assistId": "b7b01260-368c-4f4e-9640-837c0bc13d27",
+          "assistName": "Fabio Morelli"
+        }
+      ]
+    },
+    {
       "matchId": "lwrbu31hmqwt6yer",
       "playedAt": "2026-06-27T20:31:18.109Z",
       "opponentSlug": "empire-hussein",
