@@ -25,7 +25,7 @@
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-27T18:32:44.862Z",
+  "publishedAt": "2026-06-27T20:21:33.278Z",
   "managerDiscordId": "1473103141728944171",
   "recentMatches": [
     {
@@ -954,6 +954,5 @@
       "name": "Tactique de Baudouin"
     }
   ],
-  "activeTacticId": "cd8fc365-9683-4574-9c2f-545a73d7ee0b",
-  "matchOutcome": "win"
+  "activeTacticId": "cd8fc365-9683-4574-9c2f-545a73d7ee0b"
 }
