@@ -118,6 +118,136 @@
   ],
   "recentMatches": [
     {
+      "matchId": "kmu5bb7qmqvcmc3w",
+      "playedAt": "2026-06-27T11:24:06.252Z",
+      "opponentSlug": "texas",
+      "opponentName": "Texas",
+      "homeTeamId": "55c94018-aa17-477e-86d3-722caf57df20",
+      "awayTeamId": "0cf5d3c2-39e2-4cfc-be26-279bf438a4c0",
+      "homeAway": "home",
+      "scoreFor": 3,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.5,
+      "scorers": [
+        {
+          "minute": 24,
+          "playerId": "8e1495b9-e574-4b61-a7d1-90a16e9956d6",
+          "playerName": "Juan Garrido"
+        },
+        {
+          "minute": 75,
+          "playerId": "201e2880-3d06-44ef-bed5-811150a0b73f",
+          "playerName": "Jorge Moreno"
+        },
+        {
+          "minute": 80,
+          "playerId": "ee6ed1a4-5d2e-4b22-b508-4af846e588ad",
+          "playerName": "Gabriel León"
+        }
+      ]
+    },
+    {
+      "matchId": "mufpbqarmqvcmc3w",
+      "playedAt": "2026-06-27T11:14:38.788Z",
+      "opponentSlug": "empire-hussein",
+      "opponentName": "Empire Hussein",
+      "homeTeamId": "55c94018-aa17-477e-86d3-722caf57df20",
+      "awayTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 0,
+      "opponentStrength": 65,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 18.1,
+      "scorers": [
+        {
+          "minute": 44,
+          "playerId": "b7a82456-230f-4003-b4b2-6e561552946b",
+          "playerName": "Tomás Álvarez"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 35,
+          "playerId": "f7b96c62-3e2b-4bad-a76c-e349c7494b68",
+          "playerName": "Hector Jiménez",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "lfculuqkmqvcmc3w",
+      "playedAt": "2026-06-27T11:08:16.887Z",
+      "opponentSlug": "spc",
+      "opponentName": "SPC",
+      "homeTeamId": "55c94018-aa17-477e-86d3-722caf57df20",
+      "awayTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "homeAway": "home",
+      "scoreFor": 5,
+      "scoreAgainst": 0,
+      "opponentStrength": 62,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 18.4,
+      "scorers": [
+        {
+          "minute": 21,
+          "playerId": "201e2880-3d06-44ef-bed5-811150a0b73f",
+          "playerName": "Jorge Moreno",
+          "assistId": "ee6ed1a4-5d2e-4b22-b508-4af846e588ad",
+          "assistName": "Gabriel León"
+        },
+        {
+          "minute": 23,
+          "playerId": "8e1495b9-e574-4b61-a7d1-90a16e9956d6",
+          "playerName": "Juan Garrido",
+          "assistId": "c9f49304-5259-4417-89ab-17969f32b4c4",
+          "assistName": "Manuel Castro"
+        },
+        {
+          "minute": 60,
+          "playerId": "201e2880-3d06-44ef-bed5-811150a0b73f",
+          "playerName": "Jorge Moreno"
+        },
+        {
+          "minute": 66,
+          "playerId": "ee6ed1a4-5d2e-4b22-b508-4af846e588ad",
+          "playerName": "Gabriel León",
+          "assistId": "201e2880-3d06-44ef-bed5-811150a0b73f",
+          "assistName": "Jorge Moreno"
+        },
+        {
+          "minute": 68,
+          "playerId": "c62628d5-2a45-4829-8689-2f0163d6fdb4",
+          "playerName": "Nicolás Carrasco"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 4,
+          "playerId": "f7b96c62-3e2b-4bad-a76c-e349c7494b68",
+          "playerName": "Hector Jiménez",
+          "type": "yellow"
+        },
+        {
+          "minute": 33,
+          "playerId": "a058740a-a19b-4ec5-8245-d00f6d110c52",
+          "playerName": "Eduardo Sánchez",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "imweu027mqvcmc3w",
       "playedAt": "2026-06-26T20:10:31.125Z",
       "opponentSlug": "perou",
