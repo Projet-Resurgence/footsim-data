@@ -110,6 +110,71 @@
   ],
   "recentMatches": [
     {
+      "matchId": "ymtyqirumqvcmc3w",
+      "playedAt": "2026-06-27T20:13:41.291Z",
+      "opponentSlug": "atlantique",
+      "opponentName": "Atlantique",
+      "homeTeamId": "cc7eb9cc-9a93-44ee-89c7-f2c6e915a221",
+      "awayTeamId": "e5bac765-f354-41a2-b940-1e97fba04c20",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.5,
+      "scorers": [
+        {
+          "minute": 37,
+          "playerId": "2a42b34e-8c8b-46c3-9c8a-4acd856543b1",
+          "playerName": "Quinn Wilson"
+        },
+        {
+          "minute": 71,
+          "playerId": "2a42b34e-8c8b-46c3-9c8a-4acd856543b1",
+          "playerName": "Quinn Wilson",
+          "assistId": "fd6f53cc-5850-41bd-86e0-80c7d059cf8a",
+          "assistName": "Tyler Adams"
+        }
+      ]
+    },
+    {
+      "matchId": "yhj7cfh9mqvcmc3w",
+      "playedAt": "2026-06-27T20:08:47.142Z",
+      "opponentSlug": "naibat-de-mandra",
+      "opponentName": "Naibat de Mandra",
+      "homeTeamId": "fe2670d9-24c9-421f-8687-cd461e79e679",
+      "awayTeamId": "e5bac765-f354-41a2-b940-1e97fba04c20",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -5.7,
+      "scorers": [
+        {
+          "minute": 64,
+          "playerId": "84e81fac-2d99-47ed-a5e9-a7bd941aec3b",
+          "playerName": "Drake Perez",
+          "assistId": "c4880ea3-23ac-4298-9c8a-c34178c2c919",
+          "assistName": "Derek Moore"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 55,
+          "playerId": "b2327fde-0082-4315-ada3-e69863b5de6d",
+          "playerName": "Kevin Wright",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "hm27icfkmqvcmc3w",
       "playedAt": "2026-06-27T11:18:46.079Z",
       "opponentSlug": "uda",
