@@ -49,6 +49,124 @@
   "publishedAt": "2026-06-21T21:21:29.457Z",
   "recentMatches": [
     {
+      "matchId": "lgx7nvrwmqvcmc3w",
+      "playedAt": "2026-06-27T11:24:06.261Z",
+      "opponentSlug": "5eme-internationale",
+      "opponentName": "5ème Internationale",
+      "homeTeamId": "ca4a42a7-44f6-40eb-a405-f2996edb1a56",
+      "awayTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17,
+      "scorers": [
+        {
+          "minute": 30,
+          "playerId": "5bb3a60c-3cbf-434e-8c50-5907eeda423a",
+          "playerName": "Mateo Ramírez",
+          "assistId": "c4d90be2-ffd1-4e5e-99c8-91571ec4ef07",
+          "assistName": "Renato Reyes"
+        },
+        {
+          "minute": 90,
+          "playerId": "7f45e8f4-4d8c-4f8c-8d08-6f304bc668b8",
+          "playerName": "Jhon Urrego"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 53,
+          "playerId": "b08e8894-1f76-4aee-8877-1ab51d619900",
+          "playerName": "Sebastián Acosta",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "g15dr52nmqvcmc3w",
+      "playedAt": "2026-06-27T11:14:38.795Z",
+      "opponentSlug": "roumanie",
+      "opponentName": "Roumanie",
+      "homeTeamId": "ca4a42a7-44f6-40eb-a405-f2996edb1a56",
+      "awayTeamId": "63b3d538-b5f5-44d0-83b4-5d23d3cbcb22",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 4,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.2,
+      "scorers": [
+        {
+          "minute": 60,
+          "playerId": "5bb3a60c-3cbf-434e-8c50-5907eeda423a",
+          "playerName": "Mateo Ramírez"
+        },
+        {
+          "minute": 70,
+          "playerId": "b08e8894-1f76-4aee-8877-1ab51d619900",
+          "playerName": "Sebastián Acosta",
+          "assistId": "31efe857-8911-46a5-866e-67b4eeaac84a",
+          "assistName": "Mauricio Álvarez"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 42,
+          "playerId": "118a869d-077d-4e5b-8807-4c3430c4c867",
+          "playerName": "David Cabrera",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "4dilx4r8mqvcmc3w",
+      "playedAt": "2026-06-27T11:08:16.895Z",
+      "opponentSlug": "rpdo",
+      "opponentName": "RPDO",
+      "homeTeamId": "ca4a42a7-44f6-40eb-a405-f2996edb1a56",
+      "awayTeamId": "3b7016ec-ba5d-4b54-9f1f-95d2e3ff84bf",
+      "homeAway": "home",
+      "scoreFor": 3,
+      "scoreAgainst": 3,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 5.7,
+      "scorers": [
+        {
+          "minute": 15,
+          "playerId": "5bb3a60c-3cbf-434e-8c50-5907eeda423a",
+          "playerName": "Mateo Ramírez",
+          "assistId": "c4d90be2-ffd1-4e5e-99c8-91571ec4ef07",
+          "assistName": "Renato Reyes"
+        },
+        {
+          "minute": 53,
+          "playerId": "b08e8894-1f76-4aee-8877-1ab51d619900",
+          "playerName": "Sebastián Acosta",
+          "assistId": "31efe857-8911-46a5-866e-67b4eeaac84a",
+          "assistName": "Mauricio Álvarez"
+        },
+        {
+          "minute": 69,
+          "playerId": "5bb3a60c-3cbf-434e-8c50-5907eeda423a",
+          "playerName": "Mateo Ramírez",
+          "assistId": "c4d90be2-ffd1-4e5e-99c8-91571ec4ef07",
+          "assistName": "Renato Reyes"
+        }
+      ]
+    },
+    {
       "matchId": "gyh7lrgomqvcmc3w",
       "playedAt": "2026-06-26T20:10:31.131Z",
       "opponentSlug": "cedre",
