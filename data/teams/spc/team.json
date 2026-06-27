@@ -38,6 +38,279 @@
   },
   "recentMatches": [
     {
+      "matchId": "sjkvgsdnmqwvirdm",
+      "playedAt": "2026-06-27T21:37:33.163Z",
+      "opponentSlug": "prometheus",
+      "opponentName": "Prometheus",
+      "homeTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "awayTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "homeAway": "home",
+      "scoreFor": 5,
+      "scoreAgainst": 3,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.6,
+      "scorers": [
+        {
+          "minute": 38,
+          "playerId": "1eb6cdb3-28c8-4792-8b45-f820be065dd9",
+          "playerName": "Ran Tian",
+          "assistId": "4ef345a9-c2fd-4920-ab92-5124797d4e7d",
+          "assistName": "Uo Yuan"
+        },
+        {
+          "minute": 46,
+          "playerId": "2caa7860-2d4a-42f0-a5cf-7763cd065ab7",
+          "playerName": "Tian Cao",
+          "assistId": "4ef345a9-c2fd-4920-ab92-5124797d4e7d",
+          "assistName": "Uo Yuan"
+        },
+        {
+          "minute": 47,
+          "playerId": "bb6f1b5f-707a-4b14-8605-43359faeafc1",
+          "playerName": "Ke Ma",
+          "assistId": "4ef345a9-c2fd-4920-ab92-5124797d4e7d",
+          "assistName": "Uo Yuan"
+        },
+        {
+          "minute": 48,
+          "playerId": "b922c816-b6dd-47bd-9306-89ee6209ae7d",
+          "playerName": "Yang Wu",
+          "assistId": "4ef345a9-c2fd-4920-ab92-5124797d4e7d",
+          "assistName": "Uo Yuan"
+        },
+        {
+          "minute": 84,
+          "playerId": "b922c816-b6dd-47bd-9306-89ee6209ae7d",
+          "playerName": "Yang Wu",
+          "assistId": "c89cab4b-9bd1-43bc-ae5a-3cde76da38e8",
+          "assistName": "Peng Zheng"
+        }
+      ]
+    },
+    {
+      "matchId": "0nre1w0nmqwvirdm",
+      "playedAt": "2026-06-27T21:36:22.642Z",
+      "opponentSlug": "italie",
+      "opponentName": "Italie",
+      "homeTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "awayTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "homeAway": "home",
+      "scoreFor": 5,
+      "scoreAgainst": 4,
+      "opponentStrength": 63,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.1,
+      "scorers": [
+        {
+          "minute": 13,
+          "playerId": "b922c816-b6dd-47bd-9306-89ee6209ae7d",
+          "playerName": "Yang Wu",
+          "assistId": "12cffaa1-5ee9-4497-8d92-c6d359113d38",
+          "assistName": "Chen Zhao"
+        },
+        {
+          "minute": 29,
+          "playerId": "2a40f2a8-21e7-4d78-a889-fce6f644ca00",
+          "playerName": "Ping Cai"
+        },
+        {
+          "minute": 37,
+          "playerId": "2a40f2a8-21e7-4d78-a889-fce6f644ca00",
+          "playerName": "Ping Cai",
+          "assistId": "4a9fc2df-0422-43e9-9335-7298cb4c0168",
+          "assistName": "Lei Luo"
+        },
+        {
+          "minute": 39,
+          "playerId": "4a9fc2df-0422-43e9-9335-7298cb4c0168",
+          "playerName": "Lei Luo",
+          "assistId": "12cffaa1-5ee9-4497-8d92-c6d359113d38",
+          "assistName": "Chen Zhao"
+        },
+        {
+          "minute": 49,
+          "playerId": "1eb6cdb3-28c8-4792-8b45-f820be065dd9",
+          "playerName": "Ran Tian",
+          "assistId": "4a9fc2df-0422-43e9-9335-7298cb4c0168",
+          "assistName": "Lei Luo"
+        }
+      ]
+    },
+    {
+      "matchId": "inqndapcmqwvirdm",
+      "playedAt": "2026-06-27T21:35:50.042Z",
+      "opponentSlug": "livonie",
+      "opponentName": "Livonie",
+      "homeTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "awayTeamId": "6c4e5ecf-662a-43d5-9795-b038fe6e2072",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 0,
+      "opponentStrength": 62,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.5,
+      "scorers": [
+        {
+          "minute": 13,
+          "playerId": "bb6f1b5f-707a-4b14-8605-43359faeafc1",
+          "playerName": "Ke Ma"
+        },
+        {
+          "minute": 20,
+          "playerId": "bb6f1b5f-707a-4b14-8605-43359faeafc1",
+          "playerName": "Ke Ma",
+          "assistId": "b922c816-b6dd-47bd-9306-89ee6209ae7d",
+          "assistName": "Yang Wu"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 5,
+          "playerId": "91d1ad6f-2a74-44d8-8cf9-276014c0fbdd",
+          "playerName": "Feng Luo",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "s6ncjbmkmqwvirdm",
+      "playedAt": "2026-06-27T21:34:37.824Z",
+      "opponentSlug": "nouvelle-californie",
+      "opponentName": "Nouvelle Californie",
+      "homeTeamId": "8893e441-b5b6-49ea-b439-9c327b38d7c5",
+      "awayTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "homeAway": "away",
+      "scoreFor": 4,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.5,
+      "scorers": [
+        {
+          "minute": 2,
+          "playerId": "1eb6cdb3-28c8-4792-8b45-f820be065dd9",
+          "playerName": "Ran Tian",
+          "assistId": "2caa7860-2d4a-42f0-a5cf-7763cd065ab7",
+          "assistName": "Tian Cao"
+        },
+        {
+          "minute": 8,
+          "playerId": "b922c816-b6dd-47bd-9306-89ee6209ae7d",
+          "playerName": "Yang Wu",
+          "assistId": "4ef345a9-c2fd-4920-ab92-5124797d4e7d",
+          "assistName": "Uo Yuan"
+        },
+        {
+          "minute": 20,
+          "playerId": "b922c816-b6dd-47bd-9306-89ee6209ae7d",
+          "playerName": "Yang Wu"
+        },
+        {
+          "minute": 49,
+          "playerId": "b922c816-b6dd-47bd-9306-89ee6209ae7d",
+          "playerName": "Yang Wu",
+          "assistId": "4ef345a9-c2fd-4920-ab92-5124797d4e7d",
+          "assistName": "Uo Yuan"
+        }
+      ]
+    },
+    {
+      "matchId": "9gwfwavymqwvirdm",
+      "playedAt": "2026-06-27T21:33:57.134Z",
+      "opponentSlug": "5eme-internationale",
+      "opponentName": "5ème Internationale",
+      "homeTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "awayTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "homeAway": "away",
+      "scoreFor": 3,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2,
+      "scorers": [
+        {
+          "minute": 18,
+          "playerId": "2caa7860-2d4a-42f0-a5cf-7763cd065ab7",
+          "playerName": "Tian Cao",
+          "assistId": "4ef345a9-c2fd-4920-ab92-5124797d4e7d",
+          "assistName": "Uo Yuan"
+        },
+        {
+          "minute": 22,
+          "playerId": "bb6f1b5f-707a-4b14-8605-43359faeafc1",
+          "playerName": "Ke Ma",
+          "assistId": "2caa7860-2d4a-42f0-a5cf-7763cd065ab7",
+          "assistName": "Tian Cao"
+        },
+        {
+          "minute": 42,
+          "playerId": "bb6f1b5f-707a-4b14-8605-43359faeafc1",
+          "playerName": "Ke Ma",
+          "assistId": "2caa7860-2d4a-42f0-a5cf-7763cd065ab7",
+          "assistName": "Tian Cao"
+        }
+      ]
+    },
+    {
+      "matchId": "bb93qdd0mqwvirdm",
+      "playedAt": "2026-06-27T21:32:08.040Z",
+      "opponentSlug": "yamatai",
+      "opponentName": "Yamatai",
+      "homeTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "awayTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "homeAway": "home",
+      "scoreFor": 4,
+      "scoreAgainst": 3,
+      "opponentStrength": 63,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.1,
+      "scorers": [
+        {
+          "minute": 9,
+          "playerId": "2a40f2a8-21e7-4d78-a889-fce6f644ca00",
+          "playerName": "Ping Cai",
+          "assistId": "2caa7860-2d4a-42f0-a5cf-7763cd065ab7",
+          "assistName": "Tian Cao"
+        },
+        {
+          "minute": 38,
+          "playerId": "2caa7860-2d4a-42f0-a5cf-7763cd065ab7",
+          "playerName": "Tian Cao",
+          "assistId": "4a9fc2df-0422-43e9-9335-7298cb4c0168",
+          "assistName": "Lei Luo"
+        },
+        {
+          "minute": 59,
+          "playerId": "bb6f1b5f-707a-4b14-8605-43359faeafc1",
+          "playerName": "Ke Ma"
+        },
+        {
+          "minute": 63,
+          "playerId": "1eb6cdb3-28c8-4792-8b45-f820be065dd9",
+          "playerName": "Ran Tian"
+        }
+      ]
+    },
+    {
       "matchId": "0hsp19z7mqwu11n7",
       "playedAt": "2026-06-27T20:56:59.071Z",
       "opponentSlug": "nouvelle-californie",
