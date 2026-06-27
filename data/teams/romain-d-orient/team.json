@@ -52,6 +52,82 @@
   "compHistory": [],
   "recentMatches": [
     {
+      "matchId": "8tgw1veqmqvcmc3w",
+      "playedAt": "2026-06-27T11:24:06.253Z",
+      "opponentSlug": "voivodine",
+      "opponentName": "Voïvodine",
+      "homeTeamId": "a4339c19-4507-45d0-a8e7-ab33c8fe64c0",
+      "awayTeamId": "28274f9a-bff0-42da-ac99-a6e3a9812a34",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.2,
+      "cards": [
+        {
+          "minute": 18,
+          "playerId": "530d5513-1e08-4527-8a08-73368ca57cf9",
+          "playerName": "Tolga Toprak",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "k8f6ryrmmqvcmc3w",
+      "playedAt": "2026-06-27T11:14:38.790Z",
+      "opponentSlug": "nova-orbis",
+      "opponentName": "Nova Orbis",
+      "homeTeamId": "a4339c19-4507-45d0-a8e7-ab33c8fe64c0",
+      "awayTeamId": "28f82804-8005-450a-b6d8-740533bf82b0",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 4,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.7,
+      "scorers": [
+        {
+          "minute": 35,
+          "playerId": "530d5513-1e08-4527-8a08-73368ca57cf9",
+          "playerName": "Tolga Toprak",
+          "assistId": "82a666e4-2a76-4e50-8d91-81c18d3ed6e8",
+          "assistName": "Marios Markou"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 49,
+          "playerId": "37be583d-8e1d-4bad-8fb4-8aa1a0d62c25",
+          "playerName": "Petros Manolis",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "l70brpc7mqvcmc3w",
+      "playedAt": "2026-06-27T11:08:16.887Z",
+      "opponentSlug": "ksuta",
+      "opponentName": "Ksuta",
+      "homeTeamId": "a4339c19-4507-45d0-a8e7-ab33c8fe64c0",
+      "awayTeamId": "940ca331-c4a1-4b47-9124-47f1f0c0111b",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 3,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.7
+    },
+    {
       "matchId": "ttzdsr6wmqvcmc3w",
       "playedAt": "2026-06-26T20:10:31.126Z",
       "opponentSlug": "crpac",
