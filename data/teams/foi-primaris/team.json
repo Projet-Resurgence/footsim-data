@@ -252,6 +252,134 @@
       ]
     },
     {
+      "matchId": "70tf3rh3mqwv07xs",
+      "playedAt": "2026-06-27T21:20:50.252Z",
+      "opponentSlug": "spc",
+      "opponentName": "SPC",
+      "homeTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "awayTeamId": "7db62a2a-b398-4a35-9c11-4d5b4bf4570c",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 1,
+      "opponentStrength": 63,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "cards": [
+        {
+          "minute": 60,
+          "playerId": "2f7b6b71-8e62-40ca-8e15-04954d39c835",
+          "playerName": "Honest Kigwangalla",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "pxa9ho0dmqwv07xr",
+      "playedAt": "2026-06-27T21:19:36.698Z",
+      "opponentSlug": "cote-d-ivoire",
+      "opponentName": "Côte d'Ivoire",
+      "homeTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "awayTeamId": "7db62a2a-b398-4a35-9c11-4d5b4bf4570c",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 1,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "cards": [
+        {
+          "minute": 41,
+          "playerId": "8cf58f9f-3eb8-4f84-b835-2ee678bd69f4",
+          "playerName": "Omar Pinda",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "kjvalne9mqwv07xr",
+      "playedAt": "2026-06-27T21:18:05.102Z",
+      "opponentSlug": "crpac",
+      "opponentName": "CRPAC",
+      "homeTeamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+      "awayTeamId": "7db62a2a-b398-4a35-9c11-4d5b4bf4570c",
+      "homeAway": "away",
+      "scoreFor": 4,
+      "scoreAgainst": 4,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 0.7,
+      "scorers": [
+        {
+          "minute": 12,
+          "playerId": "0d76b8fe-76c5-4c18-88ac-565369944291",
+          "playerName": "Honest Warioba"
+        },
+        {
+          "minute": 24,
+          "playerId": "3ad7f7fc-6c82-4c2e-a421-e0c60a674725",
+          "playerName": "Hamisi Issa",
+          "assistId": "dbc0de06-7355-4358-afa9-ca2200500ea7",
+          "assistName": "Omar Jumanne"
+        },
+        {
+          "minute": 44,
+          "playerId": "48c23223-9363-4a29-a7d0-d04b8be6bfde",
+          "playerName": "Kilima Kigwangalla"
+        },
+        {
+          "minute": 51,
+          "playerId": "63e8bc1d-b945-4f1f-a860-b183549ec7f8",
+          "playerName": "Uledi Bashungwa"
+        }
+      ]
+    },
+    {
+      "matchId": "g4c4tn3mmqwv07xr",
+      "playedAt": "2026-06-27T21:16:57.099Z",
+      "opponentSlug": "ursi",
+      "opponentName": "URSI",
+      "homeTeamId": "7db62a2a-b398-4a35-9c11-4d5b4bf4570c",
+      "awayTeamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 1,
+      "opponentStrength": 62,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2,
+      "scorers": [
+        {
+          "minute": 54,
+          "playerId": "3ad7f7fc-6c82-4c2e-a421-e0c60a674725",
+          "playerName": "Hamisi Issa"
+        },
+        {
+          "minute": 84,
+          "playerId": "dbc0de06-7355-4358-afa9-ca2200500ea7",
+          "playerName": "Omar Jumanne"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 46,
+          "playerId": "2f7b6b71-8e62-40ca-8e15-04954d39c835",
+          "playerName": "Honest Kigwangalla",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "9p37kt1ymqwt6yer",
       "playedAt": "2026-06-27T20:31:18.106Z",
       "opponentSlug": "uda",
