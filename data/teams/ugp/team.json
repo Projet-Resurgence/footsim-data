@@ -30,6 +30,113 @@
   "publishedAt": "2026-06-25T23:11:49.237Z",
   "recentMatches": [
     {
+      "matchId": "j82rvm02mqvcmc3w",
+      "playedAt": "2026-06-27T11:20:27.705Z",
+      "opponentSlug": "deseret",
+      "opponentName": "Deseret",
+      "homeTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "awayTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "homeAway": "home",
+      "scoreFor": 3,
+      "scoreAgainst": 2,
+      "opponentStrength": 64,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.9,
+      "scorers": [
+        {
+          "minute": 15,
+          "playerId": "63cba1c6-27e5-4311-91d8-92b5f3fde740",
+          "playerName": "Cristian Lombardo"
+        },
+        {
+          "minute": 34,
+          "playerId": "63cba1c6-27e5-4311-91d8-92b5f3fde740",
+          "playerName": "Cristian Lombardo",
+          "assistId": "e8cb564f-f280-44e9-aaa1-7515af4c2b9a",
+          "assistName": "Fabrizio Bruno"
+        },
+        {
+          "minute": 73,
+          "playerId": "63cba1c6-27e5-4311-91d8-92b5f3fde740",
+          "playerName": "Cristian Lombardo",
+          "assistId": "e8cb564f-f280-44e9-aaa1-7515af4c2b9a",
+          "assistName": "Fabrizio Bruno"
+        }
+      ]
+    },
+    {
+      "matchId": "621kxzdimqvcmc3w",
+      "playedAt": "2026-06-27T11:11:34.436Z",
+      "opponentSlug": "yamatai",
+      "opponentName": "Yamatai",
+      "homeTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "awayTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "homeAway": "home",
+      "scoreFor": 3,
+      "scoreAgainst": 2,
+      "opponentStrength": 63,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.7,
+      "scorers": [
+        {
+          "minute": 41,
+          "playerId": "b7b01260-368c-4f4e-9640-837c0bc13d27",
+          "playerName": "Fabio Morelli",
+          "assistId": "63cba1c6-27e5-4311-91d8-92b5f3fde740",
+          "assistName": "Cristian Lombardo"
+        },
+        {
+          "minute": 80,
+          "playerId": "720e2681-c6f2-46e5-b610-9604d3a9e92c",
+          "playerName": "Davide Mancini"
+        },
+        {
+          "minute": 88,
+          "playerId": "c6663d52-24a7-4d5a-aaea-b02fd24652d6",
+          "playerName": "Samuele De Angelis",
+          "assistId": "09e3768b-d2b4-4ad9-8a05-a00a01d954e2",
+          "assistName": "Donato De Angelis"
+        }
+      ]
+    },
+    {
+      "matchId": "ztmv9cpnmqvcmc3w",
+      "playedAt": "2026-06-27T11:04:26.709Z",
+      "opponentSlug": "ccb",
+      "opponentName": "CCB",
+      "homeTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "awayTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 0,
+      "opponentStrength": 61,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.7,
+      "scorers": [
+        {
+          "minute": 18,
+          "playerId": "c6663d52-24a7-4d5a-aaea-b02fd24652d6",
+          "playerName": "Samuele De Angelis"
+        },
+        {
+          "minute": 48,
+          "playerId": "63cba1c6-27e5-4311-91d8-92b5f3fde740",
+          "playerName": "Cristian Lombardo",
+          "assistId": "b7b01260-368c-4f4e-9640-837c0bc13d27",
+          "assistName": "Fabio Morelli"
+        }
+      ]
+    },
+    {
       "matchId": "7yh54o9umqvf2cr7",
       "playedAt": "2026-06-26T21:09:08.624Z",
       "opponentSlug": "uda",
