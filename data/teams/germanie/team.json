@@ -120,6 +120,99 @@
   ],
   "recentMatches": [
     {
+      "matchId": "6aqs5idgmqvcmc3w",
+      "playedAt": "2026-06-27T20:10:53.536Z",
+      "opponentSlug": "ugp",
+      "opponentName": "UGP",
+      "homeTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "awayTeamId": "6377412c-0d4c-47e7-ba24-52745e83cfaa",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 3,
+      "opponentStrength": 65,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -7,
+      "cards": [
+        {
+          "minute": 10,
+          "playerId": "e5a951b2-9510-4234-9756-691a4822918b",
+          "playerName": "Kai Kaiser",
+          "type": "yellow"
+        },
+        {
+          "minute": 13,
+          "playerId": "e5a951b2-9510-4234-9756-691a4822918b",
+          "playerName": "Kai Kaiser",
+          "type": "red"
+        },
+        {
+          "minute": 31,
+          "playerId": "013d024c-3b0d-4675-96aa-551279f77836",
+          "playerName": "Tom Zimmermann",
+          "type": "yellow"
+        },
+        {
+          "minute": 82,
+          "playerId": "04253146-22a8-4be1-bdc3-f9959c80ab43",
+          "playerName": "Werner Becker",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "0s6scjusmqvcmc3w",
+      "playedAt": "2026-06-27T20:08:47.153Z",
+      "opponentSlug": "ufep",
+      "opponentName": "UFEP",
+      "homeTeamId": "833feec7-4a6a-4ec4-876a-d97306e404b8",
+      "awayTeamId": "6377412c-0d4c-47e7-ba24-52745e83cfaa",
+      "homeAway": "away",
+      "scoreFor": 3,
+      "scoreAgainst": 5,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.2,
+      "scorers": [
+        {
+          "minute": 22,
+          "playerId": "1e4091a7-5339-4ea5-b128-ed64d9d3165b",
+          "playerName": "Sascha Albrecht"
+        },
+        {
+          "minute": 28,
+          "playerId": "4cff8ba1-7087-4bca-ae92-20cf4d9599b9",
+          "playerName": "Théo Morin"
+        },
+        {
+          "minute": 92,
+          "playerId": "4cff8ba1-7087-4bca-ae92-20cf4d9599b9",
+          "playerName": "Théo Morin",
+          "assistId": "ce6edb53-b562-4047-a841-c2712658f714",
+          "assistName": "Lukas Weber"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 65,
+          "playerId": "04253146-22a8-4be1-bdc3-f9959c80ab43",
+          "playerName": "Werner Becker",
+          "type": "yellow"
+        },
+        {
+          "minute": 66,
+          "playerId": "4cff8ba1-7087-4bca-ae92-20cf4d9599b9",
+          "playerName": "Théo Morin",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "5p321teqmqvcmc3w",
       "playedAt": "2026-06-27T11:21:35.096Z",
       "opponentSlug": "foi-primaris",
