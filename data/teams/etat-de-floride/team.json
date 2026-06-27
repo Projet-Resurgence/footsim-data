@@ -44,6 +44,69 @@
   },
   "recentMatches": [
     {
+      "matchId": "np6a8nufmqvcmc3w",
+      "playedAt": "2026-06-27T20:13:41.304Z",
+      "opponentSlug": "aethel",
+      "opponentName": "Aethel",
+      "homeTeamId": "d078bb55-7f06-4ed1-b048-1dd6524ecae9",
+      "awayTeamId": "9aea33e4-a280-4ec7-8ad5-4852e3cf3439",
+      "homeAway": "home",
+      "scoreFor": 3,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.5,
+      "scorers": [
+        {
+          "minute": 13,
+          "playerId": "a343e8d6-6962-4f8b-8bd0-88b34666e5e3",
+          "playerName": "Quinn Lewis",
+          "assistId": "41d6c15f-0b06-4f3c-a0e1-02aad4142017",
+          "assistName": "Brandon Young"
+        },
+        {
+          "minute": 55,
+          "playerId": "030c0ebf-e6fc-4e3f-81eb-a4a3496f3fad",
+          "playerName": "Quinn Rodriguez"
+        },
+        {
+          "minute": 65,
+          "playerId": "6e107cb7-c63b-485e-91ce-4149940ba9d0",
+          "playerName": "Scott Gonzalez",
+          "assistId": "a343e8d6-6962-4f8b-8bd0-88b34666e5e3",
+          "assistName": "Quinn Lewis"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 59,
+          "playerId": "a2a9211b-2d1e-44cd-ae2a-c2df767171d3",
+          "playerName": "Blake Smith",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "u0aq0ggkmqvcmc3w",
+      "playedAt": "2026-06-27T20:08:47.151Z",
+      "opponentSlug": "deseret",
+      "opponentName": "Deseret",
+      "homeTeamId": "d078bb55-7f06-4ed1-b048-1dd6524ecae9",
+      "awayTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 3,
+      "opponentStrength": 64,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -7
+    },
+    {
       "matchId": "bf8364symqvcmc3w",
       "playedAt": "2026-06-27T11:24:06.260Z",
       "opponentSlug": "yamatai",
