@@ -50,6 +50,120 @@
   "publishedAt": "2026-06-21T14:09:36.522Z",
   "recentMatches": [
     {
+      "matchId": "2n8q4tagmqvcmc3w",
+      "playedAt": "2026-06-27T11:24:06.255Z",
+      "opponentSlug": "royaume-d-asha",
+      "opponentName": "Royaume d'Asha",
+      "homeTeamId": "49938bc7-e78d-441e-907b-75a788e98216",
+      "awayTeamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 3,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.7,
+      "cards": [
+        {
+          "minute": 4,
+          "playerId": "4029cf25-dd3a-43b3-a70e-0ac2589f89bf",
+          "playerName": "Jonathan Baker",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "andkrdwcmqvcmc3w",
+      "playedAt": "2026-06-27T11:14:38.792Z",
+      "opponentSlug": "voivodine",
+      "opponentName": "Voïvodine",
+      "homeTeamId": "49938bc7-e78d-441e-907b-75a788e98216",
+      "awayTeamId": "28274f9a-bff0-42da-ac99-a6e3a9812a34",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 5.7,
+      "scorers": [
+        {
+          "minute": 64,
+          "playerId": "8586ee1d-e7fa-4c0a-bf00-699fe4f678ce",
+          "playerName": "Urtiti Nyarota",
+          "assistId": "c6c0e441-97a8-4903-8efb-755003b01815",
+          "assistName": "Finley Rose"
+        },
+        {
+          "minute": 83,
+          "playerId": "8586ee1d-e7fa-4c0a-bf00-699fe4f678ce",
+          "playerName": "Urtiti Nyarota"
+        }
+      ]
+    },
+    {
+      "matchId": "9mz867q9mqvcmc3w",
+      "playedAt": "2026-06-27T11:08:16.889Z",
+      "opponentSlug": "nova-orbis",
+      "opponentName": "Nova Orbis",
+      "homeTeamId": "49938bc7-e78d-441e-907b-75a788e98216",
+      "awayTeamId": "28f82804-8005-450a-b6d8-740533bf82b0",
+      "homeAway": "home",
+      "scoreFor": 5,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 18,
+      "scorers": [
+        {
+          "minute": 50,
+          "playerId": "8586ee1d-e7fa-4c0a-bf00-699fe4f678ce",
+          "playerName": "Urtiti Nyarota",
+          "assistId": "561592c7-8ba8-4094-9b9c-9097a3e94db6",
+          "assistName": "Tatenda Ncube"
+        },
+        {
+          "minute": 48,
+          "playerId": "8586ee1d-e7fa-4c0a-bf00-699fe4f678ce",
+          "playerName": "Urtiti Nyarota",
+          "assistId": "561592c7-8ba8-4094-9b9c-9097a3e94db6",
+          "assistName": "Tatenda Ncube"
+        },
+        {
+          "minute": 58,
+          "playerId": "15da60da-3954-4e0a-afc0-4ed0842fe14e",
+          "playerName": "Jabulani Mpofu"
+        },
+        {
+          "minute": 75,
+          "playerId": "15da60da-3954-4e0a-afc0-4ed0842fe14e",
+          "playerName": "Jabulani Mpofu"
+        },
+        {
+          "minute": 83,
+          "playerId": "584a3c24-12af-49b7-aa29-938d4350e9c4",
+          "playerName": "Thomas Carter",
+          "assistId": "4029cf25-dd3a-43b3-a70e-0ac2589f89bf",
+          "assistName": "Jonathan Baker"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 35,
+          "playerId": "0ed2ece3-11d6-43eb-b034-a3dcfaf18ebf",
+          "playerName": "Munashe Mpofu",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "pj6cf3ormqvcmc3w",
       "playedAt": "2026-06-26T20:10:31.127Z",
       "opponentSlug": "ksuta",
