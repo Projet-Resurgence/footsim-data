@@ -42,7 +42,7 @@
     "overall": 76
   },
   "jerseyColor": "#f9a006",
-  "publishedAt": "2026-06-27T03:25:13.213Z",
+  "publishedAt": "2026-06-27T19:46:00.347Z",
   "compHistory": [
     {
       "compId": "ifernu3ytbmqr3areq",
@@ -224,9 +224,102 @@
           "minute": 65
         }
       ]
+    },
+    {
+      "style": "possession",
+      "formation": "4-3-3",
+      "lineup": [
+        "341c2d91-99fc-4fee-8f22-02f672169c4d",
+        "14259458-87a1-4f2c-9ac8-a884be29ea29",
+        "ebdefbb6-1d7a-4a8c-b5f8-ecc8e13b115b",
+        "2869ad75-2a38-4f4f-b46f-30d14c571450",
+        "99ea1531-0a21-4909-acde-5b29f578e981",
+        "c5357096-84f3-4423-9342-aa1fa54bd941",
+        "0636869a-f34f-4bc5-b141-979c31bfd66d",
+        "e1afab4f-2e72-417f-990e-dbf3705beeed",
+        "2e2f29f9-653b-4528-a87b-b4003dca2f4b",
+        "305ef8f4-3d72-4985-ac81-e47e5bc183af",
+        "1f2b7e31-8ff2-4bb3-b9e5-42ab5282bbb3"
+      ],
+      "formationLabel": "5-2-3",
+      "positionMap": {
+        "1f2b7e31-8ff2-4bb3-b9e5-42ab5282bbb3": "ST",
+        "305ef8f4-3d72-4985-ac81-e47e5bc183af": "RW",
+        "0636869a-f34f-4bc5-b141-979c31bfd66d": "LW",
+        "e1afab4f-2e72-417f-990e-dbf3705beeed": "CM",
+        "2e2f29f9-653b-4528-a87b-b4003dca2f4b": "CM",
+        "14259458-87a1-4f2c-9ac8-a884be29ea29": "LB",
+        "2869ad75-2a38-4f4f-b46f-30d14c571450": "CB",
+        "99ea1531-0a21-4909-acde-5b29f578e981": "CB",
+        "ebdefbb6-1d7a-4a8c-b5f8-ecc8e13b115b": "CB",
+        "c5357096-84f3-4423-9342-aa1fa54bd941": "RB",
+        "341c2d91-99fc-4fee-8f22-02f672169c4d": "GK"
+      },
+      "tokenPositions": {
+        "1f2b7e31-8ff2-4bb3-b9e5-42ab5282bbb3": {
+          "x": 50,
+          "y": 18
+        },
+        "305ef8f4-3d72-4985-ac81-e47e5bc183af": {
+          "x": 92.27189706842273,
+          "y": 23.9641788104551
+        },
+        "0636869a-f34f-4bc5-b141-979c31bfd66d": {
+          "x": 9.030224929456217,
+          "y": 24.00423814559394
+        },
+        "e1afab4f-2e72-417f-990e-dbf3705beeed": {
+          "x": 34,
+          "y": 46
+        },
+        "2e2f29f9-653b-4528-a87b-b4003dca2f4b": {
+          "x": 66,
+          "y": 46
+        },
+        "14259458-87a1-4f2c-9ac8-a884be29ea29": {
+          "x": 6,
+          "y": 70
+        },
+        "2869ad75-2a38-4f4f-b46f-30d14c571450": {
+          "x": 50,
+          "y": 77.31229388254609
+        },
+        "99ea1531-0a21-4909-acde-5b29f578e981": {
+          "x": 67.0280403493638,
+          "y": 72.53584863404133
+        },
+        "ebdefbb6-1d7a-4a8c-b5f8-ecc8e13b115b": {
+          "x": 32.5569704981216,
+          "y": 71.9549332479688
+        },
+        "c5357096-84f3-4423-9342-aa1fa54bd941": {
+          "x": 94,
+          "y": 70
+        },
+        "341c2d91-99fc-4fee-8f22-02f672169c4d": {
+          "x": 50,
+          "y": 88
+        }
+      },
+      "customStyles": [
+        {
+          "id": "912e9823-1e3d-430d-8c2c-113c816336fc",
+          "name": "La meilleure défense c'est l'attaque",
+          "mods": {
+            "shotFreqMult": 1,
+            "foulRateMult": 1,
+            "midfieldMult": 1,
+            "attackMult": 1.15,
+            "defenseMult": 1.15
+          }
+        }
+      ],
+      "activeCustomStyleId": "912e9823-1e3d-430d-8c2c-113c816336fc",
+      "id": "ff57d68f-d4d1-492c-b031-957716cb2c07",
+      "name": "MSN"
     }
   ],
-  "activeTacticId": "65ef9a7b-31aa-462f-a76a-0a2cd9c9f020",
+  "activeTacticId": "ff57d68f-d4d1-492c-b031-957716cb2c07",
   "injuries": [],
   "suspensions": [],
   "recentMatches": [
