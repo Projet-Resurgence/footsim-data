@@ -20,6 +20,57 @@
   "publishedAt": "2026-06-27T19:34:26.084Z",
   "recentMatches": [
     {
+      "matchId": "nq5xblrpmqvcmc3w",
+      "playedAt": "2026-06-27T20:13:41.303Z",
+      "opponentSlug": "mapuche",
+      "opponentName": "Mapuche",
+      "homeTeamId": "0779ee45-e790-4ff2-901b-ba22bd8b4d83",
+      "awayTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "homeAway": "away",
+      "scoreFor": 3,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.5,
+      "scorers": [
+        {
+          "minute": 8,
+          "playerId": "0f37e5f2-34b6-42eb-a40d-a1cbed31548a",
+          "playerName": "Paul Marchand"
+        },
+        {
+          "minute": 51,
+          "playerId": "30c48de3-bd45-4195-a6d3-e7f59257bc2d",
+          "playerName": "Jérôme Achier"
+        },
+        {
+          "minute": 75,
+          "playerId": "30c48de3-bd45-4195-a6d3-e7f59257bc2d",
+          "playerName": "Jérôme Achier"
+        }
+      ]
+    },
+    {
+      "matchId": "5t7vv48nmqvcmc3w",
+      "playedAt": "2026-06-27T20:04:43.565Z",
+      "opponentSlug": "osmanide",
+      "opponentName": "Osmanide",
+      "homeTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "awayTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -5.7
+    },
+    {
       "matchId": "lgx7nvrwmqvcmc3w",
       "playedAt": "2026-06-27T11:24:06.261Z",
       "opponentSlug": "otupia",
