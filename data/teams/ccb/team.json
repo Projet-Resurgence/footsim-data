@@ -54,6 +54,106 @@
   },
   "recentMatches": [
     {
+      "matchId": "l3f5rx6pmqvcmc3w",
+      "playedAt": "2026-06-27T11:24:06.257Z",
+      "opponentSlug": "coree",
+      "opponentName": "Corée",
+      "homeTeamId": "495d8db0-d1b7-49fd-bb3d-dcecda27eb95",
+      "awayTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 3,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -5.7,
+      "scorers": [
+        {
+          "minute": 4,
+          "playerId": "3485a9f3-c86e-4378-a689-d66274d56746",
+          "playerName": "Kevin Thompson"
+        },
+        {
+          "minute": 44,
+          "playerId": "8a0c7655-a4b7-4d57-9a19-7a6f37ad6931",
+          "playerName": "Tanner Martin",
+          "assistId": "cf9cb854-71a7-497a-a24a-75038a58e648",
+          "assistName": "Noah Williams"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 19,
+          "playerId": "cf9cb854-71a7-497a-a24a-75038a58e648",
+          "playerName": "Noah Williams",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "fytxw35rmqvcmc3w",
+      "playedAt": "2026-06-27T11:14:38.794Z",
+      "opponentSlug": "etat-de-floride",
+      "opponentName": "État de Floride",
+      "homeTeamId": "d078bb55-7f06-4ed1-b048-1dd6524ecae9",
+      "awayTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "homeAway": "away",
+      "scoreFor": 3,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.5,
+      "scorers": [
+        {
+          "minute": 38,
+          "playerId": "cf9cb854-71a7-497a-a24a-75038a58e648",
+          "playerName": "Noah Williams"
+        },
+        {
+          "minute": 42,
+          "playerId": "cf9cb854-71a7-497a-a24a-75038a58e648",
+          "playerName": "Noah Williams",
+          "assistId": "3485a9f3-c86e-4378-a689-d66274d56746",
+          "assistName": "Kevin Thompson"
+        },
+        {
+          "minute": 72,
+          "playerId": "7c185c3b-b756-4e27-a573-b4ff397a3821",
+          "playerName": "Jean-Luc Garneau"
+        }
+      ]
+    },
+    {
+      "matchId": "ztmv9cpnmqvcmc3w",
+      "playedAt": "2026-06-27T11:04:26.709Z",
+      "opponentSlug": "ugp",
+      "opponentName": "UGP",
+      "homeTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "awayTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 2,
+      "opponentStrength": 65,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.5,
+      "cards": [
+        {
+          "minute": 48,
+          "playerId": "44e712fb-26e6-4278-9d9f-0de27edfe5d5",
+          "playerName": "Nathan Morin",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "amdh6zngmqvdpc6g",
       "playedAt": "2026-06-26T20:32:06.296Z",
       "opponentSlug": "deseret",
