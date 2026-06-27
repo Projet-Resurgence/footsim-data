@@ -413,6 +413,110 @@
   },
   "recentMatches": [
     {
+      "matchId": "9p37kt1ymqwt6yer",
+      "playedAt": "2026-06-27T20:31:18.106Z",
+      "opponentSlug": "foi-primaris",
+      "opponentName": "Foi Primaris",
+      "homeTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "awayTeamId": "7db62a2a-b398-4a35-9c11-4d5b4bf4570c",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 1,
+      "opponentStrength": 64,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.1,
+      "scorers": [
+        {
+          "minute": 17,
+          "playerId": "2047d47b-b47e-4d9b-b80e-06f3ea7fa330",
+          "playerName": "Lei Luo",
+          "assistId": "89f75ad1-d901-4839-81c6-240a311c715e",
+          "assistName": "Peng Yao"
+        },
+        {
+          "minute": 70,
+          "playerId": "c132a33d-878d-4758-84dc-4b8a0b520295",
+          "playerName": "Cong Tang",
+          "assistId": "6fcb834b-f8d5-452b-b759-dc9e0ae2317a",
+          "assistName": "Kai Liang"
+        }
+      ]
+    },
+    {
+      "matchId": "fwv8ziq9mqwt6yer",
+      "playedAt": "2026-06-27T20:29:21.258Z",
+      "opponentSlug": "italie",
+      "opponentName": "Italie",
+      "homeTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "awayTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 3,
+      "opponentStrength": 63,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 8,
+          "playerId": "896b6922-e4fc-4739-8fd6-5d10fa69c747",
+          "playerName": "Er Cao",
+          "assistId": "89f75ad1-d901-4839-81c6-240a311c715e",
+          "assistName": "Peng Yao"
+        },
+        {
+          "minute": 66,
+          "playerId": "c132a33d-878d-4758-84dc-4b8a0b520295",
+          "playerName": "Cong Tang",
+          "assistId": "6fcb834b-f8d5-452b-b759-dc9e0ae2317a",
+          "assistName": "Kai Liang"
+        }
+      ]
+    },
+    {
+      "matchId": "3hnt39kvmqwt6yer",
+      "playedAt": "2026-06-27T20:27:10.666Z",
+      "opponentSlug": "5eme-internationale",
+      "opponentName": "5ème Internationale",
+      "homeTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "awayTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 4,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.7,
+      "scorers": [
+        {
+          "minute": 36,
+          "playerId": "896b6922-e4fc-4739-8fd6-5d10fa69c747",
+          "playerName": "Er Cao"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 79,
+          "playerId": "56d3b142-f548-4fad-9894-77cad156e7ac",
+          "playerName": "Tao Ren",
+          "type": "yellow"
+        },
+        {
+          "minute": 82,
+          "playerId": "56d3b142-f548-4fad-9894-77cad156e7ac",
+          "playerName": "Tao Ren",
+          "type": "red"
+        }
+      ]
+    },
+    {
       "matchId": "1cpyurgcmqvcmc3w",
       "playedAt": "2026-06-27T20:13:41.294Z",
       "opponentSlug": "ksuta",
