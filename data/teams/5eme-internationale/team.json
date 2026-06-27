@@ -1084,6 +1084,18 @@
       "result": "third",
       "phase": "3rd",
       "participantCount": 16
+    },
+    {
+      "compId": "hdm26u87p65mqwv07xr",
+      "compName": "Coupe de l'Opium",
+      "year": 2308,
+      "format": "groups_knockout",
+      "kind": "amicale",
+      "scope": "internationale",
+      "importance": "mineur",
+      "result": "winner",
+      "phase": "F",
+      "participantCount": 16
     }
   ],
   "continents": [
