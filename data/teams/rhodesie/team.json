@@ -50,6 +50,69 @@
   "publishedAt": "2026-06-21T14:09:36.522Z",
   "recentMatches": [
     {
+      "matchId": "gtyhwyonmqvcmc3w",
+      "playedAt": "2026-06-27T20:13:41.302Z",
+      "opponentSlug": "yamatai",
+      "opponentName": "Yamatai",
+      "homeTeamId": "49938bc7-e78d-441e-907b-75a788e98216",
+      "awayTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 5,
+      "opponentStrength": 63,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.9,
+      "scorers": [
+        {
+          "minute": 61,
+          "playerId": "8586ee1d-e7fa-4c0a-bf00-699fe4f678ce",
+          "playerName": "Urtiti Nyarota"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 36,
+          "playerId": "4029cf25-dd3a-43b3-a70e-0ac2589f89bf",
+          "playerName": "Jonathan Baker",
+          "type": "yellow"
+        },
+        {
+          "minute": 75,
+          "playerId": "0ed2ece3-11d6-43eb-b034-a3dcfaf18ebf",
+          "playerName": "Munashe Mpofu",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "o43wbi5pmqvcmc3w",
+      "playedAt": "2026-06-27T20:08:47.149Z",
+      "opponentSlug": "ccb",
+      "opponentName": "CCB",
+      "homeTeamId": "49938bc7-e78d-441e-907b-75a788e98216",
+      "awayTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 3,
+      "opponentStrength": 61,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.7,
+      "cards": [
+        {
+          "minute": 18,
+          "playerId": "070b01b5-9d38-41fc-8f2f-eba78f35b9f9",
+          "playerName": "Lewis Bennett",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "2n8q4tagmqvcmc3w",
       "playedAt": "2026-06-27T11:24:06.255Z",
       "opponentSlug": "royaume-d-asha",
