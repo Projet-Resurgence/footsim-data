@@ -806,7 +806,7 @@
       "89a0086b-0ff0-489e-a845-ca7b750f7403"
     ]
   },
-  "publishedAt": "2026-06-27T13:49:07.143Z",
+  "publishedAt": "2026-06-27T14:02:44.237Z",
   "cultures": [
     {
       "culture": "arabe",
@@ -981,7 +981,7 @@
       ],
       "activeCustomStyleId": "e02f57a3-aed6-482e-8e24-26fae34048ff",
       "id": "06ee2f2b-5998-4d94-840f-351a98e81559",
-      "name": "Haramball Tactic",
+      "name": "Haramball",
       "positionMap": {
         "235a908b-765d-4f6b-8d22-9bac5aae1521": "LB",
         "4da3fb23-004e-4bc2-b23d-54eb6e91ca6e": "CB",
@@ -1061,7 +1061,7 @@
       "customStyles": [
         {
           "id": "4eea26d1-0160-4390-86a2-4d1b82fdaf10",
-          "name": "Offensif",
+          "name": "Halalball",
           "mods": {
             "shotFreqMult": 1.2,
             "foulRateMult": 0.7,
@@ -1073,7 +1073,7 @@
       ],
       "activeCustomStyleId": "4eea26d1-0160-4390-86a2-4d1b82fdaf10",
       "id": "09adc477-0793-4dfa-91bb-7f76581e13cc",
-      "name": "Shai Hulud Tactic"
+      "name": "Halalball"
     }
   ],
   "activeTacticId": "09adc477-0793-4dfa-91bb-7f76581e13cc",
