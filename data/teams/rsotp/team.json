@@ -61,5 +61,100 @@
       "phase": "group",
       "participantCount": 16
     }
+  ],
+  "recentMatches": [
+    {
+      "matchId": "ra40oehwmqwv07xr",
+      "playedAt": "2026-06-27T21:19:36.698Z",
+      "opponentSlug": "cascadie",
+      "opponentName": "Cascadie",
+      "homeTeamId": "e5bac765-f354-41a2-b940-1e97fba04c20",
+      "awayTeamId": "57fffbee-9163-4497-87cd-b887abf87078",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 3,
+      "opponentStrength": 62,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.2,
+      "scorers": [
+        {
+          "minute": 42,
+          "playerId": "c4061611-1959-4cb1-86ac-0ff52b259466",
+          "playerName": "Rafael Zobel",
+          "assistId": "7be0615f-47f0-4840-9ded-810ae4fc6c6b",
+          "assistName": "Yvan Guzman"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 79,
+          "playerId": "e48dd5f5-56b8-4880-a359-c5f3d899e5b5",
+          "playerName": "Paolo Dela Cruz",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "bmq99ahfmqwv07xr",
+      "playedAt": "2026-06-27T21:18:05.099Z",
+      "opponentSlug": "italie",
+      "opponentName": "Italie",
+      "homeTeamId": "57fffbee-9163-4497-87cd-b887abf87078",
+      "awayTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 2,
+      "opponentStrength": 63,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.2,
+      "cards": [
+        {
+          "minute": 17,
+          "playerId": "adc31e27-3b22-41d1-9474-04691fb56743",
+          "playerName": "Samuel Guerrero",
+          "type": "red"
+        }
+      ]
+    },
+    {
+      "matchId": "n1dedb9umqwv07xr",
+      "playedAt": "2026-06-27T21:16:57.094Z",
+      "opponentSlug": "uda",
+      "opponentName": "UDA",
+      "homeTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "awayTeamId": "57fffbee-9163-4497-87cd-b887abf87078",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 6,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -2.7,
+      "scorers": [
+        {
+          "minute": 84,
+          "playerId": "c4061611-1959-4cb1-86ac-0ff52b259466",
+          "playerName": "Rafael Zobel",
+          "assistId": "00bb0d6a-9187-48d0-a870-3c21ffe7ffeb",
+          "assistName": "Gerald Ramos"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 44,
+          "playerId": "9c9400f0-ad6b-490f-8152-b1903e988c22",
+          "playerName": "Warren Abella",
+          "type": "yellow"
+        }
+      ]
+    }
   ]
 }
