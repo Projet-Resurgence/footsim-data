@@ -497,6 +497,132 @@
   ],
   "recentMatches": [
     {
+      "matchId": "36vlgvgpmqwt6yer",
+      "playedAt": "2026-06-27T20:33:33.183Z",
+      "opponentSlug": "empire-hussein",
+      "opponentName": "Empire Hussein",
+      "homeTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "awayTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 2,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 64,
+          "playerId": "209b7955-f460-488e-9eac-61580e6cd175",
+          "playerName": "Aykut Koç",
+          "assistId": "61f5c289-5b37-450a-84f7-d6a42fd1c8fc",
+          "assistName": "Cağlar Tekin"
+        }
+      ]
+    },
+    {
+      "matchId": "jzishydomqwt6yer",
+      "playedAt": "2026-06-27T20:31:18.108Z",
+      "opponentSlug": "spc",
+      "opponentName": "SPC",
+      "homeTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "awayTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 1,
+      "opponentStrength": 63,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.1,
+      "scorers": [
+        {
+          "minute": 49,
+          "playerId": "ede13b76-4f1b-466f-a570-d2782bc0fb70",
+          "playerName": "Ömer Güneş"
+        },
+        {
+          "minute": 61,
+          "playerId": "209b7955-f460-488e-9eac-61580e6cd175",
+          "playerName": "Aykut Koç"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 92,
+          "playerId": "61f5c289-5b37-450a-84f7-d6a42fd1c8fc",
+          "playerName": "Cağlar Tekin",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "uts3x84umqwt6yer",
+      "playedAt": "2026-06-27T20:29:21.260Z",
+      "opponentSlug": "yamatai",
+      "opponentName": "Yamatai",
+      "homeTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "awayTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 2,
+      "opponentStrength": 63,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 6,
+          "playerId": "209b7955-f460-488e-9eac-61580e6cd175",
+          "playerName": "Aykut Koç"
+        }
+      ]
+    },
+    {
+      "matchId": "etwsk27dmqwt6yer",
+      "playedAt": "2026-06-27T20:27:10.667Z",
+      "opponentSlug": "deseret",
+      "opponentName": "Deseret",
+      "homeTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "awayTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 2,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 0.7,
+      "scorers": [
+        {
+          "minute": 41,
+          "playerId": "209b7955-f460-488e-9eac-61580e6cd175",
+          "playerName": "Aykut Koç",
+          "assistId": "ede13b76-4f1b-466f-a570-d2782bc0fb70",
+          "assistName": "Ömer Güneş"
+        },
+        {
+          "minute": 56,
+          "playerId": "c8ce0f44-f254-4cf4-8acd-939678b433fd",
+          "playerName": "Necati Demir"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 61,
+          "playerId": "e514f94f-3494-4f1b-9212-f6930a72411e",
+          "playerName": "Emir Pamuk",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "p0hi1snqmqvcmc3w",
       "playedAt": "2026-06-27T20:13:41.303Z",
       "opponentSlug": "serbie",
