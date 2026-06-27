@@ -11,6 +11,173 @@
   "formation": "4-3-3",
   "recentMatches": [
     {
+      "matchId": "h7w44dwomqwu11n7",
+      "playedAt": "2026-06-27T20:56:59.068Z",
+      "opponentSlug": "ccb",
+      "opponentName": "CCB",
+      "homeTeamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "awayTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 3,
+      "opponentStrength": 61,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.2,
+      "scorers": [
+        {
+          "minute": 73,
+          "playerId": "e6f510db-f16b-483f-9f1f-d671bff0ccd5",
+          "playerName": "Ramón Herrera",
+          "assistId": "e3e1ec99-423f-475d-b4d9-e5a7b9bbb145",
+          "assistName": "Dényl Polynice"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 71,
+          "playerId": "e3e1ec99-423f-475d-b4d9-e5a7b9bbb145",
+          "playerName": "Dényl Polynice",
+          "type": "yellow"
+        },
+        {
+          "minute": 116,
+          "playerId": "e3e1ec99-423f-475d-b4d9-e5a7b9bbb145",
+          "playerName": "Dényl Polynice",
+          "type": "red"
+        }
+      ]
+    },
+    {
+      "matchId": "rrv0hosgmqwu11n7",
+      "playedAt": "2026-06-27T20:54:33.990Z",
+      "opponentSlug": "nova-orbis",
+      "opponentName": "Nova Orbis",
+      "homeTeamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "awayTeamId": "28f82804-8005-450a-b6d8-740533bf82b0",
+      "homeAway": "home",
+      "scoreFor": 6,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 3,
+      "scorers": [
+        {
+          "minute": 4,
+          "playerId": "0cde6afa-5371-4d50-84b0-42c5dce8e58c",
+          "playerName": "Ricot Moise",
+          "assistId": "154edfa8-6176-460e-bc7d-9264ee047feb",
+          "assistName": "José Delgado"
+        },
+        {
+          "minute": 14,
+          "playerId": "8e6ca1f6-ba3e-431b-8b80-2cc45318e0a9",
+          "playerName": "Gustavo Romero"
+        },
+        {
+          "minute": 36,
+          "playerId": "0cde6afa-5371-4d50-84b0-42c5dce8e58c",
+          "playerName": "Ricot Moise",
+          "assistId": "d1f33281-0c4a-44f2-8485-bd164cce0749",
+          "assistName": "Barry Grant"
+        },
+        {
+          "minute": 41,
+          "playerId": "8e6ca1f6-ba3e-431b-8b80-2cc45318e0a9",
+          "playerName": "Gustavo Romero"
+        },
+        {
+          "minute": 72,
+          "playerId": "8e6ca1f6-ba3e-431b-8b80-2cc45318e0a9",
+          "playerName": "Gustavo Romero",
+          "assistId": "aca08af0-9097-4f69-99df-b10b11993d02",
+          "assistName": "Tomás Martínez"
+        },
+        {
+          "minute": 83,
+          "playerId": "5f32168a-14df-4d52-a989-1b39439b3517",
+          "playerName": "Jhon Torres"
+        }
+      ]
+    },
+    {
+      "matchId": "7gd8pk3nmqwu11n7",
+      "playedAt": "2026-06-27T20:52:41.404Z",
+      "opponentSlug": "empire-hussein",
+      "opponentName": "Empire Hussein",
+      "homeTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "awayTeamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 1,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.1,
+      "scorers": [
+        {
+          "minute": 28,
+          "playerId": "0cde6afa-5371-4d50-84b0-42c5dce8e58c",
+          "playerName": "Ricot Moise",
+          "assistId": "aca08af0-9097-4f69-99df-b10b11993d02",
+          "assistName": "Tomás Martínez"
+        },
+        {
+          "minute": 78,
+          "playerId": "5f32168a-14df-4d52-a989-1b39439b3517",
+          "playerName": "Jhon Torres"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 85,
+          "playerId": "1ee98c54-d49e-4195-a7d7-013321c6d36c",
+          "playerName": "Carlos Molina",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "17bg6rybmqwu11n7",
+      "playedAt": "2026-06-27T20:50:18.527Z",
+      "opponentSlug": "prometheus",
+      "opponentName": "Prometheus",
+      "homeTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "awayTeamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 2,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 0.7,
+      "scorers": [
+        {
+          "minute": 18,
+          "playerId": "0cde6afa-5371-4d50-84b0-42c5dce8e58c",
+          "playerName": "Ricot Moise",
+          "assistId": "d1f33281-0c4a-44f2-8485-bd164cce0749",
+          "assistName": "Barry Grant"
+        },
+        {
+          "minute": 24,
+          "playerId": "5f32168a-14df-4d52-a989-1b39439b3517",
+          "playerName": "Jhon Torres",
+          "assistId": "aca08af0-9097-4f69-99df-b10b11993d02",
+          "assistName": "Tomás Martínez"
+        }
+      ]
+    },
+    {
       "matchId": "jj07onigmqwt6yer",
       "playedAt": "2026-06-27T20:35:50.022Z",
       "opponentSlug": "empire-hussein",
