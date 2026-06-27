@@ -50,7 +50,7 @@
   "playerCount": 500,
   "formation": "4-3-3",
   "managerDiscordId": "723669328267968582",
-  "publishedAt": "2026-06-27T18:08:30.033Z",
+  "publishedAt": "2026-06-27T19:35:20.989Z",
   "actionFoot": {
     "rating": 2,
     "funding": 300
@@ -522,5 +522,6 @@
       "cmfPoints": -1.7
     }
   ],
-  "savedTactics": []
+  "savedTactics": [],
+  "matchOutcome": "loss"
 }
