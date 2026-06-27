@@ -10432,7 +10432,7 @@
         "crossing": 14,
         "dribbling": 9,
         "finishing": 11,
-        "firstTouch": 12,
+        "firstTouch": 14,
         "heading": 16,
         "longShots": 12,
         "tackling": 16,
@@ -10458,7 +10458,7 @@
       },
       "goalkeeping": null
     },
-    "overall": 85
+    "overall": 86
   },
   {
     "id": "fc88cc7d-a5e9-4acf-8ff6-71e4f938337d",
