@@ -1036,7 +1036,7 @@
       "cmfPoints": -1.6
     }
   ],
-  "publishedAt": "2026-06-28T09:09:27.397Z",
+  "publishedAt": "2026-06-28T11:20:44.010Z",
   "cultures": [
     {
       "culture": "japonais",
@@ -1235,5 +1235,6 @@
   ],
   "injuries": [],
   "suspensions": [],
-  "jerseyColor": "#602d9f"
+  "jerseyColor": "#602d9f",
+  "matchOutcome": "win"
 }
