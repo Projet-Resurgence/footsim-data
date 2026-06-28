@@ -2129,6 +2129,18 @@
       "result": "winner",
       "phase": "F",
       "participantCount": 16
+    },
+    {
+      "compId": "2kh5v3rtwojmqxonfpt",
+      "compName": "Baklava Cup",
+      "year": 2308,
+      "format": "groups_knockout",
+      "kind": "amicale",
+      "scope": "internationale",
+      "importance": "mineur",
+      "result": "participant",
+      "phase": "group",
+      "participantCount": 16
     }
   ],
   "continents": [

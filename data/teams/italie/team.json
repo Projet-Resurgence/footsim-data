@@ -166,6 +166,18 @@
       "result": "semi",
       "phase": "3rd",
       "participantCount": 16
+    },
+    {
+      "compId": "2kh5v3rtwojmqxonfpt",
+      "compName": "Baklava Cup",
+      "year": 2308,
+      "format": "groups_knockout",
+      "kind": "amicale",
+      "scope": "internationale",
+      "importance": "mineur",
+      "result": "finalist",
+      "phase": "F",
+      "participantCount": 16
     }
   ],
   "recentMatches": [
