@@ -1504,39 +1504,8 @@
       "cmfPoints": 2.2
     }
   ],
-  "injuries": [
-    {
-      "id": "1ac84bf1-a291-44eb-9228-58ab666a619b",
-      "playerId": "cff29621-0d97-4df2-8eda-e5794b15e4e0",
-      "playerName": "Franco Barbieri",
-      "teamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
-      "cause": "match",
-      "severity": "grave",
-      "matchesRemaining": 3,
-      "description": "Déchirure totale des ischio-jambiers — longue convalescence.",
-      "roundOccurred": 4
-    }
-  ],
-  "suspensions": [
-    {
-      "id": "24cf6c56-ee18-4728-8484-7083c4ea5765",
-      "subjectId": "e21eba70-7de4-45dc-8bf5-952b0aede9ee",
-      "subjectName": "Luca Grasso",
-      "teamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
-      "matchesRemaining": 1,
-      "reason": "Carton rouge",
-      "roundOccurred": 6
-    },
-    {
-      "id": "53545915-8c33-4594-9d62-b2b5b513b0fb",
-      "subjectId": "coach",
-      "subjectName": "Pietro Fontana",
-      "teamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
-      "matchesRemaining": 1,
-      "reason": "Expulsion en match",
-      "roundOccurred": 6
-    }
-  ],
+  "injuries": [],
+  "suspensions": [],
   "actionFoot": {
     "rating": 5,
     "funding": 105
