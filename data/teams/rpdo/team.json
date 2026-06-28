@@ -47,6 +47,81 @@
   "publishedAt": "2026-06-25T11:21:35.763Z",
   "recentMatches": [
     {
+      "matchId": "ihidw9kpmqvcmc3w",
+      "playedAt": "2026-06-28T10:51:31.059Z",
+      "opponentSlug": "italie",
+      "opponentName": "Italie",
+      "homeTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "awayTeamId": "3b7016ec-ba5d-4b54-9f1f-95d2e3ff84bf",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 2,
+      "opponentStrength": 62,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.3
+    },
+    {
+      "matchId": "ftdybejhmqvcmc3w",
+      "playedAt": "2026-06-28T10:46:26.082Z",
+      "opponentSlug": "nordrise",
+      "opponentName": "Nordrise",
+      "homeTeamId": "e601e0d9-7e45-4c53-bb41-16ccd12e9a06",
+      "awayTeamId": "3b7016ec-ba5d-4b54-9f1f-95d2e3ff84bf",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 5.7,
+      "scorers": [
+        {
+          "minute": 85,
+          "playerId": "6fb98b28-a430-46dd-9bcf-d4acaa516633",
+          "playerName": "Lucas Scott"
+        }
+      ]
+    },
+    {
+      "matchId": "506w2tgvmqvcmc3w",
+      "playedAt": "2026-06-28T10:40:20.767Z",
+      "opponentSlug": "fclc",
+      "opponentName": "FCLC",
+      "homeTeamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "awayTeamId": "3b7016ec-ba5d-4b54-9f1f-95d2e3ff84bf",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 4,
+      "opponentStrength": 61,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.7,
+      "scorers": [
+        {
+          "minute": 68,
+          "playerId": "7d531f08-bf11-40f4-9fbe-90cc7f1a320d",
+          "playerName": "Gavin Peterson",
+          "assistId": "6fb98b28-a430-46dd-9bcf-d4acaa516633",
+          "assistName": "Lucas Scott"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 75,
+          "playerId": "28b5f12c-ee29-482c-ae65-29a5e7c33b4b",
+          "playerName": "Mitchell Peterson",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "7flvwrlqmqvcmc3w",
       "playedAt": "2026-06-27T20:13:41.299Z",
       "opponentSlug": "castille",
