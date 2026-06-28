@@ -44,6 +44,107 @@
   },
   "recentMatches": [
     {
+      "matchId": "pse4d7vumqvcmc3w",
+      "playedAt": "2026-06-28T10:51:31.074Z",
+      "opponentSlug": "antioche",
+      "opponentName": "Antioche",
+      "homeTeamId": "d078bb55-7f06-4ed1-b048-1dd6524ecae9",
+      "awayTeamId": "8451e643-10d4-48bc-a4e6-4c12255695f4",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 6,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -7.7,
+      "scorers": [
+        {
+          "minute": 27,
+          "playerId": "ad34ebc1-ecaa-409f-bb94-38e01d110166",
+          "playerName": "Wade Rodriguez",
+          "assistId": "030c0ebf-e6fc-4e3f-81eb-a4a3496f3fad",
+          "assistName": "Quinn Rodriguez"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 23,
+          "playerId": "a2a9211b-2d1e-44cd-ae2a-c2df767171d3",
+          "playerName": "Blake Smith",
+          "type": "yellow"
+        },
+        {
+          "minute": 44,
+          "playerId": "78141ecd-8081-4be7-a019-1952fa4dc51c",
+          "playerName": "Kyle Johnson",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "tahdne0gmqvcmc3w",
+      "playedAt": "2026-06-28T10:46:26.087Z",
+      "opponentSlug": "cote-d-ivoire",
+      "opponentName": "Côte d'Ivoire",
+      "homeTeamId": "d078bb55-7f06-4ed1-b048-1dd6524ecae9",
+      "awayTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 3,
+      "opponentStrength": 62,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.8,
+      "cards": [
+        {
+          "minute": 57,
+          "playerId": "6e107cb7-c63b-485e-91ce-4149940ba9d0",
+          "playerName": "Scott Gonzalez",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "5za1l773mqvcmc3w",
+      "playedAt": "2026-06-28T10:40:20.773Z",
+      "opponentSlug": "germanie",
+      "opponentName": "Germanie",
+      "homeTeamId": "d078bb55-7f06-4ed1-b048-1dd6524ecae9",
+      "awayTeamId": "6377412c-0d4c-47e7-ba24-52745e83cfaa",
+      "homeAway": "home",
+      "scoreFor": 3,
+      "scoreAgainst": 2,
+      "opponentStrength": 62,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.4,
+      "scorers": [
+        {
+          "minute": 57,
+          "playerId": "6e107cb7-c63b-485e-91ce-4149940ba9d0",
+          "playerName": "Scott Gonzalez",
+          "assistId": "78b4156d-a748-40fc-a068-4cc594e6887b",
+          "assistName": "Wyatt Allen"
+        },
+        {
+          "minute": 62,
+          "playerId": "030c0ebf-e6fc-4e3f-81eb-a4a3496f3fad",
+          "playerName": "Quinn Rodriguez"
+        },
+        {
+          "minute": 93,
+          "playerId": "6e107cb7-c63b-485e-91ce-4149940ba9d0",
+          "playerName": "Scott Gonzalez"
+        }
+      ]
+    },
+    {
       "matchId": "np6a8nufmqvcmc3w",
       "playedAt": "2026-06-27T20:13:41.304Z",
       "opponentSlug": "aethel",
