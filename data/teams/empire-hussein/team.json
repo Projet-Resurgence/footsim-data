@@ -11,6 +11,140 @@
   "formation": "4-3-3",
   "recentMatches": [
     {
+      "matchId": "gymoklk7mqxpccxs",
+      "playedAt": "2026-06-28T11:29:12.814Z",
+      "opponentSlug": "italie",
+      "opponentName": "Italie",
+      "homeTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "awayTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 5,
+      "opponentStrength": 64,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -2.7,
+      "cards": [
+        {
+          "minute": 62,
+          "playerId": "4da3fb23-004e-4bc2-b23d-54eb6e91ca6e",
+          "playerName": "Hamada Ezzat",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "oejw45g9mqxpccxs",
+      "playedAt": "2026-06-28T11:28:02.042Z",
+      "opponentSlug": "deseret",
+      "opponentName": "Deseret",
+      "homeTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "awayTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 1,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.1,
+      "scorers": [
+        {
+          "minute": 28,
+          "playerId": "3e0d0cc9-8252-430d-ab33-8efac83ea04e",
+          "playerName": "Nizar Hakim",
+          "assistId": "2f13674a-aee2-4333-b7de-903e4d80b20c",
+          "assistName": "Rami Salhi"
+        },
+        {
+          "minute": 31,
+          "playerId": "16f8645a-2a66-4763-8e71-ca6e9832d693",
+          "playerName": "Oussama Nasri",
+          "assistId": "3e0d0cc9-8252-430d-ab33-8efac83ea04e",
+          "assistName": "Nizar Hakim"
+        }
+      ]
+    },
+    {
+      "matchId": "3evf4se2mqxpccxs",
+      "playedAt": "2026-06-28T11:26:39.362Z",
+      "opponentSlug": "grande-bretagne",
+      "opponentName": "Grande-Bretagne",
+      "homeTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "awayTeamId": "9a7b1eb4-ac4c-4bbd-9990-650d7754a955",
+      "homeAway": "home",
+      "scoreFor": 3,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.5,
+      "scorers": [
+        {
+          "minute": 8,
+          "playerId": "d58d678c-09a1-4228-923f-7ebfc1a2411c",
+          "playerName": "Abdallah El-Meniawy",
+          "assistId": "698a3b66-bffb-494b-822d-68025a22deac",
+          "assistName": "Jad Zakhour"
+        },
+        {
+          "minute": 48,
+          "playerId": "16f8645a-2a66-4763-8e71-ca6e9832d693",
+          "playerName": "Oussama Nasri"
+        },
+        {
+          "minute": 61,
+          "playerId": "ed7eb980-155d-4aee-9cbf-092a44bfc8c1",
+          "playerName": "Nabil Hariri"
+        }
+      ]
+    },
+    {
+      "matchId": "5tl4aczfmqxpccxs",
+      "playedAt": "2026-06-28T11:25:42.065Z",
+      "opponentSlug": "5eme-internationale",
+      "opponentName": "5ème Internationale",
+      "homeTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "awayTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "homeAway": "home",
+      "scoreFor": 3,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2,
+      "scorers": [
+        {
+          "minute": 13,
+          "playerId": "ed7eb980-155d-4aee-9cbf-092a44bfc8c1",
+          "playerName": "Nabil Hariri",
+          "assistId": "d58d678c-09a1-4228-923f-7ebfc1a2411c",
+          "assistName": "Abdallah El-Meniawy"
+        },
+        {
+          "minute": 53,
+          "playerId": "16c65b71-fb58-4e95-a4ba-2c1ee6079633",
+          "playerName": "Bassem Salem",
+          "assistId": "698a3b66-bffb-494b-822d-68025a22deac",
+          "assistName": "Jad Zakhour"
+        },
+        {
+          "minute": 92,
+          "playerId": "8745a1a2-e456-4d0e-8ddd-610658c8a559",
+          "playerName": "Magdy El-Baz",
+          "assistId": "2f13674a-aee2-4333-b7de-903e4d80b20c",
+          "assistName": "Rami Salhi"
+        }
+      ]
+    },
+    {
       "matchId": "orl2ceexmqvcmc3w",
       "playedAt": "2026-06-28T10:51:31.053Z",
       "opponentSlug": "lusitanie",
