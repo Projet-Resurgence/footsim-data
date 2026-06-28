@@ -25,7 +25,7 @@
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-27T23:30:23.407Z",
+  "publishedAt": "2026-06-28T08:25:17.692Z",
   "managerDiscordId": "1473103141728944171",
   "recentMatches": [
     {
@@ -1281,5 +1281,6 @@
       "name": "Tactique de Richard"
     }
   ],
-  "activeTacticId": "cd8fc365-9683-4574-9c2f-545a73d7ee0b"
+  "activeTacticId": "cd8fc365-9683-4574-9c2f-545a73d7ee0b",
+  "matchOutcome": "win"
 }
