@@ -30,6 +30,116 @@
   "publishedAt": "2026-06-27T20:37:45.895Z",
   "recentMatches": [
     {
+      "matchId": "okp0bwnymqvcmc3w",
+      "playedAt": "2026-06-28T10:51:31.075Z",
+      "opponentSlug": "otupia",
+      "opponentName": "Otupia",
+      "homeTeamId": "ca4a42a7-44f6-40eb-a405-f2996edb1a56",
+      "awayTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "homeAway": "away",
+      "scoreFor": 7,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 18,
+      "scorers": [
+        {
+          "minute": 13,
+          "playerId": "c6663d52-24a7-4d5a-aaea-b02fd24652d6",
+          "playerName": "Samuele De Angelis",
+          "assistId": "e8cb564f-f280-44e9-aaa1-7515af4c2b9a",
+          "assistName": "Fabrizio Bruno"
+        },
+        {
+          "minute": 48,
+          "playerId": "720e2681-c6f2-46e5-b610-9604d3a9e92c",
+          "playerName": "Davide Mancini",
+          "assistId": "e8cb564f-f280-44e9-aaa1-7515af4c2b9a",
+          "assistName": "Fabrizio Bruno"
+        },
+        {
+          "minute": 57,
+          "playerId": "63cba1c6-27e5-4311-91d8-92b5f3fde740",
+          "playerName": "Cristian Lombardo"
+        },
+        {
+          "minute": 58,
+          "playerId": "63cba1c6-27e5-4311-91d8-92b5f3fde740",
+          "playerName": "Cristian Lombardo"
+        },
+        {
+          "minute": 63,
+          "playerId": "63cba1c6-27e5-4311-91d8-92b5f3fde740",
+          "playerName": "Cristian Lombardo",
+          "assistId": "e8cb564f-f280-44e9-aaa1-7515af4c2b9a",
+          "assistName": "Fabrizio Bruno"
+        },
+        {
+          "minute": 67,
+          "playerId": "c6663d52-24a7-4d5a-aaea-b02fd24652d6",
+          "playerName": "Samuele De Angelis"
+        },
+        {
+          "minute": 87,
+          "playerId": "720e2681-c6f2-46e5-b610-9604d3a9e92c",
+          "playerName": "Davide Mancini"
+        }
+      ]
+    },
+    {
+      "matchId": "ydc60vnjmqvcmc3w",
+      "playedAt": "2026-06-28T10:45:13.446Z",
+      "opponentSlug": "antioche",
+      "opponentName": "Antioche",
+      "homeTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "awayTeamId": "8451e643-10d4-48bc-a4e6-4c12255695f4",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -5.7
+    },
+    {
+      "matchId": "whhba04vmqvcmc3w",
+      "playedAt": "2026-06-28T10:38:36.683Z",
+      "opponentSlug": "cote-d-ivoire",
+      "opponentName": "Côte d'Ivoire",
+      "homeTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "awayTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 0,
+      "opponentStrength": 62,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.9,
+      "scorers": [
+        {
+          "minute": 33,
+          "playerId": "c6663d52-24a7-4d5a-aaea-b02fd24652d6",
+          "playerName": "Samuele De Angelis",
+          "assistId": "37180e90-3f26-4a1d-8ad5-0ae24037266f",
+          "assistName": "Raffaele Greco"
+        },
+        {
+          "minute": 59,
+          "playerId": "c6663d52-24a7-4d5a-aaea-b02fd24652d6",
+          "playerName": "Samuele De Angelis",
+          "assistId": "442b01e6-c161-4845-8c2b-3261255abcdb",
+          "assistName": "Luca Marini"
+        }
+      ]
+    },
+    {
       "matchId": "227pxzfhmqwvirdm",
       "playedAt": "2026-06-27T21:34:37.825Z",
       "opponentSlug": "prometheus",
