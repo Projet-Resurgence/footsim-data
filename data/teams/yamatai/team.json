@@ -28,6 +28,208 @@
   },
   "recentMatches": [
     {
+      "matchId": "zbg631odmqxpccxs",
+      "playedAt": "2026-06-28T11:30:34.018Z",
+      "opponentSlug": "prometheus",
+      "opponentName": "Prometheus",
+      "homeTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "awayTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 1,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.1,
+      "scorers": [
+        {
+          "minute": 20,
+          "playerId": "862eeced-2bf5-4be5-966b-56639fe66d10",
+          "playerName": "Yuki Okamoto",
+          "assistId": "83382722-ee55-4bb1-86bb-b7f9dc4dc0a2",
+          "assistName": "Tsubasa Fukuda"
+        },
+        {
+          "minute": 40,
+          "playerId": "efab1044-6e12-4ab5-8353-5b9f7b0facab",
+          "playerName": "Genta Miyazaki",
+          "assistId": "83382722-ee55-4bb1-86bb-b7f9dc4dc0a2",
+          "assistName": "Tsubasa Fukuda"
+        }
+      ]
+    },
+    {
+      "matchId": "h941bls1mqxpccxs",
+      "playedAt": "2026-06-28T11:29:52.175Z",
+      "opponentSlug": "italie",
+      "opponentName": "Italie",
+      "homeTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "awayTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 4,
+      "opponentStrength": 64,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.7,
+      "scorers": [
+        {
+          "minute": 56,
+          "playerId": "45a62f33-b3f7-403d-8b43-a21924df4a63",
+          "playerName": "Toshiya Miyazaki"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 76,
+          "playerId": "e43f8cb6-5b88-4154-ac5b-d1285f15d8f1",
+          "playerName": "Haruto Sakamoto",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "2j4iwz2hmqxpccxs",
+      "playedAt": "2026-06-28T11:29:12.814Z",
+      "opponentSlug": "5eme-internationale",
+      "opponentName": "5ème Internationale",
+      "homeTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "awayTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "homeAway": "home",
+      "scoreFor": 3,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2,
+      "scorers": [
+        {
+          "minute": 10,
+          "playerId": "862eeced-2bf5-4be5-966b-56639fe66d10",
+          "playerName": "Yuki Okamoto",
+          "assistId": "efab1044-6e12-4ab5-8353-5b9f7b0facab",
+          "assistName": "Genta Miyazaki"
+        },
+        {
+          "minute": 41,
+          "playerId": "862eeced-2bf5-4be5-966b-56639fe66d10",
+          "playerName": "Yuki Okamoto",
+          "assistId": "e43f8cb6-5b88-4154-ac5b-d1285f15d8f1",
+          "assistName": "Haruto Sakamoto"
+        },
+        {
+          "minute": 44,
+          "playerId": "862eeced-2bf5-4be5-966b-56639fe66d10",
+          "playerName": "Yuki Okamoto",
+          "assistId": "efab1044-6e12-4ab5-8353-5b9f7b0facab",
+          "assistName": "Genta Miyazaki"
+        }
+      ]
+    },
+    {
+      "matchId": "8kcge36smqxpccxs",
+      "playedAt": "2026-06-28T11:28:02.039Z",
+      "opponentSlug": "italie",
+      "opponentName": "Italie",
+      "homeTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "awayTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 1,
+      "opponentStrength": 64,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 0.7,
+      "scorers": [
+        {
+          "minute": 49,
+          "playerId": "45a62f33-b3f7-403d-8b43-a21924df4a63",
+          "playerName": "Toshiya Miyazaki",
+          "assistId": "efab1044-6e12-4ab5-8353-5b9f7b0facab",
+          "assistName": "Genta Miyazaki"
+        }
+      ]
+    },
+    {
+      "matchId": "ita5e5j5mqxpccxs",
+      "playedAt": "2026-06-28T11:26:39.360Z",
+      "opponentSlug": "texas",
+      "opponentName": "Texas",
+      "homeTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "awayTeamId": "0cf5d3c2-39e2-4cfc-be26-279bf438a4c0",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.5,
+      "scorers": [
+        {
+          "minute": 35,
+          "playerId": "efab1044-6e12-4ab5-8353-5b9f7b0facab",
+          "playerName": "Genta Miyazaki"
+        },
+        {
+          "minute": 77,
+          "playerId": "862eeced-2bf5-4be5-966b-56639fe66d10",
+          "playerName": "Yuki Okamoto",
+          "assistId": "efab1044-6e12-4ab5-8353-5b9f7b0facab",
+          "assistName": "Genta Miyazaki"
+        }
+      ]
+    },
+    {
+      "matchId": "e8cylwopmqxpccxs",
+      "playedAt": "2026-06-28T11:25:42.062Z",
+      "opponentSlug": "nouvelle-californie",
+      "opponentName": "Nouvelle Californie",
+      "homeTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "awayTeamId": "8893e441-b5b6-49ea-b439-9c327b38d7c5",
+      "homeAway": "home",
+      "scoreFor": 3,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.5,
+      "scorers": [
+        {
+          "minute": 18,
+          "playerId": "862eeced-2bf5-4be5-966b-56639fe66d10",
+          "playerName": "Yuki Okamoto",
+          "assistId": "324470fc-f9a6-4d99-a563-da0262006553",
+          "assistName": "Ren Kato"
+        },
+        {
+          "minute": 48,
+          "playerId": "45a62f33-b3f7-403d-8b43-a21924df4a63",
+          "playerName": "Toshiya Miyazaki",
+          "assistId": "efab1044-6e12-4ab5-8353-5b9f7b0facab",
+          "assistName": "Genta Miyazaki"
+        },
+        {
+          "minute": 73,
+          "playerId": "862eeced-2bf5-4be5-966b-56639fe66d10",
+          "playerName": "Yuki Okamoto",
+          "assistId": "83382722-ee55-4bb1-86bb-b7f9dc4dc0a2",
+          "assistName": "Tsubasa Fukuda"
+        }
+      ]
+    },
+    {
       "matchId": "5202aqdgmqxonfpt",
       "playedAt": "2026-06-28T11:14:41.153Z",
       "opponentSlug": "ccb",
