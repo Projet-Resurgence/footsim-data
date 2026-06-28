@@ -324,6 +324,212 @@
   },
   "recentMatches": [
     {
+      "matchId": "xj24is79mqxpppws",
+      "playedAt": "2026-06-28T11:45:00.416Z",
+      "opponentSlug": "osmanide",
+      "opponentName": "Osmanide",
+      "homeTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "awayTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 1,
+      "opponentStrength": 61,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7
+    },
+    {
+      "matchId": "qxi96macmqxpppws",
+      "playedAt": "2026-06-28T11:43:36.249Z",
+      "opponentSlug": "spc",
+      "opponentName": "SPC",
+      "homeTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "awayTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "homeAway": "home",
+      "scoreFor": 4,
+      "scoreAgainst": 2,
+      "opponentStrength": 64,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.6,
+      "scorers": [
+        {
+          "minute": 37,
+          "playerId": "dbef5bfc-f6f6-4693-9c47-0566d870f06e",
+          "playerName": "Ou Lu",
+          "assistId": "043bd3ea-5b57-4c20-823d-adf11c7e3549",
+          "assistName": "Rui Wang"
+        },
+        {
+          "minute": 57,
+          "playerId": "75811d88-67bf-455a-98de-a3469da03099",
+          "playerName": "Sheng Han",
+          "assistId": "6fcb834b-f8d5-452b-b759-dc9e0ae2317a",
+          "assistName": "Kai Liang"
+        },
+        {
+          "minute": 76,
+          "playerId": "75811d88-67bf-455a-98de-a3469da03099",
+          "playerName": "Sheng Han",
+          "assistId": "6fcb834b-f8d5-452b-b759-dc9e0ae2317a",
+          "assistName": "Kai Liang"
+        },
+        {
+          "minute": 88,
+          "playerId": "dbef5bfc-f6f6-4693-9c47-0566d870f06e",
+          "playerName": "Ou Lu",
+          "assistId": "1359ee0e-7555-453d-83fe-befe00c8a218",
+          "assistName": "Zhen Yuan"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 65,
+          "playerId": "56d3b142-f548-4fad-9894-77cad156e7ac",
+          "playerName": "Tao Ren",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "b0v20daemqxpppws",
+      "playedAt": "2026-06-28T11:42:46.205Z",
+      "opponentSlug": "ccb",
+      "opponentName": "CCB",
+      "homeTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "awayTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 0,
+      "opponentStrength": 62,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2,
+      "scorers": [
+        {
+          "minute": 85,
+          "playerId": "dbef5bfc-f6f6-4693-9c47-0566d870f06e",
+          "playerName": "Ou Lu"
+        }
+      ]
+    },
+    {
+      "matchId": "q62lvpc0mqxpppwr",
+      "playedAt": "2026-06-28T11:41:12.997Z",
+      "opponentSlug": "prometheus",
+      "opponentName": "Prometheus",
+      "homeTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "awayTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 1,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "cards": [
+        {
+          "minute": 77,
+          "playerId": "56d3b142-f548-4fad-9894-77cad156e7ac",
+          "playerName": "Tao Ren",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "dcfbrot8mqxpppwr",
+      "playedAt": "2026-06-28T11:40:00.731Z",
+      "opponentSlug": "ursi",
+      "opponentName": "URSI",
+      "homeTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "awayTeamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+      "homeAway": "home",
+      "scoreFor": 5,
+      "scoreAgainst": 0,
+      "opponentStrength": 62,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 3,
+      "scorers": [
+        {
+          "minute": 20,
+          "playerId": "dbef5bfc-f6f6-4693-9c47-0566d870f06e",
+          "playerName": "Ou Lu"
+        },
+        {
+          "minute": 48,
+          "playerId": "2047d47b-b47e-4d9b-b80e-06f3ea7fa330",
+          "playerName": "Lei Luo"
+        },
+        {
+          "minute": 50,
+          "playerId": "75811d88-67bf-455a-98de-a3469da03099",
+          "playerName": "Sheng Han"
+        },
+        {
+          "minute": 63,
+          "playerId": "dbef5bfc-f6f6-4693-9c47-0566d870f06e",
+          "playerName": "Ou Lu",
+          "assistId": "2047d47b-b47e-4d9b-b80e-06f3ea7fa330",
+          "assistName": "Lei Luo"
+        },
+        {
+          "minute": 68,
+          "playerId": "dbef5bfc-f6f6-4693-9c47-0566d870f06e",
+          "playerName": "Ou Lu"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 70,
+          "playerId": "348fcc0d-a16d-4c67-b78c-04da4bccbd70",
+          "playerName": "Tian Han",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "asv0bse2mqxpppwr",
+      "playedAt": "2026-06-28T11:38:37.156Z",
+      "opponentSlug": "nova-orbis",
+      "opponentName": "Nova Orbis",
+      "homeTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "awayTeamId": "28f82804-8005-450a-b6d8-740533bf82b0",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.5,
+      "scorers": [
+        {
+          "minute": 38,
+          "playerId": "75811d88-67bf-455a-98de-a3469da03099",
+          "playerName": "Sheng Han",
+          "assistId": "043bd3ea-5b57-4c20-823d-adf11c7e3549",
+          "assistName": "Rui Wang"
+        },
+        {
+          "minute": 49,
+          "playerId": "dbef5bfc-f6f6-4693-9c47-0566d870f06e",
+          "playerName": "Ou Lu"
+        }
+      ]
+    },
+    {
       "matchId": "f0eu1f8kmqxpccxs",
       "playedAt": "2026-06-28T11:29:12.816Z",
       "opponentSlug": "prometheus",
