@@ -48,6 +48,113 @@
   "publishedAt": "2026-06-21T13:29:35.814Z",
   "recentMatches": [
     {
+      "matchId": "wka0cydtmqvcmc3w",
+      "playedAt": "2026-06-28T10:51:31.051Z",
+      "opponentSlug": "cascadie",
+      "opponentName": "Cascadie",
+      "homeTeamId": "e5bac765-f354-41a2-b940-1e97fba04c20",
+      "awayTeamId": "940ca331-c4a1-4b47-9124-47f1f0c0111b",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 4,
+      "opponentStrength": 62,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.8,
+      "cards": [
+        {
+          "minute": 9,
+          "playerId": "ec952366-f3a7-4039-a5d6-84abdf952f32",
+          "playerName": "Gilberto Zaire",
+          "type": "yellow"
+        },
+        {
+          "minute": 42,
+          "playerId": "ec952366-f3a7-4039-a5d6-84abdf952f32",
+          "playerName": "Gilberto Zaire",
+          "type": "red"
+        }
+      ]
+    },
+    {
+      "matchId": "ggq69ancmqvcmc3w",
+      "playedAt": "2026-06-28T10:46:26.076Z",
+      "opponentSlug": "atlantique",
+      "opponentName": "Atlantique",
+      "homeTeamId": "cc7eb9cc-9a93-44ee-89c7-f2c6e915a221",
+      "awayTeamId": "940ca331-c4a1-4b47-9124-47f1f0c0111b",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17,
+      "scorers": [
+        {
+          "minute": 31,
+          "playerId": "ee019909-426e-4e3d-a18f-51f5ba920422",
+          "playerName": "Carlos Ganda"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 16,
+          "playerId": "5c1bd3cb-d9ec-4039-89e0-fdb90ce41be8",
+          "playerName": "Domingos Cuando",
+          "type": "yellow"
+        },
+        {
+          "minute": 36,
+          "playerId": "5c1bd3cb-d9ec-4039-89e0-fdb90ce41be8",
+          "playerName": "Domingos Cuando",
+          "type": "red"
+        }
+      ]
+    },
+    {
+      "matchId": "3iwqdhmjmqvcmc3w",
+      "playedAt": "2026-06-28T10:40:20.763Z",
+      "opponentSlug": "naibat-de-mandra",
+      "opponentName": "Naibat de Mandra",
+      "homeTeamId": "fe2670d9-24c9-421f-8687-cd461e79e679",
+      "awayTeamId": "940ca331-c4a1-4b47-9124-47f1f0c0111b",
+      "homeAway": "away",
+      "scoreFor": 3,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17,
+      "scorers": [
+        {
+          "minute": 35,
+          "playerId": "ee019909-426e-4e3d-a18f-51f5ba920422",
+          "playerName": "Carlos Ganda",
+          "assistId": "ec952366-f3a7-4039-a5d6-84abdf952f32",
+          "assistName": "Gilberto Zaire"
+        },
+        {
+          "minute": 47,
+          "playerId": "ec952366-f3a7-4039-a5d6-84abdf952f32",
+          "playerName": "Gilberto Zaire"
+        },
+        {
+          "minute": 81,
+          "playerId": "860fae57-f419-46f4-9343-c463c569f525",
+          "playerName": "Dinis Geraldo",
+          "assistId": "ec952366-f3a7-4039-a5d6-84abdf952f32",
+          "assistName": "Gilberto Zaire"
+        }
+      ]
+    },
+    {
       "matchId": "1cpyurgcmqvcmc3w",
       "playedAt": "2026-06-27T20:13:41.294Z",
       "opponentSlug": "uda",
