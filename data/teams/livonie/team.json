@@ -222,6 +222,167 @@
   "activeTacticId": "cea688e4-4263-4d8a-b859-eedfe2f31c41",
   "recentMatches": [
     {
+      "matchId": "qboqzwjsmqxpppws",
+      "playedAt": "2026-06-28T11:42:46.201Z",
+      "opponentSlug": "osmanide",
+      "opponentName": "Osmanide",
+      "homeTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "awayTeamId": "6c4e5ecf-662a-43d5-9795-b038fe6e2072",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 3,
+      "opponentStrength": 61,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.2,
+      "scorers": [
+        {
+          "minute": 89,
+          "playerId": "8e3974f2-ad78-4d66-bb64-9774c8779854",
+          "playerName": "Reinis Upenieks"
+        }
+      ]
+    },
+    {
+      "matchId": "sn9bvaegmqxpppwr",
+      "playedAt": "2026-06-28T11:41:12.995Z",
+      "opponentSlug": "rpdo",
+      "opponentName": "RPDO",
+      "homeTeamId": "6c4e5ecf-662a-43d5-9795-b038fe6e2072",
+      "awayTeamId": "3b7016ec-ba5d-4b54-9f1f-95d2e3ff84bf",
+      "homeAway": "home",
+      "scoreFor": 4,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.5,
+      "scorers": [
+        {
+          "minute": 19,
+          "playerId": "9e097b78-7d82-4de8-be52-255472133750",
+          "playerName": "Mārtiņš Lācis"
+        },
+        {
+          "minute": 28,
+          "playerId": "8e3974f2-ad78-4d66-bb64-9774c8779854",
+          "playerName": "Reinis Upenieks"
+        },
+        {
+          "minute": 49,
+          "playerId": "9e097b78-7d82-4de8-be52-255472133750",
+          "playerName": "Mārtiņš Lācis"
+        },
+        {
+          "minute": 57,
+          "playerId": "ad17b3d4-b7cc-4e7f-ad90-c952e017613f",
+          "playerName": "Elīna Zariņš",
+          "assistId": "8e3974f2-ad78-4d66-bb64-9774c8779854",
+          "assistName": "Reinis Upenieks"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 70,
+          "playerId": "706eb6ae-5250-4f51-ada6-a7d7be967fc9",
+          "playerName": "Normunds Puķe",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "3m8kmf9dmqxpppwr",
+      "playedAt": "2026-06-28T11:40:00.727Z",
+      "opponentSlug": "deseret",
+      "opponentName": "Deseret",
+      "homeTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "awayTeamId": "6c4e5ecf-662a-43d5-9795-b038fe6e2072",
+      "homeAway": "away",
+      "scoreFor": 3,
+      "scoreAgainst": 4,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 29,
+          "playerId": "8e3974f2-ad78-4d66-bb64-9774c8779854",
+          "playerName": "Reinis Upenieks"
+        },
+        {
+          "minute": 42,
+          "playerId": "9e097b78-7d82-4de8-be52-255472133750",
+          "playerName": "Mārtiņš Lācis"
+        },
+        {
+          "minute": 97,
+          "playerId": "ad17b3d4-b7cc-4e7f-ad90-c952e017613f",
+          "playerName": "Elīna Zariņš",
+          "assistId": "3c4665d8-66af-459e-942e-d0d67cf26412",
+          "assistName": "Rolands Balodis"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 30,
+          "playerId": "01fdf5bd-185d-4214-8318-231760c32a5c",
+          "playerName": "Toms Roze",
+          "type": "yellow"
+        },
+        {
+          "minute": 74,
+          "playerId": "706eb6ae-5250-4f51-ada6-a7d7be967fc9",
+          "playerName": "Normunds Puķe",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "m44c4ki5mqxpppwr",
+      "playedAt": "2026-06-28T11:38:37.154Z",
+      "opponentSlug": "italie",
+      "opponentName": "Italie",
+      "homeTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "awayTeamId": "6c4e5ecf-662a-43d5-9795-b038fe6e2072",
+      "homeAway": "away",
+      "scoreFor": 3,
+      "scoreAgainst": 2,
+      "opponentStrength": 64,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.1,
+      "scorers": [
+        {
+          "minute": 37,
+          "playerId": "ad17b3d4-b7cc-4e7f-ad90-c952e017613f",
+          "playerName": "Elīna Zariņš"
+        },
+        {
+          "minute": 39,
+          "playerId": "3c4665d8-66af-459e-942e-d0d67cf26412",
+          "playerName": "Rolands Balodis",
+          "assistId": "8e3974f2-ad78-4d66-bb64-9774c8779854",
+          "assistName": "Reinis Upenieks"
+        },
+        {
+          "minute": 58,
+          "playerId": "9e097b78-7d82-4de8-be52-255472133750",
+          "playerName": "Mārtiņš Lācis",
+          "assistId": "8e3974f2-ad78-4d66-bb64-9774c8779854",
+          "assistName": "Reinis Upenieks"
+        }
+      ]
+    },
+    {
       "matchId": "hzbl8dbjmqvcmc3w",
       "playedAt": "2026-06-28T10:51:31.069Z",
       "opponentSlug": "grande-bretagne",
