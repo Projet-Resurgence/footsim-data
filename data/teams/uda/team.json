@@ -25,7 +25,7 @@
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-28T10:25:59.201Z",
+  "publishedAt": "2026-06-28T10:31:25.438Z",
   "managerDiscordId": "1477619366890573926",
   "compHistory": [
     {
@@ -207,28 +207,93 @@
   },
   "savedTactics": [
     {
-      "style": "long-ball",
-      "formation": "3-4-3",
+      "style": "pressing",
+      "formation": "4-4-2",
       "lineup": [
         "85083795-e4c9-4c40-84a9-9e310531f7bc",
+        "348fcc0d-a16d-4c67-b78c-04da4bccbd70",
         "66936b5b-0953-4bae-bbd5-92aff2d774a0",
         "93dd1f5c-318b-47ea-9eee-dabd2aab5bb5",
-        "c79f2ac7-f76e-4663-ab02-b597a6f29d4c",
+        "56d3b142-f548-4fad-9894-77cad156e7ac",
         "043bd3ea-5b57-4c20-823d-adf11c7e3549",
         "6fcb834b-f8d5-452b-b759-dc9e0ae2317a",
-        "89f75ad1-d901-4839-81c6-240a311c715e",
+        "896b6922-e4fc-4739-8fd6-5d10fa69c747",
         "1359ee0e-7555-453d-83fe-befe00c8a218",
+        "75811d88-67bf-455a-98de-a3469da03099",
+        "dbef5bfc-f6f6-4693-9c47-0566d870f06e"
+      ],
+      "customStyles": [
+        {
+          "id": "06077605-f5c6-451f-a72b-8f2417c5a13f",
+          "name": "Équilibre",
+          "mods": {
+            "shotFreqMult": 1.05,
+            "foulRateMult": 1,
+            "midfieldMult": 1.15,
+            "attackMult": 1.05,
+            "defenseMult": 1.05
+          }
+        }
+      ],
+      "activeCustomStyleId": "06077605-f5c6-451f-a72b-8f2417c5a13f",
+      "id": "7b4f31b5-c096-441b-88e7-2880fddb526a",
+      "name": "Hai Phong fucker",
+      "plannedSubs": [
+        {
+          "outId": "85083795-e4c9-4c40-84a9-9e310531f7bc",
+          "inId": "0dea04d0-3489-4de6-af78-ff885d66d3ed",
+          "minute": 50
+        }
+      ]
+    },
+    {
+      "style": "possession",
+      "formation": "4-3-3",
+      "lineup": [
+        "85083795-e4c9-4c40-84a9-9e310531f7bc",
+        "348fcc0d-a16d-4c67-b78c-04da4bccbd70",
+        "66936b5b-0953-4bae-bbd5-92aff2d774a0",
+        "93dd1f5c-318b-47ea-9eee-dabd2aab5bb5",
+        "56d3b142-f548-4fad-9894-77cad156e7ac",
+        "896b6922-e4fc-4739-8fd6-5d10fa69c747",
+        "6fcb834b-f8d5-452b-b759-dc9e0ae2317a",
+        "89f75ad1-d901-4839-81c6-240a311c715e",
         "a9845c59-12ee-4a24-ae10-571725c54d42",
         "75811d88-67bf-455a-98de-a3469da03099",
         "2047d47b-b47e-4d9b-b80e-06f3ea7fa330"
       ],
-      "customStyles": [],
-      "id": "ec43e5ce-b8cd-4d1a-996d-f34c2688b343",
-      "name": "Tactique 1"
+      "plannedSubs": [
+        {
+          "outId": "75811d88-67bf-455a-98de-a3469da03099",
+          "inId": "dbef5bfc-f6f6-4693-9c47-0566d870f06e",
+          "minute": 70
+        },
+        {
+          "outId": "85083795-e4c9-4c40-84a9-9e310531f7bc",
+          "inId": "0dea04d0-3489-4de6-af78-ff885d66d3ed",
+          "minute": 50
+        }
+      ],
+      "customStyles": [
+        {
+          "id": "a94e7075-db5a-4dc6-a410-8b1e35d7fa90",
+          "name": "Possession +",
+          "mods": {
+            "shotFreqMult": 1,
+            "foulRateMult": 1,
+            "midfieldMult": 1.15,
+            "attackMult": 1.1,
+            "defenseMult": 1.05
+          }
+        }
+      ],
+      "activeCustomStyleId": "a94e7075-db5a-4dc6-a410-8b1e35d7fa90",
+      "id": "7025104d-6268-4009-bbe3-8caa25b8180a",
+      "name": "Deniixball"
     }
   ],
   "jerseyColor": "#b10606",
-  "activeTacticId": "ec43e5ce-b8cd-4d1a-996d-f34c2688b343",
+  "activeTacticId": "7b4f31b5-c096-441b-88e7-2880fddb526a",
   "actionFoot": {
     "rating": 5,
     "funding": 100
