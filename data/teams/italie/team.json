@@ -194,6 +194,188 @@
   ],
   "recentMatches": [
     {
+      "matchId": "fn8hz4phmqxpppws",
+      "playedAt": "2026-06-28T11:42:46.203Z",
+      "opponentSlug": "ugp",
+      "opponentName": "UGP",
+      "homeTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "awayTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 2,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 59,
+          "playerId": "1112f785-5cf3-4def-9832-f90b8f5faed5",
+          "playerName": "Alessandro Mariani",
+          "assistId": "cf861f67-c8bc-4f53-9f04-2e22fc880308",
+          "assistName": "Mario Santoro"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 56,
+          "playerId": "77b41aa4-9124-493b-979c-2cf608e62882",
+          "playerName": "Stefano Messina",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "eu1q1zxamqxpppwr",
+      "playedAt": "2026-06-28T11:41:12.994Z",
+      "opponentSlug": "deseret",
+      "opponentName": "Deseret",
+      "homeTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "awayTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "homeAway": "away",
+      "scoreFor": 5,
+      "scoreAgainst": 0,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 3.1,
+      "scorers": [
+        {
+          "minute": 39,
+          "playerId": "cf861f67-c8bc-4f53-9f04-2e22fc880308",
+          "playerName": "Mario Santoro",
+          "assistId": "6279380c-2ca6-4327-aabb-c1c3dbcf92f8",
+          "assistName": "Vincenzo Cattaneo"
+        },
+        {
+          "minute": 43,
+          "playerId": "cf861f67-c8bc-4f53-9f04-2e22fc880308",
+          "playerName": "Mario Santoro"
+        },
+        {
+          "minute": 55,
+          "playerId": "cff29621-0d97-4df2-8eda-e5794b15e4e0",
+          "playerName": "Franco Barbieri"
+        },
+        {
+          "minute": 69,
+          "playerId": "1112f785-5cf3-4def-9832-f90b8f5faed5",
+          "playerName": "Alessandro Mariani"
+        },
+        {
+          "minute": 70,
+          "playerId": "cf861f67-c8bc-4f53-9f04-2e22fc880308",
+          "playerName": "Mario Santoro"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 78,
+          "playerId": "e21eba70-7de4-45dc-8bf5-952b0aede9ee",
+          "playerName": "Luca Grasso",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "dhaqle6vmqxpppwr",
+      "playedAt": "2026-06-28T11:40:00.728Z",
+      "opponentSlug": "rpdo",
+      "opponentName": "RPDO",
+      "homeTeamId": "3b7016ec-ba5d-4b54-9f1f-95d2e3ff84bf",
+      "awayTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "homeAway": "away",
+      "scoreFor": 6,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 3,
+      "scorers": [
+        {
+          "minute": 6,
+          "playerId": "cf861f67-c8bc-4f53-9f04-2e22fc880308",
+          "playerName": "Mario Santoro",
+          "assistId": "6279380c-2ca6-4327-aabb-c1c3dbcf92f8",
+          "assistName": "Vincenzo Cattaneo"
+        },
+        {
+          "minute": 16,
+          "playerId": "cf861f67-c8bc-4f53-9f04-2e22fc880308",
+          "playerName": "Mario Santoro"
+        },
+        {
+          "minute": 36,
+          "playerId": "6279380c-2ca6-4327-aabb-c1c3dbcf92f8",
+          "playerName": "Vincenzo Cattaneo",
+          "assistId": "f38ac7a8-6588-434f-a9d6-5dd503c1dc44",
+          "assistName": "Giuseppe Costa"
+        },
+        {
+          "minute": 39,
+          "playerId": "cf861f67-c8bc-4f53-9f04-2e22fc880308",
+          "playerName": "Mario Santoro"
+        },
+        {
+          "minute": 55,
+          "playerId": "cf861f67-c8bc-4f53-9f04-2e22fc880308",
+          "playerName": "Mario Santoro"
+        },
+        {
+          "minute": 90,
+          "playerId": "1112f785-5cf3-4def-9832-f90b8f5faed5",
+          "playerName": "Alessandro Mariani"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 40,
+          "playerId": "c56d1d29-8131-43f3-934e-3128d5651b25",
+          "playerName": "Marco Villa",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "m44c4ki5mqxpppwr",
+      "playedAt": "2026-06-28T11:38:37.154Z",
+      "opponentSlug": "livonie",
+      "opponentName": "Livonie",
+      "homeTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "awayTeamId": "6c4e5ecf-662a-43d5-9795-b038fe6e2072",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 3,
+      "opponentStrength": 62,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 19,
+          "playerId": "cff29621-0d97-4df2-8eda-e5794b15e4e0",
+          "playerName": "Franco Barbieri",
+          "assistId": "9adf7857-617e-441c-bd7b-8b06912b9e7b",
+          "assistName": "Marco Sala"
+        },
+        {
+          "minute": 33,
+          "playerId": "e21eba70-7de4-45dc-8bf5-952b0aede9ee",
+          "playerName": "Luca Grasso",
+          "assistId": "9adf7857-617e-441c-bd7b-8b06912b9e7b",
+          "assistName": "Marco Sala"
+        }
+      ]
+    },
+    {
       "matchId": "jbx8isdzmqxpccxs",
       "playedAt": "2026-06-28T11:30:34.014Z",
       "opponentSlug": "ugp",
