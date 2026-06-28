@@ -359,6 +359,76 @@
   ],
   "recentMatches": [
     {
+      "matchId": "wgy6afc6mqxonfpt",
+      "playedAt": "2026-06-28T11:09:36.449Z",
+      "opponentSlug": "ccb",
+      "opponentName": "CCB",
+      "homeTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "awayTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 2,
+      "opponentStrength": 62,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.2
+    },
+    {
+      "matchId": "ji5xjdtfmqxonfpt",
+      "playedAt": "2026-06-28T11:07:49.220Z",
+      "opponentSlug": "nouvelle-californie",
+      "opponentName": "Nouvelle Californie",
+      "homeTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "awayTeamId": "8893e441-b5b6-49ea-b439-9c327b38d7c5",
+      "homeAway": "home",
+      "scoreFor": 3,
+      "scoreAgainst": 3,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 0.7,
+      "scorers": [
+        {
+          "minute": 6,
+          "playerId": "9d7fb4c5-31ca-4b0a-b8b9-fc8434e2cdd0",
+          "playerName": "İsmail Uçar"
+        },
+        {
+          "minute": 32,
+          "playerId": "9d7fb4c5-31ca-4b0a-b8b9-fc8434e2cdd0",
+          "playerName": "İsmail Uçar",
+          "assistId": "c8ce0f44-f254-4cf4-8acd-939678b433fd",
+          "assistName": "Necati Demir"
+        },
+        {
+          "minute": 77,
+          "playerId": "209b7955-f460-488e-9eac-61580e6cd175",
+          "playerName": "Aykut Koç"
+        }
+      ]
+    },
+    {
+      "matchId": "fq43pi2tmqxonfpt",
+      "playedAt": "2026-06-28T11:05:38.897Z",
+      "opponentSlug": "italie",
+      "opponentName": "Italie",
+      "homeTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "awayTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 3,
+      "opponentStrength": 64,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.7
+    },
+    {
       "matchId": "u493pvylmqvcmc3w",
       "playedAt": "2026-06-28T10:51:31.073Z",
       "opponentSlug": "ufep",
