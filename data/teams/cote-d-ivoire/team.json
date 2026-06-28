@@ -42,7 +42,7 @@
     "overall": 76
   },
   "jerseyColor": "#f9a006",
-  "publishedAt": "2026-06-28T09:11:03.151Z",
+  "publishedAt": "2026-06-28T10:57:36.658Z",
   "compHistory": [
     {
       "compId": "ifernu3ytbmqr3areq",
@@ -363,6 +363,86 @@
         "83ea9621-e62e-41d4-af61-139486a33ccb"
       ],
       "activeCustomStyleId": "c589a701-d45c-4ab4-b7a5-b691c311ebe0"
+    },
+    {
+      "style": "possession",
+      "formation": "4-3-3",
+      "lineup": [
+        "341c2d91-99fc-4fee-8f22-02f672169c4d",
+        "14259458-87a1-4f2c-9ac8-a884be29ea29",
+        "99ea1531-0a21-4909-acde-5b29f578e981",
+        "2869ad75-2a38-4f4f-b46f-30d14c571450",
+        "c5357096-84f3-4423-9342-aa1fa54bd941",
+        "0636869a-f34f-4bc5-b141-979c31bfd66d",
+        "e1afab4f-2e72-417f-990e-dbf3705beeed",
+        "2e2f29f9-653b-4528-a87b-b4003dca2f4b",
+        "305ef8f4-3d72-4985-ac81-e47e5bc183af",
+        "f7d4fa4e-d3fb-4f2c-a7c4-aed6dfccbcdb",
+        "1f2b7e31-8ff2-4bb3-b9e5-42ab5282bbb3"
+      ],
+      "formationLabel": "4-2-4",
+      "positionMap": {
+        "1f2b7e31-8ff2-4bb3-b9e5-42ab5282bbb3": "ST",
+        "f7d4fa4e-d3fb-4f2c-a7c4-aed6dfccbcdb": "ST",
+        "305ef8f4-3d72-4985-ac81-e47e5bc183af": "RW",
+        "0636869a-f34f-4bc5-b141-979c31bfd66d": "LW",
+        "e1afab4f-2e72-417f-990e-dbf3705beeed": "CM",
+        "2e2f29f9-653b-4528-a87b-b4003dca2f4b": "CM",
+        "14259458-87a1-4f2c-9ac8-a884be29ea29": "LB",
+        "2869ad75-2a38-4f4f-b46f-30d14c571450": "CB",
+        "99ea1531-0a21-4909-acde-5b29f578e981": "CB",
+        "c5357096-84f3-4423-9342-aa1fa54bd941": "RB",
+        "341c2d91-99fc-4fee-8f22-02f672169c4d": "GK"
+      },
+      "tokenPositions": {
+        "1f2b7e31-8ff2-4bb3-b9e5-42ab5282bbb3": {
+          "x": 66,
+          "y": 20
+        },
+        "f7d4fa4e-d3fb-4f2c-a7c4-aed6dfccbcdb": {
+          "x": 34,
+          "y": 20
+        },
+        "305ef8f4-3d72-4985-ac81-e47e5bc183af": {
+          "x": 91.36319232372014,
+          "y": 22.763724070969403
+        },
+        "0636869a-f34f-4bc5-b141-979c31bfd66d": {
+          "x": 6.039608969743873,
+          "y": 25.14274233387172
+        },
+        "e1afab4f-2e72-417f-990e-dbf3705beeed": {
+          "x": 34,
+          "y": 49
+        },
+        "2e2f29f9-653b-4528-a87b-b4003dca2f4b": {
+          "x": 66,
+          "y": 49
+        },
+        "14259458-87a1-4f2c-9ac8-a884be29ea29": {
+          "x": 12,
+          "y": 70
+        },
+        "2869ad75-2a38-4f4f-b46f-30d14c571450": {
+          "x": 66,
+          "y": 72
+        },
+        "99ea1531-0a21-4909-acde-5b29f578e981": {
+          "x": 34,
+          "y": 72
+        },
+        "c5357096-84f3-4423-9342-aa1fa54bd941": {
+          "x": 88,
+          "y": 70
+        },
+        "341c2d91-99fc-4fee-8f22-02f672169c4d": {
+          "x": 50,
+          "y": 88
+        }
+      },
+      "customStyles": [],
+      "id": "5fb55601-ee4f-4dc3-b406-648efd99db5b",
+      "name": "Ivoire"
     }
   ],
   "activeTacticId": "65ef9a7b-31aa-462f-a76a-0a2cd9c9f020",
