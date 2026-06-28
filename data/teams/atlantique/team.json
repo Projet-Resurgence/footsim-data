@@ -48,6 +48,98 @@
   "publishedAt": "2026-06-25T10:57:08.856Z",
   "recentMatches": [
     {
+      "matchId": "3mlfcs4cmqvcmc3w",
+      "playedAt": "2026-06-28T10:51:31.054Z",
+      "opponentSlug": "nova-orbis",
+      "opponentName": "Nova Orbis",
+      "homeTeamId": "cc7eb9cc-9a93-44ee-89c7-f2c6e915a221",
+      "awayTeamId": "28f82804-8005-450a-b6d8-740533bf82b0",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 3,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.2,
+      "scorers": [
+        {
+          "minute": 49,
+          "playerId": "cec68270-7df7-4b6a-8585-571ebdb11ef1",
+          "playerName": "Spencer Green"
+        }
+      ]
+    },
+    {
+      "matchId": "ggq69ancmqvcmc3w",
+      "playedAt": "2026-06-28T10:46:26.076Z",
+      "opponentSlug": "ksuta",
+      "opponentName": "Ksuta",
+      "homeTeamId": "cc7eb9cc-9a93-44ee-89c7-f2c6e915a221",
+      "awayTeamId": "940ca331-c4a1-4b47-9124-47f1f0c0111b",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -5.7,
+      "cards": [
+        {
+          "minute": 84,
+          "playerId": "08e862cf-4df6-404f-b10b-f62b70081762",
+          "playerName": "Ethan White",
+          "type": "yellow"
+        },
+        {
+          "minute": 93,
+          "playerId": "d2916657-2e00-4b08-9ce2-1b5930249db8",
+          "playerName": "Wyatt Jackson",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "hyz8hni1mqvcmc3w",
+      "playedAt": "2026-06-28T10:40:20.762Z",
+      "opponentSlug": "crpac",
+      "opponentName": "CRPAC",
+      "homeTeamId": "cc7eb9cc-9a93-44ee-89c7-f2c6e915a221",
+      "awayTeamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 5,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.7,
+      "scorers": [
+        {
+          "minute": 53,
+          "playerId": "08e862cf-4df6-404f-b10b-f62b70081762",
+          "playerName": "Ethan White"
+        },
+        {
+          "minute": 75,
+          "playerId": "6a4f1653-9650-45c2-b097-0503114c9193",
+          "playerName": "Ethan Allen"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 78,
+          "playerId": "cec68270-7df7-4b6a-8585-571ebdb11ef1",
+          "playerName": "Spencer Green",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "ymtyqirumqvcmc3w",
       "playedAt": "2026-06-27T20:13:41.291Z",
       "opponentSlug": "cascadie",
