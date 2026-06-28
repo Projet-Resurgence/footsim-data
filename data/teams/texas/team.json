@@ -53,6 +53,102 @@
   "suspensions": [],
   "recentMatches": [
     {
+      "matchId": "irgcr07fmqxonfpt",
+      "playedAt": "2026-06-28T11:11:42.905Z",
+      "opponentSlug": "spc",
+      "opponentName": "SPC",
+      "homeTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "awayTeamId": "0cf5d3c2-39e2-4cfc-be26-279bf438a4c0",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 0,
+      "opponentStrength": 64,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.1,
+      "scorers": [
+        {
+          "minute": 85,
+          "playerId": "543d6f3c-6cfc-43b1-905e-712da192aa7a",
+          "playerName": "Noah Young",
+          "assistId": "c194fce2-c9fd-48b9-8b03-ce626d48ebba",
+          "assistName": "Miles Turner"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 78,
+          "playerId": "16cef0e3-1abb-4fd1-9eb3-e190d7aae67d",
+          "playerName": "Blake Harris",
+          "type": "yellow"
+        },
+        {
+          "minute": 83,
+          "playerId": "543d6f3c-6cfc-43b1-905e-712da192aa7a",
+          "playerName": "Noah Young",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "fvho6k63mqxonfpt",
+      "playedAt": "2026-06-28T11:09:36.452Z",
+      "opponentSlug": "foi-primaris",
+      "opponentName": "Foi Primaris",
+      "homeTeamId": "0cf5d3c2-39e2-4cfc-be26-279bf438a4c0",
+      "awayTeamId": "7db62a2a-b398-4a35-9c11-4d5b4bf4570c",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 8,
+      "opponentStrength": 64,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -2.7,
+      "cards": [
+        {
+          "minute": 31,
+          "playerId": "698be8a7-68c2-4f09-b43a-945412e612a1",
+          "playerName": "Ethan Phillips",
+          "type": "yellow"
+        },
+        {
+          "minute": 93,
+          "playerId": "57691541-d291-4ba5-ba39-8a3acb014ad9",
+          "playerName": "Aiyana Ironbow",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "lpovtozhmqxonfpt",
+      "playedAt": "2026-06-28T11:07:49.221Z",
+      "opponentSlug": "yamatai",
+      "opponentName": "Yamatai",
+      "homeTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "awayTeamId": "0cf5d3c2-39e2-4cfc-be26-279bf438a4c0",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 1,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "cards": [
+        {
+          "minute": 47,
+          "playerId": "c194fce2-c9fd-48b9-8b03-ce626d48ebba",
+          "playerName": "Miles Turner",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "2zcl77memqvcmc3w",
       "playedAt": "2026-06-28T10:51:31.055Z",
       "opponentSlug": "nouvelle-californie",
