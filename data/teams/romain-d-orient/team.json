@@ -52,6 +52,104 @@
   "compHistory": [],
   "recentMatches": [
     {
+      "matchId": "lqvukdncmqvcmc3w",
+      "playedAt": "2026-06-28T10:51:31.068Z",
+      "opponentSlug": "aethel",
+      "opponentName": "Aethel",
+      "homeTeamId": "a4339c19-4507-45d0-a8e7-ab33c8fe64c0",
+      "awayTeamId": "9aea33e4-a280-4ec7-8ad5-4852e3cf3439",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 3,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.2,
+      "scorers": [
+        {
+          "minute": 25,
+          "playerId": "f4c3f550-7bb2-4942-bcf1-67862943e509",
+          "playerName": "Andreas Tsipras",
+          "assistId": "37be583d-8e1d-4bad-8fb4-8aa1a0d62c25",
+          "assistName": "Petros Manolis"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 34,
+          "playerId": "254d5c2f-6208-4219-8ffa-5c6a262346b4",
+          "playerName": "Andreas Theodoropoulos",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "khhnrrrpmqvcmc3w",
+      "playedAt": "2026-06-28T10:46:26.084Z",
+      "opponentSlug": "deseret",
+      "opponentName": "Deseret",
+      "homeTeamId": "a4339c19-4507-45d0-a8e7-ab33c8fe64c0",
+      "awayTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 6,
+      "opponentStrength": 64,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -8,
+      "scorers": [
+        {
+          "minute": 71,
+          "playerId": "530d5513-1e08-4527-8a08-73368ca57cf9",
+          "playerName": "Tolga Toprak"
+        }
+      ]
+    },
+    {
+      "matchId": "ytww3bp6mqvcmc3w",
+      "playedAt": "2026-06-28T10:40:20.770Z",
+      "opponentSlug": "yamatai",
+      "opponentName": "Yamatai",
+      "homeTeamId": "a4339c19-4507-45d0-a8e7-ab33c8fe64c0",
+      "awayTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 6,
+      "opponentStrength": 63,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -7.9,
+      "scorers": [
+        {
+          "minute": 11,
+          "playerId": "530d5513-1e08-4527-8a08-73368ca57cf9",
+          "playerName": "Tolga Toprak",
+          "assistId": "82a666e4-2a76-4e50-8d91-81c18d3ed6e8",
+          "assistName": "Marios Markou"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 44,
+          "playerId": "37be583d-8e1d-4bad-8fb4-8aa1a0d62c25",
+          "playerName": "Petros Manolis",
+          "type": "yellow"
+        },
+        {
+          "minute": 46,
+          "playerId": "f4c3f550-7bb2-4942-bcf1-67862943e509",
+          "playerName": "Andreas Tsipras",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "1l5qc9usmqvcmc3w",
       "playedAt": "2026-06-27T20:13:41.300Z",
       "opponentSlug": "ccb",
