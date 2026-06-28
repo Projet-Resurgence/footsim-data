@@ -47,6 +47,76 @@
   "suspensions": [],
   "recentMatches": [
     {
+      "matchId": "orl2ceexmqvcmc3w",
+      "playedAt": "2026-06-28T10:51:31.053Z",
+      "opponentSlug": "empire-hussein",
+      "opponentName": "Empire Hussein",
+      "homeTeamId": "2256fe5a-993b-4007-8191-47ebe93a3e70",
+      "awayTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 2,
+      "opponentStrength": 65,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.5
+    },
+    {
+      "matchId": "ofottdcbmqvcmc3w",
+      "playedAt": "2026-06-28T10:46:26.075Z",
+      "opponentSlug": "spc",
+      "opponentName": "SPC",
+      "homeTeamId": "2256fe5a-993b-4007-8191-47ebe93a3e70",
+      "awayTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 1,
+      "opponentStrength": 62,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -5.8
+    },
+    {
+      "matchId": "y4g5i8ppmqvcmc3w",
+      "playedAt": "2026-06-28T10:40:20.761Z",
+      "opponentSlug": "perou",
+      "opponentName": "Pérou",
+      "homeTeamId": "2256fe5a-993b-4007-8191-47ebe93a3e70",
+      "awayTeamId": "f3fda074-0648-4d1f-a413-281bbf6d7d59",
+      "homeAway": "home",
+      "scoreFor": 3,
+      "scoreAgainst": 0,
+      "opponentStrength": 61,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.7,
+      "scorers": [
+        {
+          "minute": 38,
+          "playerId": "0cfa77f9-a743-4efd-97fb-ee6b05b458f5",
+          "playerName": "Manuel Antunes"
+        },
+        {
+          "minute": 53,
+          "playerId": "fc27f8d0-136b-48fc-9756-14fe1bd17f54",
+          "playerName": "Eduardo Gomes",
+          "assistId": "1c1883fd-1641-4a76-b8ae-12d74403e211",
+          "assistName": "Lourenço Reis"
+        },
+        {
+          "minute": 90,
+          "playerId": "661827df-7602-47ac-bfea-a7a3d9199e8a",
+          "playerName": "Inácio Marques"
+        }
+      ]
+    },
+    {
       "matchId": "x8lzc349mqvcmc3w",
       "playedAt": "2026-06-27T20:13:41.290Z",
       "opponentSlug": "maghreb",
