@@ -47,6 +47,100 @@
   "compHistory": [],
   "recentMatches": [
     {
+      "matchId": "qt99ehbfmqvcmc3w",
+      "playedAt": "2026-06-28T10:51:31.072Z",
+      "opponentSlug": "cote-d-ivoire",
+      "opponentName": "Côte d'Ivoire",
+      "homeTeamId": "495d8db0-d1b7-49fd-bb3d-dcecda27eb95",
+      "awayTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 1,
+      "opponentStrength": 62,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 5.8,
+      "scorers": [
+        {
+          "minute": 20,
+          "playerId": "f1c10d3c-bb26-4489-9639-780e72a2bf20",
+          "playerName": "Yu-min Moon",
+          "assistId": "b864885a-5a49-41ac-9411-6d506994384f",
+          "assistName": "Joon-woo Pyeon"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 48,
+          "playerId": "5593d2ad-b0bc-41d5-aeaa-d11bfdc4ab5c",
+          "playerName": "Min-gyu Seonu",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "klxophrvmqvcmc3w",
+      "playedAt": "2026-06-28T10:46:26.087Z",
+      "opponentSlug": "germanie",
+      "opponentName": "Germanie",
+      "homeTeamId": "495d8db0-d1b7-49fd-bb3d-dcecda27eb95",
+      "awayTeamId": "6377412c-0d4c-47e7-ba24-52745e83cfaa",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 0,
+      "opponentStrength": 62,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.9,
+      "scorers": [
+        {
+          "minute": 68,
+          "playerId": "85687546-17f3-43a1-9449-faec0f9fac22",
+          "playerName": "Hyun-woo Shin"
+        },
+        {
+          "minute": 78,
+          "playerId": "837adf66-97e0-4ed1-8edc-47bf6361febc",
+          "playerName": "Eun-woo Kong",
+          "assistId": "5593d2ad-b0bc-41d5-aeaa-d11bfdc4ab5c",
+          "assistName": "Min-gyu Seonu"
+        }
+      ]
+    },
+    {
+      "matchId": "6nsfvfgvmqvcmc3w",
+      "playedAt": "2026-06-28T10:40:20.773Z",
+      "opponentSlug": "aethel",
+      "opponentName": "Aethel",
+      "homeTeamId": "495d8db0-d1b7-49fd-bb3d-dcecda27eb95",
+      "awayTeamId": "9aea33e4-a280-4ec7-8ad5-4852e3cf3439",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.5,
+      "scorers": [
+        {
+          "minute": 38,
+          "playerId": "837adf66-97e0-4ed1-8edc-47bf6361febc",
+          "playerName": "Eun-woo Kong"
+        },
+        {
+          "minute": 59,
+          "playerId": "b864885a-5a49-41ac-9411-6d506994384f",
+          "playerName": "Joon-woo Pyeon"
+        }
+      ]
+    },
+    {
       "matchId": "96c18wqgmqvcmc3w",
       "playedAt": "2026-06-27T20:11:48.885Z",
       "opponentSlug": "deseret",
