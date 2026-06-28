@@ -203,6 +203,133 @@
   ],
   "recentMatches": [
     {
+      "matchId": "35grktdtmqvcmc3w",
+      "playedAt": "2026-06-28T10:51:31.071Z",
+      "opponentSlug": "mapuche",
+      "opponentName": "Mapuche",
+      "homeTeamId": "0779ee45-e790-4ff2-901b-ba22bd8b4d83",
+      "awayTeamId": "7db62a2a-b398-4a35-9c11-4d5b4bf4570c",
+      "homeAway": "away",
+      "scoreFor": 4,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.5,
+      "scorers": [
+        {
+          "minute": 14,
+          "playerId": "dbc0de06-7355-4358-afa9-ca2200500ea7",
+          "playerName": "Omar Jumanne"
+        },
+        {
+          "minute": 49,
+          "playerId": "3ad7f7fc-6c82-4c2e-a421-e0c60a674725",
+          "playerName": "Hamisi Issa"
+        },
+        {
+          "minute": 54,
+          "playerId": "0d76b8fe-76c5-4c18-88ac-565369944291",
+          "playerName": "Honest Warioba"
+        },
+        {
+          "minute": 69,
+          "playerId": "0d76b8fe-76c5-4c18-88ac-565369944291",
+          "playerName": "Honest Warioba"
+        }
+      ]
+    },
+    {
+      "matchId": "k2l0g8h1mqvcmc3w",
+      "playedAt": "2026-06-28T10:44:32.395Z",
+      "opponentSlug": "osmanide",
+      "opponentName": "Osmanide",
+      "homeTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "awayTeamId": "7db62a2a-b398-4a35-9c11-4d5b4bf4570c",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17,
+      "scorers": [
+        {
+          "minute": 32,
+          "playerId": "48c23223-9363-4a29-a7d0-d04b8be6bfde",
+          "playerName": "Kilima Kigwangalla",
+          "assistId": "0d76b8fe-76c5-4c18-88ac-565369944291",
+          "assistName": "Honest Warioba"
+        },
+        {
+          "minute": 35,
+          "playerId": "48c23223-9363-4a29-a7d0-d04b8be6bfde",
+          "playerName": "Kilima Kigwangalla",
+          "assistId": "2f7b6b71-8e62-40ca-8e15-04954d39c835",
+          "assistName": "Honest Kigwangalla"
+        }
+      ]
+    },
+    {
+      "matchId": "522up77mmqvcmc3w",
+      "playedAt": "2026-06-28T10:40:20.774Z",
+      "opponentSlug": "otupia",
+      "opponentName": "Otupia",
+      "homeTeamId": "ca4a42a7-44f6-40eb-a405-f2996edb1a56",
+      "awayTeamId": "7db62a2a-b398-4a35-9c11-4d5b4bf4570c",
+      "homeAway": "away",
+      "scoreFor": 6,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 18,
+      "scorers": [
+        {
+          "minute": 3,
+          "playerId": "3ad7f7fc-6c82-4c2e-a421-e0c60a674725",
+          "playerName": "Hamisi Issa"
+        },
+        {
+          "minute": 11,
+          "playerId": "0d76b8fe-76c5-4c18-88ac-565369944291",
+          "playerName": "Honest Warioba",
+          "assistId": "2f7b6b71-8e62-40ca-8e15-04954d39c835",
+          "assistName": "Honest Kigwangalla"
+        },
+        {
+          "minute": 27,
+          "playerId": "dbc0de06-7355-4358-afa9-ca2200500ea7",
+          "playerName": "Omar Jumanne",
+          "assistId": "f957270c-e47a-471d-8390-43df1e7264ea",
+          "assistName": "Zuberi Ally"
+        },
+        {
+          "minute": 73,
+          "playerId": "8cf58f9f-3eb8-4f84-b835-2ee678bd69f4",
+          "playerName": "Omar Pinda",
+          "assistId": "f957270c-e47a-471d-8390-43df1e7264ea",
+          "assistName": "Zuberi Ally"
+        },
+        {
+          "minute": 85,
+          "playerId": "0d76b8fe-76c5-4c18-88ac-565369944291",
+          "playerName": "Honest Warioba"
+        },
+        {
+          "minute": 89,
+          "playerId": "8cf58f9f-3eb8-4f84-b835-2ee678bd69f4",
+          "playerName": "Omar Pinda"
+        }
+      ]
+    },
+    {
       "matchId": "6y54vs1amqwvirdm",
       "playedAt": "2026-06-27T21:34:37.828Z",
       "opponentSlug": "cote-d-ivoire",
