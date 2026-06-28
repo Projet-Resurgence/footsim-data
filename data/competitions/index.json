@@ -3,9 +3,10 @@
     "id": "0p59syzhbe2mqxpppwr",
     "name": "Fedinalie Cup",
     "format": "groups_knockout",
-    "status": "ongoing",
+    "status": "completed",
     "teamCount": 16,
     "createdAt": "2026-06-28T11:35:25.036Z",
+    "winner": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
     "year": 2308,
     "teamIds": [
       "110159bd-411c-409a-ba07-95216b092ba4",
