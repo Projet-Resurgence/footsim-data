@@ -122,6 +122,107 @@
   ],
   "recentMatches": [
     {
+      "matchId": "wka0cydtmqvcmc3w",
+      "playedAt": "2026-06-28T10:51:31.051Z",
+      "opponentSlug": "ksuta",
+      "opponentName": "Ksuta",
+      "homeTeamId": "e5bac765-f354-41a2-b940-1e97fba04c20",
+      "awayTeamId": "940ca331-c4a1-4b47-9124-47f1f0c0111b",
+      "homeAway": "home",
+      "scoreFor": 4,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 18,
+      "scorers": [
+        {
+          "minute": 25,
+          "playerId": "2a42b34e-8c8b-46c3-9c8a-4acd856543b1",
+          "playerName": "Quinn Wilson"
+        },
+        {
+          "minute": 48,
+          "playerId": "2a42b34e-8c8b-46c3-9c8a-4acd856543b1",
+          "playerName": "Quinn Wilson",
+          "assistId": "b0154c01-14be-4433-9969-a213fac276d2",
+          "assistName": "Travis King"
+        },
+        {
+          "minute": 62,
+          "playerId": "b0154c01-14be-4433-9969-a213fac276d2",
+          "playerName": "Travis King"
+        },
+        {
+          "minute": 79,
+          "playerId": "84e81fac-2d99-47ed-a5e9-a7bd941aec3b",
+          "playerName": "Drake Perez"
+        }
+      ]
+    },
+    {
+      "matchId": "h3hlgr52mqvcmc3w",
+      "playedAt": "2026-06-28T10:46:26.074Z",
+      "opponentSlug": "crpac",
+      "opponentName": "CRPAC",
+      "homeTeamId": "e5bac765-f354-41a2-b940-1e97fba04c20",
+      "awayTeamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17,
+      "scorers": [
+        {
+          "minute": 90,
+          "playerId": "2a42b34e-8c8b-46c3-9c8a-4acd856543b1",
+          "playerName": "Quinn Wilson",
+          "assistId": "6e316db9-712b-4be0-80a5-c378b089aed4",
+          "assistName": "Jackson Williams"
+        }
+      ]
+    },
+    {
+      "matchId": "nikwmj6lmqvcmc3w",
+      "playedAt": "2026-06-28T10:40:20.760Z",
+      "opponentSlug": "maghreb",
+      "opponentName": "Maghreb",
+      "homeTeamId": "02a4b69e-0d91-4183-a72b-717c658782c6",
+      "awayTeamId": "e5bac765-f354-41a2-b940-1e97fba04c20",
+      "homeAway": "away",
+      "scoreFor": 3,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.5,
+      "scorers": [
+        {
+          "minute": 29,
+          "playerId": "fd6f53cc-5850-41bd-86e0-80c7d059cf8a",
+          "playerName": "Tyler Adams"
+        },
+        {
+          "minute": 69,
+          "playerId": "2a42b34e-8c8b-46c3-9c8a-4acd856543b1",
+          "playerName": "Quinn Wilson"
+        },
+        {
+          "minute": 87,
+          "playerId": "2a42b34e-8c8b-46c3-9c8a-4acd856543b1",
+          "playerName": "Quinn Wilson"
+        }
+      ]
+    },
+    {
       "matchId": "ra40oehwmqwv07xr",
       "playedAt": "2026-06-27T21:19:36.698Z",
       "opponentSlug": "rsotp",
