@@ -39,6 +39,82 @@
   "suspensions": [],
   "recentMatches": [
     {
+      "matchId": "b5jh8l61mqxonfpt",
+      "playedAt": "2026-06-28T11:11:42.907Z",
+      "opponentSlug": "5eme-internationale",
+      "opponentName": "5ème Internationale",
+      "homeTeamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+      "awayTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7
+    },
+    {
+      "matchId": "2wpapvoemqxonfpt",
+      "playedAt": "2026-06-28T11:09:36.453Z",
+      "opponentSlug": "prometheus",
+      "opponentName": "Prometheus",
+      "homeTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "awayTeamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 6,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -2.7,
+      "cards": [
+        {
+          "minute": 16,
+          "playerId": "65a0ba07-91ec-4016-990c-5b03e5d62002",
+          "playerName": "Khánh La",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "zaij4h03mqxonfpt",
+      "playedAt": "2026-06-28T11:07:49.222Z",
+      "opponentSlug": "cote-d-ivoire",
+      "opponentName": "Côte d'Ivoire",
+      "homeTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "awayTeamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 3,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.2,
+      "scorers": [
+        {
+          "minute": 34,
+          "playerId": "d4e14934-d91c-4896-8c33-702ac9dd88d3",
+          "playerName": "Anh Vũ",
+          "assistId": "117877f7-4d2a-4d81-9687-2b0b763441ca",
+          "assistName": "Farid bin Rahman"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 79,
+          "playerId": "674490b6-409f-4e59-98de-907056600e0d",
+          "playerName": "Hafiz Yap",
+          "type": "red"
+        }
+      ]
+    },
+    {
       "matchId": "54u04uz3mqvcmc3w",
       "playedAt": "2026-06-28T10:51:31.063Z",
       "opponentSlug": "deseret",
