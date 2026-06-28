@@ -48,6 +48,148 @@
   "compHistory": [],
   "recentMatches": [
     {
+      "matchId": "qkuuwx1smqvcmc3w",
+      "playedAt": "2026-06-28T10:51:31.064Z",
+      "opponentSlug": "castille",
+      "opponentName": "Castille",
+      "homeTeamId": "55c94018-aa17-477e-86d3-722caf57df20",
+      "awayTeamId": "b88bacc7-be39-4426-9106-7263eec6a6e9",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 5,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -7.7,
+      "cards": [
+        {
+          "minute": 33,
+          "playerId": "7f1dc99b-4fe7-4d2f-a71a-846f9c120ae7",
+          "playerName": "Vladan Marković",
+          "type": "yellow"
+        },
+        {
+          "minute": 35,
+          "playerId": "7f1dc99b-4fe7-4d2f-a71a-846f9c120ae7",
+          "playerName": "Vladan Marković",
+          "type": "red"
+        },
+        {
+          "minute": 86,
+          "playerId": "5d0428d9-130d-41a3-aebd-b2a2c41067c9",
+          "playerName": "Vidoje Simić",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "yfdg1hfpmqvcmc3w",
+      "playedAt": "2026-06-28T10:46:26.085Z",
+      "opponentSlug": "grande-bretagne",
+      "opponentName": "Grande-Bretagne",
+      "homeTeamId": "9a7b1eb4-ac4c-4bbd-9990-650d7754a955",
+      "awayTeamId": "b88bacc7-be39-4426-9106-7263eec6a6e9",
+      "homeAway": "away",
+      "scoreFor": 5,
+      "scoreAgainst": 3,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.5,
+      "scorers": [
+        {
+          "minute": 4,
+          "playerId": "173be7da-4acc-4b6c-b8c0-a1b806f5b9aa",
+          "playerName": "Goran Radović"
+        },
+        {
+          "minute": 42,
+          "playerId": "5d355fed-2d2a-46bf-a62d-0fc7dfb2d872",
+          "playerName": "Milan Vasić",
+          "assistId": "ee5f582a-25f1-4c9a-9d79-095e07588e59",
+          "assistName": "Vukašin Mladenović"
+        },
+        {
+          "minute": 75,
+          "playerId": "2bef484a-4e45-4e5f-8916-c87a847427ea",
+          "playerName": "Vuk Hadžić"
+        },
+        {
+          "minute": 88,
+          "playerId": "2bef484a-4e45-4e5f-8916-c87a847427ea",
+          "playerName": "Vuk Hadžić",
+          "assistId": "8aa4f33a-f863-4e1e-b1ae-561d7f31b11e",
+          "assistName": "Velibor Simić"
+        },
+        {
+          "minute": 95,
+          "playerId": "5d355fed-2d2a-46bf-a62d-0fc7dfb2d872",
+          "playerName": "Milan Vasić"
+        }
+      ]
+    },
+    {
+      "matchId": "gxm4qum2mqvcmc3w",
+      "playedAt": "2026-06-28T10:40:20.772Z",
+      "opponentSlug": "mapuche",
+      "opponentName": "Mapuche",
+      "homeTeamId": "0779ee45-e790-4ff2-901b-ba22bd8b4d83",
+      "awayTeamId": "b88bacc7-be39-4426-9106-7263eec6a6e9",
+      "homeAway": "away",
+      "scoreFor": 4,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 18,
+      "scorers": [
+        {
+          "minute": 19,
+          "playerId": "ed4f2884-dfb0-457b-919e-1f42a0207d03",
+          "playerName": "Jovan Knežević"
+        },
+        {
+          "minute": 24,
+          "playerId": "5d355fed-2d2a-46bf-a62d-0fc7dfb2d872",
+          "playerName": "Milan Vasić",
+          "assistId": "ee5f582a-25f1-4c9a-9d79-095e07588e59",
+          "assistName": "Vukašin Mladenović"
+        },
+        {
+          "minute": 71,
+          "playerId": "ee5f582a-25f1-4c9a-9d79-095e07588e59",
+          "playerName": "Vukašin Mladenović"
+        },
+        {
+          "minute": 80,
+          "playerId": "7f1dc99b-4fe7-4d2f-a71a-846f9c120ae7",
+          "playerName": "Vladan Marković",
+          "assistId": "173be7da-4acc-4b6c-b8c0-a1b806f5b9aa",
+          "assistName": "Goran Radović"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 53,
+          "playerId": "887962aa-dc97-4ea8-a6a8-50d4ffdc52fc",
+          "playerName": "Borislav Crnomarković",
+          "type": "yellow"
+        },
+        {
+          "minute": 79,
+          "playerId": "887962aa-dc97-4ea8-a6a8-50d4ffdc52fc",
+          "playerName": "Borislav Crnomarković",
+          "type": "red"
+        }
+      ]
+    },
+    {
       "matchId": "p0hi1snqmqvcmc3w",
       "playedAt": "2026-06-27T20:13:41.303Z",
       "opponentSlug": "osmanide",
