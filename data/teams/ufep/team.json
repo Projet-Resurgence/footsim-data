@@ -45,6 +45,81 @@
   "publishedAt": "2026-06-25T11:24:39.901Z",
   "recentMatches": [
     {
+      "matchId": "u493pvylmqvcmc3w",
+      "playedAt": "2026-06-28T10:51:31.073Z",
+      "opponentSlug": "osmanide",
+      "opponentName": "Osmanide",
+      "homeTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "awayTeamId": "833feec7-4a6a-4ec4-876a-d97306e404b8",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.5,
+      "scorers": [
+        {
+          "minute": 38,
+          "playerId": "8f976334-7271-40c2-afe0-bc54480df555",
+          "playerName": "Jordan Edwards",
+          "assistId": "3e4f565f-44d3-4e2d-94ab-37c265406557",
+          "assistName": "Callum Turner"
+        },
+        {
+          "minute": 51,
+          "playerId": "7e565e8c-ed55-43ba-8c5d-ad3188f1f160",
+          "playerName": "Lucas Walker",
+          "assistId": "8f976334-7271-40c2-afe0-bc54480df555",
+          "assistName": "Jordan Edwards"
+        }
+      ]
+    },
+    {
+      "matchId": "vieeibj4mqvcmc3w",
+      "playedAt": "2026-06-28T10:46:26.088Z",
+      "opponentSlug": "otupia",
+      "opponentName": "Otupia",
+      "homeTeamId": "ca4a42a7-44f6-40eb-a405-f2996edb1a56",
+      "awayTeamId": "833feec7-4a6a-4ec4-876a-d97306e404b8",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -5.7
+    },
+    {
+      "matchId": "j3gf7ztimqvcmc3w",
+      "playedAt": "2026-06-28T10:40:20.775Z",
+      "opponentSlug": "antioche",
+      "opponentName": "Antioche",
+      "homeTeamId": "8451e643-10d4-48bc-a4e6-4c12255695f4",
+      "awayTeamId": "833feec7-4a6a-4ec4-876a-d97306e404b8",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 4,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.7,
+      "cards": [
+        {
+          "minute": 73,
+          "playerId": "3937c017-9ae6-48b1-a2d6-dd70c829bfac",
+          "playerName": "Gavin Morris",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "y4l5zgo3mqvcmc3w",
       "playedAt": "2026-06-27T20:13:41.306Z",
       "opponentSlug": "cote-d-ivoire",
