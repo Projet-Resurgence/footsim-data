@@ -47,6 +47,94 @@
   "publishedAt": "2026-06-26T18:38:40.567Z",
   "recentMatches": [
     {
+      "matchId": "rz7g7rgzmqvcmc3w",
+      "playedAt": "2026-06-28T10:51:31.047Z",
+      "opponentSlug": "crpac",
+      "opponentName": "CRPAC",
+      "homeTeamId": "02a4b69e-0d91-4183-a72b-717c658782c6",
+      "awayTeamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 3,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.7
+    },
+    {
+      "matchId": "2j146a68mqvcmc3w",
+      "playedAt": "2026-06-28T10:46:26.074Z",
+      "opponentSlug": "perou",
+      "opponentName": "Pérou",
+      "homeTeamId": "02a4b69e-0d91-4183-a72b-717c658782c6",
+      "awayTeamId": "f3fda074-0648-4d1f-a413-281bbf6d7d59",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 2,
+      "opponentStrength": 61,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -5.7,
+      "scorers": [
+        {
+          "minute": 50,
+          "playerId": "b097c586-5ca3-4fc8-83a9-eef3c973d3c2",
+          "playerName": "Abdelkader Taouil",
+          "assistId": "9a7df76c-3a55-46ca-a23b-3b64307172b3",
+          "assistName": "Anis Guerraoui"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 31,
+          "playerId": "7aed167b-9ef0-40b3-82f4-3e76b49217a4",
+          "playerName": "Yassine Djerroudi",
+          "type": "yellow"
+        },
+        {
+          "minute": 61,
+          "playerId": "d2003154-0297-4198-bdde-7de17e3882ee",
+          "playerName": "Abdelkader Mansouri",
+          "type": "yellow"
+        },
+        {
+          "minute": 66,
+          "playerId": "2692b3b3-6da3-4ab6-8ebf-2f63174a7100",
+          "playerName": "Sofiane Djerroudi",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "nikwmj6lmqvcmc3w",
+      "playedAt": "2026-06-28T10:40:20.760Z",
+      "opponentSlug": "cascadie",
+      "opponentName": "Cascadie",
+      "homeTeamId": "02a4b69e-0d91-4183-a72b-717c658782c6",
+      "awayTeamId": "e5bac765-f354-41a2-b940-1e97fba04c20",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 3,
+      "opponentStrength": 62,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.8,
+      "cards": [
+        {
+          "minute": 54,
+          "playerId": "2692b3b3-6da3-4ab6-8ebf-2f63174a7100",
+          "playerName": "Sofiane Djerroudi",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "x8lzc349mqvcmc3w",
       "playedAt": "2026-06-27T20:13:41.290Z",
       "opponentSlug": "lusitanie",
