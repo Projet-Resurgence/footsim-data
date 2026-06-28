@@ -54,6 +54,82 @@
   },
   "recentMatches": [
     {
+      "matchId": "qxsniz2imqvcmc3w",
+      "playedAt": "2026-06-28T10:51:31.060Z",
+      "opponentSlug": "nouvelle-inde",
+      "opponentName": "Nouvelle Inde",
+      "homeTeamId": "a3427d5b-8081-4363-a9fd-1ac7de7e9144",
+      "awayTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17,
+      "scorers": [
+        {
+          "minute": 58,
+          "playerId": "cf9cb854-71a7-497a-a24a-75038a58e648",
+          "playerName": "Noah Williams",
+          "assistId": "c8c2dbe4-df80-489b-a6b9-bba593860c98",
+          "assistName": "Spencer Clark"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 43,
+          "playerId": "8a0c7655-a4b7-4d57-9a19-7a6f37ad6931",
+          "playerName": "Tanner Martin",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "ta22qg6umqvcmc3w",
+      "playedAt": "2026-06-28T10:42:48.625Z",
+      "opponentSlug": "prometheus",
+      "opponentName": "Prometheus",
+      "homeTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "awayTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 3,
+      "opponentStrength": 64,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -7
+    },
+    {
+      "matchId": "dowihnsymqvcmc3w",
+      "playedAt": "2026-06-28T10:40:20.768Z",
+      "opponentSlug": "ursi",
+      "opponentName": "URSI",
+      "homeTeamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+      "awayTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 0,
+      "opponentStrength": 62,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 5.8,
+      "cards": [
+        {
+          "minute": 8,
+          "playerId": "4b1bcf7e-b1dc-499c-92c2-84e8b167c491",
+          "playerName": "Scott Evans",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "qmwu7arfmqwvirdm",
       "playedAt": "2026-06-27T21:34:37.828Z",
       "opponentSlug": "osmanide",
