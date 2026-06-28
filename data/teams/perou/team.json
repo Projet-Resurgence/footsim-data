@@ -50,6 +50,89 @@
   "suspensions": [],
   "recentMatches": [
     {
+      "matchId": "n5adeekmmqvcmc3w",
+      "playedAt": "2026-06-28T10:51:31.049Z",
+      "opponentSlug": "spc",
+      "opponentName": "SPC",
+      "homeTeamId": "f3fda074-0648-4d1f-a413-281bbf6d7d59",
+      "awayTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 4,
+      "opponentStrength": 62,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.8,
+      "cards": [
+        {
+          "minute": 80,
+          "playerId": "2d91a8ef-1762-42b9-9f87-f9088f1401db",
+          "playerName": "Wilder Calisaya",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "2j146a68mqvcmc3w",
+      "playedAt": "2026-06-28T10:46:26.074Z",
+      "opponentSlug": "maghreb",
+      "opponentName": "Maghreb",
+      "homeTeamId": "02a4b69e-0d91-4183-a72b-717c658782c6",
+      "awayTeamId": "f3fda074-0648-4d1f-a413-281bbf6d7d59",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17,
+      "scorers": [
+        {
+          "minute": 78,
+          "playerId": "b398ba30-bbb2-45e8-82ad-7e1600e93f1c",
+          "playerName": "Luis Valdivia",
+          "assistId": "9a325bf0-69b0-4904-bde2-36576849f7db",
+          "assistName": "Luis Vásquez"
+        },
+        {
+          "minute": 87,
+          "playerId": "c19a89c4-5f6f-4302-913e-adf179d518fe",
+          "playerName": "Roberto Lapadula",
+          "assistId": "11345591-cebb-45ff-8843-d32d4c52a932",
+          "assistName": "Quirino Morales"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 21,
+          "playerId": "2d91a8ef-1762-42b9-9f87-f9088f1401db",
+          "playerName": "Wilder Calisaya",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "y4g5i8ppmqvcmc3w",
+      "playedAt": "2026-06-28T10:40:20.761Z",
+      "opponentSlug": "lusitanie",
+      "opponentName": "Lusitanie",
+      "homeTeamId": "2256fe5a-993b-4007-8191-47ebe93a3e70",
+      "awayTeamId": "f3fda074-0648-4d1f-a413-281bbf6d7d59",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 3,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.7
+    },
+    {
       "matchId": "1mkt86e9mqvcmc3w",
       "playedAt": "2026-06-27T20:13:41.291Z",
       "opponentSlug": "nouvelle-californie",
