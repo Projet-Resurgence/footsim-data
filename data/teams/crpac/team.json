@@ -208,6 +208,136 @@
   "activeTacticId": "0591aee1-c35a-436f-b91c-70cdeef15de1",
   "recentMatches": [
     {
+      "matchId": "eolpgzgwmqxpccxs",
+      "playedAt": "2026-06-28T11:29:12.815Z",
+      "opponentSlug": "ugp",
+      "opponentName": "UGP",
+      "homeTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "awayTeamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 2,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.2,
+      "cards": [
+        {
+          "minute": 36,
+          "playerId": "c84ce852-8076-4620-bccb-b7f17f780be0",
+          "playerName": "Beishen Usubaliyev",
+          "type": "yellow"
+        },
+        {
+          "minute": 70,
+          "playerId": "c84ce852-8076-4620-bccb-b7f17f780be0",
+          "playerName": "Beishen Usubaliyev",
+          "type": "red"
+        }
+      ]
+    },
+    {
+      "matchId": "9p6ac6h6mqxpccxs",
+      "playedAt": "2026-06-28T11:28:02.048Z",
+      "opponentSlug": "spc",
+      "opponentName": "SPC",
+      "homeTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "awayTeamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+      "homeAway": "away",
+      "scoreFor": 3,
+      "scoreAgainst": 2,
+      "opponentStrength": 64,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.1,
+      "scorers": [
+        {
+          "minute": 7,
+          "playerId": "613c2771-c3d9-44a0-b3ad-3476e39f55fc",
+          "playerName": "Xurshid Fozilов",
+          "assistId": "7349dfc9-098e-49b1-beaf-36e1218e7c31",
+          "assistName": "Ruslan Chorotegin"
+        },
+        {
+          "minute": 11,
+          "playerId": "613c2771-c3d9-44a0-b3ad-3476e39f55fc",
+          "playerName": "Xurshid Fozilов",
+          "assistId": "e9d777cb-bfb4-47cc-ae7a-e4469220646d",
+          "assistName": "Nuriddin Rajabov"
+        },
+        {
+          "minute": 80,
+          "playerId": "613c2771-c3d9-44a0-b3ad-3476e39f55fc",
+          "playerName": "Xurshid Fozilов"
+        }
+      ]
+    },
+    {
+      "matchId": "tiu04hwwmqxpccxs",
+      "playedAt": "2026-06-28T11:26:39.367Z",
+      "opponentSlug": "uda",
+      "opponentName": "UDA",
+      "homeTeamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+      "awayTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 4,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.7,
+      "scorers": [
+        {
+          "minute": 90,
+          "playerId": "eec18e15-3246-4c6f-a033-f10a81718945",
+          "playerName": "Elbek Isoqov"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 17,
+          "playerId": "c84ce852-8076-4620-bccb-b7f17f780be0",
+          "playerName": "Beishen Usubaliyev",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "vrg5t9x8mqxpccxs",
+      "playedAt": "2026-06-28T11:25:42.070Z",
+      "opponentSlug": "cote-d-ivoire",
+      "opponentName": "Côte d'Ivoire",
+      "homeTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "awayTeamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 1,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.1,
+      "scorers": [
+        {
+          "minute": 5,
+          "playerId": "613c2771-c3d9-44a0-b3ad-3476e39f55fc",
+          "playerName": "Xurshid Fozilов"
+        },
+        {
+          "minute": 88,
+          "playerId": "613c2771-c3d9-44a0-b3ad-3476e39f55fc",
+          "playerName": "Xurshid Fozilов"
+        }
+      ]
+    },
+    {
       "matchId": "rz7g7rgzmqvcmc3w",
       "playedAt": "2026-06-28T10:51:31.047Z",
       "opponentSlug": "maghreb",
