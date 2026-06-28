@@ -25,7 +25,7 @@
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-28T10:31:25.438Z",
+  "publishedAt": "2026-06-28T11:22:08.789Z",
   "managerDiscordId": "1477619366890573926",
   "compHistory": [
     {
@@ -1912,6 +1912,5 @@
     }
   ],
   "injuries": [],
-  "suspensions": [],
-  "matchOutcome": "win"
+  "suspensions": []
 }
