@@ -49,6 +49,91 @@
   "publishedAt": "2026-06-28T11:32:18.806Z",
   "recentMatches": [
     {
+      "matchId": "ipb975namqxpppwr",
+      "playedAt": "2026-06-28T11:41:12.997Z",
+      "opponentSlug": "ursi",
+      "opponentName": "URSI",
+      "homeTeamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+      "awayTeamId": "28f82804-8005-450a-b6d8-740533bf82b0",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 0,
+      "opponentStrength": 62,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.5,
+      "scorers": [
+        {
+          "minute": 34,
+          "playerId": "4f4b1894-3661-458e-bb4b-e2335a41fd8f",
+          "playerName": "Gabriel Campos"
+        },
+        {
+          "minute": 92,
+          "playerId": "4f4b1894-3661-458e-bb4b-e2335a41fd8f",
+          "playerName": "Gabriel Campos"
+        }
+      ]
+    },
+    {
+      "matchId": "7pysy669mqxpppwr",
+      "playedAt": "2026-06-28T11:40:00.732Z",
+      "opponentSlug": "prometheus",
+      "opponentName": "Prometheus",
+      "homeTeamId": "28f82804-8005-450a-b6d8-740533bf82b0",
+      "awayTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 2,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.2,
+      "cards": [
+        {
+          "minute": 15,
+          "playerId": "9986e94b-456c-49b3-bed6-06daacc0a32c",
+          "playerName": "Everton Pereira",
+          "type": "yellow"
+        },
+        {
+          "minute": 79,
+          "playerId": "9986e94b-456c-49b3-bed6-06daacc0a32c",
+          "playerName": "Everton Pereira",
+          "type": "red"
+        }
+      ]
+    },
+    {
+      "matchId": "asv0bse2mqxpppwr",
+      "playedAt": "2026-06-28T11:38:37.156Z",
+      "opponentSlug": "uda",
+      "opponentName": "UDA",
+      "homeTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "awayTeamId": "28f82804-8005-450a-b6d8-740533bf82b0",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 2,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.2,
+      "cards": [
+        {
+          "minute": 17,
+          "playerId": "b6ab5d26-ac92-435e-8d23-100c558c5c71",
+          "playerName": "Henrique Oliveira",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "3mlfcs4cmqvcmc3w",
       "playedAt": "2026-06-28T10:51:31.054Z",
       "opponentSlug": "atlantique",
