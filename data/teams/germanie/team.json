@@ -144,6 +144,101 @@
   ],
   "recentMatches": [
     {
+      "matchId": "btvi7363mqxpccxs",
+      "playedAt": "2026-06-28T11:28:02.046Z",
+      "opponentSlug": "republique-de-chine",
+      "opponentName": "République de Chine",
+      "homeTeamId": "6377412c-0d4c-47e7-ba24-52745e83cfaa",
+      "awayTeamId": "26d478fb-1a60-4af1-98ce-e5cdfa10facd",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 29,
+          "playerId": "4cff8ba1-7087-4bca-ae92-20cf4d9599b9",
+          "playerName": "Théo Morin"
+        }
+      ]
+    },
+    {
+      "matchId": "d6x3h3e1mqxpccxs",
+      "playedAt": "2026-06-28T11:26:39.364Z",
+      "opponentSlug": "prometheus",
+      "opponentName": "Prometheus",
+      "homeTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "awayTeamId": "6377412c-0d4c-47e7-ba24-52745e83cfaa",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 2,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 26,
+          "playerId": "ce6edb53-b562-4047-a841-c2712658f714",
+          "playerName": "Lukas Weber",
+          "assistId": "013d024c-3b0d-4675-96aa-551279f77836",
+          "assistName": "Tom Zimmermann"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 21,
+          "playerId": "1119ac2c-ddbf-4596-b135-88975162b260",
+          "playerName": "Patrick Wolf",
+          "type": "red"
+        },
+        {
+          "minute": 43,
+          "playerId": "04253146-22a8-4be1-bdc3-f9959c80ab43",
+          "playerName": "Werner Becker",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "3ow3e0c6mqxpccxs",
+      "playedAt": "2026-06-28T11:25:42.069Z",
+      "opponentSlug": "ugp",
+      "opponentName": "UGP",
+      "homeTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "awayTeamId": "6377412c-0d4c-47e7-ba24-52745e83cfaa",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 2,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.2,
+      "cards": [
+        {
+          "minute": 74,
+          "playerId": "1eac2205-354c-4bf3-ac5a-f1bd85d4a540",
+          "playerName": "Maxence Bonnet",
+          "type": "yellow"
+        },
+        {
+          "minute": 84,
+          "playerId": "04253146-22a8-4be1-bdc3-f9959c80ab43",
+          "playerName": "Werner Becker",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "p1nj0g8pmqvcmc3w",
       "playedAt": "2026-06-28T10:51:31.070Z",
       "opponentSlug": "rhodesie",
