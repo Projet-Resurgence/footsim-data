@@ -47,6 +47,91 @@
   "publishedAt": "2026-06-25T11:21:35.763Z",
   "recentMatches": [
     {
+      "matchId": "sn9bvaegmqxpppwr",
+      "playedAt": "2026-06-28T11:41:12.995Z",
+      "opponentSlug": "livonie",
+      "opponentName": "Livonie",
+      "homeTeamId": "6c4e5ecf-662a-43d5-9795-b038fe6e2072",
+      "awayTeamId": "3b7016ec-ba5d-4b54-9f1f-95d2e3ff84bf",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 4,
+      "opponentStrength": 62,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.7,
+      "scorers": [
+        {
+          "minute": 25,
+          "playerId": "6fb98b28-a430-46dd-9bcf-d4acaa516633",
+          "playerName": "Lucas Scott",
+          "assistId": "1d5e9834-9e7e-4bc7-8c7f-b5a69c754e20",
+          "assistName": "Aaron Harris"
+        }
+      ]
+    },
+    {
+      "matchId": "dhaqle6vmqxpppwr",
+      "playedAt": "2026-06-28T11:40:00.728Z",
+      "opponentSlug": "italie",
+      "opponentName": "Italie",
+      "homeTeamId": "3b7016ec-ba5d-4b54-9f1f-95d2e3ff84bf",
+      "awayTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 6,
+      "opponentStrength": 64,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -2.7,
+      "cards": [
+        {
+          "minute": 23,
+          "playerId": "9471eb93-b528-494f-a7c3-9f7fee832e3c",
+          "playerName": "Gavin Bailey",
+          "type": "red"
+        }
+      ]
+    },
+    {
+      "matchId": "9j6i4gvqmqxpppwr",
+      "playedAt": "2026-06-28T11:38:37.153Z",
+      "opponentSlug": "deseret",
+      "opponentName": "Deseret",
+      "homeTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "awayTeamId": "3b7016ec-ba5d-4b54-9f1f-95d2e3ff84bf",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 2,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 5,
+          "playerId": "7d531f08-bf11-40f4-9fbe-90cc7f1a320d",
+          "playerName": "Gavin Peterson",
+          "assistId": "1d5e9834-9e7e-4bc7-8c7f-b5a69c754e20",
+          "assistName": "Aaron Harris"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 36,
+          "playerId": "f38fd0ad-3e85-437e-832e-dc762b92d1df",
+          "playerName": "Lachlan Williams",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "ihidw9kpmqvcmc3w",
       "playedAt": "2026-06-28T10:51:31.059Z",
       "opponentSlug": "italie",
