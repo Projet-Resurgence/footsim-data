@@ -346,6 +346,119 @@
   "suspensions": [],
   "recentMatches": [
     {
+      "matchId": "sg95s35bmqxonfpt",
+      "playedAt": "2026-06-28T11:13:17.063Z",
+      "opponentSlug": "italie",
+      "opponentName": "Italie",
+      "homeTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "awayTeamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 2,
+      "opponentStrength": 64,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.2
+    },
+    {
+      "matchId": "b3t5g1wpmqxonfpt",
+      "playedAt": "2026-06-28T11:11:42.910Z",
+      "opponentSlug": "fclc",
+      "opponentName": "FCLC",
+      "homeTeamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "awayTeamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 0,
+      "opponentStrength": 63,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.6,
+      "scorers": [
+        {
+          "minute": 37,
+          "playerId": "d5f00f3c-2cd1-4ac2-b6b9-a60d357eb5c3",
+          "playerName": "Milad Rezaei",
+          "assistId": "2f1ebcdf-99d5-4d81-8f42-94b78045b588",
+          "assistName": "Issa Ahmadi"
+        },
+        {
+          "minute": 46,
+          "playerId": "077e30cd-6094-44fd-b93c-e30b75837090",
+          "playerName": "Siavash Shirazi"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 55,
+          "playerId": "57712de0-dde0-40a1-958f-7848cb7a593f",
+          "playerName": "Rasoul Fattahi",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "z8c5w0nvmqxonfpt",
+      "playedAt": "2026-06-28T11:09:36.456Z",
+      "opponentSlug": "ugp",
+      "opponentName": "UGP",
+      "homeTeamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "awayTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 1,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 0.7,
+      "scorers": [
+        {
+          "minute": 56,
+          "playerId": "7eca52c4-6db3-4e1f-b427-8b34ba951c75",
+          "playerName": "Pirouz Asghari"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 8,
+          "playerId": "077e30cd-6094-44fd-b93c-e30b75837090",
+          "playerName": "Siavash Shirazi",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "vn4rbom4mqxonfpt",
+      "playedAt": "2026-06-28T11:07:49.223Z",
+      "opponentSlug": "uda",
+      "opponentName": "UDA",
+      "homeTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "awayTeamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 2,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.2,
+      "cards": [
+        {
+          "minute": 22,
+          "playerId": "541fbce5-29ef-4c5f-83fd-9e0a42d404fb",
+          "playerName": "Nima Rezaei",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "zrr1r3qwmqvcmc3w",
       "playedAt": "2026-06-28T10:48:34.871Z",
       "opponentSlug": "uda",
