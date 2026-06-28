@@ -43,7 +43,112 @@
   },
   "jerseyColor": "#111dbb",
   "publishedAt": "2026-06-21T13:02:20.953Z",
-  "recentMatches": [],
+  "recentMatches": [
+    {
+      "matchId": "btvi7363mqxpccxs",
+      "playedAt": "2026-06-28T11:28:02.046Z",
+      "opponentSlug": "germanie",
+      "opponentName": "Germanie",
+      "homeTeamId": "6377412c-0d4c-47e7-ba24-52745e83cfaa",
+      "awayTeamId": "26d478fb-1a60-4af1-98ce-e5cdfa10facd",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 1,
+      "opponentStrength": 62,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2,
+      "scorers": [
+        {
+          "minute": 26,
+          "playerId": "20f4d045-f91b-4c46-8dc0-2a1b564651eb",
+          "playerName": "Si Tian",
+          "assistId": "4ec6434c-37b7-4dc9-95d0-1b2a2f702c1c",
+          "assistName": "Wen Luo"
+        },
+        {
+          "minute": 43,
+          "playerId": "20f4d045-f91b-4c46-8dc0-2a1b564651eb",
+          "playerName": "Si Tian",
+          "assistId": "882a83d8-e1c8-4d82-8bdd-87c8e18101a8",
+          "assistName": "Long Cheng"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 6,
+          "playerId": "a7f17091-53b7-4c3b-a265-ece95a340c59",
+          "playerName": "Hui Pan",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "sk924985mqxpccxs",
+      "playedAt": "2026-06-28T11:26:39.365Z",
+      "opponentSlug": "ugp",
+      "opponentName": "UGP",
+      "homeTeamId": "26d478fb-1a60-4af1-98ce-e5cdfa10facd",
+      "awayTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 4,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.7,
+      "cards": [
+        {
+          "minute": 61,
+          "playerId": "a7f17091-53b7-4c3b-a265-ece95a340c59",
+          "playerName": "Hui Pan",
+          "type": "yellow"
+        },
+        {
+          "minute": 76,
+          "playerId": "882a83d8-e1c8-4d82-8bdd-87c8e18101a8",
+          "playerName": "Long Cheng",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "lj4ggb74mqxpccxs",
+      "playedAt": "2026-06-28T11:25:42.068Z",
+      "opponentSlug": "prometheus",
+      "opponentName": "Prometheus",
+      "homeTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "awayTeamId": "26d478fb-1a60-4af1-98ce-e5cdfa10facd",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 2,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 71,
+          "playerId": "20f4d045-f91b-4c46-8dc0-2a1b564651eb",
+          "playerName": "Si Tian"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 76,
+          "playerId": "88bfb850-11bd-468c-92d1-18f98278c92d",
+          "playerName": "Bin Wang",
+          "type": "yellow"
+        }
+      ]
+    }
+  ],
   "compHistory": [
     {
       "compId": "51734qruyp2mqxpccxs",
