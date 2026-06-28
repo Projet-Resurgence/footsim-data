@@ -324,6 +324,161 @@
   },
   "recentMatches": [
     {
+      "matchId": "zrr1r3qwmqvcmc3w",
+      "playedAt": "2026-06-28T10:48:34.871Z",
+      "opponentSlug": "royaume-d-asha",
+      "opponentName": "Royaume d'Asha",
+      "homeTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "awayTeamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "homeAway": "home",
+      "scoreFor": 6,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 18,
+      "scorers": [
+        {
+          "minute": 29,
+          "playerId": "dbef5bfc-f6f6-4693-9c47-0566d870f06e",
+          "playerName": "Ou Lu",
+          "assistId": "896b6922-e4fc-4739-8fd6-5d10fa69c747",
+          "assistName": "Er Cao"
+        },
+        {
+          "minute": 41,
+          "playerId": "dbef5bfc-f6f6-4693-9c47-0566d870f06e",
+          "playerName": "Ou Lu"
+        },
+        {
+          "minute": 47,
+          "playerId": "75811d88-67bf-455a-98de-a3469da03099",
+          "playerName": "Sheng Han"
+        },
+        {
+          "minute": 58,
+          "playerId": "2047d47b-b47e-4d9b-b80e-06f3ea7fa330",
+          "playerName": "Lei Luo",
+          "assistId": "a9845c59-12ee-4a24-ae10-571725c54d42",
+          "assistName": "Zhi Cai"
+        },
+        {
+          "minute": 67,
+          "playerId": "75811d88-67bf-455a-98de-a3469da03099",
+          "playerName": "Sheng Han",
+          "assistId": "1359ee0e-7555-453d-83fe-befe00c8a218",
+          "assistName": "Zhen Yuan"
+        },
+        {
+          "minute": 86,
+          "playerId": "a9845c59-12ee-4a24-ae10-571725c54d42",
+          "playerName": "Zhi Cai"
+        }
+      ]
+    },
+    {
+      "matchId": "l32kck2gmqvcmc3w",
+      "playedAt": "2026-06-28T10:46:26.078Z",
+      "opponentSlug": "voivodine",
+      "opponentName": "Voïvodine",
+      "homeTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "awayTeamId": "28274f9a-bff0-42da-ac99-a6e3a9812a34",
+      "homeAway": "home",
+      "scoreFor": 7,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 18,
+      "scorers": [
+        {
+          "minute": 10,
+          "playerId": "896b6922-e4fc-4739-8fd6-5d10fa69c747",
+          "playerName": "Er Cao",
+          "assistId": "dbef5bfc-f6f6-4693-9c47-0566d870f06e",
+          "assistName": "Ou Lu"
+        },
+        {
+          "minute": 21,
+          "playerId": "6fcb834b-f8d5-452b-b759-dc9e0ae2317a",
+          "playerName": "Kai Liang"
+        },
+        {
+          "minute": 26,
+          "playerId": "75811d88-67bf-455a-98de-a3469da03099",
+          "playerName": "Sheng Han",
+          "assistId": "896b6922-e4fc-4739-8fd6-5d10fa69c747",
+          "assistName": "Er Cao"
+        },
+        {
+          "minute": 81,
+          "playerId": "dbef5bfc-f6f6-4693-9c47-0566d870f06e",
+          "playerName": "Ou Lu",
+          "assistId": "75811d88-67bf-455a-98de-a3469da03099",
+          "assistName": "Sheng Han"
+        },
+        {
+          "minute": 88,
+          "playerId": "dbef5bfc-f6f6-4693-9c47-0566d870f06e",
+          "playerName": "Ou Lu"
+        },
+        {
+          "minute": 90,
+          "playerId": "a9845c59-12ee-4a24-ae10-571725c54d42",
+          "playerName": "Zhi Cai",
+          "assistId": "75811d88-67bf-455a-98de-a3469da03099",
+          "assistName": "Sheng Han"
+        },
+        {
+          "minute": 92,
+          "playerId": "dbef5bfc-f6f6-4693-9c47-0566d870f06e",
+          "playerName": "Ou Lu"
+        }
+      ]
+    },
+    {
+      "matchId": "mx6130fzmqvcmc3w",
+      "playedAt": "2026-06-28T10:36:19.495Z",
+      "opponentSlug": "nova-orbis",
+      "opponentName": "Nova Orbis",
+      "homeTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "awayTeamId": "28f82804-8005-450a-b6d8-740533bf82b0",
+      "homeAway": "home",
+      "scoreFor": 3,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.5,
+      "scorers": [
+        {
+          "minute": 35,
+          "playerId": "896b6922-e4fc-4739-8fd6-5d10fa69c747",
+          "playerName": "Er Cao"
+        },
+        {
+          "minute": 56,
+          "playerId": "dbef5bfc-f6f6-4693-9c47-0566d870f06e",
+          "playerName": "Ou Lu",
+          "assistId": "75811d88-67bf-455a-98de-a3469da03099",
+          "assistName": "Sheng Han"
+        },
+        {
+          "minute": 88,
+          "playerId": "2047d47b-b47e-4d9b-b80e-06f3ea7fa330",
+          "playerName": "Lei Luo",
+          "assistId": "6fcb834b-f8d5-452b-b759-dc9e0ae2317a",
+          "assistName": "Kai Liang"
+        }
+      ]
+    },
+    {
       "matchId": "sxd45qvpmqwvirdm",
       "playedAt": "2026-06-27T21:34:37.826Z",
       "opponentSlug": "deseret",
