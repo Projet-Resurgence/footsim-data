@@ -3,9 +3,10 @@
     "id": "2kh5v3rtwojmqxonfpt",
     "name": "Baklava Cup",
     "format": "groups_knockout",
-    "status": "ongoing",
+    "status": "completed",
     "teamCount": 16,
     "createdAt": "2026-06-28T11:05:38.897Z",
+    "winner": "6f3d1170-2f22-4f74-905b-8cbb55058954",
     "year": 2308,
     "teamIds": [
       "31dbe023-a8f1-4325-9813-afa3d8e217fa",
