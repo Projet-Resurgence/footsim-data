@@ -45,7 +45,7 @@
     "overall": 72
   },
   "jerseyColor": "#f7dd59",
-  "publishedAt": "2026-06-28T09:10:07.005Z",
+  "publishedAt": "2026-06-28T11:03:07.290Z",
   "compHistory": [
     {
       "compId": "qtebnbbpzeomqpngrdv",
@@ -1575,5 +1575,6 @@
       "name": "Tactique 1"
     }
   ],
-  "activeTacticId": "b78bed21-23e5-45ff-8a8e-0fab2f2ec8a1"
+  "activeTacticId": "b78bed21-23e5-45ff-8a8e-0fab2f2ec8a1",
+  "matchOutcome": "win"
 }
