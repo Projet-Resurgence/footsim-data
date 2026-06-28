@@ -38,6 +38,90 @@
   },
   "recentMatches": [
     {
+      "matchId": "9p6ac6h6mqxpccxs",
+      "playedAt": "2026-06-28T11:28:02.048Z",
+      "opponentSlug": "crpac",
+      "opponentName": "CRPAC",
+      "homeTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "awayTeamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 3,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 20,
+          "playerId": "bb6f1b5f-707a-4b14-8605-43359faeafc1",
+          "playerName": "Ke Ma",
+          "assistId": "b922c816-b6dd-47bd-9306-89ee6209ae7d",
+          "assistName": "Yang Wu"
+        },
+        {
+          "minute": 60,
+          "playerId": "2a40f2a8-21e7-4d78-a889-fce6f644ca00",
+          "playerName": "Ping Cai",
+          "assistId": "4ef345a9-c2fd-4920-ab92-5124797d4e7d",
+          "assistName": "Uo Yuan"
+        }
+      ]
+    },
+    {
+      "matchId": "x14avsepmqxpccxs",
+      "playedAt": "2026-06-28T11:26:39.366Z",
+      "opponentSlug": "cote-d-ivoire",
+      "opponentName": "Côte d'Ivoire",
+      "homeTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "awayTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 3,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.2,
+      "scorers": [
+        {
+          "minute": 71,
+          "playerId": "b922c816-b6dd-47bd-9306-89ee6209ae7d",
+          "playerName": "Yang Wu",
+          "assistId": "4ef345a9-c2fd-4920-ab92-5124797d4e7d",
+          "assistName": "Uo Yuan"
+        }
+      ]
+    },
+    {
+      "matchId": "dgq3x3n5mqxpccxs",
+      "playedAt": "2026-06-28T11:25:42.071Z",
+      "opponentSlug": "uda",
+      "opponentName": "UDA",
+      "homeTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "awayTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 4,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.7,
+      "cards": [
+        {
+          "minute": 4,
+          "playerId": "1eb6cdb3-28c8-4792-8b45-f820be065dd9",
+          "playerName": "Ran Tian",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "irgcr07fmqxonfpt",
       "playedAt": "2026-06-28T11:11:42.905Z",
       "opponentSlug": "texas",
