@@ -286,6 +286,140 @@
   "suspensions": [],
   "recentMatches": [
     {
+      "matchId": "k15m0rl2mqxpppws",
+      "playedAt": "2026-06-28T11:42:46.207Z",
+      "opponentSlug": "spc",
+      "opponentName": "SPC",
+      "homeTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "awayTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 2,
+      "opponentStrength": 64,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 90,
+          "playerId": "83d77c6f-a467-4aac-a746-fb82f51b6195",
+          "playerName": "Ruslan Kuznetsov",
+          "assistId": "4d38741c-7eaa-48e6-9239-632e339aa1cc",
+          "assistName": "Kirill Davydov"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 80,
+          "playerId": "1e0470a8-b280-4175-a997-fa49568f8830",
+          "playerName": "Stanislav Novikov",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "q62lvpc0mqxpppwr",
+      "playedAt": "2026-06-28T11:41:12.997Z",
+      "opponentSlug": "uda",
+      "opponentName": "UDA",
+      "homeTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "awayTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 0,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.1,
+      "scorers": [
+        {
+          "minute": 47,
+          "playerId": "ab0b58bb-8de6-41bc-8f1e-726f2fc5637d",
+          "playerName": "Sergey Popov"
+        }
+      ]
+    },
+    {
+      "matchId": "7pysy669mqxpppwr",
+      "playedAt": "2026-06-28T11:40:00.732Z",
+      "opponentSlug": "nova-orbis",
+      "opponentName": "Nova Orbis",
+      "homeTeamId": "28f82804-8005-450a-b6d8-740533bf82b0",
+      "awayTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.5,
+      "scorers": [
+        {
+          "minute": 10,
+          "playerId": "da579017-cf8b-482c-b9d5-ec411cd825ff",
+          "playerName": "Mikhail Ivanov",
+          "assistId": "688b0471-9199-4c65-9d73-a408fa96f582",
+          "assistName": "Eldar Antonov"
+        },
+        {
+          "minute": 69,
+          "playerId": "da579017-cf8b-482c-b9d5-ec411cd825ff",
+          "playerName": "Mikhail Ivanov",
+          "assistId": "60342249-23bb-4564-9620-91c2a141b9ad",
+          "assistName": "Pyotr Stepanov"
+        }
+      ]
+    },
+    {
+      "matchId": "7jxgnpj8mqxpppwr",
+      "playedAt": "2026-06-28T11:38:37.156Z",
+      "opponentSlug": "ursi",
+      "opponentName": "URSI",
+      "homeTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "awayTeamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+      "homeAway": "home",
+      "scoreFor": 4,
+      "scoreAgainst": 0,
+      "opponentStrength": 62,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 3,
+      "scorers": [
+        {
+          "minute": 37,
+          "playerId": "b57ca962-753d-4797-bf41-a7b0fa40ae61",
+          "playerName": "Roman Tsvetkov"
+        },
+        {
+          "minute": 43,
+          "playerId": "b57ca962-753d-4797-bf41-a7b0fa40ae61",
+          "playerName": "Roman Tsvetkov",
+          "assistId": "60342249-23bb-4564-9620-91c2a141b9ad",
+          "assistName": "Pyotr Stepanov"
+        },
+        {
+          "minute": 87,
+          "playerId": "4d38741c-7eaa-48e6-9239-632e339aa1cc",
+          "playerName": "Kirill Davydov"
+        },
+        {
+          "minute": 92,
+          "playerId": "83d77c6f-a467-4aac-a746-fb82f51b6195",
+          "playerName": "Ruslan Kuznetsov",
+          "assistId": "f2774872-5dd0-4a8b-88a9-de579fadc0fa",
+          "assistName": "Nikita Vlasov"
+        }
+      ]
+    },
+    {
       "matchId": "zbg631odmqxpccxs",
       "playedAt": "2026-06-28T11:30:34.018Z",
       "opponentSlug": "yamatai",
