@@ -16,13 +16,13 @@
     "moyenorient"
   ],
   "kind": "national",
-  "globalStrength": 60,
+  "globalStrength": 61,
   "createdAt": "2026-06-20T20:46:27.141Z",
   "createdBy": "772821169664426025",
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-27T22:51:27.174Z",
+  "publishedAt": "2026-06-28T09:07:54.106Z",
   "tactics": {
     "style": "pressing",
     "formation": "3-5-2",
@@ -1658,5 +1658,9 @@
   ],
   "injuries": [],
   "suspensions": [],
-  "matchOutcome": "loss"
+  "matchOutcome": "loss",
+  "actionFoot": {
+    "rating": 5,
+    "funding": 125
+  }
 }
