@@ -19,13 +19,13 @@
     "moyenorient"
   ],
   "kind": "national",
-  "globalStrength": 60,
+  "globalStrength": 62,
   "createdAt": "2026-06-20T16:37:56.980Z",
   "createdBy": "772821169664426025",
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-28T08:25:17.692Z",
+  "publishedAt": "2026-06-28T08:53:56.739Z",
   "managerDiscordId": "1473103141728944171",
   "recentMatches": [
     {
@@ -1282,5 +1282,9 @@
     }
   ],
   "activeTacticId": "cd8fc365-9683-4574-9c2f-545a73d7ee0b",
-  "matchOutcome": "win"
+  "matchOutcome": "win",
+  "actionFoot": {
+    "rating": 5,
+    "funding": 170
+  }
 }
