@@ -28,6 +28,128 @@
   },
   "recentMatches": [
     {
+      "matchId": "h2hafzslmqvcmc3w",
+      "playedAt": "2026-06-28T10:49:12.412Z",
+      "opponentSlug": "prometheus",
+      "opponentName": "Prometheus",
+      "homeTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "awayTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 4,
+      "opponentStrength": 64,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -7,
+      "scorers": [
+        {
+          "minute": 48,
+          "playerId": "862eeced-2bf5-4be5-966b-56639fe66d10",
+          "playerName": "Yuki Okamoto",
+          "assistId": "efab1044-6e12-4ab5-8353-5b9f7b0facab",
+          "assistName": "Genta Miyazaki"
+        }
+      ]
+    },
+    {
+      "matchId": "cgtd3y3umqvcmc3w",
+      "playedAt": "2026-06-28T10:46:26.084Z",
+      "opponentSlug": "ursi",
+      "opponentName": "URSI",
+      "homeTeamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+      "awayTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "homeAway": "away",
+      "scoreFor": 4,
+      "scoreAgainst": 0,
+      "opponentStrength": 62,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 18.4,
+      "scorers": [
+        {
+          "minute": 43,
+          "playerId": "862eeced-2bf5-4be5-966b-56639fe66d10",
+          "playerName": "Yuki Okamoto",
+          "assistId": "e43f8cb6-5b88-4154-ac5b-d1285f15d8f1",
+          "assistName": "Haruto Sakamoto"
+        },
+        {
+          "minute": 51,
+          "playerId": "324470fc-f9a6-4d99-a563-da0262006553",
+          "playerName": "Ren Kato"
+        },
+        {
+          "minute": 58,
+          "playerId": "862eeced-2bf5-4be5-966b-56639fe66d10",
+          "playerName": "Yuki Okamoto"
+        },
+        {
+          "minute": 73,
+          "playerId": "efab1044-6e12-4ab5-8353-5b9f7b0facab",
+          "playerName": "Genta Miyazaki",
+          "assistId": "45a62f33-b3f7-403d-8b43-a21924df4a63",
+          "assistName": "Toshiya Miyazaki"
+        }
+      ]
+    },
+    {
+      "matchId": "ytww3bp6mqvcmc3w",
+      "playedAt": "2026-06-28T10:40:20.770Z",
+      "opponentSlug": "romain-d-orient",
+      "opponentName": "Romain d'Orient",
+      "homeTeamId": "a4339c19-4507-45d0-a8e7-ab33c8fe64c0",
+      "awayTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "homeAway": "away",
+      "scoreFor": 6,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 18,
+      "scorers": [
+        {
+          "minute": 8,
+          "playerId": "862eeced-2bf5-4be5-966b-56639fe66d10",
+          "playerName": "Yuki Okamoto",
+          "assistId": "83382722-ee55-4bb1-86bb-b7f9dc4dc0a2",
+          "assistName": "Tsubasa Fukuda"
+        },
+        {
+          "minute": 28,
+          "playerId": "324470fc-f9a6-4d99-a563-da0262006553",
+          "playerName": "Ren Kato",
+          "assistId": "862eeced-2bf5-4be5-966b-56639fe66d10",
+          "assistName": "Yuki Okamoto"
+        },
+        {
+          "minute": 49,
+          "playerId": "45a62f33-b3f7-403d-8b43-a21924df4a63",
+          "playerName": "Toshiya Miyazaki"
+        },
+        {
+          "minute": 60,
+          "playerId": "efab1044-6e12-4ab5-8353-5b9f7b0facab",
+          "playerName": "Genta Miyazaki"
+        },
+        {
+          "minute": 86,
+          "playerId": "862eeced-2bf5-4be5-966b-56639fe66d10",
+          "playerName": "Yuki Okamoto"
+        },
+        {
+          "minute": 94,
+          "playerId": "324470fc-f9a6-4d99-a563-da0262006553",
+          "playerName": "Ren Kato"
+        }
+      ]
+    },
+    {
       "matchId": "sjadrzobmqwvirdm",
       "playedAt": "2026-06-27T21:36:59.149Z",
       "opponentSlug": "italie",
