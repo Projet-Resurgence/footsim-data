@@ -1761,7 +1761,17 @@
   ],
   "activeTacticId": "ae135a51-0500-4d2a-9ead-8cec319b57b7",
   "injuries": [],
-  "suspensions": [],
+  "suspensions": [
+    {
+      "id": "1d1405f2-0716-4a54-8011-3a8f52a5dcae",
+      "subjectId": "0dd0b1a4-1bd3-491b-bdb5-2104eac0b7e4",
+      "subjectName": "Finn Parker",
+      "teamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "matchesRemaining": 1,
+      "reason": "Carton rouge",
+      "roundOccurred": 3
+    }
+  ],
   "actionFoot": {
     "rating": 5,
     "funding": 115

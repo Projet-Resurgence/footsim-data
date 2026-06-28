@@ -36,17 +36,7 @@
   "managerDiscordId": "1113422056525144104",
   "publishedAt": "2026-06-26T21:38:57.025Z",
   "injuries": [],
-  "suspensions": [
-    {
-      "id": "af2a1ebb-3e9d-40e9-815d-851729a71e58",
-      "subjectId": "59844368-113e-46a3-b49c-a98129fcd18b",
-      "subjectName": "Sokha Oun",
-      "teamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
-      "matchesRemaining": 1,
-      "reason": "Carton rouge",
-      "roundOccurred": 3
-    }
-  ],
+  "suspensions": [],
   "recentMatches": [
     {
       "matchId": "uclt94nomqwv07xr",
