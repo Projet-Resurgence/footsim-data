@@ -54,6 +54,187 @@
   },
   "recentMatches": [
     {
+      "matchId": "5202aqdgmqxonfpt",
+      "playedAt": "2026-06-28T11:14:41.153Z",
+      "opponentSlug": "yamatai",
+      "opponentName": "Yamatai",
+      "homeTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "awayTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 1,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.1,
+      "scorers": [
+        {
+          "minute": 33,
+          "playerId": "4c1df5ee-4c61-454b-a817-1c24699e8f99",
+          "playerName": "Jordan Mitchell",
+          "assistId": "afb3247a-c91a-4352-9008-b30a1fb17733",
+          "assistName": "Liam Williams"
+        },
+        {
+          "minute": 50,
+          "playerId": "cf9cb854-71a7-497a-a24a-75038a58e648",
+          "playerName": "Noah Williams"
+        }
+      ]
+    },
+    {
+      "matchId": "sp2wq0sxmqxonfpt",
+      "playedAt": "2026-06-28T11:14:04.456Z",
+      "opponentSlug": "uda",
+      "opponentName": "UDA",
+      "homeTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "awayTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 2,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.2,
+      "cards": [
+        {
+          "minute": 49,
+          "playerId": "afb3247a-c91a-4352-9008-b30a1fb17733",
+          "playerName": "Liam Williams",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "opwjy2asmqxonfpt",
+      "playedAt": "2026-06-28T11:13:17.066Z",
+      "opponentSlug": "prometheus",
+      "opponentName": "Prometheus",
+      "homeTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "awayTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 0,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.6,
+      "scorers": [
+        {
+          "minute": 9,
+          "playerId": "7c185c3b-b756-4e27-a573-b4ff397a3821",
+          "playerName": "Jean-Luc Garneau"
+        },
+        {
+          "minute": 96,
+          "playerId": "2ff78f0a-b6d6-4694-a08a-57cd8d8f75c6",
+          "playerName": "François Martel",
+          "assistId": "4c1df5ee-4c61-454b-a817-1c24699e8f99",
+          "assistName": "Jordan Mitchell"
+        }
+      ]
+    },
+    {
+      "matchId": "2aq54kxrmqxonfpt",
+      "playedAt": "2026-06-28T11:11:42.902Z",
+      "opponentSlug": "nouvelle-californie",
+      "opponentName": "Nouvelle Californie",
+      "homeTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "awayTeamId": "8893e441-b5b6-49ea-b439-9c327b38d7c5",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2,
+      "scorers": [
+        {
+          "minute": 80,
+          "playerId": "4c1df5ee-4c61-454b-a817-1c24699e8f99",
+          "playerName": "Jordan Mitchell"
+        }
+      ]
+    },
+    {
+      "matchId": "wgy6afc6mqxonfpt",
+      "playedAt": "2026-06-28T11:09:36.449Z",
+      "opponentSlug": "osmanide",
+      "opponentName": "Osmanide",
+      "homeTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "awayTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 0,
+      "opponentStrength": 61,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.5,
+      "scorers": [
+        {
+          "minute": 84,
+          "playerId": "afb3247a-c91a-4352-9008-b30a1fb17733",
+          "playerName": "Liam Williams"
+        },
+        {
+          "minute": 92,
+          "playerId": "cf9cb854-71a7-497a-a24a-75038a58e648",
+          "playerName": "Noah Williams",
+          "assistId": "3485a9f3-c86e-4378-a689-d66274d56746",
+          "assistName": "Kevin Thompson"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 47,
+          "playerId": "942f8579-7c2b-4f76-a243-250be435fb77",
+          "playerName": "Reed Smith",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "hm1rdfz9mqxonfpt",
+      "playedAt": "2026-06-28T11:07:49.220Z",
+      "opponentSlug": "italie",
+      "opponentName": "Italie",
+      "homeTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "awayTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 4,
+      "opponentStrength": 64,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.2,
+      "scorers": [
+        {
+          "minute": 45,
+          "playerId": "3485a9f3-c86e-4378-a689-d66274d56746",
+          "playerName": "Kevin Thompson",
+          "assistId": "7c185c3b-b756-4e27-a573-b4ff397a3821",
+          "assistName": "Jean-Luc Garneau"
+        },
+        {
+          "minute": 46,
+          "playerId": "7c185c3b-b756-4e27-a573-b4ff397a3821",
+          "playerName": "Jean-Luc Garneau"
+        }
+      ]
+    },
+    {
       "matchId": "qxsniz2imqvcmc3w",
       "playedAt": "2026-06-28T10:51:31.060Z",
       "opponentSlug": "nouvelle-inde",
