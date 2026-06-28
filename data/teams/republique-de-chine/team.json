@@ -43,5 +43,19 @@
   },
   "jerseyColor": "#111dbb",
   "publishedAt": "2026-06-21T13:02:20.953Z",
-  "recentMatches": []
+  "recentMatches": [],
+  "compHistory": [
+    {
+      "compId": "51734qruyp2mqxpccxs",
+      "compName": "H-Cup",
+      "year": 2308,
+      "format": "groups_knockout",
+      "kind": "amicale",
+      "scope": "internationale",
+      "importance": "mineur",
+      "result": "participant",
+      "phase": "group",
+      "participantCount": 16
+    }
+  ]
 }
