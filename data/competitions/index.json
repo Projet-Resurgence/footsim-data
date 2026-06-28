@@ -1,26 +1,5 @@
 [
   {
-    "id": "vjhw3ppi83pmqxn2yn5",
-    "name": "coupe de test",
-    "format": "groups_knockout",
-    "status": "ongoing",
-    "teamCount": 8,
-    "createdAt": "2026-06-28T10:21:44.033Z",
-    "year": 2308,
-    "teamIds": [
-      "da633c6d-88ad-40f5-9ab5-6437d77c3797",
-      "8451e643-10d4-48bc-a4e6-4c12255695f4",
-      "55c94018-aa17-477e-86d3-722caf57df20",
-      "cc7eb9cc-9a93-44ee-89c7-f2c6e915a221",
-      "45002df1-cafe-4c04-814c-660868b56d95",
-      "e5bac765-f354-41a2-b940-1e97fba04c20",
-      "9aea33e4-a280-4ec7-8ad5-4852e3cf3439",
-      "914986ba-db7a-4f47-aa7e-5edae17cbc8a"
-    ],
-    "kind": "amicale",
-    "scope": "internationale"
-  },
-  {
     "id": "loennthhwl9mqwvirdm",
     "name": "Coupe Cheeseburger",
     "format": "groups_knockout",
