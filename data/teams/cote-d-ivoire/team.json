@@ -474,6 +474,97 @@
   "suspensions": [],
   "recentMatches": [
     {
+      "matchId": "qt99ehbfmqvcmc3w",
+      "playedAt": "2026-06-28T10:51:31.072Z",
+      "opponentSlug": "coree",
+      "opponentName": "Corée",
+      "homeTeamId": "495d8db0-d1b7-49fd-bb3d-dcecda27eb95",
+      "awayTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 5.7,
+      "scorers": [
+        {
+          "minute": 54,
+          "playerId": "305ef8f4-3d72-4985-ac81-e47e5bc183af",
+          "playerName": "Kolo Essy"
+        }
+      ]
+    },
+    {
+      "matchId": "tahdne0gmqvcmc3w",
+      "playedAt": "2026-06-28T10:46:26.087Z",
+      "opponentSlug": "etat-de-floride",
+      "opponentName": "État de Floride",
+      "homeTeamId": "d078bb55-7f06-4ed1-b048-1dd6524ecae9",
+      "awayTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "homeAway": "away",
+      "scoreFor": 3,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.5,
+      "scorers": [
+        {
+          "minute": 15,
+          "playerId": "e1afab4f-2e72-417f-990e-dbf3705beeed",
+          "playerName": "Kolo Niamké"
+        },
+        {
+          "minute": 35,
+          "playerId": "1f2b7e31-8ff2-4bb3-b9e5-42ab5282bbb3",
+          "playerName": "Pascal Bamba"
+        },
+        {
+          "minute": 48,
+          "playerId": "305ef8f4-3d72-4985-ac81-e47e5bc183af",
+          "playerName": "Kolo Essy",
+          "assistId": "0636869a-f34f-4bc5-b141-979c31bfd66d",
+          "assistName": "Arouna N'Goran"
+        }
+      ]
+    },
+    {
+      "matchId": "whhba04vmqvcmc3w",
+      "playedAt": "2026-06-28T10:38:36.683Z",
+      "opponentSlug": "ugp",
+      "opponentName": "UGP",
+      "homeTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "awayTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 2,
+      "opponentStrength": 65,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.5,
+      "cards": [
+        {
+          "minute": 28,
+          "playerId": "341c2d91-99fc-4fee-8f22-02f672169c4d",
+          "playerName": "Kolo Gbagbo",
+          "type": "yellow"
+        },
+        {
+          "minute": 81,
+          "playerId": "34aea6b4-2695-4cce-b75a-0c8cf85a8385",
+          "playerName": "Bassem Gradel",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "38sqg4xkmqwvirdm",
       "playedAt": "2026-06-27T21:35:50.048Z",
       "opponentSlug": "yamatai",
