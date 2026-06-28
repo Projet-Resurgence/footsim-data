@@ -53,6 +53,85 @@
   "suspensions": [],
   "recentMatches": [
     {
+      "matchId": "2zcl77memqvcmc3w",
+      "playedAt": "2026-06-28T10:51:31.055Z",
+      "opponentSlug": "nouvelle-californie",
+      "opponentName": "Nouvelle Californie",
+      "homeTeamId": "8893e441-b5b6-49ea-b439-9c327b38d7c5",
+      "awayTeamId": "0cf5d3c2-39e2-4cfc-be26-279bf438a4c0",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.2,
+      "cards": [
+        {
+          "minute": 28,
+          "playerId": "543d6f3c-6cfc-43b1-905e-712da192aa7a",
+          "playerName": "Noah Young",
+          "type": "yellow"
+        },
+        {
+          "minute": 51,
+          "playerId": "543d6f3c-6cfc-43b1-905e-712da192aa7a",
+          "playerName": "Noah Young",
+          "type": "red"
+        },
+        {
+          "minute": 76,
+          "playerId": "c98cecd2-36d4-47b5-b4f0-82b75dfbcfba",
+          "playerName": "Jackson Lewis",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "c07zz3g7mqvcmc3w",
+      "playedAt": "2026-06-28T10:46:26.077Z",
+      "opponentSlug": "fsta",
+      "opponentName": "FSTA",
+      "homeTeamId": "4ba08162-cd67-4fe4-98d0-92064194885b",
+      "awayTeamId": "0cf5d3c2-39e2-4cfc-be26-279bf438a4c0",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -5.7
+    },
+    {
+      "matchId": "f74vp3xumqvcmc3w",
+      "playedAt": "2026-06-28T10:40:20.765Z",
+      "opponentSlug": "italie",
+      "opponentName": "Italie",
+      "homeTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "awayTeamId": "0cf5d3c2-39e2-4cfc-be26-279bf438a4c0",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 1,
+      "opponentStrength": 62,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -5.8,
+      "cards": [
+        {
+          "minute": 87,
+          "playerId": "a9707d26-81ad-4a4c-baf7-3dac6ec01110",
+          "playerName": "Chatan Boldtree",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "k77zwpkpmqvcmc3w",
       "playedAt": "2026-06-27T20:13:41.296Z",
       "opponentSlug": "nordrise",
