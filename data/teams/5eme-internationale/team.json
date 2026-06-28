@@ -20,6 +20,107 @@
   "publishedAt": "2026-06-28T09:55:42.149Z",
   "recentMatches": [
     {
+      "matchId": "y96000bvmqxpppwr",
+      "playedAt": "2026-06-28T11:41:12.996Z",
+      "opponentSlug": "ccb",
+      "opponentName": "CCB",
+      "homeTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "awayTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 2,
+      "opponentStrength": 62,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 15,
+          "playerId": "30f29f34-1db2-4515-90d0-a533ad38fa0e",
+          "playerName": "Mathis Dubois"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 66,
+          "playerId": "1a6dcc48-0a86-44da-a1fa-4aa0028f6161",
+          "playerName": "Valentin Dubois",
+          "type": "yellow"
+        },
+        {
+          "minute": 92,
+          "playerId": "30c48de3-bd45-4195-a6d3-e7f59257bc2d",
+          "playerName": "Jérôme Achier",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "tmg75nldmqxpppwr",
+      "playedAt": "2026-06-28T11:40:00.730Z",
+      "opponentSlug": "spc",
+      "opponentName": "SPC",
+      "homeTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "awayTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 2,
+      "opponentStrength": 64,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 7,
+          "playerId": "99b6d1d4-a819-4195-9bfc-8f0918ec7dda",
+          "playerName": "Jonathan Mathieu",
+          "assistId": "b2d3034a-7398-4715-88ad-1943b28927eb",
+          "assistName": "Florian Lopez"
+        }
+      ]
+    },
+    {
+      "matchId": "txb7f4d8mqxpppwr",
+      "playedAt": "2026-06-28T11:38:37.154Z",
+      "opponentSlug": "cote-d-ivoire",
+      "opponentName": "Côte d'Ivoire",
+      "homeTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "awayTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 1,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.1,
+      "scorers": [
+        {
+          "minute": 55,
+          "playerId": "f75dc5fe-ff5c-474d-92dc-2ec670d9a600",
+          "playerName": "Sébastien Bernard"
+        },
+        {
+          "minute": 88,
+          "playerId": "b2d3034a-7398-4715-88ad-1943b28927eb",
+          "playerName": "Florian Lopez"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 89,
+          "playerId": "609de258-0ecd-46cb-aa38-645b1e005f4d",
+          "playerName": "Nathan Martin",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "2j4iwz2hmqxpccxs",
       "playedAt": "2026-06-28T11:29:12.814Z",
       "opponentSlug": "yamatai",
