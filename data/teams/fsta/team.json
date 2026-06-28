@@ -66,6 +66,108 @@
   "suspensions": [],
   "recentMatches": [
     {
+      "matchId": "zcy248mjmqvcmc3w",
+      "playedAt": "2026-06-28T10:51:31.058Z",
+      "opponentSlug": "cedre",
+      "opponentName": "Cèdre",
+      "homeTeamId": "4ba08162-cd67-4fe4-98d0-92064194885b",
+      "awayTeamId": "292037a2-3b7a-40e7-b9fa-37a11d157341",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17,
+      "scorers": [
+        {
+          "minute": 49,
+          "playerId": "463b2a1a-5b55-4f0e-a150-f26d2adddf99",
+          "playerName": "Bernd Mayer",
+          "assistId": "9b1626f5-fe6b-45a5-b56b-9f257253945f",
+          "assistName": "Walter Schmitz"
+        },
+        {
+          "minute": 60,
+          "playerId": "463b2a1a-5b55-4f0e-a150-f26d2adddf99",
+          "playerName": "Bernd Mayer",
+          "assistId": "70e39a9c-653c-4844-a252-1e02d3890bbf",
+          "assistName": "Heinz Mayer"
+        }
+      ]
+    },
+    {
+      "matchId": "c07zz3g7mqvcmc3w",
+      "playedAt": "2026-06-28T10:46:26.077Z",
+      "opponentSlug": "texas",
+      "opponentName": "Texas",
+      "homeTeamId": "4ba08162-cd67-4fe4-98d0-92064194885b",
+      "awayTeamId": "0cf5d3c2-39e2-4cfc-be26-279bf438a4c0",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17,
+      "scorers": [
+        {
+          "minute": 68,
+          "playerId": "9b1626f5-fe6b-45a5-b56b-9f257253945f",
+          "playerName": "Walter Schmitz"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 14,
+          "playerId": "70e39a9c-653c-4844-a252-1e02d3890bbf",
+          "playerName": "Heinz Mayer",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "amg2ut9imqvcmc3w",
+      "playedAt": "2026-06-28T10:40:20.764Z",
+      "opponentSlug": "empire-hussein",
+      "opponentName": "Empire Hussein",
+      "homeTeamId": "4ba08162-cd67-4fe4-98d0-92064194885b",
+      "awayTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 5,
+      "opponentStrength": 65,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -7,
+      "scorers": [
+        {
+          "minute": 40,
+          "playerId": "463b2a1a-5b55-4f0e-a150-f26d2adddf99",
+          "playerName": "Bernd Mayer"
+        },
+        {
+          "minute": 54,
+          "playerId": "c9a454cb-6c22-42ba-aea6-0215ec660feb",
+          "playerName": "Lennart Huber"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 18,
+          "playerId": "1faeca41-38a6-4fe5-b220-a8a0240712ce",
+          "playerName": "Noah Ludwig",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "ivf6drfymqvcmc3w",
       "playedAt": "2026-06-27T20:13:41.293Z",
       "opponentSlug": "spc",
