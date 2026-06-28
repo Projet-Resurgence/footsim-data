@@ -118,6 +118,134 @@
   ],
   "recentMatches": [
     {
+      "matchId": "qkuuwx1smqvcmc3w",
+      "playedAt": "2026-06-28T10:51:31.064Z",
+      "opponentSlug": "serbie",
+      "opponentName": "Serbie",
+      "homeTeamId": "55c94018-aa17-477e-86d3-722caf57df20",
+      "awayTeamId": "b88bacc7-be39-4426-9106-7263eec6a6e9",
+      "homeAway": "home",
+      "scoreFor": 5,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 18,
+      "scorers": [
+        {
+          "minute": 2,
+          "playerId": "ee6ed1a4-5d2e-4b22-b508-4af846e588ad",
+          "playerName": "Gabriel León"
+        },
+        {
+          "minute": 12,
+          "playerId": "b7a82456-230f-4003-b4b2-6e561552946b",
+          "playerName": "Tomás Álvarez",
+          "assistId": "201e2880-3d06-44ef-bed5-811150a0b73f",
+          "assistName": "Jorge Moreno"
+        },
+        {
+          "minute": 13,
+          "playerId": "8e1495b9-e574-4b61-a7d1-90a16e9956d6",
+          "playerName": "Juan Garrido",
+          "assistId": "201e2880-3d06-44ef-bed5-811150a0b73f",
+          "assistName": "Jorge Moreno"
+        },
+        {
+          "minute": 36,
+          "playerId": "8e1495b9-e574-4b61-a7d1-90a16e9956d6",
+          "playerName": "Juan Garrido",
+          "assistId": "b7a82456-230f-4003-b4b2-6e561552946b",
+          "assistName": "Tomás Álvarez"
+        },
+        {
+          "minute": 70,
+          "playerId": "ee6ed1a4-5d2e-4b22-b508-4af846e588ad",
+          "playerName": "Gabriel León",
+          "assistId": "765a1931-cb21-463c-b54e-968c193fdc0a",
+          "assistName": "Saúl Caballero"
+        }
+      ]
+    },
+    {
+      "matchId": "o0bdjdmvmqvcmc3w",
+      "playedAt": "2026-06-28T10:43:48.263Z",
+      "opponentSlug": "5eme-internationale",
+      "opponentName": "5ème Internationale",
+      "homeTeamId": "55c94018-aa17-477e-86d3-722caf57df20",
+      "awayTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -5.7,
+      "scorers": [
+        {
+          "minute": 30,
+          "playerId": "8e1495b9-e574-4b61-a7d1-90a16e9956d6",
+          "playerName": "Juan Garrido",
+          "assistId": "c9f49304-5259-4417-89ab-17969f32b4c4",
+          "assistName": "Manuel Castro"
+        }
+      ]
+    },
+    {
+      "matchId": "5la1z9rfmqvcmc3w",
+      "playedAt": "2026-06-28T10:40:20.769Z",
+      "opponentSlug": "roumanie",
+      "opponentName": "Roumanie",
+      "homeTeamId": "55c94018-aa17-477e-86d3-722caf57df20",
+      "awayTeamId": "63b3d538-b5f5-44d0-83b4-5d23d3cbcb22",
+      "homeAway": "home",
+      "scoreFor": 5,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 18,
+      "scorers": [
+        {
+          "minute": 13,
+          "playerId": "ee6ed1a4-5d2e-4b22-b508-4af846e588ad",
+          "playerName": "Gabriel León",
+          "assistId": "b7a82456-230f-4003-b4b2-6e561552946b",
+          "assistName": "Tomás Álvarez"
+        },
+        {
+          "minute": 32,
+          "playerId": "b7a82456-230f-4003-b4b2-6e561552946b",
+          "playerName": "Tomás Álvarez"
+        },
+        {
+          "minute": 85,
+          "playerId": "d0be7d2d-18d4-4cb9-a4bd-afd4a0c97a47",
+          "playerName": "Gonzalo Sanz",
+          "assistId": "b7a82456-230f-4003-b4b2-6e561552946b",
+          "assistName": "Tomás Álvarez"
+        },
+        {
+          "minute": 95,
+          "playerId": "71720712-19ac-496b-8ae5-22f12075724c",
+          "playerName": "Sergio Reyes",
+          "assistId": "d0be7d2d-18d4-4cb9-a4bd-afd4a0c97a47",
+          "assistName": "Gonzalo Sanz"
+        },
+        {
+          "minute": 97,
+          "playerId": "ee6ed1a4-5d2e-4b22-b508-4af846e588ad",
+          "playerName": "Gabriel León"
+        }
+      ]
+    },
+    {
       "matchId": "7flvwrlqmqvcmc3w",
       "playedAt": "2026-06-27T20:13:41.299Z",
       "opponentSlug": "rpdo",
