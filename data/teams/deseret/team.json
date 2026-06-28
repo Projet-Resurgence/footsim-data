@@ -212,6 +212,130 @@
   },
   "recentMatches": [
     {
+      "matchId": "54u04uz3mqvcmc3w",
+      "playedAt": "2026-06-28T10:51:31.063Z",
+      "opponentSlug": "ursi",
+      "opponentName": "URSI",
+      "homeTeamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+      "awayTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 0,
+      "opponentStrength": 62,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.4,
+      "scorers": [
+        {
+          "minute": 47,
+          "playerId": "edfd7424-ec03-4090-9bae-efc4014f4955",
+          "playerName": "Scott Moore",
+          "assistId": "f90767f1-3aa2-4675-92cb-321d82273fa8",
+          "assistName": "Liam White"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 48,
+          "playerId": "470e4f61-dc93-4005-92a5-7dc9ed642d61",
+          "playerName": "Jackson Campbell",
+          "type": "red"
+        }
+      ]
+    },
+    {
+      "matchId": "khhnrrrpmqvcmc3w",
+      "playedAt": "2026-06-28T10:46:26.084Z",
+      "opponentSlug": "romain-d-orient",
+      "opponentName": "Romain d'Orient",
+      "homeTeamId": "a4339c19-4507-45d0-a8e7-ab33c8fe64c0",
+      "awayTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "homeAway": "away",
+      "scoreFor": 6,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 18,
+      "scorers": [
+        {
+          "minute": 13,
+          "playerId": "470e4f61-dc93-4005-92a5-7dc9ed642d61",
+          "playerName": "Jackson Campbell",
+          "assistId": "262568b4-1d7b-48fe-8f03-1bf32a4e6915",
+          "assistName": "Chase Walker"
+        },
+        {
+          "minute": 34,
+          "playerId": "51734e56-6364-48ce-aa7b-470b5a778a0b",
+          "playerName": "Nathan Baker"
+        },
+        {
+          "minute": 72,
+          "playerId": "262568b4-1d7b-48fe-8f03-1bf32a4e6915",
+          "playerName": "Chase Walker"
+        },
+        {
+          "minute": 82,
+          "playerId": "262568b4-1d7b-48fe-8f03-1bf32a4e6915",
+          "playerName": "Chase Walker"
+        },
+        {
+          "minute": 87,
+          "playerId": "51734e56-6364-48ce-aa7b-470b5a778a0b",
+          "playerName": "Nathan Baker",
+          "assistId": "f90767f1-3aa2-4675-92cb-321d82273fa8",
+          "assistName": "Liam White"
+        },
+        {
+          "minute": 93,
+          "playerId": "262568b4-1d7b-48fe-8f03-1bf32a4e6915",
+          "playerName": "Chase Walker"
+        }
+      ]
+    },
+    {
+      "matchId": "c5yb44p2mqvcmc3w",
+      "playedAt": "2026-06-28T10:40:20.771Z",
+      "opponentSlug": "rhodesie",
+      "opponentName": "Rhodésie",
+      "homeTeamId": "49938bc7-e78d-441e-907b-75a788e98216",
+      "awayTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17,
+      "scorers": [
+        {
+          "minute": 59,
+          "playerId": "470e4f61-dc93-4005-92a5-7dc9ed642d61",
+          "playerName": "Jackson Campbell"
+        },
+        {
+          "minute": 76,
+          "playerId": "51734e56-6364-48ce-aa7b-470b5a778a0b",
+          "playerName": "Nathan Baker"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 25,
+          "playerId": "0dd0b1a4-1bd3-491b-bdb5-2104eac0b7e4",
+          "playerName": "Finn Parker",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "67j5zowwmqwvirdm",
       "playedAt": "2026-06-27T21:35:50.045Z",
       "opponentSlug": "prometheus",
