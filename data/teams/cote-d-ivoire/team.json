@@ -474,6 +474,139 @@
   "suspensions": [],
   "recentMatches": [
     {
+      "matchId": "aqgfcijimqxonfpt",
+      "playedAt": "2026-06-28T11:13:17.065Z",
+      "opponentSlug": "yamatai",
+      "opponentName": "Yamatai",
+      "homeTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "awayTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 1,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "cards": [
+        {
+          "minute": 55,
+          "playerId": "1f2b7e31-8ff2-4bb3-b9e5-42ab5282bbb3",
+          "playerName": "Pascal Bamba",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "tg1eif3pmqxonfpt",
+      "playedAt": "2026-06-28T11:11:42.906Z",
+      "opponentSlug": "prometheus",
+      "opponentName": "Prometheus",
+      "homeTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "awayTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 2,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 69,
+          "playerId": "f7d4fa4e-d3fb-4f2c-a7c4-aed6dfccbcdb",
+          "playerName": "Lacina Bony",
+          "assistId": "305ef8f4-3d72-4985-ac81-e47e5bc183af",
+          "assistName": "Kolo Essy"
+        }
+      ]
+    },
+    {
+      "matchId": "1tpafg9hmqxonfpt",
+      "playedAt": "2026-06-28T11:09:36.454Z",
+      "opponentSlug": "5eme-internationale",
+      "opponentName": "5ème Internationale",
+      "homeTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "awayTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "homeAway": "away",
+      "scoreFor": 3,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.5,
+      "scorers": [
+        {
+          "minute": 20,
+          "playerId": "0636869a-f34f-4bc5-b141-979c31bfd66d",
+          "playerName": "Arouna N'Goran"
+        },
+        {
+          "minute": 71,
+          "playerId": "83ea9621-e62e-41d4-af61-139486a33ccb",
+          "playerName": "Lacina Gradel",
+          "assistId": "2e2f29f9-653b-4528-a87b-b4003dca2f4b",
+          "assistName": "Wague Ibrahimovic"
+        },
+        {
+          "minute": 80,
+          "playerId": "305ef8f4-3d72-4985-ac81-e47e5bc183af",
+          "playerName": "Kolo Essy",
+          "assistId": "091b8a84-5c2d-4bf9-97b8-3491632186ec",
+          "assistName": "Gilles Niamké"
+        }
+      ]
+    },
+    {
+      "matchId": "zaij4h03mqxonfpt",
+      "playedAt": "2026-06-28T11:07:49.222Z",
+      "opponentSlug": "ursi",
+      "opponentName": "URSI",
+      "homeTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "awayTeamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+      "homeAway": "home",
+      "scoreFor": 3,
+      "scoreAgainst": 1,
+      "opponentStrength": 62,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.5,
+      "scorers": [
+        {
+          "minute": 37,
+          "playerId": "1f2b7e31-8ff2-4bb3-b9e5-42ab5282bbb3",
+          "playerName": "Pascal Bamba",
+          "assistId": "2e2f29f9-653b-4528-a87b-b4003dca2f4b",
+          "assistName": "Wague Ibrahimovic"
+        },
+        {
+          "minute": 44,
+          "playerId": "1f2b7e31-8ff2-4bb3-b9e5-42ab5282bbb3",
+          "playerName": "Pascal Bamba"
+        },
+        {
+          "minute": 87,
+          "playerId": "305ef8f4-3d72-4985-ac81-e47e5bc183af",
+          "playerName": "Kolo Essy"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 10,
+          "playerId": "1f2b7e31-8ff2-4bb3-b9e5-42ab5282bbb3",
+          "playerName": "Pascal Bamba",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "qt99ehbfmqvcmc3w",
       "playedAt": "2026-06-28T10:51:31.072Z",
       "opponentSlug": "coree",
