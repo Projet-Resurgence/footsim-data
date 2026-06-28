@@ -49,6 +49,100 @@
   "publishedAt": "2026-06-21T21:21:29.457Z",
   "recentMatches": [
     {
+      "matchId": "okp0bwnymqvcmc3w",
+      "playedAt": "2026-06-28T10:51:31.075Z",
+      "opponentSlug": "ugp",
+      "opponentName": "UGP",
+      "homeTeamId": "ca4a42a7-44f6-40eb-a405-f2996edb1a56",
+      "awayTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 7,
+      "opponentStrength": 65,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -8,
+      "cards": [
+        {
+          "minute": 16,
+          "playerId": "118a869d-077d-4e5b-8807-4c3430c4c867",
+          "playerName": "David Cabrera",
+          "type": "yellow"
+        },
+        {
+          "minute": 24,
+          "playerId": "31efe857-8911-46a5-866e-67b4eeaac84a",
+          "playerName": "Mauricio Álvarez",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "vieeibj4mqvcmc3w",
+      "playedAt": "2026-06-28T10:46:26.088Z",
+      "opponentSlug": "ufep",
+      "opponentName": "UFEP",
+      "homeTeamId": "ca4a42a7-44f6-40eb-a405-f2996edb1a56",
+      "awayTeamId": "833feec7-4a6a-4ec4-876a-d97306e404b8",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17,
+      "scorers": [
+        {
+          "minute": 57,
+          "playerId": "5bb3a60c-3cbf-434e-8c50-5907eeda423a",
+          "playerName": "Mateo Ramírez",
+          "assistId": "99da2c36-aed2-4d4e-8427-45718ec5be00",
+          "assistName": "Nicolás Álvarez"
+        }
+      ]
+    },
+    {
+      "matchId": "522up77mmqvcmc3w",
+      "playedAt": "2026-06-28T10:40:20.774Z",
+      "opponentSlug": "foi-primaris",
+      "opponentName": "Foi Primaris",
+      "homeTeamId": "ca4a42a7-44f6-40eb-a405-f2996edb1a56",
+      "awayTeamId": "7db62a2a-b398-4a35-9c11-4d5b4bf4570c",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 6,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -7.7,
+      "cards": [
+        {
+          "minute": 34,
+          "playerId": "c4d90be2-ffd1-4e5e-99c8-91571ec4ef07",
+          "playerName": "Renato Reyes",
+          "type": "yellow"
+        },
+        {
+          "minute": 55,
+          "playerId": "31efe857-8911-46a5-866e-67b4eeaac84a",
+          "playerName": "Mauricio Álvarez",
+          "type": "red"
+        },
+        {
+          "minute": 81,
+          "playerId": "c4d90be2-ffd1-4e5e-99c8-91571ec4ef07",
+          "playerName": "Renato Reyes",
+          "type": "red"
+        }
+      ]
+    },
+    {
       "matchId": "5n2i8r8dmqvcmc3w",
       "playedAt": "2026-06-27T20:13:41.305Z",
       "opponentSlug": "livonie",
