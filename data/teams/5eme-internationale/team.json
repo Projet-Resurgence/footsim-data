@@ -20,6 +20,154 @@
   "publishedAt": "2026-06-28T09:55:42.149Z",
   "recentMatches": [
     {
+      "matchId": "2j4iwz2hmqxpccxs",
+      "playedAt": "2026-06-28T11:29:12.814Z",
+      "opponentSlug": "yamatai",
+      "opponentName": "Yamatai",
+      "homeTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "awayTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 3,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 26,
+          "playerId": "30c48de3-bd45-4195-a6d3-e7f59257bc2d",
+          "playerName": "Jérôme Achier",
+          "assistId": "1d7892d9-f47f-47a3-b41e-8622049075b2",
+          "assistName": "Henri Simon"
+        },
+        {
+          "minute": 88,
+          "playerId": "30c48de3-bd45-4195-a6d3-e7f59257bc2d",
+          "playerName": "Jérôme Achier",
+          "assistId": "b2d3034a-7398-4715-88ad-1943b28927eb",
+          "assistName": "Florian Lopez"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 45,
+          "playerId": "88a7347f-b2c3-4083-a5c6-bbac6e71ab76",
+          "playerName": "Liam Denis",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "2az506nhmqxpccxs",
+      "playedAt": "2026-06-28T11:28:02.043Z",
+      "opponentSlug": "grande-bretagne",
+      "opponentName": "Grande-Bretagne",
+      "homeTeamId": "9a7b1eb4-ac4c-4bbd-9990-650d7754a955",
+      "awayTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "homeAway": "away",
+      "scoreFor": 3,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.5,
+      "scorers": [
+        {
+          "minute": 35,
+          "playerId": "5493bcc8-38dd-4e90-bb15-eb5298c23f05",
+          "playerName": "Killian Roussel",
+          "assistId": "1a6dcc48-0a86-44da-a1fa-4aa0028f6161",
+          "assistName": "Valentin Dubois"
+        },
+        {
+          "minute": 55,
+          "playerId": "008dddcd-95bf-48a1-9939-449b73992b5c",
+          "playerName": "Lucas Simon",
+          "assistId": "0aaf1ee4-fc64-4bf0-a867-368bc1c615ba",
+          "assistName": "Loïc Bonnet"
+        },
+        {
+          "minute": 66,
+          "playerId": "30c48de3-bd45-4195-a6d3-e7f59257bc2d",
+          "playerName": "Jérôme Achier"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 50,
+          "playerId": "30c48de3-bd45-4195-a6d3-e7f59257bc2d",
+          "playerName": "Jérôme Achier",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "6lj5bocxmqxpccxs",
+      "playedAt": "2026-06-28T11:26:39.363Z",
+      "opponentSlug": "deseret",
+      "opponentName": "Deseret",
+      "homeTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "awayTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 1,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 0.7,
+      "scorers": [
+        {
+          "minute": 34,
+          "playerId": "f75dc5fe-ff5c-474d-92dc-2ec670d9a600",
+          "playerName": "Sébastien Bernard"
+        }
+      ]
+    },
+    {
+      "matchId": "5tl4aczfmqxpccxs",
+      "playedAt": "2026-06-28T11:25:42.065Z",
+      "opponentSlug": "empire-hussein",
+      "opponentName": "Empire Hussein",
+      "homeTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "awayTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 3,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 79,
+          "playerId": "30c48de3-bd45-4195-a6d3-e7f59257bc2d",
+          "playerName": "Jérôme Achier"
+        },
+        {
+          "minute": 90,
+          "playerId": "30c48de3-bd45-4195-a6d3-e7f59257bc2d",
+          "playerName": "Jérôme Achier"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 81,
+          "playerId": "4a3d4f93-a434-4162-9033-8012c1a0676c",
+          "playerName": "Vincent Noël",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "b5jh8l61mqxonfpt",
       "playedAt": "2026-06-28T11:11:42.907Z",
       "opponentSlug": "ursi",
