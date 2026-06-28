@@ -359,6 +359,295 @@
   ],
   "recentMatches": [
     {
+      "matchId": "xj24is79mqxpppws",
+      "playedAt": "2026-06-28T11:45:00.416Z",
+      "opponentSlug": "uda",
+      "opponentName": "UDA",
+      "homeTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "awayTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 0,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.1,
+      "scorers": [
+        {
+          "minute": 32,
+          "playerId": "8acb3baf-ddd3-43db-9c49-b69c52dbfbff",
+          "playerName": "Gökhan Şahin"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 8,
+          "playerId": "9d7fb4c5-31ca-4b0a-b8b9-fc8434e2cdd0",
+          "playerName": "İsmail Uçar",
+          "type": "yellow"
+        },
+        {
+          "minute": 20,
+          "playerId": "209b7955-f460-488e-9eac-61580e6cd175",
+          "playerName": "Aykut Koç",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "nzk9mtnxmqxpppws",
+      "playedAt": "2026-06-28T11:43:36.247Z",
+      "opponentSlug": "ugp",
+      "opponentName": "UGP",
+      "homeTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "awayTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 1,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.1,
+      "scorers": [
+        {
+          "minute": 10,
+          "playerId": "760ccc01-0d36-4e6b-b535-81b5070567bc",
+          "playerName": "İbrahim Karadağ",
+          "assistId": "b40e2635-39a2-4c0f-8f43-ef8530d8caac",
+          "assistName": "Uğur Tekin"
+        },
+        {
+          "minute": 62,
+          "playerId": "54cd0042-b65c-4f11-83ff-893f5b7ea988",
+          "playerName": "Polat Kahraman",
+          "assistId": "209b7955-f460-488e-9eac-61580e6cd175",
+          "assistName": "Aykut Koç"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 74,
+          "playerId": "dfd96ece-49d6-40cf-b462-f6b6690e3a84",
+          "playerName": "Devrim Aksoy",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "qboqzwjsmqxpppws",
+      "playedAt": "2026-06-28T11:42:46.201Z",
+      "opponentSlug": "livonie",
+      "opponentName": "Livonie",
+      "homeTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "awayTeamId": "6c4e5ecf-662a-43d5-9795-b038fe6e2072",
+      "homeAway": "home",
+      "scoreFor": 3,
+      "scoreAgainst": 1,
+      "opponentStrength": 62,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.5,
+      "scorers": [
+        {
+          "minute": 8,
+          "playerId": "8acb3baf-ddd3-43db-9c49-b69c52dbfbff",
+          "playerName": "Gökhan Şahin",
+          "assistId": "50e184d9-7277-46a5-ad24-f626500784ef",
+          "assistName": "Ali Polat"
+        },
+        {
+          "minute": 19,
+          "playerId": "9d7fb4c5-31ca-4b0a-b8b9-fc8434e2cdd0",
+          "playerName": "İsmail Uçar",
+          "assistId": "50e184d9-7277-46a5-ad24-f626500784ef",
+          "assistName": "Ali Polat"
+        },
+        {
+          "minute": 38,
+          "playerId": "c8ce0f44-f254-4cf4-8acd-939678b433fd",
+          "playerName": "Necati Demir"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 26,
+          "playerId": "209b7955-f460-488e-9eac-61580e6cd175",
+          "playerName": "Aykut Koç",
+          "type": "yellow"
+        },
+        {
+          "minute": 29,
+          "playerId": "9d7fb4c5-31ca-4b0a-b8b9-fc8434e2cdd0",
+          "playerName": "İsmail Uçar",
+          "type": "red"
+        }
+      ]
+    },
+    {
+      "matchId": "lmg0zpmfmqxpppwr",
+      "playedAt": "2026-06-28T11:41:12.993Z",
+      "opponentSlug": "royaume-d-asha",
+      "opponentName": "Royaume d'Asha",
+      "homeTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "awayTeamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "homeAway": "home",
+      "scoreFor": 6,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 3,
+      "scorers": [
+        {
+          "minute": 27,
+          "playerId": "209b7955-f460-488e-9eac-61580e6cd175",
+          "playerName": "Aykut Koç"
+        },
+        {
+          "minute": 35,
+          "playerId": "8acb3baf-ddd3-43db-9c49-b69c52dbfbff",
+          "playerName": "Gökhan Şahin",
+          "assistId": "61f5c289-5b37-450a-84f7-d6a42fd1c8fc",
+          "assistName": "Cağlar Tekin"
+        },
+        {
+          "minute": 44,
+          "playerId": "8acb3baf-ddd3-43db-9c49-b69c52dbfbff",
+          "playerName": "Gökhan Şahin",
+          "assistId": "50e184d9-7277-46a5-ad24-f626500784ef",
+          "assistName": "Ali Polat"
+        },
+        {
+          "minute": 45,
+          "playerId": "b40e2635-39a2-4c0f-8f43-ef8530d8caac",
+          "playerName": "Uğur Tekin",
+          "assistId": "50e184d9-7277-46a5-ad24-f626500784ef",
+          "assistName": "Ali Polat"
+        },
+        {
+          "minute": 57,
+          "playerId": "209b7955-f460-488e-9eac-61580e6cd175",
+          "playerName": "Aykut Koç",
+          "assistId": "c8ce0f44-f254-4cf4-8acd-939678b433fd",
+          "assistName": "Necati Demir"
+        },
+        {
+          "minute": 96,
+          "playerId": "8acb3baf-ddd3-43db-9c49-b69c52dbfbff",
+          "playerName": "Gökhan Şahin",
+          "assistId": "9d7fb4c5-31ca-4b0a-b8b9-fc8434e2cdd0",
+          "assistName": "İsmail Uçar"
+        }
+      ]
+    },
+    {
+      "matchId": "jk8id9rpmqxpppwr",
+      "playedAt": "2026-06-28T11:40:00.725Z",
+      "opponentSlug": "ugp",
+      "opponentName": "UGP",
+      "homeTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "awayTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "homeAway": "away",
+      "scoreFor": 4,
+      "scoreAgainst": 1,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.6,
+      "scorers": [
+        {
+          "minute": 22,
+          "playerId": "209b7955-f460-488e-9eac-61580e6cd175",
+          "playerName": "Aykut Koç",
+          "assistId": "b40e2635-39a2-4c0f-8f43-ef8530d8caac",
+          "assistName": "Uğur Tekin"
+        },
+        {
+          "minute": 40,
+          "playerId": "b40e2635-39a2-4c0f-8f43-ef8530d8caac",
+          "playerName": "Uğur Tekin",
+          "assistId": "50e184d9-7277-46a5-ad24-f626500784ef",
+          "assistName": "Ali Polat"
+        },
+        {
+          "minute": 79,
+          "playerId": "209b7955-f460-488e-9eac-61580e6cd175",
+          "playerName": "Aykut Koç",
+          "assistId": "c8ce0f44-f254-4cf4-8acd-939678b433fd",
+          "assistName": "Necati Demir"
+        },
+        {
+          "minute": 84,
+          "playerId": "209b7955-f460-488e-9eac-61580e6cd175",
+          "playerName": "Aykut Koç",
+          "assistId": "c8ce0f44-f254-4cf4-8acd-939678b433fd",
+          "assistName": "Necati Demir"
+        }
+      ]
+    },
+    {
+      "matchId": "57gt3187mqxpppwr",
+      "playedAt": "2026-06-28T11:38:37.152Z",
+      "opponentSlug": "yamatai",
+      "opponentName": "Yamatai",
+      "homeTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "awayTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "homeAway": "away",
+      "scoreFor": 3,
+      "scoreAgainst": 1,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.6,
+      "scorers": [
+        {
+          "minute": 15,
+          "playerId": "209b7955-f460-488e-9eac-61580e6cd175",
+          "playerName": "Aykut Koç",
+          "assistId": "61f5c289-5b37-450a-84f7-d6a42fd1c8fc",
+          "assistName": "Cağlar Tekin"
+        },
+        {
+          "minute": 29,
+          "playerId": "209b7955-f460-488e-9eac-61580e6cd175",
+          "playerName": "Aykut Koç",
+          "assistId": "b40e2635-39a2-4c0f-8f43-ef8530d8caac",
+          "assistName": "Uğur Tekin"
+        },
+        {
+          "minute": 67,
+          "playerId": "b40e2635-39a2-4c0f-8f43-ef8530d8caac",
+          "playerName": "Uğur Tekin"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 78,
+          "playerId": "61f5c289-5b37-450a-84f7-d6a42fd1c8fc",
+          "playerName": "Cağlar Tekin",
+          "type": "yellow"
+        },
+        {
+          "minute": 85,
+          "playerId": "61f5c289-5b37-450a-84f7-d6a42fd1c8fc",
+          "playerName": "Cağlar Tekin",
+          "type": "red"
+        }
+      ]
+    },
+    {
       "matchId": "wgy6afc6mqxonfpt",
       "playedAt": "2026-06-28T11:09:36.449Z",
       "opponentSlug": "ccb",
