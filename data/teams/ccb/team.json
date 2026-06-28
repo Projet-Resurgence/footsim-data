@@ -54,6 +54,144 @@
   },
   "recentMatches": [
     {
+      "matchId": "b0v20daemqxpppws",
+      "playedAt": "2026-06-28T11:42:46.205Z",
+      "opponentSlug": "uda",
+      "opponentName": "UDA",
+      "homeTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "awayTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 1,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "cards": [
+        {
+          "minute": 65,
+          "playerId": "12e33eae-cfd1-4431-91e6-73b0ac72e99d",
+          "playerName": "Chase Clark",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "y96000bvmqxpppwr",
+      "playedAt": "2026-06-28T11:41:12.996Z",
+      "opponentSlug": "5eme-internationale",
+      "opponentName": "5ème Internationale",
+      "homeTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "awayTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2,
+      "scorers": [
+        {
+          "minute": 38,
+          "playerId": "8a0c7655-a4b7-4d57-9a19-7a6f37ad6931",
+          "playerName": "Tanner Martin",
+          "assistId": "c8c2dbe4-df80-489b-a6b9-bba593860c98",
+          "assistName": "Spencer Clark"
+        },
+        {
+          "minute": 50,
+          "playerId": "cf9cb854-71a7-497a-a24a-75038a58e648",
+          "playerName": "Noah Williams"
+        }
+      ]
+    },
+    {
+      "matchId": "em7st8cymqxpppwr",
+      "playedAt": "2026-06-28T11:40:00.729Z",
+      "opponentSlug": "cote-d-ivoire",
+      "opponentName": "Côte d'Ivoire",
+      "homeTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "awayTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "homeAway": "away",
+      "scoreFor": 4,
+      "scoreAgainst": 2,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.6,
+      "scorers": [
+        {
+          "minute": 29,
+          "playerId": "cf9cb854-71a7-497a-a24a-75038a58e648",
+          "playerName": "Noah Williams"
+        },
+        {
+          "minute": 37,
+          "playerId": "8a0c7655-a4b7-4d57-9a19-7a6f37ad6931",
+          "playerName": "Tanner Martin",
+          "assistId": "c8c2dbe4-df80-489b-a6b9-bba593860c98",
+          "assistName": "Spencer Clark"
+        },
+        {
+          "minute": 45,
+          "playerId": "7c185c3b-b756-4e27-a573-b4ff397a3821",
+          "playerName": "Jean-Luc Garneau",
+          "assistId": "8a0c7655-a4b7-4d57-9a19-7a6f37ad6931",
+          "assistName": "Tanner Martin"
+        },
+        {
+          "minute": 80,
+          "playerId": "cf9cb854-71a7-497a-a24a-75038a58e648",
+          "playerName": "Noah Williams",
+          "assistId": "c8c2dbe4-df80-489b-a6b9-bba593860c98",
+          "assistName": "Spencer Clark"
+        }
+      ]
+    },
+    {
+      "matchId": "3jyryplhmqxpppwr",
+      "playedAt": "2026-06-28T11:38:37.155Z",
+      "opponentSlug": "spc",
+      "opponentName": "SPC",
+      "homeTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "awayTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 3,
+      "opponentStrength": 64,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 47,
+          "playerId": "8a0c7655-a4b7-4d57-9a19-7a6f37ad6931",
+          "playerName": "Tanner Martin"
+        },
+        {
+          "minute": 74,
+          "playerId": "3485a9f3-c86e-4378-a689-d66274d56746",
+          "playerName": "Kevin Thompson"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 16,
+          "playerId": "8a0c7655-a4b7-4d57-9a19-7a6f37ad6931",
+          "playerName": "Tanner Martin",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "5202aqdgmqxonfpt",
       "playedAt": "2026-06-28T11:14:41.153Z",
       "opponentSlug": "yamatai",
