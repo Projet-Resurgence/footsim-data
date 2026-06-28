@@ -49,6 +49,102 @@
   "publishedAt": "2026-06-27T12:24:41.139Z",
   "recentMatches": [
     {
+      "matchId": "lqvukdncmqvcmc3w",
+      "playedAt": "2026-06-28T10:51:31.068Z",
+      "opponentSlug": "romain-d-orient",
+      "opponentName": "Romain d'Orient",
+      "homeTeamId": "a4339c19-4507-45d0-a8e7-ab33c8fe64c0",
+      "awayTeamId": "9aea33e4-a280-4ec7-8ad5-4852e3cf3439",
+      "homeAway": "away",
+      "scoreFor": 3,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.5,
+      "scorers": [
+        {
+          "minute": 57,
+          "playerId": "1117e335-05eb-44b3-8220-a306f9062ee5",
+          "playerName": "Tyler Edwards",
+          "assistId": "47edad9b-8354-4e69-89ff-07476a1083ad",
+          "assistName": "Noah Clark"
+        },
+        {
+          "minute": 71,
+          "playerId": "a2ec207f-fce0-49d8-b55c-31ed6951a0b6",
+          "playerName": "Ryan Collins",
+          "assistId": "47edad9b-8354-4e69-89ff-07476a1083ad",
+          "assistName": "Noah Clark"
+        },
+        {
+          "minute": 89,
+          "playerId": "1117e335-05eb-44b3-8220-a306f9062ee5",
+          "playerName": "Tyler Edwards",
+          "assistId": "4f9738da-90a2-4b12-83da-24f06e033199",
+          "assistName": "Jordan Lee"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 17,
+          "playerId": "25b237c3-9343-4fb8-b360-fce5ac005d71",
+          "playerName": "Dylan Evans",
+          "type": "yellow"
+        },
+        {
+          "minute": 50,
+          "playerId": "a2ec207f-fce0-49d8-b55c-31ed6951a0b6",
+          "playerName": "Ryan Collins",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "ldkdq27rmqvcmc3w",
+      "playedAt": "2026-06-28T10:46:26.086Z",
+      "opponentSlug": "rhodesie",
+      "opponentName": "Rhodésie",
+      "homeTeamId": "49938bc7-e78d-441e-907b-75a788e98216",
+      "awayTeamId": "9aea33e4-a280-4ec7-8ad5-4852e3cf3439",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 4,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.7,
+      "cards": [
+        {
+          "minute": 31,
+          "playerId": "1117e335-05eb-44b3-8220-a306f9062ee5",
+          "playerName": "Tyler Edwards",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "6nsfvfgvmqvcmc3w",
+      "playedAt": "2026-06-28T10:40:20.773Z",
+      "opponentSlug": "coree",
+      "opponentName": "Corée",
+      "homeTeamId": "495d8db0-d1b7-49fd-bb3d-dcecda27eb95",
+      "awayTeamId": "9aea33e4-a280-4ec7-8ad5-4852e3cf3439",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.2
+    },
+    {
       "matchId": "np6a8nufmqvcmc3w",
       "playedAt": "2026-06-27T20:13:41.304Z",
       "opponentSlug": "etat-de-floride",
