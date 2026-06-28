@@ -208,6 +208,129 @@
   "activeTacticId": "0591aee1-c35a-436f-b91c-70cdeef15de1",
   "recentMatches": [
     {
+      "matchId": "rz7g7rgzmqvcmc3w",
+      "playedAt": "2026-06-28T10:51:31.047Z",
+      "opponentSlug": "maghreb",
+      "opponentName": "Maghreb",
+      "homeTeamId": "02a4b69e-0d91-4183-a72b-717c658782c6",
+      "awayTeamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+      "homeAway": "away",
+      "scoreFor": 3,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.5,
+      "scorers": [
+        {
+          "minute": 20,
+          "playerId": "613c2771-c3d9-44a0-b3ad-3476e39f55fc",
+          "playerName": "Xurshid Fozilов"
+        },
+        {
+          "minute": 42,
+          "playerId": "613c2771-c3d9-44a0-b3ad-3476e39f55fc",
+          "playerName": "Xurshid Fozilов",
+          "assistId": "cb24125f-ea8d-48bc-9db2-d65308c08bc9",
+          "assistName": "Akylbek Akhunov"
+        },
+        {
+          "minute": 55,
+          "playerId": "613c2771-c3d9-44a0-b3ad-3476e39f55fc",
+          "playerName": "Xurshid Fozilов"
+        }
+      ]
+    },
+    {
+      "matchId": "h3hlgr52mqvcmc3w",
+      "playedAt": "2026-06-28T10:46:26.074Z",
+      "opponentSlug": "cascadie",
+      "opponentName": "Cascadie",
+      "homeTeamId": "e5bac765-f354-41a2-b940-1e97fba04c20",
+      "awayTeamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 1,
+      "opponentStrength": 62,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -5.8,
+      "cards": [
+        {
+          "minute": 5,
+          "playerId": "f158da6b-6aab-4a2c-9eca-a30214525e78",
+          "playerName": "Komil Ganiyev",
+          "type": "yellow"
+        },
+        {
+          "minute": 25,
+          "playerId": "c84ce852-8076-4620-bccb-b7f17f780be0",
+          "playerName": "Beishen Usubaliyev",
+          "type": "yellow"
+        },
+        {
+          "minute": 56,
+          "playerId": "606e7675-f6eb-4237-9769-254be6e6e7cc",
+          "playerName": "Yerzhan Nazarbaev",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "hyz8hni1mqvcmc3w",
+      "playedAt": "2026-06-28T10:40:20.762Z",
+      "opponentSlug": "atlantique",
+      "opponentName": "Atlantique",
+      "homeTeamId": "cc7eb9cc-9a93-44ee-89c7-f2c6e915a221",
+      "awayTeamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+      "homeAway": "away",
+      "scoreFor": 5,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.5,
+      "scorers": [
+        {
+          "minute": 2,
+          "playerId": "7349dfc9-098e-49b1-beaf-36e1218e7c31",
+          "playerName": "Ruslan Chorotegin"
+        },
+        {
+          "minute": 25,
+          "playerId": "613c2771-c3d9-44a0-b3ad-3476e39f55fc",
+          "playerName": "Xurshid Fozilов",
+          "assistId": "e9d777cb-bfb4-47cc-ae7a-e4469220646d",
+          "assistName": "Nuriddin Rajabov"
+        },
+        {
+          "minute": 29,
+          "playerId": "613c2771-c3d9-44a0-b3ad-3476e39f55fc",
+          "playerName": "Xurshid Fozilов"
+        },
+        {
+          "minute": 51,
+          "playerId": "eec18e15-3246-4c6f-a033-f10a81718945",
+          "playerName": "Elbek Isoqov",
+          "assistId": "f158da6b-6aab-4a2c-9eca-a30214525e78",
+          "assistName": "Komil Ganiyev"
+        },
+        {
+          "minute": 77,
+          "playerId": "613c2771-c3d9-44a0-b3ad-3476e39f55fc",
+          "playerName": "Xurshid Fozilов",
+          "assistId": "eec18e15-3246-4c6f-a033-f10a81718945",
+          "assistName": "Elbek Isoqov"
+        }
+      ]
+    },
+    {
       "matchId": "uclt94nomqwv07xr",
       "playedAt": "2026-06-27T21:19:36.699Z",
       "opponentSlug": "ursi",
