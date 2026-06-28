@@ -474,6 +474,100 @@
   "suspensions": [],
   "recentMatches": [
     {
+      "matchId": "ru7h8bx9mqxpccxs",
+      "playedAt": "2026-06-28T11:28:02.047Z",
+      "opponentSlug": "uda",
+      "opponentName": "UDA",
+      "homeTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "awayTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 4,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.7,
+      "scorers": [
+        {
+          "minute": 30,
+          "playerId": "305ef8f4-3d72-4985-ac81-e47e5bc183af",
+          "playerName": "Kolo Essy"
+        }
+      ]
+    },
+    {
+      "matchId": "x14avsepmqxpccxs",
+      "playedAt": "2026-06-28T11:26:39.366Z",
+      "opponentSlug": "spc",
+      "opponentName": "SPC",
+      "homeTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "awayTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "homeAway": "home",
+      "scoreFor": 3,
+      "scoreAgainst": 1,
+      "opponentStrength": 64,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.6,
+      "scorers": [
+        {
+          "minute": 12,
+          "playerId": "1f2b7e31-8ff2-4bb3-b9e5-42ab5282bbb3",
+          "playerName": "Pascal Bamba",
+          "assistId": "e1afab4f-2e72-417f-990e-dbf3705beeed",
+          "assistName": "Kolo Niamké"
+        },
+        {
+          "minute": 21,
+          "playerId": "305ef8f4-3d72-4985-ac81-e47e5bc183af",
+          "playerName": "Kolo Essy"
+        },
+        {
+          "minute": 46,
+          "playerId": "f7d4fa4e-d3fb-4f2c-a7c4-aed6dfccbcdb",
+          "playerName": "Lacina Bony"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 26,
+          "playerId": "14259458-87a1-4f2c-9ac8-a884be29ea29",
+          "playerName": "Issiaka Diomandé",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "vrg5t9x8mqxpccxs",
+      "playedAt": "2026-06-28T11:25:42.070Z",
+      "opponentSlug": "crpac",
+      "opponentName": "CRPAC",
+      "homeTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "awayTeamId": "0fe98426-628d-4e12-a4c7-9a71e599160f",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 63,
+          "playerId": "1f2b7e31-8ff2-4bb3-b9e5-42ab5282bbb3",
+          "playerName": "Pascal Bamba",
+          "assistId": "0636869a-f34f-4bc5-b141-979c31bfd66d",
+          "assistName": "Arouna N'Goran"
+        }
+      ]
+    },
+    {
       "matchId": "aqgfcijimqxonfpt",
       "playedAt": "2026-06-28T11:13:17.065Z",
       "opponentSlug": "yamatai",
