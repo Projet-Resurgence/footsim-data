@@ -194,6 +194,121 @@
   ],
   "recentMatches": [
     {
+      "matchId": "ihidw9kpmqvcmc3w",
+      "playedAt": "2026-06-28T10:51:31.059Z",
+      "opponentSlug": "rpdo",
+      "opponentName": "RPDO",
+      "homeTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "awayTeamId": "3b7016ec-ba5d-4b54-9f1f-95d2e3ff84bf",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.5,
+      "scorers": [
+        {
+          "minute": 37,
+          "playerId": "cff29621-0d97-4df2-8eda-e5794b15e4e0",
+          "playerName": "Franco Barbieri",
+          "assistId": "cf861f67-c8bc-4f53-9f04-2e22fc880308",
+          "assistName": "Mario Santoro"
+        },
+        {
+          "minute": 48,
+          "playerId": "e21eba70-7de4-45dc-8bf5-952b0aede9ee",
+          "playerName": "Luca Grasso",
+          "assistId": "cf861f67-c8bc-4f53-9f04-2e22fc880308",
+          "assistName": "Mario Santoro"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 73,
+          "playerId": "f38ac7a8-6588-434f-a9d6-5dd503c1dc44",
+          "playerName": "Giuseppe Costa",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "ii5zsbb8mqvcmc3w",
+      "playedAt": "2026-06-28T10:46:26.081Z",
+      "opponentSlug": "cedre",
+      "opponentName": "Cèdre",
+      "homeTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "awayTeamId": "292037a2-3b7a-40e7-b9fa-37a11d157341",
+      "homeAway": "home",
+      "scoreFor": 5,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 18,
+      "scorers": [
+        {
+          "minute": 32,
+          "playerId": "e21eba70-7de4-45dc-8bf5-952b0aede9ee",
+          "playerName": "Luca Grasso"
+        },
+        {
+          "minute": 50,
+          "playerId": "1112f785-5cf3-4def-9832-f90b8f5faed5",
+          "playerName": "Alessandro Mariani",
+          "assistId": "59c523c8-c14f-4b99-90b3-e3e05804b829",
+          "assistName": "Marcello Sartori"
+        },
+        {
+          "minute": 73,
+          "playerId": "1112f785-5cf3-4def-9832-f90b8f5faed5",
+          "playerName": "Alessandro Mariani"
+        },
+        {
+          "minute": 77,
+          "playerId": "cff29621-0d97-4df2-8eda-e5794b15e4e0",
+          "playerName": "Franco Barbieri"
+        },
+        {
+          "minute": 80,
+          "playerId": "cff29621-0d97-4df2-8eda-e5794b15e4e0",
+          "playerName": "Franco Barbieri",
+          "assistId": "cf861f67-c8bc-4f53-9f04-2e22fc880308",
+          "assistName": "Mario Santoro"
+        }
+      ]
+    },
+    {
+      "matchId": "f74vp3xumqvcmc3w",
+      "playedAt": "2026-06-28T10:40:20.765Z",
+      "opponentSlug": "texas",
+      "opponentName": "Texas",
+      "homeTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "awayTeamId": "0cf5d3c2-39e2-4cfc-be26-279bf438a4c0",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17,
+      "scorers": [
+        {
+          "minute": 65,
+          "playerId": "cf861f67-c8bc-4f53-9f04-2e22fc880308",
+          "playerName": "Mario Santoro",
+          "assistId": "f38ac7a8-6588-434f-a9d6-5dd503c1dc44",
+          "assistName": "Giuseppe Costa"
+        }
+      ]
+    },
+    {
       "matchId": "sjadrzobmqwvirdm",
       "playedAt": "2026-06-27T21:36:59.149Z",
       "opponentSlug": "yamatai",
