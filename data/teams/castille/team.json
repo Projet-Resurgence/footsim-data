@@ -12,13 +12,13 @@
   ],
   "continent": "europe",
   "kind": "national",
-  "globalStrength": 60,
+  "globalStrength": 62,
   "createdAt": "2026-06-20T13:02:38.737Z",
   "createdBy": "772821169664426025",
   "ownerId": "772821169664426025",
   "playerCount": 500,
   "formation": "4-3-3",
-  "publishedAt": "2026-06-23T12:38:04.513Z",
+  "publishedAt": "2026-06-28T09:03:28.603Z",
   "coach": {
     "id": "af4c31ac-8e43-4b85-9eac-444156c07127",
     "firstName": "Álvaro",
@@ -526,5 +526,9 @@
       "participantCount": 16,
       "cmfPoints": 2
     }
-  ]
+  ],
+  "actionFoot": {
+    "rating": 5,
+    "funding": 185
+  }
 }
