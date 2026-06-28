@@ -46,6 +46,100 @@
   },
   "recentMatches": [
     {
+      "matchId": "2az506nhmqxpccxs",
+      "playedAt": "2026-06-28T11:28:02.043Z",
+      "opponentSlug": "5eme-internationale",
+      "opponentName": "5ème Internationale",
+      "homeTeamId": "9a7b1eb4-ac4c-4bbd-9990-650d7754a955",
+      "awayTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 3,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.2,
+      "scorers": [
+        {
+          "minute": 75,
+          "playerId": "2fab3c6b-4e76-41e7-a219-f3a5acb7c78f",
+          "playerName": "Jonathan Cook"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 18,
+          "playerId": "186915d9-49f7-4fde-92bd-3833a213880b",
+          "playerName": "Harry Cox",
+          "type": "yellow"
+        },
+        {
+          "minute": 29,
+          "playerId": "2779340f-8acd-433b-b9f9-8a25cf9e1430",
+          "playerName": "Joshua Carter",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "3evf4se2mqxpccxs",
+      "playedAt": "2026-06-28T11:26:39.362Z",
+      "opponentSlug": "empire-hussein",
+      "opponentName": "Empire Hussein",
+      "homeTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "awayTeamId": "9a7b1eb4-ac4c-4bbd-9990-650d7754a955",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 3,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.7,
+      "cards": [
+        {
+          "minute": 91,
+          "playerId": "157f3f89-53f4-4925-9a53-22098a0bd45f",
+          "playerName": "Joshua Simpson",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "mzd52wxfmqxpccxs",
+      "playedAt": "2026-06-28T11:25:42.067Z",
+      "opponentSlug": "deseret",
+      "opponentName": "Deseret",
+      "homeTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "awayTeamId": "9a7b1eb4-ac4c-4bbd-9990-650d7754a955",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 2,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.2,
+      "cards": [
+        {
+          "minute": 31,
+          "playerId": "186915d9-49f7-4fde-92bd-3833a213880b",
+          "playerName": "Harry Cox",
+          "type": "yellow"
+        },
+        {
+          "minute": 81,
+          "playerId": "6e82766a-501c-42aa-94e6-1c7e6c90a499",
+          "playerName": "Jonathan Clarke",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "hzbl8dbjmqvcmc3w",
       "playedAt": "2026-06-28T10:51:31.069Z",
       "opponentSlug": "livonie",
