@@ -139,6 +139,18 @@
       "result": "quarter",
       "phase": "QF",
       "participantCount": 16
+    },
+    {
+      "compId": "0p59syzhbe2mqxpppwr",
+      "compName": "Fedinalie Cup",
+      "year": 2308,
+      "format": "groups_knockout",
+      "kind": "amicale",
+      "scope": "internationale",
+      "importance": "mineur",
+      "result": "quarter",
+      "phase": "QF",
+      "participantCount": 16
     }
   ],
   "actionFoot": {
