@@ -212,6 +212,95 @@
   },
   "recentMatches": [
     {
+      "matchId": "oejw45g9mqxpccxs",
+      "playedAt": "2026-06-28T11:28:02.042Z",
+      "opponentSlug": "empire-hussein",
+      "opponentName": "Empire Hussein",
+      "homeTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "awayTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 2,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 27,
+          "playerId": "51734e56-6364-48ce-aa7b-470b5a778a0b",
+          "playerName": "Nathan Baker"
+        }
+      ]
+    },
+    {
+      "matchId": "6lj5bocxmqxpccxs",
+      "playedAt": "2026-06-28T11:26:39.363Z",
+      "opponentSlug": "5eme-internationale",
+      "opponentName": "5ème Internationale",
+      "homeTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "awayTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 0.7,
+      "scorers": [
+        {
+          "minute": 5,
+          "playerId": "470e4f61-dc93-4005-92a5-7dc9ed642d61",
+          "playerName": "Jackson Campbell",
+          "assistId": "fe059e20-aea8-47a4-b870-d7be575af230",
+          "assistName": "Ryan Martin"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 54,
+          "playerId": "0dd0b1a4-1bd3-491b-bdb5-2104eac0b7e4",
+          "playerName": "Finn Parker",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "mzd52wxfmqxpccxs",
+      "playedAt": "2026-06-28T11:25:42.067Z",
+      "opponentSlug": "grande-bretagne",
+      "opponentName": "Grande-Bretagne",
+      "homeTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "awayTeamId": "9a7b1eb4-ac4c-4bbd-9990-650d7754a955",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.5,
+      "scorers": [
+        {
+          "minute": 47,
+          "playerId": "262568b4-1d7b-48fe-8f03-1bf32a4e6915",
+          "playerName": "Chase Walker",
+          "assistId": "60812871-655a-4d99-8cf6-b47be478b3d2",
+          "assistName": "Austin Thomas"
+        },
+        {
+          "minute": 87,
+          "playerId": "262568b4-1d7b-48fe-8f03-1bf32a4e6915",
+          "playerName": "Chase Walker"
+        }
+      ]
+    },
+    {
       "matchId": "54u04uz3mqvcmc3w",
       "playedAt": "2026-06-28T10:51:31.063Z",
       "opponentSlug": "ursi",
