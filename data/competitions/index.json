@@ -3,9 +3,10 @@
     "id": "51734qruyp2mqxpccxs",
     "name": "H-Cup",
     "format": "groups_knockout",
-    "status": "ongoing",
+    "status": "completed",
     "teamCount": 16,
     "createdAt": "2026-06-28T11:25:01.696Z",
+    "winner": "d03fc060-b23b-4a41-9c1f-248b931809e1",
     "year": 2308,
     "teamIds": [
       "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
