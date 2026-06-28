@@ -20,6 +20,115 @@
   "publishedAt": "2026-06-28T09:55:42.149Z",
   "recentMatches": [
     {
+      "matchId": "b5jh8l61mqxonfpt",
+      "playedAt": "2026-06-28T11:11:42.907Z",
+      "opponentSlug": "ursi",
+      "opponentName": "URSI",
+      "homeTeamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+      "awayTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 0,
+      "opponentStrength": 62,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2,
+      "scorers": [
+        {
+          "minute": 46,
+          "playerId": "30c48de3-bd45-4195-a6d3-e7f59257bc2d",
+          "playerName": "Jérôme Achier"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 79,
+          "playerId": "ff945c9c-d73f-46c8-8e6f-741b5aed1d57",
+          "playerName": "Tanguy Gautier",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "1tpafg9hmqxonfpt",
+      "playedAt": "2026-06-28T11:09:36.454Z",
+      "opponentSlug": "cote-d-ivoire",
+      "opponentName": "Côte d'Ivoire",
+      "homeTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "awayTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 3,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.7,
+      "cards": [
+        {
+          "minute": 14,
+          "playerId": "8dfe3c1b-ad91-4c62-a9c6-5ae0265bcc34",
+          "playerName": "Thomas Nicolas",
+          "type": "yellow"
+        },
+        {
+          "minute": 26,
+          "playerId": "8dfe3c1b-ad91-4c62-a9c6-5ae0265bcc34",
+          "playerName": "Thomas Nicolas",
+          "type": "red"
+        }
+      ]
+    },
+    {
+      "matchId": "msokkiplmqxonfpt",
+      "playedAt": "2026-06-28T11:07:49.222Z",
+      "opponentSlug": "prometheus",
+      "opponentName": "Prometheus",
+      "homeTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "awayTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 5,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.7,
+      "scorers": [
+        {
+          "minute": 76,
+          "playerId": "b2d3034a-7398-4715-88ad-1943b28927eb",
+          "playerName": "Florian Lopez",
+          "assistId": "30c48de3-bd45-4195-a6d3-e7f59257bc2d",
+          "assistName": "Jérôme Achier"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 15,
+          "playerId": "1d7892d9-f47f-47a3-b41e-8622049075b2",
+          "playerName": "Henri Simon",
+          "type": "yellow"
+        },
+        {
+          "minute": 20,
+          "playerId": "4a3d4f93-a434-4162-9033-8012c1a0676c",
+          "playerName": "Vincent Noël",
+          "type": "yellow"
+        },
+        {
+          "minute": 86,
+          "playerId": "4a3d4f93-a434-4162-9033-8012c1a0676c",
+          "playerName": "Vincent Noël",
+          "type": "red"
+        }
+      ]
+    },
+    {
       "matchId": "nqm117ppmqvcmc3w",
       "playedAt": "2026-06-28T10:50:03.021Z",
       "opponentSlug": "fclc",
