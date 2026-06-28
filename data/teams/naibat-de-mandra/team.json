@@ -69,6 +69,97 @@
   },
   "recentMatches": [
     {
+      "matchId": "wunore7dmqvcmc3w",
+      "playedAt": "2026-06-28T10:51:31.056Z",
+      "opponentSlug": "voivodine",
+      "opponentName": "Voïvodine",
+      "homeTeamId": "fe2670d9-24c9-421f-8687-cd461e79e679",
+      "awayTeamId": "28274f9a-bff0-42da-ac99-a6e3a9812a34",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -5.7,
+      "scorers": [
+        {
+          "minute": 89,
+          "playerId": "0cc252be-56fa-44af-aeec-873e92364a44",
+          "playerName": "Dereje Gebremichael",
+          "assistId": "ddcf4415-aac3-4f61-a721-4354fbda0d30",
+          "assistName": "Bereket Demissie"
+        }
+      ]
+    },
+    {
+      "matchId": "pyrpqi0kmqvcmc3w",
+      "playedAt": "2026-06-28T10:46:26.077Z",
+      "opponentSlug": "nova-orbis",
+      "opponentName": "Nova Orbis",
+      "homeTeamId": "fe2670d9-24c9-421f-8687-cd461e79e679",
+      "awayTeamId": "28f82804-8005-450a-b6d8-740533bf82b0",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 3,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.2,
+      "scorers": [
+        {
+          "minute": 86,
+          "playerId": "0523b0c9-e91b-4e30-ae2a-df96c48339e9",
+          "playerName": "Biruk Bekele",
+          "assistId": "6922161b-41d1-4dc0-9ee2-6d48486869a3",
+          "assistName": "Getachew Kebede"
+        }
+      ]
+    },
+    {
+      "matchId": "3iwqdhmjmqvcmc3w",
+      "playedAt": "2026-06-28T10:40:20.763Z",
+      "opponentSlug": "ksuta",
+      "opponentName": "Ksuta",
+      "homeTeamId": "fe2670d9-24c9-421f-8687-cd461e79e679",
+      "awayTeamId": "940ca331-c4a1-4b47-9124-47f1f0c0111b",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 3,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -5.7,
+      "scorers": [
+        {
+          "minute": 47,
+          "playerId": "0523b0c9-e91b-4e30-ae2a-df96c48339e9",
+          "playerName": "Biruk Bekele",
+          "assistId": "ddcf4415-aac3-4f61-a721-4354fbda0d30",
+          "assistName": "Bereket Demissie"
+        },
+        {
+          "minute": 51,
+          "playerId": "0cc252be-56fa-44af-aeec-873e92364a44",
+          "playerName": "Dereje Gebremichael"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 82,
+          "playerId": "917d1a12-cb85-4195-9195-d3b5c809b3ce",
+          "playerName": "Bereket Urge",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "aui3dkbomqvcmc3w",
       "playedAt": "2026-06-27T20:13:41.292Z",
       "opponentSlug": "crpac",
