@@ -11,6 +11,71 @@
   "formation": "4-3-3",
   "recentMatches": [
     {
+      "matchId": "b3t5g1wpmqxonfpt",
+      "playedAt": "2026-06-28T11:11:42.910Z",
+      "opponentSlug": "royaume-d-asha",
+      "opponentName": "Royaume d'Asha",
+      "homeTeamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "awayTeamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.2
+    },
+    {
+      "matchId": "u22x83iimqxonfpt",
+      "playedAt": "2026-06-28T11:09:36.455Z",
+      "opponentSlug": "uda",
+      "opponentName": "UDA",
+      "homeTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "awayTeamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 4,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.7,
+      "cards": [
+        {
+          "minute": 32,
+          "playerId": "e3e1ec99-423f-475d-b4d9-e5a7b9bbb145",
+          "playerName": "Dényl Polynice",
+          "type": "yellow"
+        },
+        {
+          "minute": 84,
+          "playerId": "e87a5851-81ce-485c-83fe-194209656715",
+          "playerName": "Julián Cárdenas",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "qiq25tuqmqxonfpt",
+      "playedAt": "2026-06-28T11:07:49.223Z",
+      "opponentSlug": "ugp",
+      "opponentName": "UGP",
+      "homeTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "awayTeamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 2,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.2
+    },
+    {
       "matchId": "nqm117ppmqvcmc3w",
       "playedAt": "2026-06-28T10:50:03.021Z",
       "opponentSlug": "5eme-internationale",
