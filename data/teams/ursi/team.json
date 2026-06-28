@@ -39,6 +39,77 @@
   "suspensions": [],
   "recentMatches": [
     {
+      "matchId": "54u04uz3mqvcmc3w",
+      "playedAt": "2026-06-28T10:51:31.063Z",
+      "opponentSlug": "deseret",
+      "opponentName": "Deseret",
+      "homeTeamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+      "awayTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 1,
+      "opponentStrength": 64,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6
+    },
+    {
+      "matchId": "cgtd3y3umqvcmc3w",
+      "playedAt": "2026-06-28T10:46:26.084Z",
+      "opponentSlug": "yamatai",
+      "opponentName": "Yamatai",
+      "homeTeamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+      "awayTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 4,
+      "opponentStrength": 63,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.9
+    },
+    {
+      "matchId": "dowihnsymqvcmc3w",
+      "playedAt": "2026-06-28T10:40:20.768Z",
+      "opponentSlug": "ccb",
+      "opponentName": "CCB",
+      "homeTeamId": "dd9ec787-b9a6-466a-9cd3-b06674a15268",
+      "awayTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 0,
+      "opponentStrength": 61,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 5.7,
+      "cards": [
+        {
+          "minute": 18,
+          "playerId": "65a0ba07-91ec-4016-990c-5b03e5d62002",
+          "playerName": "Khánh La",
+          "type": "yellow"
+        },
+        {
+          "minute": 29,
+          "playerId": "65a0ba07-91ec-4016-990c-5b03e5d62002",
+          "playerName": "Khánh La",
+          "type": "red"
+        },
+        {
+          "minute": 84,
+          "playerId": "674490b6-409f-4e59-98de-907056600e0d",
+          "playerName": "Hafiz Yap",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "uclt94nomqwv07xr",
       "playedAt": "2026-06-27T21:19:36.699Z",
       "opponentSlug": "crpac",
