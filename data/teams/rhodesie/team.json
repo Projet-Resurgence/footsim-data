@@ -50,6 +50,136 @@
   "publishedAt": "2026-06-21T14:09:36.522Z",
   "recentMatches": [
     {
+      "matchId": "p1nj0g8pmqvcmc3w",
+      "playedAt": "2026-06-28T10:51:31.070Z",
+      "opponentSlug": "germanie",
+      "opponentName": "Germanie",
+      "homeTeamId": "49938bc7-e78d-441e-907b-75a788e98216",
+      "awayTeamId": "6377412c-0d4c-47e7-ba24-52745e83cfaa",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 4,
+      "opponentStrength": 62,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.3,
+      "scorers": [
+        {
+          "minute": 49,
+          "playerId": "8586ee1d-e7fa-4c0a-bf00-699fe4f678ce",
+          "playerName": "Urtiti Nyarota"
+        },
+        {
+          "minute": 58,
+          "playerId": "8586ee1d-e7fa-4c0a-bf00-699fe4f678ce",
+          "playerName": "Urtiti Nyarota",
+          "assistId": "c6c0e441-97a8-4903-8efb-755003b01815",
+          "assistName": "Finley Rose"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 5,
+          "playerId": "584a3c24-12af-49b7-aa29-938d4350e9c4",
+          "playerName": "Thomas Carter",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "ldkdq27rmqvcmc3w",
+      "playedAt": "2026-06-28T10:46:26.086Z",
+      "opponentSlug": "aethel",
+      "opponentName": "Aethel",
+      "homeTeamId": "49938bc7-e78d-441e-907b-75a788e98216",
+      "awayTeamId": "9aea33e4-a280-4ec7-8ad5-4852e3cf3439",
+      "homeAway": "home",
+      "scoreFor": 4,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 18,
+      "scorers": [
+        {
+          "minute": 2,
+          "playerId": "8586ee1d-e7fa-4c0a-bf00-699fe4f678ce",
+          "playerName": "Urtiti Nyarota"
+        },
+        {
+          "minute": 10,
+          "playerId": "8586ee1d-e7fa-4c0a-bf00-699fe4f678ce",
+          "playerName": "Urtiti Nyarota",
+          "assistId": "c6c0e441-97a8-4903-8efb-755003b01815",
+          "assistName": "Finley Rose"
+        },
+        {
+          "minute": 78,
+          "playerId": "15da60da-3954-4e0a-afc0-4ed0842fe14e",
+          "playerName": "Jabulani Mpofu",
+          "assistId": "561592c7-8ba8-4094-9b9c-9097a3e94db6",
+          "assistName": "Tatenda Ncube"
+        },
+        {
+          "minute": 91,
+          "playerId": "8586ee1d-e7fa-4c0a-bf00-699fe4f678ce",
+          "playerName": "Urtiti Nyarota"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 40,
+          "playerId": "4029cf25-dd3a-43b3-a70e-0ac2589f89bf",
+          "playerName": "Jonathan Baker",
+          "type": "red"
+        },
+        {
+          "minute": 51,
+          "playerId": "15da60da-3954-4e0a-afc0-4ed0842fe14e",
+          "playerName": "Jabulani Mpofu",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "c5yb44p2mqvcmc3w",
+      "playedAt": "2026-06-28T10:40:20.771Z",
+      "opponentSlug": "deseret",
+      "opponentName": "Deseret",
+      "homeTeamId": "49938bc7-e78d-441e-907b-75a788e98216",
+      "awayTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 2,
+      "opponentStrength": 64,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6,
+      "scorers": [
+        {
+          "minute": 52,
+          "playerId": "15da60da-3954-4e0a-afc0-4ed0842fe14e",
+          "playerName": "Jabulani Mpofu",
+          "assistId": "4029cf25-dd3a-43b3-a70e-0ac2589f89bf",
+          "assistName": "Jonathan Baker"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 7,
+          "playerId": "6b9d4e1d-70cf-4ce0-8ad9-b845411528b8",
+          "playerName": "Wadzanai Ndlovu",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "gtyhwyonmqvcmc3w",
       "playedAt": "2026-06-27T20:13:41.302Z",
       "opponentSlug": "yamatai",
