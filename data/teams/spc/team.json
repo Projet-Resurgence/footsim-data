@@ -38,6 +38,84 @@
   },
   "recentMatches": [
     {
+      "matchId": "irgcr07fmqxonfpt",
+      "playedAt": "2026-06-28T11:11:42.905Z",
+      "opponentSlug": "texas",
+      "opponentName": "Texas",
+      "homeTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "awayTeamId": "0cf5d3c2-39e2-4cfc-be26-279bf438a4c0",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7
+    },
+    {
+      "matchId": "7b2rpgt9mqxonfpt",
+      "playedAt": "2026-06-28T11:09:36.451Z",
+      "opponentSlug": "yamatai",
+      "opponentName": "Yamatai",
+      "homeTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "awayTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 1,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 0.7,
+      "scorers": [
+        {
+          "minute": 15,
+          "playerId": "bb6f1b5f-707a-4b14-8605-43359faeafc1",
+          "playerName": "Ke Ma"
+        }
+      ]
+    },
+    {
+      "matchId": "uze1xy0jmqxonfpt",
+      "playedAt": "2026-06-28T11:07:49.221Z",
+      "opponentSlug": "foi-primaris",
+      "opponentName": "Foi Primaris",
+      "homeTeamId": "7db62a2a-b398-4a35-9c11-4d5b4bf4570c",
+      "awayTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 1,
+      "opponentStrength": 64,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.1,
+      "scorers": [
+        {
+          "minute": 40,
+          "playerId": "1eb6cdb3-28c8-4792-8b45-f820be065dd9",
+          "playerName": "Ran Tian"
+        },
+        {
+          "minute": 72,
+          "playerId": "bb6f1b5f-707a-4b14-8605-43359faeafc1",
+          "playerName": "Ke Ma"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 81,
+          "playerId": "ffa861cb-7634-46c1-b96e-231a8ac43aec",
+          "playerName": "De Liang",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "n5adeekmmqvcmc3w",
       "playedAt": "2026-06-28T10:51:31.049Z",
       "opponentSlug": "perou",
