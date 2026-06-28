@@ -286,6 +286,126 @@
   "suspensions": [],
   "recentMatches": [
     {
+      "matchId": "h2hafzslmqvcmc3w",
+      "playedAt": "2026-06-28T10:49:12.412Z",
+      "opponentSlug": "yamatai",
+      "opponentName": "Yamatai",
+      "homeTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "awayTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "homeAway": "home",
+      "scoreFor": 4,
+      "scoreAgainst": 1,
+      "opponentStrength": 63,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 18.2,
+      "scorers": [
+        {
+          "minute": 3,
+          "playerId": "b57ca962-753d-4797-bf41-a7b0fa40ae61",
+          "playerName": "Roman Tsvetkov",
+          "assistId": "688b0471-9199-4c65-9d73-a408fa96f582",
+          "assistName": "Eldar Antonov"
+        },
+        {
+          "minute": 9,
+          "playerId": "4d38741c-7eaa-48e6-9239-632e339aa1cc",
+          "playerName": "Kirill Davydov",
+          "assistId": "688b0471-9199-4c65-9d73-a408fa96f582",
+          "assistName": "Eldar Antonov"
+        },
+        {
+          "minute": 20,
+          "playerId": "4d38741c-7eaa-48e6-9239-632e339aa1cc",
+          "playerName": "Kirill Davydov",
+          "assistId": "688b0471-9199-4c65-9d73-a408fa96f582",
+          "assistName": "Eldar Antonov"
+        },
+        {
+          "minute": 68,
+          "playerId": "4d38741c-7eaa-48e6-9239-632e339aa1cc",
+          "playerName": "Kirill Davydov",
+          "assistId": "83d77c6f-a467-4aac-a746-fb82f51b6195",
+          "assistName": "Ruslan Kuznetsov"
+        }
+      ]
+    },
+    {
+      "matchId": "ta22qg6umqvcmc3w",
+      "playedAt": "2026-06-28T10:42:48.625Z",
+      "opponentSlug": "ccb",
+      "opponentName": "CCB",
+      "homeTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "awayTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "homeAway": "home",
+      "scoreFor": 3,
+      "scoreAgainst": 0,
+      "opponentStrength": 61,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.7,
+      "scorers": [
+        {
+          "minute": 47,
+          "playerId": "83d77c6f-a467-4aac-a746-fb82f51b6195",
+          "playerName": "Ruslan Kuznetsov",
+          "assistId": "688b0471-9199-4c65-9d73-a408fa96f582",
+          "assistName": "Eldar Antonov"
+        },
+        {
+          "minute": 67,
+          "playerId": "60342249-23bb-4564-9620-91c2a141b9ad",
+          "playerName": "Pyotr Stepanov"
+        },
+        {
+          "minute": 88,
+          "playerId": "83d77c6f-a467-4aac-a746-fb82f51b6195",
+          "playerName": "Ruslan Kuznetsov"
+        }
+      ]
+    },
+    {
+      "matchId": "rblryvgmmqvcmc3w",
+      "playedAt": "2026-06-28T10:37:03.535Z",
+      "opponentSlug": "royaume-d-asha",
+      "opponentName": "Royaume d'Asha",
+      "homeTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "awayTeamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 5.7,
+      "scorers": [
+        {
+          "minute": 66,
+          "playerId": "da579017-cf8b-482c-b9d5-ec411cd825ff",
+          "playerName": "Mikhail Ivanov"
+        },
+        {
+          "minute": 79,
+          "playerId": "da579017-cf8b-482c-b9d5-ec411cd825ff",
+          "playerName": "Mikhail Ivanov"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 15,
+          "playerId": "8de90201-5f15-4595-9340-e7f4d0c7c845",
+          "playerName": "Roman Borisov",
+          "type": "red"
+        }
+      ]
+    },
+    {
       "matchId": "sjkvgsdnmqwvirdm",
       "playedAt": "2026-06-27T21:37:33.163Z",
       "opponentSlug": "spc",
