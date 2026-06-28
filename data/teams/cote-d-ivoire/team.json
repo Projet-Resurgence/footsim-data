@@ -474,6 +474,138 @@
   "suspensions": [],
   "recentMatches": [
     {
+      "matchId": "02fzbs5imqxpppwr",
+      "playedAt": "2026-06-28T11:41:12.995Z",
+      "opponentSlug": "spc",
+      "opponentName": "SPC",
+      "homeTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "awayTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "homeAway": "home",
+      "scoreFor": 4,
+      "scoreAgainst": 3,
+      "opponentStrength": 64,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.1,
+      "scorers": [
+        {
+          "minute": 2,
+          "playerId": "1f2b7e31-8ff2-4bb3-b9e5-42ab5282bbb3",
+          "playerName": "Pascal Bamba",
+          "assistId": "e1afab4f-2e72-417f-990e-dbf3705beeed",
+          "assistName": "Kolo Niamké"
+        },
+        {
+          "minute": 25,
+          "playerId": "305ef8f4-3d72-4985-ac81-e47e5bc183af",
+          "playerName": "Kolo Essy",
+          "assistId": "99ea1531-0a21-4909-acde-5b29f578e981",
+          "assistName": "Eric Gbagbo"
+        },
+        {
+          "minute": 30,
+          "playerId": "e1afab4f-2e72-417f-990e-dbf3705beeed",
+          "playerName": "Kolo Niamké"
+        },
+        {
+          "minute": 67,
+          "playerId": "e1afab4f-2e72-417f-990e-dbf3705beeed",
+          "playerName": "Kolo Niamké",
+          "assistId": "305ef8f4-3d72-4985-ac81-e47e5bc183af",
+          "assistName": "Kolo Essy"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 19,
+          "playerId": "1f2b7e31-8ff2-4bb3-b9e5-42ab5282bbb3",
+          "playerName": "Pascal Bamba",
+          "type": "yellow"
+        },
+        {
+          "minute": 44,
+          "playerId": "305ef8f4-3d72-4985-ac81-e47e5bc183af",
+          "playerName": "Kolo Essy",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "em7st8cymqxpppwr",
+      "playedAt": "2026-06-28T11:40:00.729Z",
+      "opponentSlug": "ccb",
+      "opponentName": "CCB",
+      "homeTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "awayTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 4,
+      "opponentStrength": 62,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.2,
+      "scorers": [
+        {
+          "minute": 51,
+          "playerId": "0636869a-f34f-4bc5-b141-979c31bfd66d",
+          "playerName": "Arouna N'Goran",
+          "assistId": "2e2f29f9-653b-4528-a87b-b4003dca2f4b",
+          "assistName": "Wague Ibrahimovic"
+        },
+        {
+          "minute": 53,
+          "playerId": "1f2b7e31-8ff2-4bb3-b9e5-42ab5282bbb3",
+          "playerName": "Pascal Bamba",
+          "assistId": "091b8a84-5c2d-4bf9-97b8-3491632186ec",
+          "assistName": "Gilles Niamké"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 58,
+          "playerId": "2869ad75-2a38-4f4f-b46f-30d14c571450",
+          "playerName": "Herve Kalou",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "txb7f4d8mqxpppwr",
+      "playedAt": "2026-06-28T11:38:37.154Z",
+      "opponentSlug": "5eme-internationale",
+      "opponentName": "5ème Internationale",
+      "homeTeamId": "28c0b086-2c03-4d18-b943-90ffdcf68fcc",
+      "awayTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 81,
+          "playerId": "e1afab4f-2e72-417f-990e-dbf3705beeed",
+          "playerName": "Kolo Niamké"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 5,
+          "playerId": "341c2d91-99fc-4fee-8f22-02f672169c4d",
+          "playerName": "Kolo Gbagbo",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "ru7h8bx9mqxpccxs",
       "playedAt": "2026-06-28T11:28:02.047Z",
       "opponentSlug": "uda",
