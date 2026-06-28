@@ -30,6 +30,202 @@
   "publishedAt": "2026-06-27T20:37:45.895Z",
   "recentMatches": [
     {
+      "matchId": "r6uvxs2imqxpppws",
+      "playedAt": "2026-06-28T11:44:11.154Z",
+      "opponentSlug": "spc",
+      "opponentName": "SPC",
+      "homeTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "awayTeamId": "63388eec-41ff-486b-b3fd-d7a9fdb8ee4a",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 2,
+      "opponentStrength": 64,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 23,
+          "playerId": "c6663d52-24a7-4d5a-aaea-b02fd24652d6",
+          "playerName": "Samuele De Angelis"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 41,
+          "playerId": "edd4bb45-d83c-4421-8f10-63bba4605082",
+          "playerName": "Pietro Romano",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "nzk9mtnxmqxpppws",
+      "playedAt": "2026-06-28T11:43:36.247Z",
+      "opponentSlug": "osmanide",
+      "opponentName": "Osmanide",
+      "homeTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "awayTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 2,
+      "opponentStrength": 61,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 57,
+          "playerId": "720e2681-c6f2-46e5-b610-9604d3a9e92c",
+          "playerName": "Davide Mancini"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 36,
+          "playerId": "09e3768b-d2b4-4ad9-8a05-a00a01d954e2",
+          "playerName": "Donato De Angelis",
+          "type": "yellow"
+        },
+        {
+          "minute": 71,
+          "playerId": "c0b175e4-3ae0-4184-9118-b1c25aef5498",
+          "playerName": "Marcello Bruno",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "fn8hz4phmqxpppws",
+      "playedAt": "2026-06-28T11:42:46.203Z",
+      "opponentSlug": "italie",
+      "opponentName": "Italie",
+      "homeTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "awayTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 1,
+      "opponentStrength": 64,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.1,
+      "scorers": [
+        {
+          "minute": 57,
+          "playerId": "c0b175e4-3ae0-4184-9118-b1c25aef5498",
+          "playerName": "Marcello Bruno",
+          "assistId": "b7b01260-368c-4f4e-9640-837c0bc13d27",
+          "assistName": "Fabio Morelli"
+        },
+        {
+          "minute": 85,
+          "playerId": "c6663d52-24a7-4d5a-aaea-b02fd24652d6",
+          "playerName": "Samuele De Angelis"
+        }
+      ]
+    },
+    {
+      "matchId": "wtj7a6y6mqxpppwr",
+      "playedAt": "2026-06-28T11:41:12.992Z",
+      "opponentSlug": "yamatai",
+      "opponentName": "Yamatai",
+      "homeTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "awayTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 0,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.6,
+      "scorers": [
+        {
+          "minute": 39,
+          "playerId": "63cba1c6-27e5-4311-91d8-92b5f3fde740",
+          "playerName": "Cristian Lombardo"
+        },
+        {
+          "minute": 40,
+          "playerId": "c6663d52-24a7-4d5a-aaea-b02fd24652d6",
+          "playerName": "Samuele De Angelis",
+          "assistId": "b7b01260-368c-4f4e-9640-837c0bc13d27",
+          "assistName": "Fabio Morelli"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 69,
+          "playerId": "edd4bb45-d83c-4421-8f10-63bba4605082",
+          "playerName": "Pietro Romano",
+          "type": "yellow"
+        },
+        {
+          "minute": 76,
+          "playerId": "c0b175e4-3ae0-4184-9118-b1c25aef5498",
+          "playerName": "Marcello Bruno",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "jk8id9rpmqxpppwr",
+      "playedAt": "2026-06-28T11:40:00.725Z",
+      "opponentSlug": "osmanide",
+      "opponentName": "Osmanide",
+      "homeTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "awayTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 4,
+      "opponentStrength": 61,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.7,
+      "scorers": [
+        {
+          "minute": 23,
+          "playerId": "c6663d52-24a7-4d5a-aaea-b02fd24652d6",
+          "playerName": "Samuele De Angelis",
+          "assistId": "442b01e6-c161-4845-8c2b-3261255abcdb",
+          "assistName": "Luca Marini"
+        }
+      ]
+    },
+    {
+      "matchId": "xl6k272gmqxpppwr",
+      "playedAt": "2026-06-28T11:38:37.152Z",
+      "opponentSlug": "royaume-d-asha",
+      "opponentName": "Royaume d'Asha",
+      "homeTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "awayTeamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 23,
+          "playerId": "c6663d52-24a7-4d5a-aaea-b02fd24652d6",
+          "playerName": "Samuele De Angelis"
+        }
+      ]
+    },
+    {
       "matchId": "jbx8isdzmqxpccxs",
       "playedAt": "2026-06-28T11:30:34.014Z",
       "opponentSlug": "italie",
