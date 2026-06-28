@@ -45,6 +45,112 @@
   "publishedAt": "2026-06-26T21:42:05.975Z",
   "recentMatches": [
     {
+      "matchId": "wunore7dmqvcmc3w",
+      "playedAt": "2026-06-28T10:51:31.056Z",
+      "opponentSlug": "naibat-de-mandra",
+      "opponentName": "Naibat de Mandra",
+      "homeTeamId": "fe2670d9-24c9-421f-8687-cd461e79e679",
+      "awayTeamId": "28274f9a-bff0-42da-ac99-a6e3a9812a34",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17,
+      "scorers": [
+        {
+          "minute": 3,
+          "playerId": "fe97ffe0-cbc5-4ab5-a816-177a2d20ee92",
+          "playerName": "Slobodan Ristić",
+          "assistId": "e2e29355-54ae-44ab-85d6-65034c455da8",
+          "assistName": "Zlatko Marković"
+        },
+        {
+          "minute": 82,
+          "playerId": "2b7e9d06-8d92-420c-a607-122f2d0aeecd",
+          "playerName": "Borislav Marinković",
+          "assistId": "fe97ffe0-cbc5-4ab5-a816-177a2d20ee92",
+          "assistName": "Slobodan Ristić"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 40,
+          "playerId": "7469d832-d95a-45d9-bb25-bab2aa140772",
+          "playerName": "Goran Ranković",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "l32kck2gmqvcmc3w",
+      "playedAt": "2026-06-28T10:46:26.078Z",
+      "opponentSlug": "uda",
+      "opponentName": "UDA",
+      "homeTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "awayTeamId": "28274f9a-bff0-42da-ac99-a6e3a9812a34",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 7,
+      "opponentStrength": 63,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -7.9,
+      "cards": [
+        {
+          "minute": 19,
+          "playerId": "fbfd9a0d-9cb3-4481-b984-8a51892c763c",
+          "playerName": "Jovan Filipović",
+          "type": "yellow"
+        },
+        {
+          "minute": 50,
+          "playerId": "0b442619-37da-45d5-bcf7-e86fb00ff211",
+          "playerName": "Goran Jović",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "i9jvnm3wmqvcmc3w",
+      "playedAt": "2026-06-28T10:40:20.765Z",
+      "opponentSlug": "nouvelle-inde",
+      "opponentName": "Nouvelle Inde",
+      "homeTeamId": "a3427d5b-8081-4363-a9fd-1ac7de7e9144",
+      "awayTeamId": "28274f9a-bff0-42da-ac99-a6e3a9812a34",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 4,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.7,
+      "scorers": [
+        {
+          "minute": 7,
+          "playerId": "fe97ffe0-cbc5-4ab5-a816-177a2d20ee92",
+          "playerName": "Slobodan Ristić",
+          "assistId": "551fa771-bc13-4a31-b47c-4d49d774f7c0",
+          "assistName": "Mladen Babić"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 57,
+          "playerId": "240e5ebc-0e43-4b79-8b3c-6b3aa769bb22",
+          "playerName": "Časlav Nedeljković",
+          "type": "red"
+        }
+      ]
+    },
+    {
       "matchId": "mknykqsnmqvcmc3w",
       "playedAt": "2026-06-27T20:13:41.297Z",
       "opponentSlug": "prometheus",
