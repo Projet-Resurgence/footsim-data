@@ -53,6 +53,66 @@
   "suspensions": [],
   "recentMatches": [
     {
+      "matchId": "0hrgjm3cmqxpccxs",
+      "playedAt": "2026-06-28T11:28:02.040Z",
+      "opponentSlug": "nouvelle-californie",
+      "opponentName": "Nouvelle Californie",
+      "homeTeamId": "0cf5d3c2-39e2-4cfc-be26-279bf438a4c0",
+      "awayTeamId": "8893e441-b5b6-49ea-b439-9c327b38d7c5",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 3,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.2,
+      "scorers": [
+        {
+          "minute": 22,
+          "playerId": "79a4ce8e-b39b-42ed-91bd-77b060d471af",
+          "playerName": "Grant Collins",
+          "assistId": "543d6f3c-6cfc-43b1-905e-712da192aa7a",
+          "assistName": "Noah Young"
+        }
+      ]
+    },
+    {
+      "matchId": "ita5e5j5mqxpccxs",
+      "playedAt": "2026-06-28T11:26:39.360Z",
+      "opponentSlug": "yamatai",
+      "opponentName": "Yamatai",
+      "homeTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "awayTeamId": "0cf5d3c2-39e2-4cfc-be26-279bf438a4c0",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 2,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -1.2
+    },
+    {
+      "matchId": "ppawnp6xmqxpccxs",
+      "playedAt": "2026-06-28T11:25:42.063Z",
+      "opponentSlug": "italie",
+      "opponentName": "Italie",
+      "homeTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "awayTeamId": "0cf5d3c2-39e2-4cfc-be26-279bf438a4c0",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 1,
+      "opponentStrength": 64,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7
+    },
+    {
       "matchId": "irgcr07fmqxonfpt",
       "playedAt": "2026-06-28T11:11:42.905Z",
       "opponentSlug": "spc",
