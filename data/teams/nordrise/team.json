@@ -48,6 +48,98 @@
   "publishedAt": "2026-06-26T21:36:33.811Z",
   "recentMatches": [
     {
+      "matchId": "fmbgey0emqvcmc3w",
+      "playedAt": "2026-06-28T10:51:31.062Z",
+      "opponentSlug": "roumanie",
+      "opponentName": "Roumanie",
+      "homeTeamId": "e601e0d9-7e45-4c53-bb41-16ccd12e9a06",
+      "awayTeamId": "63b3d538-b5f5-44d0-83b4-5d23d3cbcb22",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 5.7,
+      "scorers": [
+        {
+          "minute": 55,
+          "playerId": "af177f14-2a44-4eca-90a0-b6744bd4af2c",
+          "playerName": "Juhani Mäkelä",
+          "assistId": "68f72a75-0d4b-446a-95be-1a0b948b8205",
+          "assistName": "Ilkka Ikonen"
+        },
+        {
+          "minute": 75,
+          "playerId": "8a3332c4-97fc-43d6-91ce-912933550e53",
+          "playerName": "Paavo Väisänen"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 10,
+          "playerId": "af177f14-2a44-4eca-90a0-b6744bd4af2c",
+          "playerName": "Juhani Mäkelä",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "ftdybejhmqvcmc3w",
+      "playedAt": "2026-06-28T10:46:26.082Z",
+      "opponentSlug": "rpdo",
+      "opponentName": "RPDO",
+      "homeTeamId": "e601e0d9-7e45-4c53-bb41-16ccd12e9a06",
+      "awayTeamId": "3b7016ec-ba5d-4b54-9f1f-95d2e3ff84bf",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 5.7,
+      "scorers": [
+        {
+          "minute": 37,
+          "playerId": "68f72a75-0d4b-446a-95be-1a0b948b8205",
+          "playerName": "Ilkka Ikonen"
+        }
+      ]
+    },
+    {
+      "matchId": "b32joucymqvcmc3w",
+      "playedAt": "2026-06-28T10:40:20.766Z",
+      "opponentSlug": "cedre",
+      "opponentName": "Cèdre",
+      "homeTeamId": "e601e0d9-7e45-4c53-bb41-16ccd12e9a06",
+      "awayTeamId": "292037a2-3b7a-40e7-b9fa-37a11d157341",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 4,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.2,
+      "scorers": [
+        {
+          "minute": 41,
+          "playerId": "68f72a75-0d4b-446a-95be-1a0b948b8205",
+          "playerName": "Ilkka Ikonen"
+        },
+        {
+          "minute": 47,
+          "playerId": "af177f14-2a44-4eca-90a0-b6744bd4af2c",
+          "playerName": "Juhani Mäkelä"
+        }
+      ]
+    },
+    {
       "matchId": "k77zwpkpmqvcmc3w",
       "playedAt": "2026-06-27T20:13:41.296Z",
       "opponentSlug": "texas",
