@@ -222,6 +222,131 @@
   "activeTacticId": "cea688e4-4263-4d8a-b859-eedfe2f31c41",
   "recentMatches": [
     {
+      "matchId": "hzbl8dbjmqvcmc3w",
+      "playedAt": "2026-06-28T10:51:31.069Z",
+      "opponentSlug": "grande-bretagne",
+      "opponentName": "Grande-Bretagne",
+      "homeTeamId": "9a7b1eb4-ac4c-4bbd-9990-650d7754a955",
+      "awayTeamId": "6c4e5ecf-662a-43d5-9795-b038fe6e2072",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17,
+      "scorers": [
+        {
+          "minute": 3,
+          "playerId": "350b2fe9-291e-4271-a852-a061784deeda",
+          "playerName": "Inese Jansons",
+          "assistId": "3c4665d8-66af-459e-942e-d0d67cf26412",
+          "assistName": "Rolands Balodis"
+        }
+      ]
+    },
+    {
+      "matchId": "6cmqav1jmqvcmc3w",
+      "playedAt": "2026-06-28T10:46:26.086Z",
+      "opponentSlug": "mapuche",
+      "opponentName": "Mapuche",
+      "homeTeamId": "0779ee45-e790-4ff2-901b-ba22bd8b4d83",
+      "awayTeamId": "6c4e5ecf-662a-43d5-9795-b038fe6e2072",
+      "homeAway": "away",
+      "scoreFor": 7,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 18,
+      "scorers": [
+        {
+          "minute": 22,
+          "playerId": "ad17b3d4-b7cc-4e7f-ad90-c952e017613f",
+          "playerName": "Elīna Zariņš"
+        },
+        {
+          "minute": 33,
+          "playerId": "9e097b78-7d82-4de8-be52-255472133750",
+          "playerName": "Mārtiņš Lācis"
+        },
+        {
+          "minute": 48,
+          "playerId": "ad17b3d4-b7cc-4e7f-ad90-c952e017613f",
+          "playerName": "Elīna Zariņš",
+          "assistId": "341e0373-5485-494d-a425-c275b2cfa390",
+          "assistName": "Normunds Jansons"
+        },
+        {
+          "minute": 62,
+          "playerId": "9e097b78-7d82-4de8-be52-255472133750",
+          "playerName": "Mārtiņš Lācis"
+        },
+        {
+          "minute": 73,
+          "playerId": "9e097b78-7d82-4de8-be52-255472133750",
+          "playerName": "Mārtiņš Lācis"
+        },
+        {
+          "minute": 77,
+          "playerId": "ad17b3d4-b7cc-4e7f-ad90-c952e017613f",
+          "playerName": "Elīna Zariņš"
+        },
+        {
+          "minute": 84,
+          "playerId": "9e097b78-7d82-4de8-be52-255472133750",
+          "playerName": "Mārtiņš Lācis",
+          "assistId": "3c4665d8-66af-459e-942e-d0d67cf26412",
+          "assistName": "Rolands Balodis"
+        }
+      ]
+    },
+    {
+      "matchId": "rumcf9ebmqvcmc3w",
+      "playedAt": "2026-06-28T10:38:02.746Z",
+      "opponentSlug": "osmanide",
+      "opponentName": "Osmanide",
+      "homeTeamId": "31dbe023-a8f1-4325-9813-afa3d8e217fa",
+      "awayTeamId": "6c4e5ecf-662a-43d5-9795-b038fe6e2072",
+      "homeAway": "away",
+      "scoreFor": 4,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 18,
+      "scorers": [
+        {
+          "minute": 22,
+          "playerId": "ad17b3d4-b7cc-4e7f-ad90-c952e017613f",
+          "playerName": "Elīna Zariņš"
+        },
+        {
+          "minute": 34,
+          "playerId": "ad17b3d4-b7cc-4e7f-ad90-c952e017613f",
+          "playerName": "Elīna Zariņš"
+        },
+        {
+          "minute": 48,
+          "playerId": "9e097b78-7d82-4de8-be52-255472133750",
+          "playerName": "Mārtiņš Lācis",
+          "assistId": "ad17b3d4-b7cc-4e7f-ad90-c952e017613f",
+          "assistName": "Elīna Zariņš"
+        },
+        {
+          "minute": 51,
+          "playerId": "8e3974f2-ad78-4d66-bb64-9774c8779854",
+          "playerName": "Reinis Upenieks"
+        }
+      ]
+    },
+    {
       "matchId": "inqndapcmqwvirdm",
       "playedAt": "2026-06-27T21:35:50.042Z",
       "opponentSlug": "spc",
