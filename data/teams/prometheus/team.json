@@ -286,6 +286,206 @@
   "suspensions": [],
   "recentMatches": [
     {
+      "matchId": "zbg631odmqxpccxs",
+      "playedAt": "2026-06-28T11:30:34.018Z",
+      "opponentSlug": "yamatai",
+      "opponentName": "Yamatai",
+      "homeTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "awayTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 2,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 35,
+          "playerId": "4d38741c-7eaa-48e6-9239-632e339aa1cc",
+          "playerName": "Kirill Davydov",
+          "assistId": "688b0471-9199-4c65-9d73-a408fa96f582",
+          "assistName": "Eldar Antonov"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 9,
+          "playerId": "583bc92f-9710-4786-99b3-cde0063bc207",
+          "playerName": "Boris Frolov",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "ns0nzdn5mqxpccxs",
+      "playedAt": "2026-06-28T11:29:52.177Z",
+      "opponentSlug": "ugp",
+      "opponentName": "UGP",
+      "homeTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "awayTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 2,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -0.7,
+      "scorers": [
+        {
+          "minute": 94,
+          "playerId": "4d38741c-7eaa-48e6-9239-632e339aa1cc",
+          "playerName": "Kirill Davydov"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 5,
+          "playerId": "8de90201-5f15-4595-9340-e7f4d0c7c845",
+          "playerName": "Roman Borisov",
+          "type": "yellow"
+        },
+        {
+          "minute": 69,
+          "playerId": "e5199025-f3b7-41f4-a7af-f5a483925d1a",
+          "playerName": "Roman Markov",
+          "type": "yellow"
+        },
+        {
+          "minute": 80,
+          "playerId": "688b0471-9199-4c65-9d73-a408fa96f582",
+          "playerName": "Eldar Antonov",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "f0eu1f8kmqxpccxs",
+      "playedAt": "2026-06-28T11:29:12.816Z",
+      "opponentSlug": "uda",
+      "opponentName": "UDA",
+      "homeTeamId": "6f3d1170-2f22-4f74-905b-8cbb55058954",
+      "awayTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 0,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.6,
+      "scorers": [
+        {
+          "minute": 52,
+          "playerId": "4d38741c-7eaa-48e6-9239-632e339aa1cc",
+          "playerName": "Kirill Davydov"
+        },
+        {
+          "minute": 58,
+          "playerId": "b57ca962-753d-4797-bf41-a7b0fa40ae61",
+          "playerName": "Roman Tsvetkov"
+        }
+      ]
+    },
+    {
+      "matchId": "gxkj7scemqxpccxs",
+      "playedAt": "2026-06-28T11:28:02.044Z",
+      "opponentSlug": "ugp",
+      "opponentName": "UGP",
+      "homeTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "awayTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 0,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 0.7,
+      "cards": [
+        {
+          "minute": 3,
+          "playerId": "72a76262-a1b2-4ef9-bb84-7bc100cf3199",
+          "playerName": "Eldar Romanov",
+          "type": "yellow"
+        },
+        {
+          "minute": 81,
+          "playerId": "688b0471-9199-4c65-9d73-a408fa96f582",
+          "playerName": "Eldar Antonov",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "d6x3h3e1mqxpccxs",
+      "playedAt": "2026-06-28T11:26:39.364Z",
+      "opponentSlug": "germanie",
+      "opponentName": "Germanie",
+      "homeTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "awayTeamId": "6377412c-0d4c-47e7-ba24-52745e83cfaa",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 1,
+      "opponentStrength": 62,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2,
+      "scorers": [
+        {
+          "minute": 65,
+          "playerId": "83d77c6f-a467-4aac-a746-fb82f51b6195",
+          "playerName": "Ruslan Kuznetsov"
+        },
+        {
+          "minute": 92,
+          "playerId": "b57ca962-753d-4797-bf41-a7b0fa40ae61",
+          "playerName": "Roman Tsvetkov",
+          "assistId": "1e0470a8-b280-4175-a997-fa49568f8830",
+          "assistName": "Stanislav Novikov"
+        }
+      ]
+    },
+    {
+      "matchId": "lj4ggb74mqxpccxs",
+      "playedAt": "2026-06-28T11:25:42.068Z",
+      "opponentSlug": "republique-de-chine",
+      "opponentName": "République de Chine",
+      "homeTeamId": "69b55842-3c2d-4eaa-b133-7dc8c90bcfff",
+      "awayTeamId": "26d478fb-1a60-4af1-98ce-e5cdfa10facd",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2,
+      "scorers": [
+        {
+          "minute": 3,
+          "playerId": "83d77c6f-a467-4aac-a746-fb82f51b6195",
+          "playerName": "Ruslan Kuznetsov",
+          "assistId": "da579017-cf8b-482c-b9d5-ec411cd825ff",
+          "assistName": "Mikhail Ivanov"
+        },
+        {
+          "minute": 48,
+          "playerId": "60342249-23bb-4564-9620-91c2a141b9ad",
+          "playerName": "Pyotr Stepanov"
+        }
+      ]
+    },
+    {
       "matchId": "opwjy2asmqxonfpt",
       "playedAt": "2026-06-28T11:13:17.066Z",
       "opponentSlug": "ccb",
