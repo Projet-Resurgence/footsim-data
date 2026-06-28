@@ -47,6 +47,105 @@
   "publishedAt": "2026-06-25T13:07:40.274Z",
   "recentMatches": [
     {
+      "matchId": "fmbgey0emqvcmc3w",
+      "playedAt": "2026-06-28T10:51:31.062Z",
+      "opponentSlug": "nordrise",
+      "opponentName": "Nordrise",
+      "homeTeamId": "e601e0d9-7e45-4c53-bb41-16ccd12e9a06",
+      "awayTeamId": "63b3d538-b5f5-44d0-83b4-5d23d3cbcb22",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 5.7,
+      "scorers": [
+        {
+          "minute": 13,
+          "playerId": "71238cab-9618-4b76-bfce-f77bb61f76d0",
+          "playerName": "Dan Coman"
+        },
+        {
+          "minute": 68,
+          "playerId": "71238cab-9618-4b76-bfce-f77bb61f76d0",
+          "playerName": "Dan Coman"
+        }
+      ]
+    },
+    {
+      "matchId": "j269fytwmqvcmc3w",
+      "playedAt": "2026-06-28T10:46:26.083Z",
+      "opponentSlug": "fclc",
+      "opponentName": "FCLC",
+      "homeTeamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "awayTeamId": "63b3d538-b5f5-44d0-83b4-5d23d3cbcb22",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 4,
+      "opponentStrength": 61,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.2,
+      "scorers": [
+        {
+          "minute": 27,
+          "playerId": "71238cab-9618-4b76-bfce-f77bb61f76d0",
+          "playerName": "Dan Coman"
+        },
+        {
+          "minute": 88,
+          "playerId": "2cb2ff26-078d-4674-b391-b027726b8cb9",
+          "playerName": "Roman Marin",
+          "assistId": "274e21f7-4736-42d5-bab2-aec0e44a9617",
+          "assistName": "Gabriel Stan"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 38,
+          "playerId": "0afcbd56-618e-4b71-9f94-86833948c516",
+          "playerName": "Ștefan Matei",
+          "type": "yellow"
+        },
+        {
+          "minute": 49,
+          "playerId": "009204bd-f7d9-4b55-a201-1fff1ad43959",
+          "playerName": "Petre Anghel",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "5la1z9rfmqvcmc3w",
+      "playedAt": "2026-06-28T10:40:20.769Z",
+      "opponentSlug": "castille",
+      "opponentName": "Castille",
+      "homeTeamId": "55c94018-aa17-477e-86d3-722caf57df20",
+      "awayTeamId": "63b3d538-b5f5-44d0-83b4-5d23d3cbcb22",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 5,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -7.7,
+      "cards": [
+        {
+          "minute": 36,
+          "playerId": "598ade9c-cbff-46bc-af38-6f1b2d353c17",
+          "playerName": "Răzvan Iancu",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "lo8mu7lxmqvcmc3w",
       "playedAt": "2026-06-27T20:13:41.301Z",
       "opponentSlug": "grande-bretagne",
