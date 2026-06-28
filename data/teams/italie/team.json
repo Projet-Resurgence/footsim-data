@@ -194,6 +194,235 @@
   ],
   "recentMatches": [
     {
+      "matchId": "jbx8isdzmqxpccxs",
+      "playedAt": "2026-06-28T11:30:34.014Z",
+      "opponentSlug": "ugp",
+      "opponentName": "UGP",
+      "homeTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "awayTeamId": "110159bd-411c-409a-ba07-95216b092ba4",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 1,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.1,
+      "scorers": [
+        {
+          "minute": 18,
+          "playerId": "e21eba70-7de4-45dc-8bf5-952b0aede9ee",
+          "playerName": "Luca Grasso",
+          "assistId": "f38ac7a8-6588-434f-a9d6-5dd503c1dc44",
+          "assistName": "Giuseppe Costa"
+        },
+        {
+          "minute": 90,
+          "playerId": "e21eba70-7de4-45dc-8bf5-952b0aede9ee",
+          "playerName": "Luca Grasso",
+          "assistId": "9adf7857-617e-441c-bd7b-8b06912b9e7b",
+          "assistName": "Marco Sala"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 43,
+          "playerId": "e21eba70-7de4-45dc-8bf5-952b0aede9ee",
+          "playerName": "Luca Grasso",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "h941bls1mqxpccxs",
+      "playedAt": "2026-06-28T11:29:52.175Z",
+      "opponentSlug": "yamatai",
+      "opponentName": "Yamatai",
+      "homeTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "awayTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "homeAway": "away",
+      "scoreFor": 4,
+      "scoreAgainst": 1,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.6,
+      "scorers": [
+        {
+          "minute": 39,
+          "playerId": "6279380c-2ca6-4327-aabb-c1c3dbcf92f8",
+          "playerName": "Vincenzo Cattaneo",
+          "assistId": "e8644752-37fd-43c3-925c-19dfa4e77373",
+          "assistName": "Fabrizio Martini"
+        },
+        {
+          "minute": 46,
+          "playerId": "e8644752-37fd-43c3-925c-19dfa4e77373",
+          "playerName": "Fabrizio Martini",
+          "assistId": "f38ac7a8-6588-434f-a9d6-5dd503c1dc44",
+          "assistName": "Giuseppe Costa"
+        },
+        {
+          "minute": 67,
+          "playerId": "e8644752-37fd-43c3-925c-19dfa4e77373",
+          "playerName": "Fabrizio Martini",
+          "assistId": "1112f785-5cf3-4def-9832-f90b8f5faed5",
+          "assistName": "Alessandro Mariani"
+        },
+        {
+          "minute": 70,
+          "playerId": "e8644752-37fd-43c3-925c-19dfa4e77373",
+          "playerName": "Fabrizio Martini"
+        }
+      ]
+    },
+    {
+      "matchId": "gymoklk7mqxpccxs",
+      "playedAt": "2026-06-28T11:29:12.814Z",
+      "opponentSlug": "empire-hussein",
+      "opponentName": "Empire Hussein",
+      "homeTeamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
+      "awayTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "homeAway": "away",
+      "scoreFor": 5,
+      "scoreAgainst": 0,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 3.1,
+      "scorers": [
+        {
+          "minute": 5,
+          "playerId": "6279380c-2ca6-4327-aabb-c1c3dbcf92f8",
+          "playerName": "Vincenzo Cattaneo",
+          "assistId": "5f427fb1-e23a-453a-acf7-a4e8a7aa8db0",
+          "assistName": "Pietro Ferrara"
+        },
+        {
+          "minute": 41,
+          "playerId": "1112f785-5cf3-4def-9832-f90b8f5faed5",
+          "playerName": "Alessandro Mariani"
+        },
+        {
+          "minute": 42,
+          "playerId": "e8644752-37fd-43c3-925c-19dfa4e77373",
+          "playerName": "Fabrizio Martini"
+        },
+        {
+          "minute": 83,
+          "playerId": "e8644752-37fd-43c3-925c-19dfa4e77373",
+          "playerName": "Fabrizio Martini"
+        },
+        {
+          "minute": 96,
+          "playerId": "e21eba70-7de4-45dc-8bf5-952b0aede9ee",
+          "playerName": "Luca Grasso"
+        }
+      ]
+    },
+    {
+      "matchId": "8kcge36smqxpccxs",
+      "playedAt": "2026-06-28T11:28:02.039Z",
+      "opponentSlug": "yamatai",
+      "opponentName": "Yamatai",
+      "homeTeamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
+      "awayTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 1,
+      "opponentStrength": 65,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 0.7,
+      "scorers": [
+        {
+          "minute": 76,
+          "playerId": "cff29621-0d97-4df2-8eda-e5794b15e4e0",
+          "playerName": "Franco Barbieri",
+          "assistId": "e8644752-37fd-43c3-925c-19dfa4e77373",
+          "assistName": "Fabrizio Martini"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 87,
+          "playerId": "77b41aa4-9124-493b-979c-2cf608e62882",
+          "playerName": "Stefano Messina",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "dkg69keomqxpccxs",
+      "playedAt": "2026-06-28T11:26:39.361Z",
+      "opponentSlug": "nouvelle-californie",
+      "opponentName": "Nouvelle Californie",
+      "homeTeamId": "8893e441-b5b6-49ea-b439-9c327b38d7c5",
+      "awayTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "homeAway": "away",
+      "scoreFor": 2,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2.5,
+      "scorers": [
+        {
+          "minute": 22,
+          "playerId": "e8644752-37fd-43c3-925c-19dfa4e77373",
+          "playerName": "Fabrizio Martini"
+        },
+        {
+          "minute": 56,
+          "playerId": "cff29621-0d97-4df2-8eda-e5794b15e4e0",
+          "playerName": "Franco Barbieri",
+          "assistId": "e8644752-37fd-43c3-925c-19dfa4e77373",
+          "assistName": "Fabrizio Martini"
+        }
+      ]
+    },
+    {
+      "matchId": "ppawnp6xmqxpccxs",
+      "playedAt": "2026-06-28T11:25:42.063Z",
+      "opponentSlug": "texas",
+      "opponentName": "Texas",
+      "homeTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "awayTeamId": "0cf5d3c2-39e2-4cfc-be26-279bf438a4c0",
+      "homeAway": "home",
+      "scoreFor": 1,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2,
+      "scorers": [
+        {
+          "minute": 37,
+          "playerId": "6279380c-2ca6-4327-aabb-c1c3dbcf92f8",
+          "playerName": "Vincenzo Cattaneo"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 39,
+          "playerId": "e21eba70-7de4-45dc-8bf5-952b0aede9ee",
+          "playerName": "Luca Grasso",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "r8qsn5npmqxonfpt",
       "playedAt": "2026-06-28T11:15:25.066Z",
       "opponentSlug": "uda",
