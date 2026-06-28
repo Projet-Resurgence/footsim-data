@@ -44,6 +44,113 @@
   "publishedAt": "2026-06-21T13:42:54.712Z",
   "recentMatches": [
     {
+      "matchId": "qxsniz2imqvcmc3w",
+      "playedAt": "2026-06-28T10:51:31.060Z",
+      "opponentSlug": "ccb",
+      "opponentName": "CCB",
+      "homeTeamId": "a3427d5b-8081-4363-a9fd-1ac7de7e9144",
+      "awayTeamId": "45002df1-cafe-4c04-814c-660868b56d95",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 1,
+      "opponentStrength": 61,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -5.7,
+      "cards": [
+        {
+          "minute": 4,
+          "playerId": "0ff35ab7-a296-4c5b-9007-6b185fcea3a0",
+          "playerName": "Ishaan Reddy",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "p02d1ze9mqvcmc3w",
+      "playedAt": "2026-06-28T10:46:26.081Z",
+      "opponentSlug": "royaume-d-asha",
+      "opponentName": "Royaume d'Asha",
+      "homeTeamId": "a3427d5b-8081-4363-a9fd-1ac7de7e9144",
+      "awayTeamId": "df16509b-c6c2-43ce-abae-7c077e85ba22",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 3,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": -6.7,
+      "cards": [
+        {
+          "minute": 2,
+          "playerId": "6581e334-8bee-4a12-ad57-e25ad9b61aac",
+          "playerName": "Rajan Dubey",
+          "type": "yellow"
+        },
+        {
+          "minute": 20,
+          "playerId": "6581e334-8bee-4a12-ad57-e25ad9b61aac",
+          "playerName": "Rajan Dubey",
+          "type": "red"
+        }
+      ]
+    },
+    {
+      "matchId": "i9jvnm3wmqvcmc3w",
+      "playedAt": "2026-06-28T10:40:20.765Z",
+      "opponentSlug": "voivodine",
+      "opponentName": "Voïvodine",
+      "homeTeamId": "a3427d5b-8081-4363-a9fd-1ac7de7e9144",
+      "awayTeamId": "28274f9a-bff0-42da-ac99-a6e3a9812a34",
+      "homeAway": "home",
+      "scoreFor": 4,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.5,
+      "scorers": [
+        {
+          "minute": 5,
+          "playerId": "6581e334-8bee-4a12-ad57-e25ad9b61aac",
+          "playerName": "Rajan Dubey"
+        },
+        {
+          "minute": 43,
+          "playerId": "1bd9d605-0164-4a5a-9d14-a2816182c773",
+          "playerName": "Ravi Sharma"
+        },
+        {
+          "minute": 58,
+          "playerId": "ee6107ab-aec5-4a7e-9259-a75b3aeea6a7",
+          "playerName": "Rahul Upadhyay",
+          "assistId": "bf26385c-2cd5-461a-9e37-60fc17b3e6c5",
+          "assistName": "Dinesh Mishra"
+        },
+        {
+          "minute": 82,
+          "playerId": "6198d211-4ab8-4337-ac2f-3acbf740a04b",
+          "playerName": "Ishan Khan",
+          "assistId": "bf26385c-2cd5-461a-9e37-60fc17b3e6c5",
+          "assistName": "Dinesh Mishra"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 70,
+          "playerId": "611e079f-c6f2-4c5e-9bcf-bc261d22fc3f",
+          "playerName": "Sachin Yadav",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
       "matchId": "s6aym1yxmqvcmc3w",
       "playedAt": "2026-06-27T20:13:41.295Z",
       "opponentSlug": "nova-orbis",
