@@ -212,6 +212,107 @@
   },
   "recentMatches": [
     {
+      "matchId": "eu1q1zxamqxpppwr",
+      "playedAt": "2026-06-28T11:41:12.994Z",
+      "opponentSlug": "italie",
+      "opponentName": "Italie",
+      "homeTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "awayTeamId": "d03fc060-b23b-4a41-9c1f-248b931809e1",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 5,
+      "opponentStrength": 64,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": -2.7,
+      "cards": [
+        {
+          "minute": 35,
+          "playerId": "0dd0b1a4-1bd3-491b-bdb5-2104eac0b7e4",
+          "playerName": "Finn Parker",
+          "type": "red"
+        }
+      ]
+    },
+    {
+      "matchId": "3m8kmf9dmqxpppwr",
+      "playedAt": "2026-06-28T11:40:00.727Z",
+      "opponentSlug": "livonie",
+      "opponentName": "Livonie",
+      "homeTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "awayTeamId": "6c4e5ecf-662a-43d5-9795-b038fe6e2072",
+      "homeAway": "home",
+      "scoreFor": 4,
+      "scoreAgainst": 3,
+      "opponentStrength": 62,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2,
+      "scorers": [
+        {
+          "minute": 11,
+          "playerId": "470e4f61-dc93-4005-92a5-7dc9ed642d61",
+          "playerName": "Jackson Campbell"
+        },
+        {
+          "minute": 27,
+          "playerId": "51734e56-6364-48ce-aa7b-470b5a778a0b",
+          "playerName": "Nathan Baker",
+          "assistId": "60812871-655a-4d99-8cf6-b47be478b3d2",
+          "assistName": "Austin Thomas"
+        },
+        {
+          "minute": 73,
+          "playerId": "470e4f61-dc93-4005-92a5-7dc9ed642d61",
+          "playerName": "Jackson Campbell",
+          "assistId": "60812871-655a-4d99-8cf6-b47be478b3d2",
+          "assistName": "Austin Thomas"
+        },
+        {
+          "minute": 96,
+          "playerId": "51734e56-6364-48ce-aa7b-470b5a778a0b",
+          "playerName": "Nathan Baker",
+          "assistId": "fe059e20-aea8-47a4-b870-d7be575af230",
+          "assistName": "Ryan Martin"
+        }
+      ]
+    },
+    {
+      "matchId": "9j6i4gvqmqxpppwr",
+      "playedAt": "2026-06-28T11:38:37.153Z",
+      "opponentSlug": "rpdo",
+      "opponentName": "RPDO",
+      "homeTeamId": "e5af0153-73d2-40eb-b1d4-c45e9f53df07",
+      "awayTeamId": "3b7016ec-ba5d-4b54-9f1f-95d2e3ff84bf",
+      "homeAway": "home",
+      "scoreFor": 2,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "amicale",
+      "compScope": "internationale",
+      "compImportance": "mineur",
+      "participantCount": 16,
+      "cmfPoints": 2,
+      "scorers": [
+        {
+          "minute": 19,
+          "playerId": "262568b4-1d7b-48fe-8f03-1bf32a4e6915",
+          "playerName": "Chase Walker"
+        },
+        {
+          "minute": 81,
+          "playerId": "470e4f61-dc93-4005-92a5-7dc9ed642d61",
+          "playerName": "Jackson Campbell",
+          "assistId": "60812871-655a-4d99-8cf6-b47be478b3d2",
+          "assistName": "Austin Thomas"
+        }
+      ]
+    },
+    {
       "matchId": "oejw45g9mqxpccxs",
       "playedAt": "2026-06-28T11:28:02.042Z",
       "opponentSlug": "empire-hussein",
