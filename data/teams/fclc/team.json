@@ -11,6 +11,138 @@
   "formation": "4-3-3",
   "recentMatches": [
     {
+      "matchId": "nqm117ppmqvcmc3w",
+      "playedAt": "2026-06-28T10:50:03.021Z",
+      "opponentSlug": "5eme-internationale",
+      "opponentName": "5ème Internationale",
+      "homeTeamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "awayTeamId": "da633c6d-88ad-40f5-9ab5-6437d77c3797",
+      "homeAway": "home",
+      "scoreFor": 3,
+      "scoreAgainst": 0,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.5,
+      "scorers": [
+        {
+          "minute": 8,
+          "playerId": "5f32168a-14df-4d52-a989-1b39439b3517",
+          "playerName": "Jhon Torres"
+        },
+        {
+          "minute": 51,
+          "playerId": "0cde6afa-5371-4d50-84b0-42c5dce8e58c",
+          "playerName": "Ricot Moise",
+          "assistId": "d1f33281-0c4a-44f2-8485-bd164cce0749",
+          "assistName": "Barry Grant"
+        },
+        {
+          "minute": 88,
+          "playerId": "5f32168a-14df-4d52-a989-1b39439b3517",
+          "playerName": "Jhon Torres",
+          "assistId": "34913eb7-c685-47f4-9276-331f470037f2",
+          "assistName": "Joevin Morris"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 66,
+          "playerId": "e87a5851-81ce-485c-83fe-194209656715",
+          "playerName": "Julián Cárdenas",
+          "type": "yellow"
+        }
+      ]
+    },
+    {
+      "matchId": "j269fytwmqvcmc3w",
+      "playedAt": "2026-06-28T10:46:26.083Z",
+      "opponentSlug": "roumanie",
+      "opponentName": "Roumanie",
+      "homeTeamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "awayTeamId": "63b3d538-b5f5-44d0-83b4-5d23d3cbcb22",
+      "homeAway": "home",
+      "scoreFor": 4,
+      "scoreAgainst": 2,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.5,
+      "scorers": [
+        {
+          "minute": 7,
+          "playerId": "e6f510db-f16b-483f-9f1f-d671bff0ccd5",
+          "playerName": "Ramón Herrera",
+          "assistId": "d1f33281-0c4a-44f2-8485-bd164cce0749",
+          "assistName": "Barry Grant"
+        },
+        {
+          "minute": 17,
+          "playerId": "154edfa8-6176-460e-bc7d-9264ee047feb",
+          "playerName": "José Delgado",
+          "assistId": "e6f510db-f16b-483f-9f1f-d671bff0ccd5",
+          "assistName": "Ramón Herrera"
+        },
+        {
+          "minute": 21,
+          "playerId": "5f32168a-14df-4d52-a989-1b39439b3517",
+          "playerName": "Jhon Torres"
+        },
+        {
+          "minute": 28,
+          "playerId": "5f32168a-14df-4d52-a989-1b39439b3517",
+          "playerName": "Jhon Torres",
+          "assistId": "aca08af0-9097-4f69-99df-b10b11993d02",
+          "assistName": "Tomás Martínez"
+        }
+      ]
+    },
+    {
+      "matchId": "506w2tgvmqvcmc3w",
+      "playedAt": "2026-06-28T10:40:20.767Z",
+      "opponentSlug": "rpdo",
+      "opponentName": "RPDO",
+      "homeTeamId": "4050e7b8-0b32-4225-b936-2947890e501c",
+      "awayTeamId": "3b7016ec-ba5d-4b54-9f1f-95d2e3ff84bf",
+      "homeAway": "home",
+      "scoreFor": 4,
+      "scoreAgainst": 1,
+      "opponentStrength": 60,
+      "compKind": "officielle",
+      "compScope": "internationale",
+      "compImportance": "prestige",
+      "participantCount": 48,
+      "cmfPoints": 17.5,
+      "scorers": [
+        {
+          "minute": 49,
+          "playerId": "154edfa8-6176-460e-bc7d-9264ee047feb",
+          "playerName": "José Delgado"
+        },
+        {
+          "minute": 52,
+          "playerId": "5f32168a-14df-4d52-a989-1b39439b3517",
+          "playerName": "Jhon Torres"
+        },
+        {
+          "minute": 54,
+          "playerId": "34913eb7-c685-47f4-9276-331f470037f2",
+          "playerName": "Joevin Morris"
+        },
+        {
+          "minute": 58,
+          "playerId": "5f32168a-14df-4d52-a989-1b39439b3517",
+          "playerName": "Jhon Torres",
+          "assistId": "d1f33281-0c4a-44f2-8485-bd164cce0749",
+          "assistName": "Barry Grant"
+        }
+      ]
+    },
+    {
       "matchId": "h7w44dwomqwu11n7",
       "playedAt": "2026-06-27T20:56:59.068Z",
       "opponentSlug": "ccb",
